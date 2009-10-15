@@ -37,14 +37,15 @@ PLEASE DO NOT CHANGE THE CAPITAL'S NAME! Per talkpage, we currently use Pristina
 |population_density_km2   = 220
 |population_density_sq_mi = 500
 | GDP_PPP_year             = 2007
-| GDP_PPP                  = $4 billion (CIA World factbook)
-| GDP_PPP_per_capita       = $1,800 $
-| GDP_PPP_per_capita_rank  = 
-| GDP_Nominal_year         = 2007
-| GDP_Nominal              = 
-| GDP_Nominal_rank         = 
-| GDP_Nominal_per_capita   = 
-| GDP_Nominal_per_capita_rank  = 
+| GDP_PPP                  = $4 billion&lt;ref name=&quot;CIAKosovo&quot;&gt;[https://www.cia.gov/library/publications/the-world-factbook/geos/kv.html CIA - The World Factbook - Kosovo], updated on [[March 20]] [[2008]], accessed on [[April 5]] [[2008]].&lt;/ref&gt;
+| GDP_PPP_rank                  = N/A
+| GDP_PPP_per_capita       = $1,800&lt;ref name=&quot;CIAKosovo&quot;/&gt;
+| GDP_PPP_per_capita_rank  = 151st
+| GDP_nominal_year         = 2007
+| GDP_nominal              = $3.237 billion&lt;ref name=&quot;CIAKosovo&quot;/&gt;
+| GDP_nominal_rank         = N/A
+| GDP_nominal_per_capita   = $1,500&lt;ref name=&quot;CIAKosovo&quot;/&gt;
+| GDP_nominal_per_capita_rank  = 119th
 |time_zone                = [[Central European Time|CET]]
 |utc_offset               = +1
 |time_zone_DST            = [[Central European Summer Time|CEST]]
