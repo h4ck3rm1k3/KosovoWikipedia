@@ -317,17 +317,20 @@ Federations that have not yet gained international recognition:
 * {{wikitravel}}
 
 {{Template group
-|title = Geographic locale
+|title = [[Image:Nuvola apps package network.png|23px]] Geographic national
 |list  =
 {{Kosovo}}
-}}
 {{Municipalities of the Republic of Kosovo}}
+}}
 {{Template group
-|title = International membership and history
+|title = [[Image:Crystal Clear app browser.png|23px]] Geographic international
 |list  =
 {{Countries of Europe}}
 {{Central European Free Trade Agreement (CEFTA)}}
 }}
-
+{{Template group
+|title = [[Image:Nuvola apps gaim.png|23px]] Languages
+|list  = 
+}}
 &lt;!--Categories--&gt;
 [[Category:Kosovo| ]]</text>
