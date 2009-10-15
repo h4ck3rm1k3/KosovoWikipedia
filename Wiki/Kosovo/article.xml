@@ -1,10 +1,48 @@
       <text xml:space="preserve">{{otheruses}}
-{{Kosovo-InfoBox}}
-&lt;!-- Please be very careful in editing the introduction of this article. It has been the subject of a lot of discussion on the talk page and has been the target of several revert wars. Please discuss any major changes on the talk page first. --&gt;
+{| class=&quot;infobox bordered&quot; style=&quot;width: 250px; font-size: 95%; float: right;&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot;
+|-
+| style=&quot;text-align: center;&quot; colspan=&quot;2&quot; |
+&lt;big&gt;'''Kosovo'''&lt;br&gt;'''Kosovë/Kosova'''&lt;br&gt;'''Косово и Метохија'''&lt;/big&gt;
+|- style=&quot;border-top: 2px solid gray;&quot;
+| align=center | [[Image:Kosovo position within Serbia.PNG|110px|Map showing Kosovo within Serbia]]
+| {{Serbia 2}}
+|-
+| style=&quot;text-align: center;&quot; colspan=&quot;2&quot; | [[Image:The position of Kosovo within Serbia.PNG]] 
+&lt;small&gt;The location of Kosovo in Serbia and Europe.&lt;/small&gt;
+|-
+| [[Official language]]s
+| [[Albanian language|Albanian]], [[Serbian language|Serbian]]
+|-
+| [[Capital]]
+| [[Priština|Prishtinë / Priština]]
+|-
+| [[President of Kosovo]]
+| [[Fatmir Sejdiu]]
+|-
+| [[Prime Minister of Kosovo]]
+| [[Agim Çeku]]
+|-
+| [[Area]]&lt;br/&gt;&amp;nbsp;&amp;ndash; Total&lt;br/&gt;&lt;br/&gt;&amp;nbsp;&amp;ndash; % water
+| &lt;br/&gt;&amp;nbsp;[[1 E10 m²|10,912]] km²&lt;br/&gt;&amp;nbsp;4,213&amp;nbsp;[[square mile|sq.&amp;nbsp;mi]]&lt;br/&gt;&amp;nbsp;n/a
+|-
+| valign=top | [[Population]]&lt;br/&gt;&amp;nbsp;&amp;ndash; Total ([[2003]])&lt;br/&gt;&amp;nbsp;&amp;ndash; [[Population density|Density]]&lt;br/&gt;
+| &lt;br/&gt;&amp;nbsp;2.1 million (est.)&lt;br/&gt;&amp;nbsp;220/km² (approx)&lt;br/&gt;&amp;nbsp;570/sq.&amp;nbsp;mi
+|-
+| valign=top | [[List of ethnic groups|Ethnic groups]]&lt;br/&gt;([[2003]])
+| [[Albanians]]: 87%&lt;br/&gt;[[Serbs]]: 8%&lt;br/&gt;Turks: 1%&lt;br/&gt;Others: 4%
+|-
+| [[Time zone]]
+| [[UTC+1]]
+|-
+| [[Currency]]
+| [[Euro]] (Official) and [[Serbian dinar]] (the latter is used exclusively in Serbian-populated areas)
+|-
+|}
+'''Kosovo''' ([[Albanian language|Albanian]]: ''Kosovë''/''Kosova'', [[Serbian language|Serbian]]: Косово и Метохија/''Kosovo i Metohija'') is one of the two autonomous provinces of [[Serbia]], and is located in the south of the country (the other is [[Vojvodina]], in the north of the country). Kosovo borders [[Montenegro]], [[Albania]] and [[Republic of Macedonia|Macedonia]]. The mountainous province's capital and largest city is [[Priština|Prishtinë/Priština]]. Kosovo has a population of around two million people, predominately ethnic [[Albanians]], with smaller populations of [[Serbs]], [[Turks]], [[Bosniaks]] and other ethnic groups.
 
-'''Kosovo''' ([[Albanian language|Albanian]]: ''Kosovë''/''Kosova'', [[Serbian language|Serbian]]: Косово и Метохија/''Kosovo i Metohija'') is a disputed province in Serbia. It is located in the south of the country, bordering [[Albania]], [[Republic of Macedonia|Macedonia]] and [[Montenegro]]. The mountainous province's capital and largest city is [[Priština|Prishtinë/Priština]]. Kosovo has a population of around two million people, predominately ethnic [[Albanians]], with smaller populations of [[Serbs]], [[Turks]], [[Bosniaks]] and other ethnic groups.
+The province is the subject of a long-running political and territorial dispute between the Serbian (and previously, the [[Yugoslavia|Yugoslav]]) government and Kosovo's majority Albanian population. Kosovo has been under Serbian sovereignty since [[1912]] but since the end of the [[Kosovo War]] in [[1999]] it has been administered by the [[United Nations]] with little direct involvement from the Serbian government.
 
-The province is the subject of a long-running political and territorial dispute between the Serbian (and previously the [[Yugoslavia|Yugoslav]]) government and Kosovo's Albanian population. The province is de jure part of Serbia, but in reality it functions independently of the Slavic state. Since the end of the [[Kosovo War]] in [[1999]] Kosovo has been administered and governed by the [[United Nations Interim Administration Mission in Kosovo|UN Interim Administrative Mission in Kosovo]] (UNMIK) and the democratically elected [[Provisional Institutions of Self-Government]]. Security is maintained by the [[NATO]]-led [[Kosovo Force]] (KFOR) and [[Kosovo Police Service]]. International negotiations began in [[2006]] to determine the final status of Kosovo; it is widely expected that the talks will lead to some form of independence. &lt;ref&gt;&quot;[http://www.economist.com/displaystory.cfm?story_id=4489028 Kosovo's status - the wheels grind on]&quot;, ''The Economist'', October 6, 2005&lt;/ref&gt;
+Kosovo is governed by the [[United Nations Interim Administration Mission in Kosovo|UN Interim Administrative Mission in Kosovo]] (UNMIK) and the locally elected [[Provisional Institutions of Self-Government]]. Security is maintained by the [[NATO]]-led [[Kosovo Force]] (KFOR) and [[Kosovo Police Service]]. International negotiations began in [[2006]] to determine the final status of Kosovo, particularly the issue of sovereignty. (See the [[Kosovo#Politics|politics]] section for more information.)
 
 == Geography ==
 ''For administrative divisions, see [[Municipalities of Kosovo]]''
@@ -311,7 +349,6 @@ Image:Gjakova center.JPG|[[Gjakova]]/[[Đakovica]]
 [[it:Kosovo]]
 [[he:קוסובו ומטוחיה]]
 [[la:Cosovum]]
-[[lv:Kosova]]
 [[lt:Kosovas]]
 [[hu:Koszovó]]
 [[mk:Косово]]
