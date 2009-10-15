@@ -400,7 +400,12 @@ Several sports federations have been formed in Kosovo within the framework of La
 |title = &lt;!--  [[Image:Crystal Clear app browser.png|23px]] --&gt; Geographic international
 |list  =
 {{Countries of Europe}}
-{{Non-sovereign territories of Europe}}
+{{Non-sovereign territories of Europe |expanded=Unrecognized}}
+}}
+{{Template group
+|title = International organizations
+|list  =
+{{European Union candidates}}
 {{Central European Free Trade Agreement (CEFTA)}}
 }}
 
