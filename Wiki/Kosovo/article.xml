@@ -1,5 +1,66 @@
       <text xml:space="preserve">{{otheruses}}{{for|uses of the name &quot;Kosova&quot;|Kosova (disambiguation)}}
-{{Kosovo-InfoBox}}&lt;!--
+{{Infobox Country or territory
+|native_name                 = Косово и Метохија (Космет)&lt;br/&gt;''Kosovë / Kosova''
+|conventional_long_name      = Kosovo
+|common_name                 = Kosovo
+|image_flag                  = 
+|image_coat                  = 
+|image_map                   = Kosovo and part of Serbia.png
+|map_caption                 = Location of Kosovo within [[Serbia]]
+|image_map2                  = The position of Kosovo within Serbia.PNG
+|map_caption2                = Location of Serbia (orange) on the [[Europe|European continent]]
+|national_motto              = 
+|national_anthem             = 
+|official_languages          = [[Albanian language|Albanian]], [[Serbian language|Serbian]], [[English language|English]]
+|ethnic_groups               = 90% [[Albanians]]&lt;br/&gt;{{spaces|2}}8% [[Serbs]]&lt;br/&gt;{{spaces|2}}2% others
+|ethnic_groups_year          = 2003
+|capital                     = [[Priština|Priština (Prishtinë)]]
+|latd= |latm= |latNS= |longd= |longm= |longEW=
+|largest_city                = 
+|government_type             = [[United Nations Interim Administration Mission in Kosovo|UN-administered&amp;nbsp;territory]]
+|leader_title1               = [[President of Kosovo|President]]
+|leader_name1                = [[Fatmir Sejdiu]]
+|leader_title2               = [[Prime Minister of Kosovo|Prime Minister]]
+|leader_name2                = [[Agim Çeku]]
+|sovereignty_type            = Status
+|sovereignty_note            = 
+|established_event1          = Conquered by Serbia
+|established_date1           = 12th century
+|established_event2          = [[Vassal]] of the {{nowrap|[[Ottoman Empire]]}}
+|established_date2           = &lt;br/&gt;16th century
+|established_event3          = Part of the {{nowrap|[[Kingdom of Yugoslavia]]}}{{smallsup|1}}
+|established_date3           = &lt;br/&gt;1929
+|established_event4          = Autonomous Kosovo-Metohian&amp;nbsp;Area
+|established_date4           = &lt;br/&gt;1945
+|established_event5          = Socialist Autonomous Province of Kosovo{{smallsup|2}}
+|established_date5           = &lt;br/&gt;1960s
+|established_event6          = [[United Nations Interim Administration Mission in Kosovo|UN Interim Administration Mission]]
+|established_date6           = &lt;br/&gt;1999
+|area_rank                   = 
+|area_magnitude              = 1 E7
+|area                        = 10,887
+|areami²                     = 4,203
+|percent_water               = n/a
+|population_estimate         = 2 million
+|population_estimate_rank    = 
+|population_estimate_year    = 2003
+|population_census           = 
+|population_census_year      = 
+|population_density          = 220
+|population_densitymi²       = 500
+|population_density_rank     = 
+|currency                    = [[Euro]] (€){{smallsup|3}}
+|currency_code               = EUR
+|time_zone                   = 
+|utc_offset                  = +1
+|time_zone_DST               = 
+|utc_offset_DST              = 
+|cctld                       = 
+|calling_code                = 
+|footnote1                   = Preceded by the [[Kingdom of Serbs, Croats and Slovenians]] in 1918.
+|footnote2                   = Within the Socialist Republic of Serbia, part of [[Socialist Federal Republic of Yugoslavia|SFR Yugoslavia]].
+|footnote3                   = The [[Serbian dinar]] is used in [[Kosovo Serb enclaves|Serbian enclaves]] and some areas of northern Kosovo.
+}}&lt;!--
 
 Please be very careful in editing the introduction of this article. The Arbitration Committee has placed this article on probation. If any editor makes disruptive edits, they may be banned by an administrator from this and related articles, or other reasonably related pages. See the talk page for more information.
 
@@ -348,10 +409,11 @@ Image:Bibloteka Kombëtare e Kosovës.jpg|National Public Library in [[Prishtina
 {{Template group
 |title = International membership and history
 |list  =
+{{Non-sovereign territories of Europe}}
+{{Central European Free Trade Agreement (CEFTA)}}
 {{Republics and autonomous provinces of the former Yugoslavia}}
-{{Dependent and other territories of Europe}}
 }}
-{{CEFTA}}
+
 
 &lt;!--Categories--&gt;
 [[Category:Kosovo| ]]
