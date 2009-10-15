@@ -293,8 +293,7 @@ Image:Kosovo Polje sized.jpg|[[Kosovo Polje]].
 &lt;/gallery&gt;&lt;/center&gt;
 
 == See also ==
-{{columns |width=280px
-|col1 =
+&lt;div style=&quot;-moz-column-count:4; column-count:4;&quot;&gt;
 * [[Assembly of Kosovo]]
 * [[Government of Kosovo]]
 * [[Prime Minister of Kosovo]]
@@ -302,7 +301,6 @@ Image:Kosovo Polje sized.jpg|[[Kosovo Polje]].
 * [[Serbs in Kosovo]]
 * [[Albanians in Kosovo]]
 * [[Post and Telecom of Kosovo]]
-|col2 =
 * [[National awakening and the birth of Albania]]
 * [[Demographic history of Kosovo]]
 * [[Unrest in Kosovo|Unrest in Kosovo during March 2004]]
@@ -310,8 +308,7 @@ Image:Kosovo Polje sized.jpg|[[Kosovo Polje]].
 * [[North Kosovo]]
 * [[Flag of Kosovo]]
 * [[Vidovdan]]
-
-}}
+&lt;/div&gt;
 
 ==References==
 {{reflist}}&lt;!--Please keep as single column as long URLs otherwise cause display problems on smaller windows/screens; thanks.--&gt;
