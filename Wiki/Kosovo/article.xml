@@ -1,9 +1,11 @@
       <text xml:space="preserve">&lt;!--
-Please be very careful in editing the introduction of this article. The Arbitration Committee has placed this article on probation. While this occurred in 2006, it was never lifted; thus, this page is still under probation. If any editor makes disruptive edits, they may be banned by an administrator from this and related articles, or other reasonably related pages. See the talk page for more information. Thank you.
+
+Please be very careful in editing the introduction of this article. The Arbitration Committee has placed this article on probation. While this occurred in 2006, it was never lifted; thus, this page is still under probation. If any editor makes disruptive edits, they may be banned by an administrator from this and related articles, or other reasonably related pages. See the talk page for more information.
+
+Please also note that the current delicate political situation of Kosovo makes the terms of article probation all the more important. DO NOT ENGAGE IN EDIT-WARRING ON THIS ARTICLE or any related articles. Edit-warring on this article will result in immediate blocking and application of additional sanctions under the terms of probation as administrators and/or the community deem appropriate. Thank you.
+
 --&gt;
-&lt;!--
-PLEASE DO NOT CHANGE THE CAPITAL'S NAME! Per talkpage, we currently use Pristina, not Prishtina.
---&gt;{{mergefrom|Kosovo (UNMIK)}}
+{{mergefrom|Kosovo (UNMIK)}}
 {{Split}}
 {{current related|article|2008 Kosovo declaration of independence|date=February 2008}}
 {{otheruses}}
@@ -23,7 +25,11 @@ PLEASE DO NOT CHANGE THE CAPITAL'S NAME! Per talkpage, we currently use Pristina
 |regional_languages       = [[Turkish language|Turkish]], [[Našinski|Gorani]], [[Romani language|Romani]], [[Bosnian language|Bosnian]]
 |ethnic_groups            = 92% [[Albanians]]&lt;br/&gt;{{spaces|2}}5.3% [[Serbs]]&lt;br/&gt;{{spaces|2}}2.7% others &lt;ref&gt;[http://www.ks-gov.net/ESK/esk/english/english.htm Enti i Statistikës së Kosovës]&lt;/ref&gt;
 |ethnic_groups_year       = 2007
-|capital                  = {{nowrap|[[Pristina]]}}&lt;br /&gt;&lt;small&gt;{{coor dm|42|40|N|21|10|E|}}&lt;/small&gt;
+|capital                  = {{nowrap|[[Pristina]]}}&lt;!--
+
+PLEASE DO NOT CHANGE THE CAPITAL'S NAME! Per talkpage, we currently use Pristina, not Prishtina or Priština.
+
+--&gt;&lt;br /&gt;&lt;small&gt;{{coor dm|42|40|N|21|10|E|}}&lt;/small&gt;
 |latd= |latm= |latNS= |longd= |longm= |longEW=
 |largest_city             = capital
 |demonym                  = Kosovar
