@@ -250,7 +250,7 @@
 ]|^title<n><sg>$ =[ <a href='Image:Nuvola apps package network.png|23px'>]^Image<n><sg>$^:<sent>$^*Nuvola$ ^*apps$ ^package<n><sg>$ ^network<n><sg>$^.<sent>$^*png$|^23<num>$^*px$[<\/a> ]^Geographic<adj>$ ^national<adj>$[
 ]|^list<n><sg>$[  ]=[
 
-]{{^Municipality<n><pl>$ ^of<pr>$ ^the<det><def><sp>$ ^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
+]{{^Kosovo<np><loc><sg>$ ^municipality<n><pl>$}}[
 ]}}[
 ]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<n><sg>$ =[ <a href='Image:Crystal Clear app browser.png|23px'>]^Image<n><sg>$^:<sent>$^Crystal<np><ant><f><sg>$ ^Clear<adj><sint>$ ^*app$ ^browser<n><sg>$^.<sent>$^*png$|^23<num>$^*px$[<\/a> ]^Geographic<adj>$ ^international<adj>$[
