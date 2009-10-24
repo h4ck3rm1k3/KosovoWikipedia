@@ -151,7 +151,7 @@
 <ul>
 <li>]^92%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$^.<sent>$[][<\/a><\/li>
 <li>  
-]^4%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a> ]^and<cnjcoo>$ ^why<adv><itg>$ ^this<prn><tn><mf><sg>$ ^be<vbser><pri><p3><sg>$ ^4%<num><percent>$ ^because<cnjadv>$ ^the<det><def><sp>$ ^*KLA$ ^have<vbhaver><inf>$ ^murder<vblex><pp>$ ^many<det><qnt><pl>$ ^*Serbians$^.<sent>$ ^If<cnjadv>$ ^all<predet><sp>$ ^the<det><def><sp>$ ^*serbs$ ^where<rel><adv>$ ^alive<adj>$ ^that<cnjsub>$ ^live<vblex><pp>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^before<pr>$ ^the<det><def><sp>$ ^war<n><sg>$ ^prpers<prn><subj><p2><mf><sp>$ ^would<vaux><inf>$ ^see<vblex><inf>$ ^92%<num><percent>$ ^*Sebrian$ ^population<n><sg>$ ^and<cnjcoo>$ ^a<det><ind><sg>$ ^4%<num><percent>$ ^Albanian<adj>$ ^population<n><sg>$^.<sent>$[][<\/li>
+]^4%<num><percent>$[ <a href='Serbs'>]^*Serbs$^.<sent>$[][<\/a><\/li>
 <li>]^2%<num><percent>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^and<cnjcoo>$[ <a href='Gorani (ethnic group)|Gorans'>]^*Gorani$ ^(<lpar>$^ethnic<adj>$ ^group<n><sg>$^)<rpar>$|^*Gorans$^.<sent>$[][<\/a><\/li>
 <li>]^1%<num><percent>$[ <a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$^.<sent>$[][<\/a><\/li>
 <li>]^1%<num><percent>$[ <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$^.<sent>$[][<\/a><\/li>
