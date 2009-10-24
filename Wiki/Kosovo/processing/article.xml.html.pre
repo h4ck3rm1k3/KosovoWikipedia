@@ -11,7 +11,7 @@
 <p>]{| ^class<n><sg>$="^*infobox$ ^*bordered$" ^style<n><sg>$="^width<n><sg>$^:<sent>$ ^250<num>$^*px$^;<sent>$ ^*font$^-<guio>$^size<n><sg>$^:<sent>$ ^95%<num><percent>$^;<sent>$ ^*float$^:<sent>$ ^right<adj>$^;<sent>$" ^*cellpadding$="^4<num>$" ^*cellspacing$="^0<num>$"[
 ]|^-<guio>$[
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[
-&lt;]^big<adj><sint>$[&gt;<strong>]^Kosovo<np><loc><sg>$[<\/strong>&lt;]^*br$[&gt;<strong>]^*Kosov$Ã«\/^*Kosova$[<\/strong>&lt;]^*br$[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]\/^big<adj><sint>$[&gt;
+&lt;]^big<adj><sint>$[&gt;<strong>]^Kosovo<np><loc><sg>$[<\/strong>&lt;]\/^big<adj><sint>$[&gt;
 ]|^-<guio>$[
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[ <a href='Image:Kosovo position within Serbia.PNG|150px'>]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^position<n><sg>$ ^within<pr>$ ^*Serbia$^.<sent>$^*PNG$|^150<num>$^*px$[<\/a>&lt;]^*br$[&gt;
 &lt;]^small<adj><sint>$[&gt;]^Kosovo<np><loc><sg>$ ^(<lpar>$^dark<adj><sint>$ ^green<n><sg>$^)<rpar>$ ^within<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>]^.<sent>$[&lt;]\/^small<adj><sint>$^.<sent>$[][&gt;<\/p>
