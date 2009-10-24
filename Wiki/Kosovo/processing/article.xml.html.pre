@@ -8,7 +8,7 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>]{{^POV<n><acr><sg>$}}{| ^border<n><sg>$=^1<num>$ ^*cellpadding$=^2<num>$ ^*cellspacing$=^0<num>$ ^*align$=^right<adj>$ ^width<n><sg>$=^300<num>$^*px$ ^style<n><sg>$="^margin<n><sg>$^:<sent>$ ^0<num>$ ^0<num>$ ^1<num>$^*em$ ^1<num>$^*em$^;<sent>$ ^*font$^-<guio>$^size<n><sg>$^:<sent>$ ^90%<num><percent>$^;<sent>$"[
+<p>]{| ^border<n><sg>$=^1<num>$ ^*cellpadding$=^2<num>$ ^*cellspacing$=^0<num>$ ^*align$=^right<adj>$ ^width<n><sg>$=^300<num>$^*px$ ^style<n><sg>$="^margin<n><sg>$^:<sent>$ ^0<num>$ ^0<num>$ ^1<num>$^*em$ ^1<num>$^*em$^;<sent>$ ^*font$^-<guio>$^size<n><sg>$^:<sent>$ ^90%<num><percent>$^;<sent>$"[
 ]|+[&lt;]^big<adj><sint>$[&gt;<strong>]^*Republika$ ^*e$ ^*Kosov$Ã«^*s$[<\/strong>&lt;]^*br$[&gt;<strong>]^Republic<n><sg>$ ^of<pr>$ ^*Kosova$[<\/strong>&lt;]\/^big<adj><sint>$[&gt;
 ]| ^style<n><sg>$=^background<n><sg>$^:<sent>$#^*deffad$^;<sent>$ ^*align$=^centre<n><sg>$ ^*colspan$=^2<num>$ |[
 ]|^-<guio>$[ 
