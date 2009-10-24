@@ -479,7 +479,9 @@
 <a href='fi:Kosovo'>]^*fi$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='sv:Kosovo'>]^*sv$^:$
-^Kosovo<np><loc><sg>$^.$
+^Kosovo<np><loc><sg>$[<\/a>
+<a href='tr:Kosova'>]^*tr$^:$
+^*Kosova$^.$
 [][<\/a><\/p>
 <\/body>
 <\/html>
