@@ -8,7 +8,7 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>]^*Kosovans$ ^*arent$ ^*fussedXHTML$^:<sent>$^:<sent>$^*MediaWiki$^:<sent>$^:<sent>$^*Parser$=^*HASH$^(<lpar>$^0<num>$^*x$^88<num>$^*b$^6<num>$^a<det><ind><sg>$^00<num>$^)<rpar>$^.<sent>$[][<\/p>
+<p>]^*Kosovans$ ^*arent$ ^*fussed$^,<cm>$ ^sound<n><sg>$ ^mate<n><sg>$^!<sent>$^*XHTML$^:<sent>$^:<sent>$^*MediaWiki$^:<sent>$^:<sent>$^*Parser$=^*HASH$^(<lpar>$^0<num>$^*x$^938<num>$^*aa$^00<num>$^)<rpar>$^.<sent>$[][<\/p>
 <\/body>
 <\/html>
 ]
