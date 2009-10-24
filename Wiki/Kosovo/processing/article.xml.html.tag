@@ -225,6 +225,7 @@
 <li><a href='National awakening and the birth of Albania'>]^National<adj>$ ^awaken<vblex><ger>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^birth<n><sg>$ ^of<pr>$ ^*Albania$^.<sent>$[][<\/a><\/li>
 <li><a href='Demographic history of Kosovo'>]^*Demographic$ ^history<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Unrest in Kosovo'>]^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^(<lpar>$^during<pr>$ ^March<n><sg>$ ^2004<num>$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='Sexual trafficking in Kosovo'>]^Sexual<adj>$ ^trafficking<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Metohija'>]^*Metohija$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
