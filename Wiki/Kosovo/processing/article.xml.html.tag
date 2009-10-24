@@ -16,7 +16,7 @@
 ]|^-<guio>$[ 
 ]| ^*align$=^centre<n><sg>$ ^*colspan$=^2<num>$ |[ <a href='Image:SerbiaMontenegro-Kosovo2.png'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^2<num>$^.<sent>$^*png$[<\/a>
 ]|^-<guio>$[
-]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a> ]|| ^width<n><sg>$=^60%<num><percent>$ |[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a> &amp;]^*sup$^1<num>$^;<sent>$[
+]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a> ]|| ^width<n><sg>$=^60%<num><percent>$ |[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Capital'>]^Capital<n><sg>$[<\/a> ]||[ <a href='Pristina'>]^*Pristina$[<\/a>
 ]|^-<guio>$[
@@ -24,7 +24,7 @@
 ]|^-<guio>$[
 ]| ^*valign$=^top<adj>$ |[ <a href='Population'>]^Population<n><sg>$[<\/a>&lt;]^*br$[&gt;&amp;]^*nbsp$^;<sent>$^-<guio>$ ^Total<n><sg>$ ^(<lpar>$[<a href='2003'>]^2003<num>$[<\/a>]^)<rpar>$[&lt;]^*br$[&gt;&amp;]^*nbsp$^;<sent>$^-<guio>$[ <a href='Population density|Density'>]^Population<n><sg>$ ^density<n><sg>$|^Density<n><sg>$[<\/a>&lt;]^*br$[&gt; ]||[ &lt;]^*br$[&gt;]^2.0<num>$ ^-<guio>$ ^2.2<num>$ ^million<num><sp>$ ^(<lpar>$^*est$^.<sent>$^)<rpar>$[&lt;]^*br$[&gt;]^185<num>$\/^*km$[&amp;]^*sup$^2<num>$^;<sent>$ ^(<lpar>$^*approx$^)<rpar>$[
 ]|^-<guio>$[
-]| ^*valign$=^top<adj>$ |[ <a href='List of ethnic groups|Ethnic groups'>]^List<n><sg>$ ^of<pr>$ ^ethnic<adj>$ ^group<n><pl>$|^Ethnic<adj>$ ^group<n><pl>$[<\/a>&lt;]^*br$[&gt;]^(<lpar>$[<a href='2003'>]^2003<num>$[<\/a>]^)<rpar>$ ||[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>]^:<sent>$^88%<num><percent>$[&lt;]^*br$[&gt;<a href='Serbs'>]^*Serbs$[<\/a>]^:<sent>$ ^7%<num><percent>$[&lt;]^*br$[&gt;&lt;]^*br$[&gt;]^Others<prn><tn><mf><pl>$^:<sent>$ ^5%<num><percent>$[
+]| ^*valign$=^top<adj>$ |[ <a href='List of ethnic groups|Ethnic groups'>]^List<n><sg>$ ^of<pr>$ ^ethnic<adj>$ ^group<n><pl>$|^Ethnic<adj>$ ^group<n><pl>$[<\/a>&lt;]^*br$[&gt;]^(<lpar>$[<a href='2003'>]^2003<num>$[<\/a>]^)<rpar>$ ||[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>]^:<sent>$^88%<num><percent>$[&lt;]^*br$[&gt;<a href='Serbs'>]^*Serbs$[<\/a>]^:<sent>$ ^7%<num><percent>$[&lt;]^*br$[&gt;]^Others<prn><tn><mf><pl>$^:<sent>$ ^5%<num><percent>$[
 ]|^-<guio>$[
 ]|[ <a href='Time zone'>]^Time<n><sg>$ ^zone<n><sg>$[<\/a> ]||[ <a href='UTC'>]^*UTC$[<\/a> ]+^2<num>$[
 ]|}^.<sent>$[][<\/p>
