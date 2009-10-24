@@ -210,7 +210,7 @@
 ]^Image<n><sg>$^:<sent>$^*Gjakova$^.<sent>$^*jpg$|[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*VeshjeKombetare$^.<sent>$^*JPG$|[<a href='Albanians in Kosova|Kosova Albanian'>]^Albanian<n><pl>$ ^in<pr>$ ^*Kosova$|^*Kosova$ ^Albanian<adj>$[<\/a> ]^ethnic<adj>$ ^costume<n><sg>$\/^dance<n><sg>$^.<sent>$[  
 ]^Image<n><sg>$^:<sent>$^*Bibloteka$ ^*Komb$Ã«^*tare$ ^*e$ ^*Kosov$Ã«^*s$^.<sent>$^*jpg$|^National<adj>$ ^Public<adj>$ ^Library<n><sg>$ ^in<pr>$ ^*Pri$Å^¡<lquest>$^*tina$^.<sent>$[
-]^Image<n><sg>$^:<sent>$^*Pec$ ^001<num>$^.<sent>$^*jpg$|^*Serbian$ ^*monastery$ ^in<pr>$[ <a href='PeÄ'>]^*PeÄ$[<\/a>]^.<sent>$[
+]^Image<n><sg>$^:<sent>$^*Peja$ ^001<num>$^.<sent>$^*jpg$|^*Serbian$ ^*monastery$ ^in<pr>$[ <a href='PeÄ'>]^*PeÄ$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Prizren$ ^004<num>$^.<sent>$^*JPG$|^*Serbian$ ^*monastery$ ^in<pr>$[ <a href='Prizren'>]^*Prizren$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Kosova$ ^*Polje$ ^*sized$^.<sent>$^*jpg$|[<a href='Kosovo Polje'>]^Kosovo<np><loc><sg>$ ^*Polje$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Bd$ ^shopping<n><sg>$^.<sent>$^*JPG$|"[<a href='Bregu i Diellit'>]^*Bregu$ ^*i$ ^*Diellit$[<\/a>]" ^shopping<n><sg>$ ^*mall$ ^in<pr>$[ <a href='Prishtina'>]^*Prishtina$[<\/a>
