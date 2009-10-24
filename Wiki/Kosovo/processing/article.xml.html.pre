@@ -213,7 +213,7 @@
 <a name="Municipalities_and_cities"><\/a><h3>]^Municipality<n><pl>$ ^and<cnjcoo>$ ^city<n><pl>$^.<sent>$[][<\/h3><p>]{{^main<adj>$|^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^also<adv>$ ^divide<vblex><pp>$ ^into<pr>$ ^30<num>$ ^municipality<n><pl>$^:<sent>$[
 ]{{^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
-<a name="Demographics"><\/a><h2>]^*Demographics$^.<sent>$[][<\/h2><p><a href='image:Mosque in Prishtina|thumb|250px|Mosque in the city of Prishtina'>]^image<n><sg>$^:<sent>$^Mosque<n><sg>$ ^in<pr>$ ^*Prishtina$|^thumb<n><sg>$|^250<num>$^*px$|^Mosque<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^city<n><sg>$ ^of<pr>$ ^*Prishtina$[<\/a>
+<a name="Demographics"><\/a><h2>]^*Demographics$^.<sent>$[][<\/h2><p><a href='image:Mosque in Prishtina.JPG|thumb|250px|Mosque in the city of Prishtina'>]^image<n><sg>$^:<sent>$^Mosque<n><sg>$ ^in<pr>$ ^*Prishtina$^.<sent>$^*JPG$|^thumb<n><sg>$|^250<num>$^*px$|^Mosque<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^city<n><sg>$ ^of<pr>$ ^*Prishtina$[<\/a>
 <a href='Image:Kosovo ethnic 2005.png|thumb|Multi ethnic map of Kosovo'>]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^ethnic<adj>$ ^2005<num>$^.<sent>$^*png$|^thumb<n><sg>$|^*Multi$ ^ethnic<adj>$ ^map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
 <a href='Image:ChildrensDayInKosovo2.JPG|thumb|Girls celebrate Children's Day'>]^Image<n><sg>$^:<sent>$^*ChildrensDayInKosovo$^2<num>$^.<sent>$^*JPG$|^thumb<n><sg>$|^Girl<n><pl>$ ^celebrate<vblex><inf>$ ^Child<n><pl>$^'s<gen>$ ^Day<n><sg>$[<\/a>
 ]{{^main<adj>$|^*Demographics$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
