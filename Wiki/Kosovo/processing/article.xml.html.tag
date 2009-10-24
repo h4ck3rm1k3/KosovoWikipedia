@@ -367,7 +367,8 @@ UN Resolution on Kosovo Circulated'>]^27<num>$[<\/a>]"^,<cm>$[ <em>]^AP<n><acr><
 <a href='sv:Kosovo'>]^*sv$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='th:à¸à¸­à¹à¸à¹à¸§'>]^*th$^:<sent>$^*à$¸^*à$¸­^*à$¹^*à$¸^*à$¹^*à$¸§[<\/a>
 <a href='tr:Kosova'>]^*tr$^:<sent>$^*Kosova$[<\/a>
-<a href='uk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*uk$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾^.<sent>$[][<\/a><\/p>
+<a href='uk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*uk$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
+<a href='zh:ç§ç´¢æ²'>]^*zh$^:<sent>$^*ç$§^*ç$´¢æ²^.<sent>$[][<\/a><\/p>
 <\/body>
 <\/html>
 ]
