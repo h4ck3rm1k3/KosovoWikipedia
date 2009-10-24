@@ -45,10 +45,10 @@
  ^*http$^:$
 \/\/^www.kosovapress.com<num>$\/^*ks$\/^*repository$\/^image<n><pl>$\/^*stema$_^*kosoves$_^*thmb$^.$
 ^*jpg$ ^-<guio>$^-<guio>$[&gt;
-]|^image<n><sg>$_^map<n><sg>$[                ]= ^Europe<np><loc><sg>$ ^location<n><sg>$ ^*KOS$^.$
+]|^image<n><sg>$_^map<n><sg>$[                ]= ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^part<n><sg>$ ^of<pr>$ ^*Serbia$^.$
 ^*png$[
-]|^map<n><sg>$_^*caption$[              ]= ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^in<pr>$[ <a href='Europe'>]^Europe<np><loc><sg>$^.$
-[][<\/a><\/p>
+]|^map<n><sg>$_^*caption$[              ]= ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^officially<adv>$ ^recognize<vblex><pp>$ ^as a<pr>$ ^part<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a> ]^by<pr>$[ <a href='United Nations'>]^the<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$[<\/a> ]^and<cnjcoo>$ ^the<det><def><sp>$ ^vast<adj><sint>$ ^majority<n><sg>$ ^of<pr>$ ^its<det><pos><sp>$ ^Member<n><sg>$ ^state<n><pl>$^)<rpar>$^.$
+[][<\/p>
 <p>]|^national<adj>$_^*motto$[           ]=[ 
 ]|^national<adj>$_^*anthem$[          ]=[  &lt;]^!$
 ^-<guio>$^-<guio>$[ <em><a href='European anthem|Ode to Joy'>]^European<adj>$ ^*anthem$|^Ode<n><sg>$ ^to<pr>$ ^Joy<n><sg>$[<\/a><\/em>]{{^Fact<n><sg>$|^date<n><sg>$=^February<n><sg>$ ^2008<num>$}} ^-<guio>$^-<guio>$[&gt;&lt;]^!$
