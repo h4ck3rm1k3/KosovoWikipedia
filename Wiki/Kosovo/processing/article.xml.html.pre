@@ -84,7 +84,8 @@
 <li><a href='Unrest in Kosovo'>]^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^(<lpar>$^about<pr>$ ^the<det><def><sp>$ ^March<n><sg>$ ^2004<num>$ ^unrest<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
 <p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Prpers<prn><subj><p3><nt><sg>$ ^appear<vblex><pri><p3><sg>$ ^that<cnjsub>$ ^this<prn><tn><mf><sg>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^actual<adj>$ ^article<n><sg>$^,<cm>$ ^but<cnjcoo>$ ^prpers<prn><subj><p3><nt><sg>$ ^be<vbser><past><p3><sg>$ ^remove<vblex><pp>$ *[ <a href='Sexual trafficking in Kosovo'>]^Sexual<adj>$ ^trafficking<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^-<guio>$^-<guio>$^.<sent>$[][&gt;<\/p>
-<a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><ul>
+<a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
+<ul>
 <li><a href='https:\/\/www.osce.org\/documents\/mik\/1999\/11\/1620_en.pdf Human Rights in Kosovo: As Seen, As Told. Volume I, October 1998 - June 1999'>]^3<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
 <li><\/li>
 <li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^4<num>$^.<sent>$[][<\/a><\/li>
