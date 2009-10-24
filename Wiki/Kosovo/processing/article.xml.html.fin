@@ -151,8 +151,13 @@
 [ 
 <a href='Image:Balkans 1265.PNG|thumb|right|Serbian Kingdom 1265'>]^Image<n><sg>$^:$
 ^*Balkans$ ^1265<num>$^.$
-^*PNG$|^thumb<n><sg>$|^right<n><sg>$|^*Serbian$ ^*Kingdom$ ^1265<num>$^.$
-[][<\/a><\/p>
+^*PNG$|^thumb<n><sg>$|^right<n><sg>$|^*Serbian$ ^*Kingdom$ ^1265<num>$[<\/a>
+<a href='Image:Dardania small.jpg|thumb|left|Kosova's President Dr.Ibrahim Rugova with the national Albanian flag and the Dardanian flag'>]^Image<n><sg>$^:$
+^*Dardania$ ^small<adj><sint>$^.$
+^*jpg$|^thumb<n><sg>$|^leave<vblex><past>$|^*Kosova$^'s<gen>$ ^President<n><sg>$ ^Dr<n><sg>$^.$
+^Ibrahim<np><ant><m><sg>$ ^*Rugova$ ^with<pr>$ ^the<det><def><sp>$ ^national<adj>$ ^Albanian<adj>$ ^flag<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*Dardanian$ ^flag<n><sg>$^.$
+[][<\/a>
+<\/p>
 <a name="Ottoman_rule"><\/a><h3>]^*Ottoman$ ^rule<n><sg>$^.$
 [][<\/h3><p>]^The<det><def><sp>$[ <a href='Ottoman Empire|Ottomans'>]^*Ottoman$ ^Empire<n><sg>$|^*Ottomans$[<\/a> ]^*invaded$ ^and<cnjcoo>$ ^meet<vblex><pp>$ ^the<det><def><sp>$ ^*Serbian$ ^Army<n><sg>$ ^under<pr>$[ <a href='Prince Lazar'>]^Prince<n><sg>$ ^*Lazar$[<\/a> ]^on<pr>$[ <a href='Tuesday'>]^Tuesday<n><sg>$[<\/a>]^,<cm>$[ <a href='June 23'>]^June<n><sg>$ ^23<num>$[<\/a>]^,<cm>$[<a href='1389'>]^1389<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='Gregorian Calendar'>]^the<det><def><sp>$ ^*Gregorian$ ^Calendar<n><sg>$[<\/a> ]=[ <a href='Tuesday'>]^Tuesday<n><sg>$[<\/a> <a href='June 15'>]^June<n><sg>$ ^15<num>$[<\/a>]^,<cm>$[ <a href='1389'>]^1389<num>$[<\/a> ]^-<guio>$^-<guio>$[ <a href='St. Vitus' Day'>]^*St$^.$
  ^*Vitus$^'<apos>$ ^Day<n><sg>$[<\/a> ]^-<guio>$^-<guio>$ ^in<pr>$[ <a href='Julian Calendar'>]^the<det><def><sp>$ ^Julian<np><ant><m><sg>$ ^Calendar<n><sg>$[<\/a>]^)<rpar>$^,<cm>$ ^near<pr>$[ <a href='Pristina'>]^*Pristina$[<\/a>]^,<cm>$ ^at<pr>$ ^*Gazi$ ^*Mestan$^.$
