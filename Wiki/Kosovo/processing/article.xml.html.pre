@@ -165,10 +165,7 @@
 <li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^27<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.axisglobe.com\/article.asp?article=689 Southern Serbia: The second Kosovo?'>]^28<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/serbo.blogspot.com Kosovo News blog'>]^29<num>$^.<sent>$[][<\/a><\/li>
-<\/ul>
-
-<pre><a href='http:\/\/www.hirhome.com\/yugo\/kosovo.htm "The Serbs Were Not Oppressing the Kosovo Albanians"'>]^30<num>$^.<sent>$[][<\/a>
-<\/pre><ul>
+<li><a href='http:\/\/www.hirhome.com\/yugo\/kosovo.htm "The Serbs Were Not Oppressing the Kosovo Albanians"'>]^30<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^31<num>$[<\/a> ]^*Serbian$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
