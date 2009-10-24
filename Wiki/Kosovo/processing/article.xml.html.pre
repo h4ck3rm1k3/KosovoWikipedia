@@ -8,7 +8,8 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>]{{^POV<n><acr><sg>$}}[
+<p>
+]{{^POV<n><acr><sg>$}}[
 ]{{^POV<n><acr><sg>$^-<guio>$^check<n><sg>$}}[
 ]{|[ 
 ]|^-<guio>$[
