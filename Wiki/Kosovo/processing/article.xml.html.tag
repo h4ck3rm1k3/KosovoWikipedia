@@ -100,7 +100,7 @@
 <em>]^3%<num><percent>$[<\/em> <a href='Muslims by nationality|Muslims'>]^Muslim<n><pl>$ ^by<pr>$ ^nationality<n><sg>$|^Muslim<n><pl>$[<\/a> ]^and<cnjcoo>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^(<lpar>$^54<num>$ ^to<pr>$ ^60<num>$ ^thousand<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
 <em>]^2%<num><percent>$[<\/em> <a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$[<\/a> ]^(<lpar>$^36<num>$ ^to<pr>$ ^40<num>$ ^thousand<n><sg>$^)<rpar>$ ^(<lpar>$^see<vblex><pres>$ ^also<adv>$[ <a href='Roma in Mitrovica Camps'>]^*Roma$ ^in<pr>$ ^*Mitrovica$ ^Camp<n><pl>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
-<li><em>]^1%<num><percent>$[<\/em> <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$[<\/a> ]^(<lpar>$^20<num>$ ^to<pr>$ ^60<num>$ ^thousand<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
+<li><em>]^1%<num><percent>$[<\/em> <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$[<\/a> ]^(<lpar>$^18<num>$ ^to<pr>$ ^20<num>$ ^thousand<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
 <p>]^However<adv>$^,<cm>$ ^the<det><def><sp>$ ^figure<n><pl>$ ^be<vbser><pres>$ ^highly<adv>$ ^*disputable$^.<sent>$ ^Some<det><qnt><sp>$ ^estimate<n><pl>$ ^be<vbser><pres>$ ^that<cnjsub>$ ^there<adv>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^Albanian<adj>$ ^majority<n><sg>$ ^well<adv>$ ^above<pr>$ ^90<num>$ ^percent<n><sg>$^.<sent>$^.<sent>$[][<\/p>
 <a name="List_of_Presidents"><\/a><h2>]^List<n><sg>$ ^of<pr>$ ^President<n><pl>$^.<sent>$[][<\/h2><ul>
