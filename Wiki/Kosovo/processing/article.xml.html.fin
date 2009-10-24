@@ -169,7 +169,8 @@
 ^.$
 [][<\/p>
 <a name="Ottoman_rule"><\/a><h3>]^*Ottoman$ ^rule<n><sg>$^.$
-[][<\/h3><p>]{{^*seealso$|^*Vilayet$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
+[][<\/h3><p>]{{^main<adj>$|^History<n><sg>$ ^of<pr>$ ^*Ottoman$ ^Kosovo<np><loc><sg>$}}[
+]{{^*seealso$|^*Vilayet$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^History<n><sg>$ ^of<pr>$ ^*Ottoman$ ^*Serbia$}}[
 <a href='Image:Kosovo02.png|thumb|Kosovo Vilayet, 1875-1878.'>]^Image<n><sg>$^:$
 ^Kosovo<np><loc><sg>$^02<num>$^.$
 ^*png$|^thumb<n><sg>$|^Kosovo<np><loc><sg>$ ^*Vilayet$^,<cm>$ ^1875<num>$^-<guio>$^1878<num>$^.$
