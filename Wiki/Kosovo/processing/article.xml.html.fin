@@ -24,8 +24,8 @@
 ]|^national<adj>$_^*motto$[              ]=[ 
 ]|^national<adj>$_^*anthem$[             ]=[ 
 ]|^official<adj>$_^language<n><pl>$[          ]=[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^,<cm>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>
-]|^ethnic<adj>$_^group<n><pl>$[               ]= ^96%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>&lt;]^*br$\/[&gt;]^3%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a>&lt;]^*br$\/[&gt;]^1%<num><percent>$ ^others<prn><tn><mf><pl>$[
-]|^ethnic<adj>$_^group<n><pl>$_^year<n><sg>$[          ]= ^2007<num>$[
+]|^ethnic<adj>$_^group<n><pl>$[               ]= ^90%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>&lt;]^*br$\/[&gt;]^8%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a>&lt;]^*br$\/[&gt;]^2%<num><percent>$ ^others<prn><tn><mf><pl>$[
+]|^ethnic<adj>$_^group<n><pl>$_^year<n><sg>$[          ]= ^2003<num>$[
 ]|^capital<adj>$[                     ]=[ <a href='PriÅ¡tina|PriÅ¡tina (PrishtinÃ«)'>]^*Pri$Å^¡<lquest>$^*tina$|^*Pri$Å^¡<lquest>$^*tina$ ^(<lpar>$^*Prishtin$Ã«^)<rpar>$[<\/a>
 ]|^*latd$= |^*latm$= |^*latNS$= |^*longd$= |^*longm$= |^*longEW$=[
 ]|^large<adj><sint><sup>$_^city<n><sg>$[                ]=[ 
@@ -58,9 +58,6 @@
 ]|^population<n><sg>$_^estimate<n><sg>$[         ]= ^2<num>$ ^million<num><sp>$[
 ]|^population<n><sg>$_^estimate<n><sg>$_^rank<n><sg>$[    ]=[ 
 ]|^population<n><sg>$_^estimate<n><sg>$_^year<n><sg>$[    ]= ^2003<num>$[
-]|^population<n><sg>$_^estimate<n><sg>$[         ]= ^2.4<num>$ ^million<num><sp>$ ^(<lpar>$^with<pr>$ ^return<vblex><ger>$ ^Albanian<n><sg>$^'s<gen>$ ^who<prn><itg><m><sp>$ ^leave<vblex><pp>$ ^in<pr>$ ^the<det><def><sp>$ ^80<num>$^'s<gen>$ ^era<n><sg>$^)<rpar>$[
-]|^population<n><sg>$_^estimate<n><sg>$_^rank<n><sg>$[    ]=[ 
-]|^population<n><sg>$_^estimate<n><sg>$_^year<n><sg>$[    ]= ^2007<num>$[
 ]|^population<n><sg>$_^*census$[           ]=[ 
 ]|^population<n><sg>$_^*census$_^year<n><sg>$[      ]=[ 
 ]|^population<n><sg>$_^density<n><sg>$[          ]= ^220<num>$[

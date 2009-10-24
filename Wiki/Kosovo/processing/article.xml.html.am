@@ -21,8 +21,8 @@
 ]|^national/national<adj>$_^motto/*motto$[              ]=[ 
 ]|^national/national<adj>$_^anthem/*anthem$[             ]=[ 
 ]|^official/official<adj>/official<n><sg>$_^languages/language<n><pl>$[          ]=[ <a href='Albanian language|Albanian'>]^Albanian/Albanian<adj>/Albanian<n><sg>$ ^language/language<n><sg>$|^Albanian/Albanian<adj>/Albanian<n><sg>$[<\/a>]^,/,<cm>$[ <a href='Serbian language|Serbian'>]^Serbian/*Serbian$ ^language/language<n><sg>$|^Serbian/*Serbian$[<\/a>]^,/,<cm>$[ <a href='English language|English'>]^English/English<adj>/English<n><sg>/English<n><pl>$ ^language/language<n><sg>$|^English/English<adj>/English<n><sg>/English<n><pl>$[<\/a>
-]|^ethnic/ethnic<adj>$_^groups/group<n><pl>$[               ]= ^96%/96%<num><percent>$[ <a href='Albanians'>]^Albanians/Albanian<n><pl>$[<\/a>&lt;]^br/*br$\/[&gt;]^3%/3%<num><percent>$[ <a href='Serbs'>]^Serbs/*Serbs$[<\/a>&lt;]^br/*br$\/[&gt;]^1%/1%<num><percent>$ ^others/others<prn><tn><mf><pl>$[
-]|^ethnic/ethnic<adj>$_^groups/group<n><pl>$_^year/year<n><sg>$[          ]= ^2007/2007<num>$[
+]|^ethnic/ethnic<adj>$_^groups/group<n><pl>$[               ]= ^90%/90%<num><percent>$[ <a href='Albanians'>]^Albanians/Albanian<n><pl>$[<\/a>&lt;]^br/*br$\/[&gt;]^8%/8%<num><percent>$[ <a href='Serbs'>]^Serbs/*Serbs$[<\/a>&lt;]^br/*br$\/[&gt;]^2%/2%<num><percent>$ ^others/others<prn><tn><mf><pl>$[
+]|^ethnic/ethnic<adj>$_^groups/group<n><pl>$_^year/year<n><sg>$[          ]= ^2003/2003<num>$[
 ]|^capital/capital<adj>/capital<n><sg>$[                     ]=[ <a href='PriÅ¡tina|PriÅ¡tina (PrishtinÃ«)'>]^Pri/*Pri$Å^¡/¡<lquest>$^tina/*tina$|^Pri/*Pri$Å^¡/¡<lquest>$^tina/*tina$ ^(/(<lpar>$^Prishtin/*Prishtin$Ã«^)/)<rpar>$[<\/a>
 ]|^latd/*latd$= |^latm/*latm$= |^latNS/*latNS$= |^longd/*longd$= |^longm/*longm$= |^longEW/*longEW$=[
 ]|^largest/large<adj><sint><sup>$_^city/city<n><sg>$[                ]=[ 
@@ -53,9 +53,6 @@
 ]|^population/population<n><sg>$_^estimate/estimate<n><sg>/estimate<vblex><inf>/estimate<vblex><pres>$[         ]= ^2/2<num>$ ^million/million<num><sp>/million<n><sg>$[
 ]|^population/population<n><sg>$_^estimate/estimate<n><sg>/estimate<vblex><inf>/estimate<vblex><pres>$_^rank/rank<n><sg>$[    ]=[ 
 ]|^population/population<n><sg>$_^estimate/estimate<n><sg>/estimate<vblex><inf>/estimate<vblex><pres>$_^year/year<n><sg>$[    ]= ^2003/2003<num>$[
-]|^population/population<n><sg>$_^estimate/estimate<n><sg>/estimate<vblex><inf>/estimate<vblex><pres>$[         ]= ^2.4/2.4<num>$ ^million/million<num><sp>/million<n><sg>$ ^(/(<lpar>$^with/with<pr>$ ^returning/return<vblex><ger>/return<vblex><pprs>/return<vblex><subs>$ ^Albanian/Albanian<adj>/Albanian<n><sg>$^'s/'s<gen>$ ^who/who<prn><itg><m><sp>/who<rel><an><mf><sp>$ ^left/left<adj>/left<adv>/left<n><sg>/leave<vblex><past>/leave<vblex><pp>$ ^in/in<adv>/in<pr>$ ^the/the<det><def><sp>$ ^80/80<num>$^'s/'s<gen>$ ^era/era<n><sg>$^)/)<rpar>$[
-]|^population/population<n><sg>$_^estimate/estimate<n><sg>/estimate<vblex><inf>/estimate<vblex><pres>$_^rank/rank<n><sg>$[    ]=[ 
-]|^population/population<n><sg>$_^estimate/estimate<n><sg>/estimate<vblex><inf>/estimate<vblex><pres>$_^year/year<n><sg>$[    ]= ^2007/2007<num>$[
 ]|^population/population<n><sg>$_^census/*census$[           ]=[ 
 ]|^population/population<n><sg>$_^census/*census$_^year/year<n><sg>$[      ]=[ 
 ]|^population/population<n><sg>$_^density/density<n><sg>$[          ]= ^220/220<num>$[
