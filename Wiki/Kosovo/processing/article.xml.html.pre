@@ -150,13 +150,13 @@
 <a name="Subdivisions"><\/a><h2>]^*Subdivisions$^.<sent>$[][<\/h2><p><em>]^Main<adj>$ ^article<n><sg>$^:<sent>$[ <a href='Subdivisions of Kosovo'>]^*Subdivisions$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>]^,<cm>$ ^also<adv>$ ^see<vblex><inf>$^:<sent>$[ <a href='Municipalities of Kosovo'>]^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>]^.<sent>$^.<sent>$[][<\/em><\/p>
 <p>]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^divide<vblex><pp>$ ^into<pr>$ ^7<num>$ ^district<n><pl>$^:<sent>$^.<sent>$[][<\/p>
 <ul>
-<li><a href='Mitrovica District|Mitrovica\/Kosovska Mitrovica District'>]^*Mitrovica$ ^District<n><sg>$|^*Mitrovica$\/^*Kosovska$ ^*Mitrovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Prishtina District|Prishtina\/PriÅ¡tina District'>]^*Prishtina$ ^District<n><sg>$|^*Prishtina$\/^*Pri$Å^¡<lquest>$^*tina$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Gjilani District|Gjilani\/Gnjilane District'>]^*Gjilani$ ^District<n><sg>$|^*Gjilani$\/^*Gnjilane$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Peja District|Peja\/PeÄ District'>]^*Peja$ ^District<n><sg>$|^*Peja$\/^*PeÄ$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Gjakova District|Gjakova\/Äakovica District'>]^*Gjakova$ ^District<n><sg>$|^*Gjakova$\/^*Ä$^*akovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Prizreni District|Prizreni\/Prizren District'>]^*Prizreni$ ^District<n><sg>$|^*Prizreni$\/^*Prizren$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Peja District|Peja\/PeÄ District'>]^*Peja$ ^District<n><sg>$|^*Peja$\/^*PeÄ$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Ferizaji District|Ferizaji\/UroÅ¡evac District'>]^*Ferizaji$ ^District<n><sg>$|^*Ferizaji$\/^*Uro$Å^¡<lquest>$^*evac$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Gjakova District|Gjakova\/Äakovica District'>]^*Gjakova$ ^District<n><sg>$|^*Gjakova$\/^*Ä$^*akovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Mitrovica District|Mitrovica\/Kosovska Mitrovica District'>]^*Mitrovica$ ^District<n><sg>$|^*Mitrovica$\/^*Kosovska$ ^*Mitrovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Gjilani District|Gjilani\/Gnjilane District'>]^*Gjilani$ ^District<n><sg>$|^*Gjilani$\/^*Gnjilane$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <\/p>
