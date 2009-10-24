@@ -145,7 +145,8 @@
 ^.$
 [][<\/p>
 <a name="History"><\/a><h2>]^History<n><sg>$^.$
-[][<\/h2><p>]{{^main<adj>$|^History<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}^.$
+[][<\/h2><p>]{{^main<adj>$|^History<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
+]{{^*splitsection$|^History<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}^.$
 [][<\/p>
 <a name="Medieval_Kosovo"><\/a><h3>]^Medieval<adj>$ ^Kosovo<np><loc><sg>$^.$
 [][<\/h3><p><a href='Image:Balkans 1265.PNG|thumb|right|The Serbian Kingdom, 1265.'>]^Image<n><sg>$^:$
