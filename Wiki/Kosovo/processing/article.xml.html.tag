@@ -32,7 +32,7 @@
 ]|^capital<n><sg>$[                  ]= {{^*nowrap$|[<a href='PriÅ¡tina|PriÅ¡tina (Prishtina)'>]^*Pri$Å^¡<lquest>$^*tina$|^*Pri$Å^¡<lquest>$^*tina$ ^(<lpar>$^*Prishtina$^)<rpar>$[<\/a>]}}[&lt;]^*br$ \/[&gt;&lt;]^small<adj><sint>$[&gt;]{{^*coor$ ^*dm$|^42<num>$|^40<num>$|^*N$|^21<num>$|^10<num>$|^*E$|}}[&lt;]\/^small<adj><sint>$[&gt;
 ]|^*latd$= |^*latm$= |^*latNS$= |^*longd$= |^*longm$= |^*longEW$=[
 ]|^large<adj><sint><sup>$_^city<n><sg>$[             ]= ^capital<n><sg>$[
-]|^*demonym$[                  ]= ^*Kosovar$[
+]|^*demonym$[                  ]= ^*Kosovar$^(<lpar>$^*s$^)<rpar>$[
 ]|^government<n><sg>$_^type<vblex><pres>$[          ]= ^Interim<adj>$[
 ]|^leader<n><sg>$_^title<n><sg>$^1<num>$[            ]= {{^*nowrap$|^Special<adj>$ ^Representative<n><sg>$ ^of<pr>$}} {{^*nowrap$|^the<det><def><sp>$ ^Secretary<n><sg>$^-<guio>$^General<adj>$}}[
 ]|^leader<n><sg>$_^name<n><sg>$^1<num>$[             ]=[ &lt;]^*br$[&gt;<a href='Joachim RÃ¼cker'>]^*Joachim$ ^*R$Ã¼^*cker$[<\/a>
