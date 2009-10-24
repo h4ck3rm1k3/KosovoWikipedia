@@ -85,19 +85,19 @@
 \/\/^www.nytimes.com<num>$\/^2008<num>$\/^02<num>$\/^19<num>$\/^world<adj>$\/^*europe$\/^19<num>$^*kosovo$^.$
 ^*html$^?$
 ^*ref$=^world<adj>$|^date<n><sg>$=[<a href='2008-02-18'>]^2008<num>$^-<guio>$^02<num>$^-<guio>$^18<num>$[<\/a>]|^*accessdate$=^2008<num>$^-<guio>$^02<num>$^-<guio>$^18<num>$}}[&lt;]\/^*ref$[&gt;
-]|^area<n><sg>$_^rank<n><sg>$[                ]=[ 
+]|^area<n><sg>$_^rank<n><sg>$[                ]= ^166<num>$[
 ]|^area<n><sg>$_^magnitude<n><sg>$[           ]= ^1<num>$ ^*E$^10<num>$[
 ]|^area<n><sg>$_^*km$^2<num>$[                 ]= ^10,887<num>$[
 ]|^area<n><sg>$_^*sq$_^*mi$[               ]= ^4,203<num>$[
 ]|^percent<n><sg>$_^water<n><sg>$[            ]= ^*n$\/^a<det><ind><sg>$[
 ]|^population<n><sg>$_^estimate<n><sg>$[      ]= ^2<num>$ ^million<num><sp>$[
-]|^population<n><sg>$_^estimate<n><sg>$_^rank<n><sg>$ =[ 
+]|^population<n><sg>$_^estimate<n><sg>$_^rank<n><sg>$ = ^141<num>$[
 ]|^population<n><sg>$_^estimate<n><sg>$_^year<n><sg>$ = ^2005<num>$[
 ]|^population<n><sg>$_^*census$[        ]=[ 
 ]|^population<n><sg>$_^*census$_^year<n><sg>$[   ]=[ 
 ]|^population<n><sg>$_^density<n><sg>$_^*km$^2<num>$[   ]= ^220<num>$[
 ]|^population<n><sg>$_^density<n><sg>$_^*sq$_^*mi$ = ^500<num>$[
-]|^population<n><sg>$_^density<n><sg>$_^rank<n><sg>$[  ]=[ 
+]|^population<n><sg>$_^density<n><sg>$_^rank<n><sg>$[  ]= ^55<num>$[
 ]|^currency<n><sg>$[                 ]=[ <a href='Euro'>]^Euro<n><sg>$[<\/a> ]^(<lpar>$^*â$¬^)<rpar>$[
 ]|^currency<n><sg>$_^code<n><sg>$[            ]= ^*EUR$[
 ]|^time<n><sg>$_^zone<vblex><pres>$[                ]=[ <a href='Central European Time|CET'>]^Central<adj>$ ^European<adj>$ ^Time<n><sg>$|^CET<n><acr><sg>$[<\/a>

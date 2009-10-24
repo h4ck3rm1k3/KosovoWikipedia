@@ -48,19 +48,19 @@
 ]|^establish<vblex><pp>$_^date<n><sg>$^1<num>$[        ]=[ <a href='17 February'>]^17<num>$ ^February<n><sg>$[<\/a> <a href='2008'>]^2008<num>$[<\/a>
 ]|^establish<vblex><pp>$_^event<n><sg>$^2<num>$[       ]=[ <a href='International reaction to the 2008 Kosovo declaration of independence|Recognized&lt;br\/&gt;(by 9 countries)'>]^International<adj>$ ^reaction<n><sg>$ ^to<pr>$ ^the<det><def><sp>$ ^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$|^Recognize<vblex><past>$[&lt;]^*br$\/[&gt;]^(<lpar>$^by<pr>$ ^9<num>$ ^country<n><pl>$^)<rpar>$[<\/a>
 ]|^establish<vblex><pp>$_^date<n><sg>$^2<num>$[        ]=[ <a href='18 February'>]^18<num>$ ^February<n><sg>$[<\/a> <a href='2008'>]^2008<num>$[<\/a>&lt;]^*ref$[&gt;]{{^cite<vblex><pres>$ ^news<n><sg>$|^author<n><sg>$=[<a href='United States Secretary of State|US Secretary of State'>]^United States<np><loc><sg>$ ^Secretary<n><sg>$ ^of<pr>$ ^State<adj>$|^US<np><loc><sg>$ ^Secretary<n><sg>$ ^of<pr>$ ^State<adj>$[<\/a> <a href='Condoleezza Rice'>]^*Condoleezza$ ^Rice<n><sg>$[<\/a>]|^title<n><sg>$=^U.S.<np><loc><sg>$ ^Recognize<vblex><pri><p3><sg>$ ^Kosovo<np><loc><sg>$ ^as<cnjadv>$ ^Independent<adj>$ ^State<adj>$|^publisher<n><sg>$=[<a href='U.S. Department of State'>]^U.S.<np><loc><sg>$ ^Department<n><sg>$ ^of<pr>$ ^State<n><sg>$[<\/a>]|^*url$=^*http$^:<sent>$\/\/^www.state.gov<num>$\/^secretary<n><sg>$\/^*rm$\/^2008<num>$\/^02<num>$\/^100973<num>$^.<sent>$^*htm$|^date<n><sg>$=[<a href='2008-02-18'>]^2008<num>$^-<guio>$^02<num>$^-<guio>$^18<num>$[<\/a>]|^*accessdate$=^2008<num>$^-<guio>$^02<num>$^-<guio>$^18<num>$}}[&lt;]\/^*ref$[&gt;&lt;]^*ref$[&gt;]{{^cite<vblex><pres>$ ^news<n><sg>$|^title<n><sg>$=^Britain<np><loc><sg>$^,<cm>$ ^France<np><loc><sg>$ ^*recognise$ ^Kosovo<np><loc><sg>$|^publisher<n><sg>$=[<a href='Associated Press'>]^Associate<vblex><pp>$ ^Press<n><sg>$[<\/a>]|^*url$=^*http$^:<sent>$\/\/^*ap$^.<sent>$^*google$^.<sent>$^*com$\/^article<n><sg>$\/^*ALeqM$^5<num>$^*jvieojQfAH$^0<num>$^*lC$^-<guio>$^*MNOQEfGdVlX$^1<num>$^*XAD$^8<num>$^*USR$^0<num>$^*K$^01<num>$|^date<n><sg>$=[<a href='2008-02-18'>]^2008<num>$^-<guio>$^02<num>$^-<guio>$^18<num>$[<\/a>]|^*accessdate$=^2008<num>$^-<guio>$^02<num>$^-<guio>$^18<num>$}}[&lt;]\/^*ref$[&gt;&lt;]^*ref$ ^name<n><sg>$="^*nytimes$ ^*u$^.<sent>$^*s$^.<sent>$ ^*france$"[&gt;]{{^cite<vblex><pres>$ ^news<n><sg>$|^first<det><ord><sp>$=^Stephen<np><ant><m><sg>$|^last<det><ord><sp>$=^Castle<n><sg>$|^title<n><sg>$=^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^*Recognised$ ^by<pr>$ ^U.S.<np><loc><sg>$^,<cm>$ ^France<np><loc><sg>$ ^and<cnjcoo>$ ^Britain<np><loc><sg>$|^*url$=^*http$^:<sent>$\/\/^www.nytimes.com<num>$\/^2008<num>$\/^02<num>$\/^19<num>$\/^world<adj>$\/^*europe$\/^19<num>$^*kosovo$^.<sent>$^*html$^?<sent>$^*ref$=^world<adj>$|^date<n><sg>$=[<a href='2008-02-18'>]^2008<num>$^-<guio>$^02<num>$^-<guio>$^18<num>$[<\/a>]|^*accessdate$=^2008<num>$^-<guio>$^02<num>$^-<guio>$^18<num>$}}[&lt;]\/^*ref$[&gt;
-]|^area<n><sg>$_^rank<n><sg>$[                ]=[ 
+]|^area<n><sg>$_^rank<n><sg>$[                ]= ^166<num>$[
 ]|^area<n><sg>$_^magnitude<n><sg>$[           ]= ^1<num>$ ^*E$^10<num>$[
 ]|^area<n><sg>$_^*km$^2<num>$[                 ]= ^10,887<num>$[
 ]|^area<n><sg>$_^*sq$_^*mi$[               ]= ^4,203<num>$[
 ]|^percent<n><sg>$_^water<n><sg>$[            ]= ^*n$\/^a<det><ind><sg>$[
 ]|^population<n><sg>$_^estimate<n><sg>$[      ]= ^2<num>$ ^million<num><sp>$[
-]|^population<n><sg>$_^estimate<n><sg>$_^rank<n><sg>$ =[ 
+]|^population<n><sg>$_^estimate<n><sg>$_^rank<n><sg>$ = ^141<num>$[
 ]|^population<n><sg>$_^estimate<n><sg>$_^year<n><sg>$ = ^2005<num>$[
 ]|^population<n><sg>$_^*census$[        ]=[ 
 ]|^population<n><sg>$_^*census$_^year<n><sg>$[   ]=[ 
 ]|^population<n><sg>$_^density<n><sg>$_^*km$^2<num>$[   ]= ^220<num>$[
 ]|^population<n><sg>$_^density<n><sg>$_^*sq$_^*mi$ = ^500<num>$[
-]|^population<n><sg>$_^density<n><sg>$_^rank<n><sg>$[  ]=[ 
+]|^population<n><sg>$_^density<n><sg>$_^rank<n><sg>$[  ]= ^55<num>$[
 ]|^currency<n><sg>$[                 ]=[ <a href='Euro'>]^Euro<n><sg>$[<\/a> ]^(<lpar>$^*â$¬^)<rpar>$[
 ]|^currency<n><sg>$_^code<n><sg>$[            ]= ^*EUR$[
 ]|^time<n><sg>$_^zone<vblex><pres>$[                ]=[ <a href='Central European Time|CET'>]^Central<adj>$ ^European<adj>$ ^Time<n><sg>$|^CET<n><acr><sg>$[<\/a>
