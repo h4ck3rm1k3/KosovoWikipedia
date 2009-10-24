@@ -114,7 +114,7 @@
 <\/ul>
 <p><br\/>
 <\/p>
-<a name="Prime_Ministers"><\/a><h2>]^Prime<adj>$ ^Minister<n><pl>$^.<sent>$[][<\/h2><ul>
+<a name="List_of_Prime_Ministers"><\/a><h2>]^List<n><sg>$ ^of<pr>$ ^Prime<adj>$ ^Minister<n><pl>$^.<sent>$[][<\/h2><ul>
 <li><a href='Bajram Rexhepi'>]^*Bajram$ ^*Rexhepi$[<\/a>]^,<cm>$[ <a href='2002'>]^2002<num>$[<\/a>]^-<guio>$[<a href='2004'>]^2004<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='Ramush Haradinaj'>]^*Ramush$ ^*Haradinaj$[<\/a>]^,<cm>$[ <a href='2004'>]^2004<num>$[<\/a>]^-<guio>$[<a href='2005'>]^2005<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='Bajram Kosumi'>]^*Bajram$ ^*Kosumi$[<\/a>]^,<cm>$[ <a href='2005'>]^2005<num>$[<\/a>]^-<guio>$[<a href='2006'>]^2006<num>$^.<sent>$[][<\/a><\/li>
