@@ -84,7 +84,7 @@
 ]|^area<n><sg>$_^rank<n><sg>$[                ]= ^166<num>$[
 ]|^area<n><sg>$_^magnitude<n><sg>$[           ]= ^1<num>$ ^*E$^10<num>$[
 ]|^area<n><sg>$_^*km$^2<num>$[                 ]= ^10,908<num>$[
-]|^area<n><sg>$_^*sq$_^*mi$[               ]= ^*unknown$[
+]|^area<n><sg>$_^*sq$_^*mi$[               ]= ^4,212<num>$[
 ]|^percent<n><sg>$_^water<n><sg>$[            ]= ^*n$\/^a<det><ind><sg>$[
 ]|^population<n><sg>$_^estimate<n><sg>$[      ]= ^1,900<num>$^,<cm>$^000<num>$[&lt;]^*ref$[&gt;]^See<vblex><pres>$^:$
 [ <a href='http:\/\/enrin.grida.no\/htmls\/kosovo\/SoE\/popullat.htm UN estimate'>]^2<num>$[<\/a>]^,<cm>$ ^*Kosovoâ$^*s$ ^population<n><sg>$ ^estimate<n><pl>$ ^range<n><sg>$ ^from<pr>$ ^1.9<num>$ ^to<pr>$ ^2.4<num>$ ^million<num><sp>$^.$
