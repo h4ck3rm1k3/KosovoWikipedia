@@ -10,13 +10,13 @@
     <h1><\/h1>
 <p>
 ]{|[ 
-]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosova$[<\/strong>&lt;]^*br$\/[&gt;]^'<apos>$^'<apos>$^'<apos>$^Kosovo<np><loc><sg>$[&lt;]\/^big<adj><sint>$[&gt;&lt;]\/^big<adj><sint>$[&gt;
+]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong>]^*Kosova$[<\/strong>&lt;]^*br$\/[&gt;]^'<apos>$^'<apos>$^'<apos>$^Kosovo<np><loc><sg>$[&lt;]\/^big<adj><sint>$[&gt;&lt;]\/^big<adj><sint>$[&gt;
 ]|^-<guio>$[
 ]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-Kosovo2.png'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^2<num>$^.<sent>$^*png$[<\/a>
 ]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
-]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$ ^Other<det><ind><sp>$ ^*minoruty$ ^language<n><pl>$^\]<rpar>$[
+]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$ ^Other<det><ind><sp>$ ^minority<n><sg>$ ^language<n><pl>$[
 ]|^-<guio>$[
 ]|[ <a href='Capital'>]^Capital<n><sg>$[<\/a>
 ]|[ <a href='Pristina'>]^*Pristina$[<\/a>
@@ -174,7 +174,7 @@
 <a href='pt:Kosovo'>]^*pt$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ru:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*ru$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='sq:Kosova'>]^*sq$^:<sent>$^*Kosova$[<\/a>
-<a href='sr:ÐÐ¾ÑÐ¾Ð²Ð¾ Ð¸ ÐÐµÑÐ¾ÑÐ¸ÑÐ°'>]^*sr$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/a>
+<a href='sr:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*sr$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='fi:Kosovo'>]^*fi$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='sv:Kosovo'>]^*sv$^:<sent>$^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/p>
 <\/body>
