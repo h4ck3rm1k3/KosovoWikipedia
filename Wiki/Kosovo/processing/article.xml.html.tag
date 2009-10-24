@@ -309,9 +309,9 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^20<num>$[<\/a> ]"^,<cm>$[ 
 ]|^list<n><sg>$[  ]=[
 ]{{^Republic<n><pl>$ ^and<cnjcoo>$ ^autonomous<adj>$ ^province<n><pl>$ ^of<pr>$ ^the<det><def><sp>$ ^former<adj>$ ^Yugoslavia<np><loc><sg>$}}[
 ]{{^*Dependent$ ^and<cnjcoo>$ ^other<det><ind><sp>$ ^territory<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$}}[
-]}}^.<sent>$[][<\/p>
-<p><br\/>
-&lt;]^!<sent>$^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$[&gt;
+]}}[
+]{{^*CEFTA$}}^.<sent>$[][<\/p>
+<p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$[&gt;
 <a href='Category:Kosovo| '>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|[ <\/a>
 <a href='Category:Proposed countries'>]^Category<n><sg>$^:<sent>$^Propose<vblex><pp>$ ^country<n><pl>$^.<sent>$[][<\/a><\/p>
 <p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Other<det><ind><sp>$ ^language<n><pl>$^-<guio>$^-<guio>$[&gt;
