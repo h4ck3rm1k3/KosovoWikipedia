@@ -282,7 +282,9 @@
 <\/ul>
 <p><br\/>
 <\/p>
-<p><a href='Category:Kosovo|*'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|*^.<sent>$[][<\/a><\/p>
+<p><a href='Category:Kosovo|*'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|*[<\/a>
+<a href='Category:Unrecognized or largely-unrecognized states'>]^Category<n><sg>$^:<sent>$^*Unrecognized$ ^or<cnjcoo>$ ^largely<adv>$^-<guio>$^*unrecognized$ ^state<n><pl>$[<\/a>
+<a href='Category:Proposed countries'>]^Category<n><sg>$^:<sent>$^Propose<vblex><pp>$ ^country<n><pl>$^.<sent>$[][<\/a><\/p>
 <p><a href='als:Kosova'>]^*als$^:<sent>$^*Kosova$[<\/a>
 <a href='ar:ÙÙØµÙÙ'>]^*ar$^:<sent>$^*Ù$^*Ù$Øµ^*Ù$^*Ù$[<\/a>
 <a href='ast:Kosovo'>]^*ast$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
