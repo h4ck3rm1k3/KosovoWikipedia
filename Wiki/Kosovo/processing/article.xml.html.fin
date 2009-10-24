@@ -16,7 +16,7 @@
  ^*font$^-<guio>$^size<n><sg>$^:$
  ^90%<num><percent>$^;$
 "[
-]|+[&lt;]^*font$ ^size<n><sg>$=+^1<num>$[&gt;<strong>]^Kosovo<np><loc><sg>$[<\/strong>&lt;]^*br$[&gt;<strong>]^*Kosova$[<\/strong>&lt;]^*br$[&gt;<strong>&amp;]#^1050<num>$^;$
+]|+[&lt;]^*font$ ^size<n><sg>$=+^1<num>$[&gt;<strong>]^'<apos>$^'<apos>$[&amp;]#^1050<num>$^;$
 [&amp;]#^1086<num>$^;$
 [&amp;]#^1089<num>$^;$
 [&amp;]#^1086<num>$^;$
@@ -31,15 +31,14 @@
 [&amp;]#^1080<num>$^;$
 [&amp;]#^1112<num>$^;$
 [&amp;]#^1072<num>$^;$
-[<\/strong>
-&lt;]\/^*font$[&gt;
+[<\/strong>&lt;]^*br$[&gt;<strong>]^*Kosova$[<\/strong>&lt;]^*br$[&gt;<strong>]^Kosovo<np><loc><sg>$[ &amp; ]^*Metohija$[<\/strong>&lt;]\/^*font$[&gt;
 ]| ^style<n><sg>$=^background<n><sg>$^:$
 #^*deffad$^;$
  ^*align$=^centre<n><sg>$ ^*colspan$=^2<num>$ |[
 ]|^-<guio>$[ 
-]| ^*align$=^centre<n><sg>$ ^*colspan$=^2<num>$ |[ <a href='Image:SerbiaMontenegro-Kosovo2.png'>]^Image<n><sg>$^:$
+]| ^*align$="^centre<n><sg>$" |[ <a href='Image:SerbiaMontenegro-Kosovo2.png'>]^Image<n><sg>$^:$
 ^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^2<num>$^.$
-^*png$[<\/a>
+^*png$[<\/a> ]|| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a> ]|| ^width<n><sg>$=^60%<num><percent>$ |[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
 ]|^-<guio>$[
@@ -68,17 +67,16 @@
 [][<\/p>
 
 <pre>
-<\/pre><p><strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>$[<a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^:$
-[ <strong>]^*Kosova$[<\/strong>]^;$
-[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^:$
+<\/pre><p><strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>$[<a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^:$
 [ <strong>&amp;]#^1050<num>$^;$
 [&amp;]#^1086<num>$^;$
 [&amp;]#^1089<num>$^;$
 [&amp;]#^1086<num>$^;$
 [&amp;]#^1074<num>$^;$
 [&amp;]#^1086<num>$^;$
-[<\/strong>]^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^*disputed$ ^territory<n><sg>$ ^in<pr>$[ <a href='Balkans'>]^the<det><def><sp>$ ^*Balkans$[<\/a>]^.$
- ^Prpers<prn><subj><p3><nt><sg>$ ^be<vbser><pri><p3><sg>$ ^still<adv>$ ^formally<adv>$ ^a<det><ind><sg>$ ^province<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>]^,<cm>$ ^where<rel><adv>$ ^prpers<prn><subj><p3><nt><sg>$ ^be<vbser><pri><p3><sg>$ ^officially<adv>$ ^call<vblex><pp>$[ <strong>]^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$[<\/strong> ]^(<lpar>$[&amp;]#^1050<num>$^;$
+[<\/strong>]^;$
+[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^:$
+[ <strong>]^*Kosova$[<\/strong>]^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^name<vblex><pres>$ ^most<preadv>$ ^*oftenly$ ^use<vblex><pp>$ ^for<pr>$ ^a<det><ind><sg>$ ^province<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a> ]^officially<adv>$ ^call<vblex><pp>$[ <strong>]^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$[<\/strong> ]^(<lpar>$[&amp;]#^1050<num>$^;$
 [&amp;]#^1086<num>$^;$
 [&amp;]#^1089<num>$^;$
 [&amp;]#^1086<num>$^;$
@@ -94,8 +92,8 @@
 [&amp;]#^1112<num>$^;$
 [&amp;]#^1072<num>$^;$
 ^)<rpar>$^.$
- ^Since<pr>$ ^the<det><def><sp>$ ^end<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Kosovo War'>]^Kosovo<np><loc><sg>$ ^War<n><sg>$[<\/a> ]^in<pr>$[ <a href='1999'>]^1999<num>$[<\/a>]^,<cm>$ ^prpers<prn><subj><p3><nt><sg>$ ^have<vbhaver><pri><p3><sg>$ ^be<vbser><pp>$ ^administer<vblex><pp>$ ^by<pr>$[ <a href='United Nations'>]^the<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$[<\/a>]^,<cm>$ ^and<cnjcoo>$ ^its<det><pos><sp>$ ^final<adj>$ ^status<n><sg>$ ^be<vbser><pri><p3><sg>$ ^as<preadv>$ ^yet<adv>$ ^*undetermined$^.$
- ^The<det><def><sp>$ ^majority<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^mostly<adv>$^-<guio>$^Albanian<adj>$ ^population<n><sg>$ ^declare<vblex><past>$ ^the<det><def><sp>$ ^province<n><sg>$ ^to<pr>$ ^be<vbser><inf>$ ^the<det><def><sp>$ ^independent<adj>$[ <strong>]^Republic<n><sg>$ ^of<pr>$ ^*Kosova$[<\/strong> ]^in<pr>$[ <a href='1990'>]^1990<num>$[<\/a>]^,<cm>$ ^but<cnjcoo>$ ^this<det><dem><sg>$ ^independence<n><sg>$ ^be<vbser><pri><p3><sg>$ ^recognize<vblex><pp>$ ^*internationally$ ^only<adv>$ ^by<pr>$[ <a href='Albania'>]^*Albania$[<\/a>]^.$
+ ^Prpers<prn><subj><p3><nt><sg>$ ^be<vbser><pri><p3><sg>$ ^currently<adv>$ ^administer<vblex><pp>$ ^by<pr>$[ <a href='United Nations'>]^the<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$[<\/a> ]^follow<vblex><ger>$ ^the<det><def><sp>$ ^recent<adj>$[ <a href='Kosovo War'>]^Kosovo<np><loc><sg>$ ^War<n><sg>$[<\/a>]^,<cm>$ ^and<cnjcoo>$ ^its<det><pos><sp>$ ^final<adj>$ ^status<n><sg>$ ^be<vbser><pri><p3><sg>$ ^as<preadv>$ ^yet<adv>$ ^*undetermined$^.$
+ ^The<det><def><sp>$ ^majority<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^mostly<adv>$^-<guio>$^Albanian<adj>$ ^population<n><sg>$ ^declare<vblex><past>$ ^the<det><def><sp>$ ^independence<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^province<n><sg>$ ^under<pr>$ ^the<det><def><sp>$ ^name<n><sg>$ "^Republic<n><sg>$ ^of<pr>$[ <strong>]^*Kosova$[<\/strong>]" ^in<pr>$[ <a href='1990'>]^1990<num>$[<\/a>]^.$
 ^.$
 [][<\/p>
 <a name="Geography"><\/a><h2>]^Geography<n><sg>$^.$
@@ -148,16 +146,6 @@
 <a href='Image:Kosov.png|center|thumb|431px|All places in the world whose names begin with "Kosov"'>]^Image<n><sg>$^:$
 ^*Kosov$^.$
 ^*png$|^centre<n><sg>$|^thumb<n><sg>$|^431<num>$^*px$|^All<predet><sp>$ ^place<n><pl>$ ^in<pr>$ ^the<det><def><sp>$ ^world<adj>$ ^*whose$ ^name<n><pl>$ ^begin<vblex><inf>$ ^with<pr>$ "^*Kosov$"^.$
-[][<\/a><\/p>
-<p><a href='image:Kosovo Burned church Christ the Savior.jpg|right|thumb|Albanians burned Serbian Church Christ the Savior (14th century)'>]^image<n><sg>$^:$
-^Kosovo<np><loc><sg>$ ^Burn<vblex><past>$ ^church<n><sg>$ ^*Christ$ ^the<det><def><sp>$ ^*Savior$^.$
-^*jpg$|^right<adj>$|^thumb<n><sg>$|^Albanian<n><pl>$ ^burn<vblex><pp>$ ^*Serbian$ ^Church<n><sg>$ ^*Christ$ ^the<det><def><sp>$ ^*Savior$ ^(<lpar>$^14<num>$^*th$ ^century<n><sg>$^)<rpar>$^.$
-[][<\/a><\/p>
-<p><a href='Image:Kosovo-burned and damaged Chuch by explosiv.jpg|right|thumb|Albanians burned and damaged by explosive a Serbian Church of St. Nicholas 14th c.'>]^Image<n><sg>$^:$
-^Kosovo<np><loc><sg>$^-<guio>$^burn<vblex><pp>$ ^and<cnjcoo>$ ^damage<vblex><pp>$ ^*Chuch$ ^by<pr>$ ^*explosiv$^.$
-^*jpg$|^right<adj>$|^thumb<n><sg>$|^Albanian<n><pl>$ ^burn<vblex><pp>$ ^and<cnjcoo>$ ^damage<vblex><pp>$ ^by<pr>$ ^explosive<adj>$ ^a<det><ind><sg>$ ^*Serbian$ ^Church<n><sg>$ ^of<pr>$ ^*St$^.$
- ^Nicholas<np><ant><m><sg>$ ^14<num>$^*th$ ^*c$^.$
-^.$
 [][<\/a><\/p>
 <p><strong>]^*Kosova$[<\/strong> ]^(<lpar>$^pronounce<vblex><pp>$ "^*ko$^-<guio>$^SO<n><acr><sg>$^-<guio>$^*vah$"^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<adj>$[<\/a> ]^spelling<n><sg>$ ^for<pr>$ ^the<det><def><sp>$ ^province<n><sg>$^.$
  ^Albanian<n><pl>$ ^tend<vblex><inf>$ ^to<pr>$ ^use<vblex><inf>$ "^*Kosova$" ^exclusively<adv>$ ^in<pr>$ ^preference<n><sg>$ ^to<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^name<n><sg>$^,<cm>$ ^which<prn><itg><m><sp>$ ^many<det><qnt><pl>$ ^of<pr>$ ^prpers<prn><obj><p3><mf><pl>$ ^reject<vblex><pres>$ ^as a<pr>$ ^symbol<n><sg>$ ^of<pr>$ ^*Serbian$ ^*dominance$^.$
