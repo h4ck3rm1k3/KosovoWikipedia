@@ -43,8 +43,8 @@
 ]|^establish<vblex><pp>$_^date<n><sg>$^1<num>$[           ]= ^late<adj><sint>$ ^14<num>$^*th$ ^century<n><sg>$[
 ]|^establish<vblex><pp>$_^event<n><sg>$^2<num>$[          ]= ^*Ottoman$ ^Empire<n><sg>$[
 ]|^establish<vblex><pp>$_^date<n><sg>$^2<num>$[           ]= ^15<num>$^*th$ ^century<n><sg>$[
-]|^establish<vblex><pp>$_^event<n><sg>$^3<num>$[          ]= ^*Vilayet$ ^of<pr>$ ^*Kosova$[
-]|^establish<vblex><pp>$_^date<n><sg>$^3<num>$[           ]= ^1864<num>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^3<num>$[          ]=[ <a href='Kosovo Province, Ottoman Empire|Vilayet of Kosovo'>]^Kosovo<np><loc><sg>$ ^Province<n><sg>$^,<cm>$ ^*Ottoman$ ^Empire<n><sg>$|^*Vilayet$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
+]|^establish<vblex><past>$_^date<n><sg>$^3<num>$[           ]= ^1864<num>$[
 ]|^establish<vblex><pp>$_^event<n><sg>$^4<num>$[          ]= ^*Kingdom$ ^of<pr>$ ^*Serbia$[
 ]|^establish<vblex><pp>$_^date<n><sg>$^4<num>$[           ]= ^1912<num>$[
 ]|^establish<vblex><pp>$_^event<n><sg>$^5<num>$[          ]= ^Autonomous<adj>$ ^Region<n><sg>$ ^of<pr>$ ^*KosMet$[
