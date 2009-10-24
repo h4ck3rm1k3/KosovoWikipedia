@@ -299,14 +299,15 @@
 <li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government for Kosovo-Metohija'>]^60<num>$[<\/a> ]^*Website$ ^that<det><dem><sg>$ ^*focusses$ ^on<pr>$ ^the<det><def><sp>$ ^human<adj>$ ^right<n><pl>$ ^situation<n><sg>$ ^of<pr>$ ^*Serbian$ ^and<cnjcoo>$ ^other<det><ind><sp>$ ^non<adv>$^-<guio>$^Albanian<adj>$ ^population<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li> 
 <a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Crucified Kosovo'>]^61<num>$[<\/a> ]^*Overview$ ^of<pr>$ ^destroy<vblex><pp>$ ^*Serbian$ ^Orthodox<adj>$ ^church<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^62<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^63<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.axisglobe.com\/article.asp?article=689 Southern Serbia: The second Kosovo?'>]^64<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^65<num>$[<\/a> ]^*Serbian$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovo.net\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^66<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.mfa.gov.yu\/Policy\/CI\/kosovo-slike\/index.html Terror in Kosovo'>]^62<num>$[<\/a> ]^Terror<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^*english$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^63<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^64<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.axisglobe.com\/article.asp?article=689 Southern Serbia: The second Kosovo?'>]^65<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^66<num>$[<\/a> ]^*Serbian$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovo.net\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^67<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
 <li> 
-<a href='http:\/\/www.savekosovo.org Save Kosovo'>]^67<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^promote<vblex><ger>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^American<adj>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^and<cnjcoo>$ ^of<pr>$ ^the<det><def><sp>$ ^critical<adj>$ ^American<adj>$ ^stake<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*provinceâ$^*s$ ^future<n><sg>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovocompromise.com\/ Kosovo 2006 Making of a Compromise'>]^68<num>$^.<sent>$[][<\/a><\/li>
+<a href='http:\/\/www.savekosovo.org Save Kosovo'>]^68<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^promote<vblex><ger>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^American<adj>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^and<cnjcoo>$ ^of<pr>$ ^the<det><def><sp>$ ^critical<adj>$ ^American<adj>$ ^stake<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*provinceâ$^*s$ ^future<n><sg>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovocompromise.com\/ Kosovo 2006 Making of a Compromise'>]^69<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <\/p>
