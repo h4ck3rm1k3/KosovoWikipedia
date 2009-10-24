@@ -11,7 +11,7 @@
 <p>
 ]{|[ 
 ]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong> ]^Kosovo<np><loc><sg>$[ <\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosova$[<\/strong>&lt;]^*br$\/[&gt;]^'<apos>$^'<apos>$^'<apos>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[ &lt;]\/^big<adj><sint>$[&gt;&lt;]\/^big<adj><sint>$[&gt;
-]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-Kosovo3.png'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^3<num>$^.<sent>$^*png$[<\/a>
+]| ^*align$=^centre<n><sg>$ |[ &lt;]^!<sent>$^-<guio>$^-<guio>$ ^*Unsourced$ ^image<n><sg>$ ^remove<vblex><past>$^:<sent>$[ <a href='Image:SerbiaMontenegro-Kosovo3.png'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^3<num>$^.<sent>$^*png$[<\/a> ]^-<guio>$^-<guio>$[&gt;
 ]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
