@@ -10,27 +10,7 @@
 <body>
     <h1><\/h1>
 <p>]{{^POV<n><acr><sg>$}}[
-]{| ^border<n><sg>$=^1<num>$ ^*cellpadding$=^4<num>$ ^*cellspacing$=^0<num>$ ^class<n><sg>$="^*toccolours$" ^style<n><sg>$="^*float$^:$
- ^right<adj>$^;$
- ^width<n><sg>$^:$
- ^300<num>$^*px$^;$
- ^clear<adj><sint>$^:$
- ^both<prn><tn><mf><pl>$^;$
- ^margin<n><sg>$^:$
- ^0.5<num>$^*em$ ^0<num>$ ^1<num>$^*em$ ^1<num>$^*em$^;$
- ^border<n><sg>$^-<guio>$^style<n><sg>$^:$
- ^solid<n><sg>$^;$
- ^border<n><sg>$^:$
- ^1<num>$^*px$ ^solid<n><sg>$ #^7<num>$^*f$^7<num>$^*f$^7<num>$^*f$^;$
- ^border<n><sg>$^-<guio>$^right<adj>$^-<guio>$^width<n><sg>$^:$
- ^2<num>$^*px$^;$
- ^border<n><sg>$^-<guio>$^bottom<adj>$^-<guio>$^width<n><sg>$^:$
- ^2<num>$^*px$^;$
- ^border<n><sg>$^-<guio>$^collapse<n><sg>$^:$
- ^collapse<n><sg>$^;$
- ^*font$^-<guio>$^size<n><sg>$^:$
- ^95%<num><percent>$^;$
-"[
+]{|[ 
 ]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong>&amp;]#^1050<num>$^;$
 [&amp;]#^1086<num>$^;$
 [&amp;]#^1089<num>$^;$
