@@ -282,7 +282,7 @@
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^Independence<n><sg>$ ^Celebration<n><sg>$ ^1<num>$^.<sent>$^*jpg$|^Kosovo<np><loc><sg>$ ^Independence<n><sg>$ ^Celebration<n><sg>$^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$_^government<n><sg>$^.<sent>$^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^in<pr>$ ^*Pri$Å^¡<lquest>$^*tina$^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Prizen$ ^*kosovo$^.<sent>$^*jpg$|^*Prizren$^.<sent>$[
-]^Image<n><sg>$^:<sent>$^*Erzengelkloster$^2<num>$^.<sent>$^*jpg$|[<a href='Serbs in Kosovo|Serbian'>]^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^*Serbian$[<\/a> ]^*monastery$^,<cm>$ ^*St$ ^*Archangel$^,<cm>$ ^near<adj><sint>$ ^river<n><sg>$[ <a href='Bistrica'>]^*Bistrica$[<\/a>]^.<sent>$[
+]^Image<n><sg>$^:<sent>$^*Erzengelkloster$^2<num>$^.<sent>$^*jpg$|[<a href='Albanian|Orthodox'>]^Albanian<adj>$|^Orthodox<adj>$[<\/a> ]^*monastery$^,<cm>$ ^*St$ ^*Archangel$^,<cm>$ ^near<adj><sint>$ ^river<n><sg>$[ <a href='Bistrica'>]^*Bistrica$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Gjakova$^.<sent>$^*jpg$|[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*VeshjeKombetare$^.<sent>$^*JPG$|[<a href='Albanians in Kosovo|Kosovo Albanian'>]^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^Kosovo<np><loc><sg>$ ^Albanian<adj>$[<\/a> ]^ethnic<adj>$ ^costume<n><sg>$\/^dance<n><sg>$^.<sent>$[  
 ]^Image<n><sg>$^:<sent>$^*Bibloteka$ ^*Komb$Ã«^*tare$ ^*e$ ^*Kosov$Ã«^*s$^.<sent>$^*jpg$|^National<adj>$ ^Public<adj>$ ^Library<n><sg>$ ^in<pr>$ ^*Pri$Å^¡<lquest>$^*tina$^.<sent>$[
