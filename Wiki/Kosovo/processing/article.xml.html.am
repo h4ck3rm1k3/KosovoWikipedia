@@ -45,6 +45,8 @@
 ]|^sovereignty/sovereignty<n><sg>$_^note/note<n><sg>/note<vblex><inf>/note<vblex><pres>$[         ]= ^from/from<pr>$[ <a href='Serbia'>]^Serbia/*Serbia$[<\/a>
 ]|^established/establish<vblex><past>/establish<vblex><pp>$_^event/event<n><sg>$^1/1<num>$[       ]=[ <a href='2008 Kosovo declaration of independence|Declared'>]^2008/2008<num>$ ^Kosovo/Kosovo<np><loc><sg>$ ^declaration/*declaration$ ^of/of<pr>$ ^independence/independence<n><sg>$|^Declared/Declare<vblex><past>/Declare<vblex><pp>$[<\/a>
 ]|^established/establish<vblex><past>/establish<vblex><pp>$_^date/date<n><sg>/date<vblex><inf>/date<vblex><pres>$^1/1<num>$[        ]=[ <a href='17 February'>]^17/17<num>$ ^February/February<n><sg>$[<\/a> <a href='2008'>]^2008/2008<num>$[<\/a>
+]|^established/establish<vblex><past>/establish<vblex><pp>$_^event/event<n><sg>$^2/2<num>$[       ]= ^Recognized/Recognize<vblex><past>/Recognize<vblex><pp>$[
+]|^established/establish<vblex><past>/establish<vblex><pp>$_^date/date<n><sg>/date<vblex><inf>/date<vblex><pres>$^2/2<num>$[        ]=[ <a href='18 February'>]^18/18<num>$ ^February/February<n><sg>$[<\/a> <a href='2008'>]^2008/2008<num>$[<\/a>
 ]|^area/area<n><sg>$_^rank/rank<n><sg>$[                ]=[ 
 ]|^area/area<n><sg>$_^magnitude/magnitude<n><sg>$[           ]= ^1/1<num>$ ^E/*E$^10/10<num>$[
 ]|^area/area<n><sg>$_^km/*km$^2/2<num>$[                 ]= ^10,887/10,887<num>$[
