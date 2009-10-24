@@ -107,8 +107,7 @@
 <li>]^1%<num><percent>$[ <a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$^.<sent>$[][<\/a><\/li>
 <li>]^1%<num><percent>$[ <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$^.<sent>$[][<\/a><\/li>
 <\/ul>
-<p><br\/>
-<\/p>
+<p><a href='Image:u.s.albania.png'>]^Image<n><sg>$^:<sent>$^*u$^.<sent>$^*s$^.<sent>$^*albania$^.<sent>$^*png$^.<sent>$[][<\/a><\/p>
 <a name="Administrative_divisions"><\/a><h2>]^Administrative<adj>$ ^division<n><pl>$^.<sent>$[][<\/h2><p>]{{^main<adj>$|^*Subdivisions$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]{{^see<vblex><pres>$ ^also<adv>$|^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^divide<vblex><pp>$ ^into<pr>$ ^seven<num><sp>$ ^district<n><pl>$^:<sent>$^.<sent>$[][<\/p>
