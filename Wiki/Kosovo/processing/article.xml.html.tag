@@ -271,7 +271,7 @@
 <a name="Gallery"><\/a><h2>]^Gallery<n><sg>$^.<sent>$[][<\/h2><p>&lt;]^centre<n><sg>$[&gt;&lt;]^gallery<n><sg>$[&gt;
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^Independence<n><sg>$ ^Celebration<n><sg>$ ^with<pr>$ ^Flag<n><sg>$^.<sent>$^*jpg$|^Kosovo<np><loc><sg>$ ^Independence<n><sg>$ ^Celebration<n><sg>$^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^Independence<n><sg>$ ^Celebration<n><sg>$ ^1<num>$^.<sent>$^*jpg$|^Kosovo<np><loc><sg>$ ^Independence<n><sg>$ ^Celebration<n><sg>$^.<sent>$[
-]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$_^government<n><sg>$^.<sent>$^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^in<pr>$ ^*Pri$Å^¡<lquest>$^*tina$^.<sent>$[
+]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$_^government<n><sg>$^.<sent>$^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^in<pr>$ ^*Pristina$^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Prizen$ ^*kosovo$^.<sent>$^*jpg$|^*Prizren$^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Erzengelkloster$^2<num>$^.<sent>$^*jpg$|[<a href='Serbs in Kosovo|Serbian'>]^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^*Serbian$[<\/a> ]^*monastery$^,<cm>$ ^*St$ ^*Archangel$^,<cm>$ ^near<adj><sint>$ ^river<n><sg>$[ <a href='Bistrica'>]^*Bistrica$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Gjakova$^.<sent>$^*jpg$|[<a href='Gjakova'>]^*Gjakova$[<\/a>]^.<sent>$[
@@ -287,7 +287,7 @@
 ]^Image<n><sg>$^:<sent>$^*Hamam$^.<sent>$^*jpg$|"^*Mehmet$ ^*Pasha$" ^*Hamam$ ^in<pr>$[ <a href='Prizren'>]^*Prizren$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Bridgeoverdrin$^.<sent>$^*jpg$|^A<det><ind><sg>$ ^bridge<n><sg>$ ^over<pr>$ ^the<det><def><sp>$ ^*Drin$ ^River<n><sg>$ ^in<pr>$[ <a href='Prizren'>]^*Prizren$[<\/a>
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^museum<n><sg>$^.<sent>$^*jpg$|^The<det><def><sp>$ ^Museum<n><sg>$ ^of<pr>$[ <a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>
-]^Image<n><sg>$^:<sent>$^*BoroRamizi$^.<sent>$^*jpg$|"^*Pallati$ ^*i$ ^*Rinis$Ã«" ^in<pr>$[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
+]^Image<n><sg>$^:<sent>$^*BoroRamizi$^.<sent>$^*jpg$|"^*Pallati$ ^*i$ ^*Rinis$Ã«" ^in<pr>$[ <a href='Pristina'>]^*Pristina$[<\/a>
 &lt;]\/^gallery<n><sg>$[&gt;&lt;]\/^centre<n><sg>$^.<sent>$[][&gt;<\/p>
 <a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><p>&lt;]^*div$ ^style<n><sg>$="^-<guio>$^*moz$^-<guio>$^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^4<num>$^;<sent>$ ^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^4<num>$^;<sent>$"^.<sent>$[][&gt;<\/p>
 <ul>
