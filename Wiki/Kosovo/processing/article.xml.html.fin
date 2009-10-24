@@ -430,7 +430,7 @@
 [][<\/li>
 <li>]^\[<lpar>$^*http$^:$
 \/\/^www.antiwar.com<num>$\/^*malic$\/^?$
-^*articleid$=^8511<num>$[  ]^Kosovo<np><loc><sg>$ ^as<cnjadv>$ ^the<det><def><sp>$ ^price<n><sg>$ ^of<pr>$^.$
+^*articleid$=^8511<num>$ ^-<guio>$ ^Kosovo<np><loc><sg>$ ^as<cnjadv>$ ^the<det><def><sp>$ ^price<n><sg>$ ^of<pr>$^.$
 [][<\/li>
 <\/ul>
 <p>]^Euro<n><sg>$^-<guio>$^Atlantic<adj>$ ^integration<n><pl>$^\]<rpar>$^.$
