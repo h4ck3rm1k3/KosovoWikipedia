@@ -143,13 +143,16 @@
 <\/ul>
 <p><br\/>
 ]{{^*Serbia$_^and<cnjcoo>$_^Montenegro<np><loc><sg>$}}^.<sent>$[][<\/p>
-<p><a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
-<a href='Category:Kosovo'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/p>
 <p><a href='de:Kosovo'>]^*de$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='et:Kosovo'>]^*et$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='es:Kosovo'>]^*es$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='eo:Kosovo'>]^*eo$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='fr:Kosovo'>]^*fr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='nl:Kosovo'>]^*nl$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ja:&amp;#12467;&amp;#12477;&amp;#12532;&amp;#12457;'>]^*ja$^:<sent>$[&amp;]#^12467<num>$^;<sent>$[&amp;]#^12477<num>$^;<sent>$[&amp;]#^12532<num>$^;<sent>$[&amp;]#^12457<num>$^;<sent>$[<\/a>
-<a href='nl:Kosovo'>]^*nl$^:<sent>$^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/p>
+<a href='pt:Kosovo'>]^*pt$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='sv:Kosovo'>]^*sv$^:<sent>$^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/p>
+<p><a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$^.<sent>$[][<\/a><\/p>
 <\/body>
 <\/html>
 ]
