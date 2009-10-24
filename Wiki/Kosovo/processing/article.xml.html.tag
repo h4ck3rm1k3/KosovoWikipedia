@@ -296,6 +296,7 @@
 <li> 
 <a href='http:\/\/www.savekosovo.org Save Kosovo'>]^56<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^promote<vblex><ger>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^American<adj>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^and<cnjcoo>$ ^of<pr>$ ^the<det><def><sp>$ ^critical<adj>$ ^American<adj>$ ^stake<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*provinceâ$^*s$ ^future<n><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovocompromise.com\/ Kosovo 2006 Making of a Compromise'>]^57<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.eparhija-prizren.com\/defaultE.asp\/ Diocese Kosovo of Serbian Orthodox Church'>]^58<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <\/p>
