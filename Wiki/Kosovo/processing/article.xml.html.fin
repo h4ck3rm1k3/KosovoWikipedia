@@ -705,8 +705,22 @@ _^Centralize<vblex><pp>$_^Yugoslav<adj>$_^Control<n><sg>$|^1991<num>$[<\/a> ]^pe
 <\/ul>
 <p><br\/>
 <\/p>
-<a name="References"><\/a><h2>]^Reference<n><pl>$^.$
-[][<\/h2><a name="Further_reading"><\/a><h2>]^Far<adj><sint><comp>$ ^reading<n><sg>$^.$
+<a name="Notes_and_references"><\/a><h2>]^Note<n><pl>$ ^and<cnjcoo>$ ^reference<n><pl>$^.$
+[][<\/h2><p>&lt;]^*div$ ^style<n><sg>$="^height<n><sg>$^:$
+ ^300<num>$^*px$^;$
+ ^*overflow$^:$
+^auto<n><sg>$^;$
+ ^border<n><sg>$^:$
+ ^1<num>$^*px$ ^solid<adj><sint>$ ^gray<adj><sint>$^;$
+ ^*padding$^-<guio>$^right<adj>$^:$
+ ^12<num>$^*px$^;$
+ ^background<n><sg>$^-<guio>$^*color$^:$
+ #^*EEEEEE$^;$
+ "[&gt;
+
+&lt;]\/^*div$^.$
+[][&gt;<\/p>
+<a name="Further_reading"><\/a><h2>]^Far<adj><sint><comp>$ ^reading<n><sg>$^.$
 [][<\/h2><p>]{{^cite<vblex><pres>$ ^book<n><sg>$^.$
 [][<\/p>
 

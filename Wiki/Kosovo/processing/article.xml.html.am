@@ -195,7 +195,10 @@
 <\/ul>
 <p><br\/>
 <\/p>
-<a name="References"><\/a><h2>]^References/Reference<n><pl>$^./.<sent>$[][<\/h2><a name="Further_reading"><\/a><h2>]^Further/Far<adj><sint><comp>/Further<adv>$ ^reading/read<vblex><ger>/read<vblex><pprs>/read<vblex><subs>/reading<n><sg>$^./.<sent>$[][<\/h2><p>]{{^cite/cite<vblex><inf>/cite<vblex><pres>$ ^book/book<n><sg>/book<vblex><inf>/book<vblex><pres>$^./.<sent>$[][<\/p>
+<a name="Notes_and_references"><\/a><h2>]^Notes/Note<n><pl>/Note<vblex><pri><p3><sg>$ ^and/and<cnjcoo>$ ^references/reference<n><pl>$^./.<sent>$[][<\/h2><p>&lt;]^div/*div$ ^style/style<n><sg>$="^height/height<n><sg>$^:/:<sent>$ ^300/300<num>$^px/*px$^;/;<sent>$ ^overflow/*overflow$^:/:<sent>$^auto/auto<n><sg>$^;/;<sent>$ ^border/border<n><sg>$^:/:<sent>$ ^1/1<num>$^px/*px$ ^solid/solid<adj><sint>/solid<n><sg>$ ^gray/gray<adj><sint>$^;/;<sent>$ ^padding/*padding$^-/-<guio>$^right/right<adj>/right<adv>/right<n><sg>$^:/:<sent>$ ^12/12<num>$^px/*px$^;/;<sent>$ ^background/background<n><sg>$^-/-<guio>$^color/*color$^:/:<sent>$ #^EEEEEE/*EEEEEE$^;/;<sent>$ "[&gt;
+
+&lt;]\/^div/*div$^./.<sent>$[][&gt;<\/p>
+<a name="Further_reading"><\/a><h2>]^Further/Far<adj><sint><comp>/Further<adv>$ ^reading/read<vblex><ger>/read<vblex><pprs>/read<vblex><subs>/reading<n><sg>$^./.<sent>$[][<\/h2><p>]{{^cite/cite<vblex><inf>/cite<vblex><pres>$ ^book/book<n><sg>/book<vblex><inf>/book<vblex><pres>$^./.<sent>$[][<\/p>
 
 <pre>]| ^last/last<vblex><inf>/last<vblex><pres>/last<det><ord><sp>$ = ^Malcolm/Malcolm<np><ant><m><sg>$[
  ]| ^first/first<adv>/first<det><ord><sp>$ = ^Noel/Noel<np><ant><m><sg>$[

@@ -195,7 +195,10 @@
 <\/ul>
 <p><br\/>
 <\/p>
-<a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><a name="Further_reading"><\/a><h2>]^Far<adj><sint><comp>$ ^reading<n><sg>$^.<sent>$[][<\/h2><p>]{{^cite<vblex><pres>$ ^book<n><sg>$^.<sent>$[][<\/p>
+<a name="Notes_and_references"><\/a><h2>]^Note<n><pl>$ ^and<cnjcoo>$ ^reference<n><pl>$^.<sent>$[][<\/h2><p>&lt;]^*div$ ^style<n><sg>$="^height<n><sg>$^:<sent>$ ^300<num>$^*px$^;<sent>$ ^*overflow$^:<sent>$^auto<n><sg>$^;<sent>$ ^border<n><sg>$^:<sent>$ ^1<num>$^*px$ ^solid<adj><sint>$ ^gray<adj><sint>$^;<sent>$ ^*padding$^-<guio>$^right<adj>$^:<sent>$ ^12<num>$^*px$^;<sent>$ ^background<n><sg>$^-<guio>$^*color$^:<sent>$ #^*EEEEEE$^;<sent>$ "[&gt;
+
+&lt;]\/^*div$^.<sent>$[][&gt;<\/p>
+<a name="Further_reading"><\/a><h2>]^Far<adj><sint><comp>$ ^reading<n><sg>$^.<sent>$[][<\/h2><p>]{{^cite<vblex><pres>$ ^book<n><sg>$^.<sent>$[][<\/p>
 
 <pre>]| ^last<det><ord><sp>$ = ^Malcolm<np><ant><m><sg>$[
  ]| ^first<det><ord><sp>$ = ^Noel<np><ant><m><sg>$[
