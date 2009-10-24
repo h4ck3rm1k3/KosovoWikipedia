@@ -242,6 +242,7 @@
 <li><a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Serbs in Kosovo'>]^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Albanians in Kosovo'>]^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Albanian nationalism'>]^Albanian<adj>$ ^nationalism<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='National Renaissance of Albania|Albanian nationalism and independence'>]^National<adj>$ ^Renaissance<n><sg>$ ^of<pr>$ ^*Albania$|^Albanian<adj>$ ^nationalism<n><sg>$ ^and<cnjcoo>$ ^independence<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Demographics of Kosovo|Demographic history of Kosovo'>]^*Demographics$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^*Demographic$ ^history<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
