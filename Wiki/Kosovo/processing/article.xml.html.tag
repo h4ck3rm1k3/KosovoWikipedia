@@ -97,9 +97,11 @@
 <ul>
 <li>]^90%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$^.<sent>$[][<\/a><\/li>
 <li>  
-]^1%<num><percent>$[ <a href='Serbs'>]^*Serbs$^.<sent>$[][<\/a><\/li>
+]^5%<num><percent>$[ <a href='Serbs'>]^*Serbs$^.<sent>$[][<\/a><\/li>
 <li>  
-]^7%<num><percent>$[<a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$^.<sent>$[][<\/a><\/li>
+]^3%<num><percent>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^and<cnjcoo>$[ <a href='Gorani|Gorans'>]^*Gorani$|^*Gorans$^.<sent>$[][<\/a><\/li>
+<li>]^1%<num><percent>$[ <a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$[<\/a> ]^(<lpar>$^see<vblex><pres>$ ^also<adv>$[ <a href='Roma in Mitrovica Camps'>]^*Roma$ ^in<pr>$ ^*Mitrovica$ ^Camp<n><pl>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
+<li>]^1%<num><percent>$[ <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p> 
 <br\/>
@@ -121,14 +123,14 @@
 <a name="Cities"><\/a><h2>]^City<n><pl>$^.<sent>$[][<\/h2><p><a href='Image:Prishtina maj 2005.jpg|thumb|200px|\[\[PriÅ¡tina'>]^Image<n><sg>$^:<sent>$^*Prishtina$ ^*maj$ ^2005<num>$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^\[<lpar>$^\[<lpar>$^*Pri$Å^¡<lquest>$^*tina$[<\/a>]\/[<a href='Prishtina'>]^*Prishtina$[<\/a>]^.<sent>$^\]<rpar>$^\]<rpar>$^.<sent>$[][<\/p>
 <p>]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^for<pr>$ ^2006<num>$^)<rpar>$^:<sent>$[&lt;]^*ref$[&gt;]^*http$^:<sent>$\/\/^www.world-gazetteer.com<num>$\/^*wg$^.<sent>$^*php$^?<sent>$^*x$=[&amp;]^man<n><pl>$=^*gcis$[&amp;]^*lng$=^*en$[&amp;]^*dat$=^32<num>$[&amp;]^*srt$=^*npan$[&amp;]^*col$=^*aohdq$[&amp;]^*geo$=^-<guio>$^244<num>$[&lt;]\/^*ref$^.<sent>$[][&gt;<\/p>
 <ul>
-<li><a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]\/[<a href='Prishtina'>]^*Prishtina$[<\/a> ]^(<lpar>$^680,532<num>$^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='Prizren'>]^*Prizren$[<\/a>]\/[<a href='Prizreni'>]^*Prizreni$[<\/a> ]^(<lpar>$^365,229<num>$^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='UroÅ¡evac'>]^*Uro$Å^¡<lquest>$^*evac$[<\/a>]\/[<a href='Ferizaji'>]^*Ferizaji$[<\/a> ]^(<lpar>$^297,741<num>$^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]\/[<a href='Gjakova'>]^*Gjakova$[<\/a> ]^(<lpar>$^297,156<num>$^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='PeÄ'>]^*PeÄ$[<\/a>]\/[<a href='Peja'>]^*Peja$[<\/a> ]^(<lpar>$^295,190<num>$^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='Gnjilane'>]^*Gnjilane$[<\/a>]\/[<a href='Gjilani'>]^*Gjilani$[<\/a> ]^(<lpar>$^291,595<num>$^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a>]\/[<a href='Mitrovica (Kosovo)|Mitrovica'>]^*Mitrovica$ ^(<lpar>$^Kosovo<np><loc><sg>$^)<rpar>$|^*Mitrovica$[<\/a> ]^(<lpar>$^186,359<num>$^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='Podujevo'>]^*Podujevo$[<\/a>]\/[<a href='Podujeva'>]^*Podujeva$[<\/a> ]^(<lpar>$^148,526<num>$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]\/[<a href='Prishtina'>]^*Prishtina$[<\/a> ]^(<lpar>$^271,532<num>$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='Prizren'>]^*Prizren$[<\/a>]\/[<a href='Prizreni'>]^*Prizreni$[<\/a> ]^(<lpar>$^165,229<num>$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='UroÅ¡evac'>]^*Uro$Å^¡<lquest>$^*evac$[<\/a>]\/[<a href='Ferizaji'>]^*Ferizaji$[<\/a> ]^(<lpar>$^97,741<num>$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]\/[<a href='Gjakova'>]^*Gjakova$[<\/a> ]^(<lpar>$^97,156<num>$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='PeÄ'>]^*PeÄ$[<\/a>]\/[<a href='Peja'>]^*Peja$[<\/a> ]^(<lpar>$^95,190<num>$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='Gnjilane'>]^*Gnjilane$[<\/a>]\/[<a href='Gjilani'>]^*Gjilani$[<\/a> ]^(<lpar>$^91,595<num>$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a>]\/[<a href='Mitrovica (Kosovo)|Mitrovica'>]^*Mitrovica$ ^(<lpar>$^Kosovo<np><loc><sg>$^)<rpar>$|^*Mitrovica$[<\/a> ]^(<lpar>$^86,359<num>$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='Podujevo'>]^*Podujevo$[<\/a>]\/[<a href='Podujeva'>]^*Podujeva$[<\/a> ]^(<lpar>$^48,526<num>$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>

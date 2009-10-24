@@ -463,10 +463,14 @@
 <li>]^90%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$^.$
 [][<\/a><\/li>
 <li>  
-]^1%<num><percent>$[ <a href='Serbs'>]^*Serbs$^.$
+]^5%<num><percent>$[ <a href='Serbs'>]^*Serbs$^.$
 [][<\/a><\/li>
 <li>  
-]^7%<num><percent>$[<a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$^.$
+]^3%<num><percent>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^and<cnjcoo>$[ <a href='Gorani|Gorans'>]^*Gorani$|^*Gorans$^.$
+[][<\/a><\/li>
+<li>]^1%<num><percent>$[ <a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$[<\/a> ]^(<lpar>$^see<vblex><pres>$ ^also<adv>$[ <a href='Roma in Mitrovica Camps'>]^*Roma$ ^in<pr>$ ^*Mitrovica$ ^Camp<n><pl>$[<\/a>]^)<rpar>$^.$
+[][<\/li>
+<li>]^1%<num><percent>$[ <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$^.$
 [][<\/a><\/li>
 <\/ul>
 <p> 
@@ -528,21 +532,21 @@
 ^*x$=[&amp;]^man<n><pl>$=^*gcis$[&amp;]^*lng$=^*en$[&amp;]^*dat$=^32<num>$[&amp;]^*srt$=^*npan$[&amp;]^*col$=^*aohdq$[&amp;]^*geo$=^-<guio>$^244<num>$[&lt;]\/^*ref$^.$
 [][&gt;<\/p>
 <ul>
-<li><a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]\/[<a href='Prishtina'>]^*Prishtina$[<\/a> ]^(<lpar>$^680,532<num>$^)<rpar>$^.$
+<li><a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]\/[<a href='Prishtina'>]^*Prishtina$[<\/a> ]^(<lpar>$^271,532<num>$^)<rpar>$^.$
 [][<\/li>
-<li><a href='Prizren'>]^*Prizren$[<\/a>]\/[<a href='Prizreni'>]^*Prizreni$[<\/a> ]^(<lpar>$^365,229<num>$^)<rpar>$^.$
+<li><a href='Prizren'>]^*Prizren$[<\/a>]\/[<a href='Prizreni'>]^*Prizreni$[<\/a> ]^(<lpar>$^165,229<num>$^)<rpar>$^.$
 [][<\/li>
-<li><a href='UroÅ¡evac'>]^*Uro$Å^¡<lquest>$^*evac$[<\/a>]\/[<a href='Ferizaji'>]^*Ferizaji$[<\/a> ]^(<lpar>$^297,741<num>$^)<rpar>$^.$
+<li><a href='UroÅ¡evac'>]^*Uro$Å^¡<lquest>$^*evac$[<\/a>]\/[<a href='Ferizaji'>]^*Ferizaji$[<\/a> ]^(<lpar>$^97,741<num>$^)<rpar>$^.$
 [][<\/li>
-<li><a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]\/[<a href='Gjakova'>]^*Gjakova$[<\/a> ]^(<lpar>$^297,156<num>$^)<rpar>$^.$
+<li><a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]\/[<a href='Gjakova'>]^*Gjakova$[<\/a> ]^(<lpar>$^97,156<num>$^)<rpar>$^.$
 [][<\/li>
-<li><a href='PeÄ'>]^*PeÄ$[<\/a>]\/[<a href='Peja'>]^*Peja$[<\/a> ]^(<lpar>$^295,190<num>$^)<rpar>$^.$
+<li><a href='PeÄ'>]^*PeÄ$[<\/a>]\/[<a href='Peja'>]^*Peja$[<\/a> ]^(<lpar>$^95,190<num>$^)<rpar>$^.$
 [][<\/li>
-<li><a href='Gnjilane'>]^*Gnjilane$[<\/a>]\/[<a href='Gjilani'>]^*Gjilani$[<\/a> ]^(<lpar>$^291,595<num>$^)<rpar>$^.$
+<li><a href='Gnjilane'>]^*Gnjilane$[<\/a>]\/[<a href='Gjilani'>]^*Gjilani$[<\/a> ]^(<lpar>$^91,595<num>$^)<rpar>$^.$
 [][<\/li>
-<li><a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a>]\/[<a href='Mitrovica (Kosovo)|Mitrovica'>]^*Mitrovica$ ^(<lpar>$^Kosovo<np><loc><sg>$^)<rpar>$|^*Mitrovica$[<\/a> ]^(<lpar>$^186,359<num>$^)<rpar>$^.$
+<li><a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a>]\/[<a href='Mitrovica (Kosovo)|Mitrovica'>]^*Mitrovica$ ^(<lpar>$^Kosovo<np><loc><sg>$^)<rpar>$|^*Mitrovica$[<\/a> ]^(<lpar>$^86,359<num>$^)<rpar>$^.$
 [][<\/li>
-<li><a href='Podujevo'>]^*Podujevo$[<\/a>]\/[<a href='Podujeva'>]^*Podujeva$[<\/a> ]^(<lpar>$^148,526<num>$^)<rpar>$^.$
+<li><a href='Podujevo'>]^*Podujevo$[<\/a>]\/[<a href='Podujeva'>]^*Podujeva$[<\/a> ]^(<lpar>$^48,526<num>$^)<rpar>$^.$
 [][<\/li>
 <\/ul>
 <p><br\/>
