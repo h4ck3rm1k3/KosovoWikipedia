@@ -284,18 +284,6 @@
 <li><a href='http:\/\/www.kosovo.net\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^65<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.americansforkosovo.org The American Council for Kosovo'>]^66<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
-<p><br\/>
-<\/p>
-<a name="Pro-Turkish"><\/a><h3>]^*Pro$^-<guio>$^Turkish<adj>$^.<sent>$[][<\/h3><ul>
-<li><a href='http:\/\/www.kdtp.org\/Democratic Party of Kosovo Turks Official Website'>]^67<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovaturkleri.com\/ '>]^68<num>$[<\/a> ]^Turkish<adj>$ ^Community<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^-<guio>$ ^Forum<n><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.yenidonem.org Weekly Turkish Newspaper- Yeni DÃ¶enm's Official Website'>]^69<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.turkcemdergisi.zoomshare.com\/Monthly Turkish Magazine for Child - TÃ¼rkÃ§em's Official Website'>]^70<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovaliyiz.biz\/Kosovo Turkish Youth Official Portal'>]^71<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.ydhaber.com\/Kosovo Turks News Agency's Official Website'>]^72<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.baltam.org\/Kosovo Turkology Research Center's Official Website'>]^73<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.prizrenliler.org\/Prizren's Citizens Official Website (in Turkish)'>]^74<num>$^.<sent>$[][<\/a><\/li>
-<\/ul>
 <p><br\/><\/p>
 <p><a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
 <a href='Category:Kosovo'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
