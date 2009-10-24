@@ -10,7 +10,7 @@
     <h1><\/h1>
 <p>
 ]{|[ 
-]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong> ]^Kosovo<np><loc><sg>$[ <\/strong>&lt;]^*br$\/[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt;]^'<apos>$^'<apos>$^'<apos>$^*Kosova$[ &lt;]\/^big<adj><sint>$[&gt;&lt;]\/^big<adj><sint>$[&gt;
+]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong> ]^Kosovo<np><loc><sg>$[ <\/strong>&lt;]^*br$\/[&gt;]^'<apos>$^'<apos>$^'<apos>$^*Kosova$[ &lt;]\/^big<adj><sint>$[&gt;&lt;]\/^big<adj><sint>$[&gt;
 ]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-Kosovo3.png'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^3<num>$^.<sent>$^*png$[<\/a>
 ]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
@@ -19,6 +19,9 @@
 ]|^-<guio>$[
 ]|[ <a href='Capital'>]^Capital<adj>$[<\/a>
 ]|[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
+]|^-<guio>$[
+]| ^*Albanain$ ^*Anthem$[
+]| ^Proud<adj><sint>$ ^To<pr>$ ^Be<vbser><inf>$ ^A<det><ind><sg>$ ^Albanian<adj>$[ <a href='Media:Albanian.ogg|(listen)'>]^*Media$^:<sent>$^Albanian<n><sg>$^.<sent>$^*ogg$|^(<lpar>$^listen<vblex><pres>$^)<rpar>$[<\/a>
 ]|^-<guio>$[
 ]| ^*Transitional$[ <a href='President'>]^President<n><sg>$[<\/a>
 ]|[ <a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>
