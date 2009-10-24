@@ -1129,7 +1129,9 @@
 <a href='Category:Disputed territories'>]^Category<n><sg>$^:$
 ^*Disputed$ ^territory<n><pl>$^.$
 [][<\/a><\/p>
-<p><a href='als:Kosovo'>]^*als$^:$
+<p><a href='af:Kosovo'>]^*af$^:$
+^Kosovo<np><loc><sg>$[<\/a>
+<a href='als:Kosovo'>]^*als$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='ang:Kosovo'>]^*ang$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
@@ -1193,12 +1195,12 @@
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='ga:An Chosaiv'>]^*ga$^:$
 ^A<det><ind><sg>$ ^*Chosaiv$[<\/a>
+<a href='gan:ç§ç´¢æ²'>]^*gan$^:$
+^*ç$§^*ç$´¢æ²[<\/a>
 <a href='gv:Kosovo'>]^*gv$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='gl:Kosovo'>]^*gl$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
-<a href='gan:ç§ç´¢æ²'>]^*gan$^:$
-^*ç$§^*ç$´¢æ²[<\/a>
 <a href='ko:ì½ìë³´'>]^*ko$^:$
 ^*ì$½^*ì$^*ë$³´[<\/a>
 <a href='hi:à¤à¥à¤¸à¥à¤µà¥'>]^*hi$^:$
@@ -1219,6 +1221,8 @@
 ×§××^¡<lquest>$×××[<\/a>
 <a href='jv:Kosovo'>]^*jv$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
+<a href='kn:à²à³à²¸à³à²µà³'>]^*kn$^:$
+^*à$²^*à$³^*à$²¸^*à$³^*à$²µ^*à$³[<\/a>
 <a href='ka:ááá¡ááá'>]^*ka$^:$
 ^*á$^*á$^*á$^¡<lquest>$^*á$^*á$^*á$[<\/a>
 <a href='kk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*kk$^:$
@@ -1227,12 +1231,18 @@
 ^*Kosova$[<\/a>
 <a href='sw:Kosovo'>]^*sw$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
+<a href='kv:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*kv$^:$
+ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
+<a href='ku:Kosovo'>]^*ku$^:$
+^Kosovo<np><loc><sg>$[<\/a>
 <a href='lad:Kosovo'>]^lad<n><sg>$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='la:Ager Merulensis'>]^*la$^:$
 ^*Ager$ ^*Merulensis$[<\/a>
 <a href='lv:Kosova'>]^*lv$^:$
 ^*Kosova$[<\/a>
+<a href='lb:Kosovo'>]^*lb$^:$
+^Kosovo<np><loc><sg>$[<\/a>
 <a href='lt:Kosovas'>]^*lt$^:$
 ^*Kosovas$[<\/a>
 <a href='li:Kosovo'>]^*li$^:$
@@ -1283,6 +1293,8 @@
 ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='sq:Kosova'>]^*sq$^:$
 ^*Kosova$[<\/a>
+<a href='scn:KÃ²ssuvu'>]^*scn$^:$
+^*K$Ã²^*ssuvu$[<\/a>
 <a href='simple:Kosovo'>]^simple<adj><sint>$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='sk:Kosovo'>]^*sk$^:$
@@ -1311,8 +1323,8 @@
 ^*Ú$©^*Ù$Ø³^*Ù$^*Ù$^*Û$[<\/a>
 <a href='vec:Kosovo'>]^*vec$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
-<a href='wuu:èæ²å'>]^*wuu$^:$
-^*è$æ²å[<\/a>
+<a href='wuu:ç§ç´¢æ²'>]^*wuu$^:$
+^*ç$§^*ç$´¢æ²[<\/a>
 <a href='zh-yue:ç§ç´¢æ²'>]^*zh$^-<guio>$^*yue$^:$
 ^*ç$§^*ç$´¢æ²[<\/a>
 <a href='diq:Kosova'>]^*diq$^:$
