@@ -136,7 +136,8 @@
 <a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$[<\/a> ]^maintain<vblex><pri><p3><sg>$ ^its<det><pos><sp>$ ^own<adj>$ ^government<n><sg>$^,<cm>$ ^infrastructure<n><sg>$ ^and<cnjcoo>$ ^institution<n><pl>$ ^by<pr>$ ^its<det><pos><sp>$ ^dominant<adj>$ ^ethnic<adj>$[ <a href='Serb'>]^*Serb$[<\/a> ]^population<n><sg>$ ^in<pr>$[ <a href='District of Kosovska Mitrovica'>]^the<det><def><sp>$ ^District<n><sg>$ ^of<pr>$ ^*Kosovska$ ^*Mitrovica$[<\/a>]^,<cm>$ ^*viz$^.<sent>$ ^in<pr>$[ <a href='LeposaviÄ'>]^the<det><def><sp>$ ^*LeposaviÄ$[<\/a>]^,<cm>$[ <a href='ZveÄan'>]^*ZveÄ$^a<det><ind><sg>$[<\/a> ]^and<cnjcoo>$[ <a href='Zubin Potok'>]^*Zubin$ ^*Potok$[<\/a> ]^municipality<n><pl>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^northern<adj>$ ^part<n><sg>$ ^of<pr>$[ <a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a>]^.<sent>$^.<sent>$[][<\/p>
 <a name="Districts"><\/a><h3>]^District<n><pl>$^.<sent>$[][<\/h3><p>]{{^main<adj>$|^*Subdivisions$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <a name="Municipalities_and_cities"><\/a><h3>]^Municipality<n><pl>$ ^and<cnjcoo>$ ^city<n><pl>$^.<sent>$[][<\/h3><p>]{{^main<adj>$|^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
-]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^also<adv>$ ^divide<vblex><pp>$ ^into<pr>$ ^30<num>$ ^municipality<n><pl>$ ^:<sent>$^.<sent>$[][<\/p>
+]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^also<adv>$ ^divide<vblex><pp>$ ^into<pr>$ ^30<num>$ ^municipality<n><pl>$^:<sent>$[
+]{{^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <a name="Politics"><\/a><h2>]^Politics<n><sg>$^.<sent>$[][<\/h2><p>]{{^main<adj>$|^Politics<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Unite<vblex><past>$ ^Nation<n><pl>$ ^Interim<adj>$ ^Administration<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$}}^.<sent>$[][
 
 <\/p>
