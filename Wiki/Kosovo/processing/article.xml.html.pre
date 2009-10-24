@@ -117,8 +117,8 @@
 <li><a href='http:\/\/www.alb-shkenca.org\/images\/stories\/Why%20Independence.pdf Why Independence for Kosovo?'>]^14<num>$[<\/a> ]^A<det><ind><sg>$ ^summary<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^case<n><sg>$ ^for<pr>$ ^a<det><ind><sg>$ ^independent<adj>$ ^*Kosova$ ^by<pr>$ ^two<num><sp>$ ^*Prishtina$ ^intellectual<n><pl>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/><\/p>
-<p>]{{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$}}^.<sent>$[][<\/p>
-<p><a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
+<p><br\/>
+<a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
 <a href='Category:Kosovo| '>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|[ <\/a>
 <a href='Category:United Nations'>]^Category<n><sg>$^:<sent>$^Unite<vblex><pp>$ ^Nation<n><pl>$^.<sent>$[][<\/a><\/p>
 <p><a href='ar:ÙÙØµÙØ©'>]^*ar$^:<sent>$^*Ù$^*Ù$Øµ^*Ù$Ø©[<\/a>
