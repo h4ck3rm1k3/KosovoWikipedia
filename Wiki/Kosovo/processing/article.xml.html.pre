@@ -100,7 +100,7 @@
 <ul>
 <li><a href='https:\/\/www.osce.org\/documents\/mik\/1999\/11\/1620_en.pdf Human Rights in Kosovo: As Seen, As Told. Volume I, October 1998 - June 1999'>]^4<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
 <li><\/li>
-<li><a href='http:\/\/www.xixonline.com  Restaurant in Kosovo'>]^5<num>$[<\/a> ]^-<guio>$ ^Restaurant<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.xixonline.com  Restaurant in Kosovo'>]^5<num>$[<\/a> ]^-<guio>$ ^Restaurant<n><sg>$ ^in<pr>$ ^*Kosova$^.<sent>$[][<\/li>
 <li> 
 <a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^6<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ A collection of photos from Kosovo'>]^7<num>$^.<sent>$[][<\/a><\/li>
