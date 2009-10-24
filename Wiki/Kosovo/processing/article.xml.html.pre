@@ -263,8 +263,7 @@
 ]}}^.<sent>$[][<\/p>
 <p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$[&gt;
 <a href='Category:Kosovo| '>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|[ <\/a>
-<a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
-<a href='Category:Liberal democracies'>]^Category<n><sg>$^:<sent>$^Liberal<adj>$ ^democracy<n><pl>$^.<sent>$[][<\/a><\/p>
+<a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$^.<sent>$[][<\/a><\/p>
 <p><a href='als:Kosovo'>]^*als$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ang:Kosovo'>]^*ang$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ar:ÙÙØ³ÙÙÙ'>]^*ar$^:<sent>$^*Ù$^*Ù$Ø³^*Ù$^*Ù$^*Ù$[<\/a>
