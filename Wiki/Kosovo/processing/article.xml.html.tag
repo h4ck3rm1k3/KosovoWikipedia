@@ -18,7 +18,7 @@
 ]{{^*Infobox$ ^Country<n><sg>$[
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[   ]= ^Kosovo<np><loc><sg>$[
 ]|^image<n><sg>$_^map<n><sg>$ = ^Kosovo<np><loc><sg>$ ^map<n><sg>$^-<guio>$^*en$^.<sent>$^*svg$[
-]|^map<n><sg>$_^*caption$ = ^Map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^the<det><def><sp>$ ^neutrality<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^place<n><sg>$ ^name<n><pl>$ ^use<vblex><pp>$ ^in<pr>$ ^this<det><dem><sg>$ ^map<n><sg>$ ^be<vbser><pri><p3><sg>$ ^*disputed$^)<rpar>$[ 
+]|^map<n><sg>$_^*caption$ = ^Map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[
 ]|^national<adj>$_^*motto$[           ]=[
 ]|^national<adj>$_^*anthem$[          ]=[
 ]|^ethnic<adj>$_^group<n><pl>$[            ]= ^92%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>&lt;]^*br$\/[&gt;]^5.3%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a>&lt;]^*br$\/[&gt;]^2.7%<num><percent>$ ^others<prn><tn><mf><pl>$[ &lt;]^*ref$[&gt;<a href='http:\/\/www.ks-gov.net\/ESK\/esk\/english\/english.htm Enti i StatistikÃ«s sÃ« KosovÃ«s'>]^1<num>$[<\/a>&lt;]\/^*ref$[&gt;
