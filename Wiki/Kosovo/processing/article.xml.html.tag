@@ -12,8 +12,8 @@
 ]^Please<vblex><inf>$ ^be<vbser><inf>$ ^very<preadv>$ ^careful<adj>$ ^in<pr>$ ^edit<vblex><ger>$ ^the<det><def><sp>$ ^introduction<n><sg>$ ^of<pr>$ ^this<det><dem><sg>$ ^article<n><sg>$^.<sent>$ ^The<det><def><sp>$ ^*Arbitration$ ^Committee<n><sg>$ ^have<vbhaver><pri><p3><sg>$ ^place<vblex><pp>$ ^this<det><dem><sg>$ ^article<n><sg>$ ^on<pr>$ ^*probation$^.<sent>$ ^While<cnjadv>$ ^this<prn><tn><mf><sg>$ ^occur<vblex><pp>$ ^in<pr>$ ^2006<num>$^,<cm>$ ^prpers<prn><subj><p3><nt><sg>$ ^be<vbser><past><p3><sg>$ ^never<adv>$ ^*lifted$^;<sent>$ ^thus<adv>$^,<cm>$ ^THIS<det><dem><sg>$ ^PAGE<n><sg>$ ^BE<vbser><pri><p3><sg>$ ^STILL<adv>$ ^UNDER<pr>$ ^*PROBATION$^.<sent>$ ^If<cnjadv>$ ^any<det><ind><sp>$ ^editor<n><sg>$ ^make<n><pl>$ ^*disruptive$ ^edit<vblex><pri><p3><sg>$^,<cm>$ ^prpers<prn><subj><p3><mf><pl>$ ^may<vaux><inf>$ ^be<vbser><inf>$ ^ban<vblex><pp>$ ^by<pr>$ ^a<det><ind><sg>$ ^administrator<n><sg>$ ^from<pr>$ ^this<prn><tn><mf><sg>$ ^and<cnjcoo>$ ^relate<vblex><pp>$ ^article<n><pl>$^,<cm>$ ^or<cnjcoo>$ ^other<det><ind><sp>$ ^reasonably<adv>$ ^relate<vblex><pp>$ ^page<n><pl>$^.<sent>$ ^See<vblex><inf>$ ^the<det><def><sp>$ ^talk<n><sg>$ ^page<n><sg>$ ^for<pr>$ ^more<preadv>$ ^information<n><sg>$^.<sent>$ ^*Thank$ ^prpers<prn><obj><p2><mf><sp>$^.<sent>$^.<sent>$[][<\/p>
 <p>]^-<guio>$^-<guio>$[&gt;
 
-]{{^Current<adj>$|^date<n><sg>$=^February<n><sg>$ ^2008<num>$}}[
 
+]{{^current<n><sg>$ ^relate<vblex><pp>$|^article<n><sg>$|^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$|^date<n><sg>$=^February<n><sg>$ ^2008<num>$}}[
 
 ]{{^*Infobox$ ^Country<n><sg>$[
 ]|^native<adj>$_^name<n><sg>$[              ]= {{^*nowrap$|{{^*lang$|^*sq$|[<em>]^*Kosova$[<\/em>]}}[&lt;]^*br$[&gt;]{{^*lang$|^*sr$^-<guio>$^*Cyrl$|[<em>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/em>]}} \/ {{^*lang$|^*sr$^-<guio>$^*Latn$|[<em>]^Kosovo<np><loc><sg>$[<\/em>]}}}}[
