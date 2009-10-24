@@ -362,9 +362,9 @@
 <a href='oc:Kosova'>]^*oc$^:<sent>$^*Kosova$[<\/a>
 <a href='uz:Kosovo'>]^*uz$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='km:áááááá áá¼áá¼ááá¼'>]^*km$^:<sent>$^*á$^*á$^*á$^*á$^*á$^*á$ ^*á$^*á$¼^*á$^*á$¼^*á$^*á$^*á$¼[<\/a>
-<a href='pms:KÃ²sovo'>]^*pms$^:<sent>$^*K$Ã²^*sovo$[<\/a>
 <a href='nds:Kosovo'>]^*nds$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='pl:Kosowo'>]^*pl$^:<sent>$^*Kosowo$[<\/a>
+<a href='pms:Kosovo'>]^*pms$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='pt:Kosovo'>]^*pt$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ksh:Kosovo'>]^*ksh$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ro:Kosovo'>]^*ro$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
