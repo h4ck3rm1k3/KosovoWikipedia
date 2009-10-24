@@ -14,6 +14,7 @@
 <p>]^-<guio>$^-<guio>$[&gt;
 ]^:<sent>$[<em>]^This<det><dem><sg>$ ^article<n><sg>$ ^be<vbser><pri><p3><sg>$ ^about<pr>$ ^the<det><def><sp>$ ^declare<vblex><pp>$ ^state<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*Balkans$^.<sent>$ ^See<vblex><pres>$[ <a href='Kosovo (region)'>]^Kosovo<np><loc><sg>$ ^(<lpar>$^region<n><sg>$^)<rpar>$[<\/a> ]^for<pr>$ ^the<det><def><sp>$ ^*geographical$ ^region<n><sg>$^.<sent>$ ^For<pr>$ ^other<det><ind><sp>$ ^use<n><pl>$^,<cm>$ ^see<vblex><pres>$[ <a href='Kosovo (disambiguation)'>]^Kosovo<np><loc><sg>$ ^(<lpar>$^*disambiguation$^)<rpar>$[<\/a>]^.<sent>$[<\/em>
 ]{{^redirect<vblex><pres>$|^Republic<n><sg>$ ^of<pr>$ ^*Kosova$||^Republic<n><sg>$ ^of<pr>$ ^*Kosova$ ^(<lpar>$^1990<num>$^*â$^2000<num>$^)<rpar>$}}[
+]{{^redirect<vblex><pres>$|^*Kosova$||^*Kosova$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
 ]{{^*Infobox$ ^Country<n><sg>$[
 ]|^native<adj>$_^name<n><sg>$ = {{^*nowrap$|{{^*lang$|^*sq$|[<strong><em>]^*Republika$ ^*e$ ^*Kosov$Ã«^*s$[<\/strong><\/em>]}}[&lt;]^*br$[&gt;]{{^*lang$|^*sr$^-<guio>$^*Cyrl$|ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°}} \/ {{^*lang$|^*sr$^-<guio>$^*Latn$|[<em>]^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/em>]}}}}[
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[   ]= ^Kosovo<np><loc><sg>$[
