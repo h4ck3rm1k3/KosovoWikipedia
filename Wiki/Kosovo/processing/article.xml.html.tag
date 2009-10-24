@@ -108,7 +108,7 @@
 <li><em>]^1%<num><percent>$[<\/em> <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$[<\/a> ]^(<lpar>$^18<num>$ ^to<pr>$ ^20<num>$ ^thousand<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
 <p>]^However<adv>$^,<cm>$ ^the<det><def><sp>$ ^figure<n><pl>$ ^be<vbser><pres>$ ^highly<adv>$ ^*disputable$^.<sent>$ ^Some<det><qnt><sp>$ ^estimate<n><pl>$ ^be<vbser><pres>$ ^that<cnjsub>$ ^there<adv>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^Albanian<adj>$ ^majority<n><sg>$ ^well<adv>$ ^above<pr>$ ^90<num>$ ^percent<n><sg>$^.<sent>$^.<sent>$[][<\/p>
-<a name="Transitional_Presidents"><\/a><h2>]^*Transitional$ ^President<n><pl>$^.<sent>$[][<\/h2><ul>
+<a name="List_of_Presidents"><\/a><h2>]^List<n><sg>$ ^of<pr>$ ^President<n><pl>$^.<sent>$[][<\/h2><ul>
 <li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>]^,<cm>$[ <a href='1992'>]^1992<num>$[<\/a>]^-<guio>$[<a href='2006'>]^2006<num>$[<\/a> ]^(<lpar>$^*deceased$^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>]^,<cm>$[ <a href='2006'>]^2006<num>$[<\/a>]^-<guio>$^present<n><sg>$^.<sent>$[][<\/li>
 <\/ul>
