@@ -123,6 +123,8 @@
 <li><a href='National awakening and the birth of Albania'>]^National<adj>$ ^awaken<vblex><ger>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^birth<n><sg>$ ^of<pr>$ ^*Albania$^.<sent>$[][<\/a><\/li>
 <li><a href='Unrest in Kosovo'>]^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^(<lpar>$^about<pr>$ ^the<det><def><sp>$ ^March<n><sg>$ ^2004<num>$ ^unrest<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
+<p><br\/><\/p>
+<p><a href='Category:History of Kosovo'>]^Category<n><sg>$^:<sent>$^History<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/p>
 <\/body>
 <\/html>
 ]
