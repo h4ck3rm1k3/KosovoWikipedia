@@ -17,7 +17,7 @@
 ]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^currently<adv>$ ^administer<vblex><pp>$ ^by<pr>$[ <a href='United Nations'>]^the<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$[<\/a>]^.<sent>$[
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
-]|[ <a href='English'>]^English<adj>$[<\/a>]^,<cm>$[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
+]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Capital'>]^Capital<n><sg>$[<\/a>
 ]|[ <a href='PrishtinÃ«'>]^*Prishtin$Ã«[<\/a>
