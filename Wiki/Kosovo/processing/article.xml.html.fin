@@ -551,15 +551,15 @@
 &lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:$
  ^absolute<adj>$^;$
 ^*font$^-<guio>$^size<n><sg>$^:$
-^140%<num><percent>$^;$
+^170%<num><percent>$^;$
 ^left<adv>$^:$
-^130<num>$^*px$^;$
+^145<num>$^*px$^;$
 ^top<adj>$^:$
-^254<num>$^*px$"[&gt;<strong><a href='Prizren'>]^*Prizren$[<\/a><\/strong>&lt;]\/^*div$[&gt;
+^370<num>$^*px$"[&gt;<strong><a href='Prizren'>]^*Prizren$[<\/a><\/strong>&lt;]\/^*div$[&gt;
 &lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:$
  ^absolute<adj>$^;$
 ^*font$^-<guio>$^size<n><sg>$^:$
-^140%<num><percent>$^;$
+^170%<num><percent>$^;$
 ^left<adv>$^:$
 ^155<num>$^*px$^;$
 ^top<adj>$^:$
@@ -567,7 +567,7 @@
 &lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:$
  ^absolute<adj>$^;$
 ^*font$^-<guio>$^size<n><sg>$^:$
-^140%<num><percent>$^;$
+^170%<num><percent>$^;$
 ^left<adv>$^:$
 ^225<num>$^*px$^;$
 ^top<adj>$^:$
@@ -575,7 +575,7 @@
 &lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:$
  ^absolute<adj>$^;$
 ^*font$^-<guio>$^size<n><sg>$^:$
-^140%<num><percent>$^;$
+^170%<num><percent>$^;$
 ^left<adv>$^:$
 ^274<num>$^*px$^;$
 ^top<adj>$^:$
@@ -583,7 +583,7 @@
 &lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:$
  ^absolute<adj>$^;$
 ^*font$^-<guio>$^size<n><sg>$^:$
-^140%<num><percent>$^;$
+^170%<num><percent>$^;$
 ^left<adv>$^:$
 ^60<num>$^*px$^;$
 ^top<adj>$^:$
@@ -591,7 +591,7 @@
 &lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:$
  ^absolute<adj>$^;$
 ^*font$^-<guio>$^size<n><sg>$^:$
-^140%<num><percent>$^;$
+^170%<num><percent>$^;$
 ^left<adv>$^:$
 ^220<num>$^*px$^;$
 ^top<adj>$^:$
