@@ -182,9 +182,7 @@
 <a name="List_of_Presidents"><\/a><h2>]^List<n><sg>$ ^of<pr>$ ^President<n><pl>$^.<sent>$[][<\/h2><p>]^List<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^president<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[ &lt;]^*ref$[&gt;]^*http$^:<sent>$\/\/^www.worldstatesmen.org<num>$\/^Yugoslavia<np><loc><sg>$^.<sent>$^*html$#^Kosovo<np><loc><sg>$[&lt;]\/^*ref$[&gt;]^:<sent>$^.<sent>$[][<\/p>
 <ul>
 <li><a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>]^,<cm>$[ <a href='10 February'>]^10<num>$ ^February<n><sg>$[<\/a> <a href='2006'>]^2006<num>$[<\/a> ]^-<guio>$ ^present<n><sg>$^.<sent>$[][<\/li>
-<li>]^*Nexhat$ ^*Daci$ ^(<lpar>$^acting<adj>$^)<rpar>$^,<cm>$[ <a href='21 January'>]^21<num>$ ^January<n><sg>$[<\/a> ]^2006<num>$ ^-<guio>$ ^10<num>$ ^February<n><sg>$ ^2006<num>$^.<sent>$[][<\/li>
-<li> 
-<a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>]^,<cm>$[ <a href='4 March'>]^4<num>$ ^March<n><sg>$[<\/a> <a href='2002'>]^2002<num>$[<\/a> ]^-<guio>$ ^21<num>$ ^January<n><sg>$ ^2006<num>$^.<sent>$[][<\/li>
+<li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>]^,<cm>$[ <a href='4 March'>]^4<num>$ ^March<n><sg>$[<\/a> <a href='2002'>]^2002<num>$[<\/a> ]^-<guio>$ ^21<num>$ ^January<n><sg>$ ^2006<num>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
