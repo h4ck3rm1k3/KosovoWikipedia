@@ -76,12 +76,11 @@
 <\/p>
 <a name="Demographics"><\/a><h2>]^*Demographics$^.<sent>$[][<\/h2><p>]^The<det><def><sp>$ ^population<n><sg>$ ^be<vbser><pri><p3><sg>$ ^currently<adv>$ ^comprise<vblex><pp>$ ^of<pr>$ ^a<det><ind><sg>$ ^majority<n><sg>$ ^of<pr>$[ <a href='Albanian'>]^Albanian<n><pl>$[<\/a> ]^(<lpar>$^estimate<vblex><pp>$ ^at<pr>$ ^80%<num><percent>$ ^prior<adj>$ ^to<pr>$ ^the<det><def><sp>$ ^international<adj>$ ^conflict<n><sg>$ ^of<pr>$[ <a href='1999'>]^1999<num>$[<\/a>]^,<cm>$ ^but<cnjcoo>$ ^now<adv>$ ^somewhat<adv>$ ^large<adj><sint><comp>$ ^owe<vblex><ger>$ ^to<pr>$[ <a href='ethnic cleansing'>]^the<det><def><sp>$ ^ethnic<adj>$ ^cleansing<adj>$[<\/a> ]^of<pr>$ ^many<det><qnt><pl>$[ <a href='Serbs'>]^*Serbs$[<\/a> ]^and<cnjcoo>$ ^other<det><ind><sp>$ ^non<adv>$^-<guio>$^Albanian<n><pl>$^;<sent>$ ^see<vblex><pres>$[ <a href='Kosovo population data-points'>]^Kosovo<np><loc><sg>$ ^population<n><sg>$ ^data<n><sg>$^-<guio>$^point<n><pl>$[<\/a>]^)<rpar>$^.<sent>$^.<sent>$[][<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><ul>
-<li><a href='Battle of Kosovo'>]^Battle<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Battle of Kosovo|Battle of Kosovo (1389)'>]^Battle<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Battle<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^1389<num>$^)<rpar>$^.<sent>$[][<\/a><\/li>
 <li>   
 <a href='National awakening and the birth of Albania'>]^National<adj>$ ^awaken<vblex><ger>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^birth<n><sg>$ ^of<pr>$ ^*Albania$^.<sent>$[][<\/a><\/li>
 <\/ul>
-<p> 
-<br\/>
+<p><br\/>
 <\/p>
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><ul>
 <li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohia'>]^9<num>$^.<sent>$[][<\/a><\/li>
