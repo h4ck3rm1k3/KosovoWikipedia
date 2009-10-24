@@ -149,7 +149,7 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^20<num>$[<\/a> ]"^,<cm>$[ 
 ]{{^main<adj>$|^*Demographic$ ^history<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]^According to<pr>$ ^the<det><def><sp>$ ^Kosovo<np><loc><sg>$ ^in<pr>$ ^Figure<n><pl>$ ^2005<num>$ ^Survey<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Statistical<adj>$ ^Office<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$[&lt;]^*ref$[&gt;]^*http$^:<sent>$\/\/^www.ks-gov.net<num>$\/^*esk$\/^*esk$\/^*pdf$\/^*english$\/^general<adj>$\/^*kosovo$_^figure<n><pl>$_^05<num>$^.<sent>$^*pdf$[  &lt;]\/^*ref$[&gt; ]^Kosovo<np><loc><sg>$^'s<gen>$ ^total<adj>$ ^population<n><sg>$ ^be<vbser><pri><p3><sg>$ ^estimate<vblex><pp>$ ^between<pr>$ ^1.9<num>$ ^and<cnjcoo>$ ^2.2<num>$ ^million<num><sp>$ ^in<pr>$ ^the<det><def><sp>$ ^follow<vblex><ger>$ ^ethnic<adj>$ ^proportion<n><pl>$^:<sent>$^.<sent>$[][<\/p>
 <ul>
-<li>]^92%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a> ]^(<lpar>$^between<pr>$ ^2,272<num>$^,<cm>$^000<num>$ ^and<cnjcoo>$ ^2,400<num>$^,<cm>$^000<num>$^)<rpar>$^.<sent>$[][<\/li>
+<li>]^92%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a> ]^(<lpar>$^between<pr>$ ^2,002<num>$^,<cm>$^000<num>$ ^and<cnjcoo>$ ^2,002<num>$^,<cm>$^000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
 ]^6.5%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a> ]^(<lpar>$^between<pr>$ ^126,000<num>$ ^and<cnjcoo>$ ^140,000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
