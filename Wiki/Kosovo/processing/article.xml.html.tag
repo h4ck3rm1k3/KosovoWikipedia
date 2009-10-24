@@ -114,9 +114,7 @@
 <\/p>
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><ul>
 <li><a href='http:\/\/www.osce.org\/kosovo\/documents\/reports\/hr\/part1\/p5app.htm www.osce.org\/kosovo\/documents\/reports\/hr\/part1\/p5app.htm'>]^5<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
-<\/ul>
-<p><br\/><\/p>
-<ul>
+<li><\/li>
 <li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^6<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ A collection of photos from Kosovo'>]^7<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.kosovo.com\/sk\/history\/kosovo_origins\/default.htm  Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^8<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ "^objective<adj>$" ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
