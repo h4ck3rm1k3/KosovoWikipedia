@@ -9,7 +9,7 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>]{{^POV<n><acr><sg>$|^date<n><sg>$=^December<n><sg>$ ^2008<num>$}}{{^*Citecheck$|^date<n><sg>$=^February<n><sg>$ ^2009<num>$}}[
+<p>]{{^POV<n><acr><sg>$|^date<n><sg>$=^December<n><sg>$ ^2008<num>$}}{{^Cite<vblex><pres>$ ^check<n><sg>$|^date<n><sg>$=^February<n><sg>$ ^2009<num>$}}[
 
 &lt;]^!$
 ^-<guio>$^-<guio>$^-<guio>$^-<guio>$^-<guio>$[
@@ -111,7 +111,7 @@
 ^*svg$[
 ]|^image<n><sg>$_^coat<n><sg>$[             ]=[ 
 ]|^sovereignty<n><sg>$_^type<n><sg>$[       ]= ^UN<n><acr><sg>$ ^administration<n><sg>$[
-]|^sovereignty<n><sg>$_^note<n><sg>$[       ]=[ <a href='United Nations Security Council Resolution 1244|UN administration'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$|^UN<n><acr><sg>$ ^administration<n><sg>$[<\/a> ]^of<pr>$[ <a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>
+]|^sovereignty<n><sg>$_^note<n><sg>$[       ]=[ <a href='United Nations Security Council Resolution 1244|UN administration'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$|^UN<n><acr><sg>$ ^administration<n><sg>$[<\/a> ]^of<pr>$ ^Kosovo<np><loc><sg>$[
 ]|^leader<n><sg>$_^title<n><sg>$^1<num>$[          ]=[ <a href='Special Representative of the Secretary-General for Kosovo|Special Representative'>]^Special<adj>$ ^Representative<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Secretary<n><sg>$^-<guio>$^General<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$|^Special<adj>$ ^Representative<adj>$[<\/a>
 ]|^leader<n><sg>$_^name<n><sg>$^1<num>$[           ]=[ <a href='Lamberto Zannier'>]^Lamberto<np><ant><m><sg>$ ^*Zannier$[<\/a> ]^(<lpar>$[<a href='United Nations|UN'>]^Unite<vblex><pp>$ ^Nation<n><pl>$|^UN<n><acr><sg>$[<\/a>]^)<rpar>$[
 ]|^leader<n><sg>$_^title<n><sg>$^2<num>$[          ]=[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
@@ -966,8 +966,8 @@
 [][<\/p>
 <a name="Trade_and_investment"><\/a><h3>]^Trade<n><sg>$ ^and<cnjcoo>$ ^investment<n><sg>$^.$
 [][<\/h3><p>]^Kosovo<np><loc><sg>$^'s<gen>$ ^2006<num>$ ^trade<n><sg>$ ^balance<n><sg>$ ^be<vbser><past><p3><sg>$ ^total<adj>$ ^export<n><pl>$^(<lpar>$^FOB<n><acr><sg>$^)<rpar>$ \$^154<num>$^*mil$ ^and<cnjcoo>$ ^total<adj>$ ^import<n><pl>$^(<lpar>$^CIF<n><acr><sg>$^)<rpar>$ \$^1,612<num>$^*mil$^.$
-^.$
-[][ <\/p>
+ {{^Fact<n><sg>$|^date<n><sg>$=^May<n><sg>$ ^2009<num>$}}^.$
+[][<\/p>
 <p>]^The<det><def><sp>$[ <a href='Republic of Macedonia'>]^Republic<n><sg>$ ^of<pr>$ ^Macedonia<np><ant><f><sg>$[<\/a> ]^be<vbser><pri><p3><sg>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^large<adj><sint><sup>$ ^import<n><sg>$ ^and<cnjcoo>$ ^export<n><sg>$ ^market<n><sg>$ ^(<lpar>$^*averaging$ ^*â$¬^220<num>$[&amp;]^*nbsp$^;$
 ^million<num><sp>$ ^and<cnjcoo>$ ^*â$¬^9<num>$[&amp;]^*nbsp$^;$
 ^million<num><sp>$^,<cm>$ ^respectively<adv>$ ^or<cnjcoo>$ ^20%<num><percent>$ ^of<pr>$ ^whole<adj>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^trade<n><sg>$^)<rpar>$^,<cm>$ ^follow<vblex><pp>$ ^by<pr>$ ^*Serbia$ ^(<lpar>$^*â$¬^111<num>$[&amp;]^*nbsp$^;$
@@ -992,12 +992,12 @@
 ]^The<det><def><sp>$ ^province<n><sg>$^'s<gen>$ ^economic<adj>$ ^weakness<n><sg>$ ^have<vbhaver><pri><p3><sg>$ ^produce<vblex><pp>$ ^a<det><ind><sg>$ ^*thriving$ ^black<adj>$ ^economy<n><sg>$ ^in<pr>$ ^which<det><itg><sp>$ ^*smuggled$ ^petrol<n><sg>$^,<cm>$ ^cigarette<n><pl>$ ^and<cnjcoo>$ ^cement<n><sg>$ ^be<vbser><pres>$ ^major<adj>$ ^commodity<n><pl>$^.$
  ^The<det><def><sp>$ ^*prevalence$ ^of<pr>$ ^official<adj>$ ^corruption<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*pervasive$ ^influence<n><sg>$ ^of<pr>$ ^organise<vblex><pp>$ ^crime<n><sg>$ ^*gangs$ ^have<vbhaver><pri><p3><sg>$ ^cause<vblex><pp>$ ^serious<adj>$ ^concern<n><sg>$ ^*internationally$^.$
  ^The<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$ ^have<vbhaver><pri><p3><sg>$ ^make<vblex><pp>$ ^the<det><def><sp>$ ^fight<n><sg>$ ^against<pr>$ ^corruption<n><sg>$ ^and<cnjcoo>$ ^organise<vblex><pp>$ ^crime<n><sg>$ ^a<det><ind><sg>$ ^high<adj><sint>$ ^priority<n><sg>$^,<cm>$ ^pledging<n><sg>$ ^a<det><ind><sg>$ "^*zero$ ^*tolerance$" ^approach<n><sg>$^.$
-^.$
-[][ <\/p>
+ {{^Fact<n><sg>$|^date<n><sg>$=^May<n><sg>$ ^2009<num>$}}^.$
+[][<\/p>
 <p>]^Kosovo<np><loc><sg>$ ^have<vblex><pri><p3><sg>$ ^a<det><ind><sg>$ ^report<vblex><pp>$ ^foreign<adj>$ ^debt<n><sg>$ ^of<pr>$ ^1,264<num>$[&amp;]^*nbsp$^;$
 ^*billion$ ^USD<n><acr><sg>$ ^that<rel><an><mf><sp>$ ^be<vbser><pri><p3><sg>$ ^currently<adv>$ ^*serviced$ ^by<pr>$ ^*Serbia$^.$
-^.$
-[][ <\/p>
+ {{^Fact<n><sg>$|^date<n><sg>$=^May<n><sg>$ ^2009<num>$}}^.$
+[][<\/p>
 <p>]^According to<pr>$[ <a href='ECIKS'>]^*ECIKS$[<\/a>&lt;]^*ref$[&gt;<a href='http:\/\/www.eciks.org\/english\/invest.php?action=total_invest&amp;main_id=13 ECIKS'>]^58<num>$[<\/a>&lt;]\/^*ref$[&gt; ]^from<pr>$ ^2001<num>$ ^to<pr>$ ^2004<num>$ ^Kosovo<np><loc><sg>$ ^receive<vblex><past>$ \$^3,2<num>$[&amp;]^*nbsp$^;$
 ^*billion$ ^of<pr>$ ^foreign<adj>$ ^aid<n><sg>$^.$
  ^International<adj>$ ^*donor$ ^conference<n><sg>$ ^be<vbser><pri><p3><sg>$ ^to<pr>$ ^be<vbser><inf>$ ^hold<vblex><pp>$ ^in<pr>$ ^Switzerland<np><loc><sg>$ ^in<pr>$ ^June<n><sg>$ ^or<cnjcoo>$ ^July<n><sg>$ ^2008<num>$^.$
@@ -1008,7 +1008,7 @@
 ^.$
 [][<\/p>
 <a name="Energy_and_mining"><\/a><h3>]^Energy<n><sg>$ ^and<cnjcoo>$ ^mining<adj>$^.$
-[][<\/h3><p>
+[][<\/h3><p>]{{^*Unreferenced$ ^section<n><sg>$|^date<n><sg>$=^May<n><sg>$ ^2009<num>$}}[
 ]^At<pr>$ ^14,700<num>$ ^*Mt$^,<cm>$ ^Kosovo<np><loc><sg>$ ^have<vblex><pri><p3><sg>$ ^the<det><def><sp>$ ^*worldâ$^*s$ ^fifth<det><ord><sp>$^-<guio>$^large<adj><sint><sup>$ ^prove<vblex><pp>$ ^reserve<n><pl>$ ^of<pr>$[ <a href='lignite'>]^*lignite$[<\/a>]^,<cm>$ ^a<det><ind><sg>$ ^type<n><sg>$ ^of<pr>$[ <a href='coal'>]^coal<n><sg>$[<\/a>]^.$
  ^The<det><def><sp>$ ^*lignite$ ^be<vbser><pri><p3><sg>$ ^distribute<vblex><pp>$ ^*across$ ^the<det><def><sp>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^*Dukagjin$ ^and<cnjcoo>$ ^*Drenica$ ^*basins$^,<cm>$ ^although<cnjadv>$ ^mining<adj>$ ^have<vblex><pri><p3><sg>$ ^so<preadv>$ ^far<adv>$ ^be<vbser><pp>$ ^restrict<vblex><pp>$ ^to<pr>$ ^the<det><def><sp>$ ^Kosovo<np><loc><sg>$ ^*basin$^.$
  ^Coal<n><sg>$ ^reserve<n><pl>$ ^be<vbser><pres>$ ^find<vblex><pp>$ ^in<pr>$ ^two<num><sp>$ ^main<adj>$ ^*basins$ ^and<cnjcoo>$ ^be<vbser><pres>$ ^currently<adv>$ ^be<vbser><ger>$ ^*mined$ ^in<pr>$ ^the<det><def><sp>$ ^coal<n><sg>$ ^mine<n><pl>$ ^of<pr>$[ <a href='Bardh open-cast coal mine'>]^*Bardh$ ^open<adj>$^-<guio>$^cast<vblex><pp>$ ^coal<n><sg>$ ^mine<n><sg>$[<\/a> ]^and<cnjcoo>$[ <a href='Mirash open-cast coal mine'>]^*Mirash$ ^open<adj>$^-<guio>$^cast<vblex><pp>$ ^coal<n><sg>$ ^mine<n><sg>$[<\/a>]^.$
@@ -1186,7 +1186,9 @@
 ^.$
 [][<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.$
-[][<\/h2><p>&lt;]^*div$ ^style<n><sg>$="^-<guio>$^*moz$^-<guio>$^column<n><sg>$^-<guio>$^count<vblex><inf>$^:$
+[][<\/h2><p>]{{^portal<n><sg>$|^Kosovo<np><loc><sg>$|^Kosovo<np><loc><sg>$ ^blue<adj>$ ^map<n><sg>$^.$
+^*png$}}[
+&lt;]^*div$ ^style<n><sg>$="^-<guio>$^*moz$^-<guio>$^column<n><sg>$^-<guio>$^count<vblex><inf>$^:$
 ^2<num>$^;$
  ^column<n><sg>$^-<guio>$^count<vblex><inf>$^:$
 ^2<num>$^;$
@@ -1239,9 +1241,6 @@
 [][<\/li>
 <\/ul>
 <p><br\/>
-]{{^portal<n><sg>$|^Kosovo<np><loc><sg>$|^Kosovo<np><loc><sg>$ ^blue<adj>$ ^map<n><sg>$^.$
-^*png$}}^.$
-[][
 <\/p>
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.$
 [][<\/h2><ul>
@@ -1249,23 +1248,21 @@
 [][<\/li>
 <li><a href='http:\/\/www.unmikonline.org\/ United Nations Interim Administration in Kosovo'>]^68<num>$^.$
 [][<\/a><\/li>
-<li>]^*http$^:$
-\/\/^www.kryeministri-ks.net<num>$\/^?$
-^page<n><sg>$=^2,1<num>$ ^The<det><def><sp>$ ^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^Prime<adj>$ ^minister<n><sg>$^'s<gen>$ ^office<n><sg>$^\]<rpar>$^.$
-[][<\/li>
-<li><a href='http:\/\/www.assembly-kosova.org\/ Assembly of Kosovo'>]^69<num>$^.$
+<li><a href='http:\/\/www.kryeministri-ks.net\/?page=2,1 The Government of Kosovo and Prime minister's office'>]^69<num>$^.$
 [][<\/a><\/li>
-<li><a href='http:\/\/www.president-ksgov.net\/?id=1,67,67,67,e\/ President of Kosovo'>]^70<num>$^.$
+<li><a href='http:\/\/www.assembly-kosova.org\/ Assembly of Kosovo'>]^70<num>$^.$
 [][<\/a><\/li>
-<li><a href='http:\/\/www.srbija.gov.rs\/kosovo-metohija\/?change_lang=en Serbian Government for Kosovo and Metohija'>]^71<num>$^.$
+<li><a href='http:\/\/www.president-ksgov.net\/?id=1,67,67,67,e\/ President of Kosovo'>]^71<num>$^.$
 [][<\/a><\/li>
-<li><a href='https:\/\/www.cia.gov\/library\/publications\/world-leaders-1\/world-leaders-k\/kosovo.html Chief of State and Cabinet Members'>]^72<num>$^.$
+<li><a href='http:\/\/www.srbija.gov.rs\/kosovo-metohija\/?change_lang=en Serbian Government for Kosovo and Metohija'>]^72<num>$^.$
+[][<\/a><\/li>
+<li><a href='https:\/\/www.cia.gov\/library\/publications\/world-leaders-1\/world-leaders-k\/kosovo.html Chief of State and Cabinet Members'>]^73<num>$^.$
 [][<\/a><\/li>
 <li>]{{^CIA<n><acr><sg>$ ^World<adj>$ ^*Factbook$ ^link<n><sg>$|^*kv$|^Kosovo<np><loc><sg>$}}^.$
 [][<\/li>
 <li>]{{^*dmoz$|^Regional<adj>$\/^Europe<np><loc><sg>$\/^*Serbia$\/^Kosovo<np><loc><sg>$}}^.$
 [][<\/li>
-<li><a href='http:\/\/www.visitkosova.org\/english\/index.htm Visit Kosovo - Tourism Website'>]^73<num>$^.$
+<li><a href='http:\/\/www.visitkosova.org\/english\/index.htm Visit Kosovo - Tourism Website'>]^74<num>$^.$
 [][<\/a><\/li>
 <li><\/li>
 <\/ul>
