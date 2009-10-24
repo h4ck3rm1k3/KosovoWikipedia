@@ -162,21 +162,20 @@
 <li><a href='http:\/\/www.newkosovo.org\/news.htm Alliance for New Kosovo'>]^22<num>$[<\/a> ]^A<det><ind><sg>$ ^policy<n><sg>$ ^resource<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^Independence<n><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovareport.org\/news.htm Kosovareport'>]^23<num>$[<\/a> ]^A<det><ind><sg>$ ^collection<n><sg>$ ^of<pr>$ ^news<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^in<pr>$ ^English<adj>$^,<cm>$ ^gather<vblex><pp>$ ^from<pr>$ ^many<det><qnt><pl>$ ^agency<n><pl>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.alb-net.com\/index.htm Kosova Crisis Center'>]^24<num>$[<\/a> ]^A<det><ind><sg>$ ^collection<n><sg>$ ^of<pr>$ ^article<n><pl>$ ^on<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^in<pr>$ ^English<adj>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.crisisgroup.org\/home\/index.cfm?id=1243&amp;l=1 (ICG)'>]^25<num>$[<\/a> ]^International<adj>$ ^Crisis<n><sg>$ ^Group<n><sg>$^,<cm>$ ^a<det><ind><sg>$ ^source<n><sg>$ ^of<pr>$ ^independent<adj>$ ^analysis<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><pl>$^.<sent>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
 <a name="Pro-Serbian"><\/a><h3>]^*Pro$^-<guio>$^*Serbian$^.<sent>$[][<\/h3><ul>
-<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government Kosovo-Metohija site'>]^26<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovo.net\/ Kosovo.net'>]^27<num>$[<\/a> ]^*Serbian$ ^Orthodox<adj>$ ^Church<n><sg>$^'s<gen>$ ^official<adj>$ ^*website$ ^on<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohija'>]^28<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/groups.yahoo.com\/group\/decani\/ Kosovo Newsgroup archive'>]^29<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^30<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^31<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.axisglobe.com\/article.asp?article=689 Southern Serbia: The second Kosovo?'>]^32<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/serbo.blogspot.com Kosovo News blog'>]^33<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^34<num>$[<\/a> ]^*Serbian$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovo.net\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^35<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government Kosovo-Metohija site'>]^25<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovo.net\/ Kosovo.net'>]^26<num>$[<\/a> ]^*Serbian$ ^Orthodox<adj>$ ^Church<n><sg>$^'s<gen>$ ^official<adj>$ ^*website$ ^on<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohija'>]^27<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/groups.yahoo.com\/group\/decani\/ Kosovo Newsgroup archive'>]^28<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^29<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^30<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.axisglobe.com\/article.asp?article=689 Southern Serbia: The second Kosovo?'>]^31<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/serbo.blogspot.com Kosovo News blog'>]^32<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^33<num>$[<\/a> ]^*Serbian$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovo.net\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^34<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/><\/p>
 <p><a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
