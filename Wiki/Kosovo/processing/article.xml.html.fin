@@ -132,7 +132,14 @@
 \/\/^www.venice.coe<num>$^.$
 ^*int$\/^site<n><sg>$\/^dynamics<n><sg>$\/^*N$_^Opinion<n><sg>$_^*ef$^.$
 ^*asp$^?$
-^*L$=^*E$[&amp;]^*OID$=^405<num>$[&lt;]\/^*ref$^.$
+^*L$=^*E$[&amp;]^*OID$=^405<num>$[&lt;]\/^*ref$[&gt; ]^Kosovo<np><loc><sg>$ ^*nevertheless$ ^operate<vblex><pri><p3><sg>$[ <em>]^*de$[<\/em> ]^*facto$ ^control<n><sg>$ ^over<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^a<det><ind><sg>$ ^part<n><sg>$ ^from<pr>$ ^the<det><def><sp>$ ^Northern<adj>$ ^part<n><sg>$ ^of<pr>$[ <a href='Mitrovica'>]^*Mitrovica$[<\/a>]^.$
+ ^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^member<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='IMF'>]^*IMF$[<\/a>]^,<cm>$ ^which<prn><itg><m><sp>$ ^strengthen<vblex><pri><p3><sg>$ ^its<det><pos><sp>$ ^independence<n><sg>$ ^bid<n><sg>$[&lt;]^*ref$[&gt;]^*http$^:$
+\/\/^*ca$^.$
+^news<n><sg>$^.$
+^finance<n><sg>$^.$
+^*yahoo$^.$
+^*com$\/^print<n><sg>$\/^*s$\/^09052009<num>$\/^24<num>$\/^*f$^-<guio>$^*afp$^-<guio>$^*kosovo$^-<guio>$^*welcomes$^-<guio>$^*imf$^-<guio>$^offer<n><pl>$^-<guio>$^membership<n><sg>$^.$
+^*html$[&lt;]\/^*ref$^.$
 [][&gt;<\/p>
 <p>&lt;]^!$
 ^-<guio>$^-<guio>$ ^Note<n><sg>$^:$
