@@ -216,6 +216,7 @@
 ]^Image<n><sg>$^:<sent>$^League<n><sg>$ ^of<pr>$ ^*Prizren$ ^building<n><sg>$^.<sent>$^*jpg$|[<a href='League of Prizren'>]^League<n><sg>$ ^of<pr>$ ^*Prizren$[<\/a> ]^building<n><sg>$ ^in<pr>$[ <a href='Prizren'>]^*Prizren$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^White<adj><sint>$ ^*Drini$ ^05<num>$ ^01<num>$^.<sent>$^*jpg$|^Bridge<n><sg>$ "^*Ura$ ^*e$ ^*Fshejte$" ^on<pr>$[ <a href='White Drin'>]^the<det><def><sp>$ ^White<adj><sint>$ ^*Drin$[<\/a> ]^river<n><sg>$^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Vllaznimi$ ^*KuqezinjeteJakoves$ ^01<num>$^.<sent>$^*JPG$|^Sport<n><sg>$ ^fan<n><pl>$ ^of<pr>$ ^sport<n><sg>$ ^club<n><sg>$[ <a href='VÃ«llaznimi'>]^*V$Ã«^*llaznimi$[<\/a>]^,<cm>$[ <a href='GjakovÃ«'>]^*Gjakov$Ã«[<\/a>]\/[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]^.<sent>$[
+]^Image<n><sg>$^:<sent>$^*Prishtin$Ã« ^*SQ$^.<sent>$^*JPG$|^Stadium<n><sg>$ ^in<pr>$[ <a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]^.<sent>$[
 &lt;]\/^gallery<n><sg>$^.<sent>$[][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><p>]{{^*col$^-<guio>$^begin<vblex><inf>$}}[
 ]{{^*col$^-<guio>$^2<num>$}}^.<sent>$[][<\/p>
