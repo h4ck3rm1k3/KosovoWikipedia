@@ -159,22 +159,41 @@
 <p><br\/>
 <\/p>
 <a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><p>&lt;]^reference<n><pl>$\/^.<sent>$[][&gt;<\/p>
-<a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
-<ul>
-<li><a href='http:\/\/www.balkanforums.com Kosovo and the Balkans'>]^5<num>$[<\/a> ]^-<guio>$ ^Discussion<n><sg>$ ^Forum<n><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/digital.library.unt.edu\/govdocs\/crs\/search.tkl?q=kosovo&amp;search_crit=fulltext&amp;search=Search&amp;date1=Anytime&amp;date2=Anytime&amp;type=form  Congressional Research Service (CRS) Reports regarding Kosovo'>]^6<num>$^.<sent>$[][<\/a><\/li>
-<li><\/li>
-<li><a href='http:\/\/www.rtklive.com  RTK - Kosova's public television - news in Albanian, Serbian, Turkish and Roma'>]^7<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='https:\/\/www.osce.org\/documents\/mik\/1999\/11\/1620_en.pdf Human Rights in Kosovo: As Seen, As Told. Volume I, October 1998 - June 1999'>]^8<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^9<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovakosovo.com\/ A source of information reflecting both sidesâ claims in the dispute'>]^10<num>$^.<sent>$[][<\/a><\/li>
+<a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][
+<\/p>
+<a name="Kosovo_Documents"><\/a><h3>]^Kosovo<np><loc><sg>$ ^Document<n><pl>$^.<sent>$[][<\/h3><ul>
+<li><a href='http:\/\/www.unmikonline.org\/misc\/N9917289.pdf UN-Resolution 1244 for Kosovo'>]^5<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.assembly-kosova.org\/common\/docs\/FrameworkPocket_ENG_Dec2002.pdf A CONSTITUTIONAL FRAMEWORK'>]^6<num>$^.<sent>$[][<\/a><\/li>
+<\/ul>
+<a name="Internationale_Organisations"><\/a><h3>]^*Internationale$ ^Organisation<n><pl>$^.<sent>$[][<\/h3><ul>
+<li><a href='http:\/\/www.unmikonline.org\/ United Nations Mission in Kosovo (UNMIK)'>]^7<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.nato.int\/kfor\/welcome.html Kosovo Force (KFOR) the UN frorce under NATO comando'>]^8<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.euinkosovo.org\/ EU-Mission in Kosovo (EUMIK)'>]^9<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.osce.org\/kosovo\/ OSZE-Mission in Kosovo (OMIK)'>]^10<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/portal.unesco.org\/en\/ev.php-URL_ID=20022&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html UNESCO- about Cultur in Kosovo'>]^11<num>$^.<sent>$[][<\/a><\/li>
+<\/ul>
+<a name="Kosovo_institutions"><\/a><h3>]^Kosovo<np><loc><sg>$ ^institution<n><pl>$^.<sent>$[][<\/h3><ul>
+<li><a href='http:\/\/www.kuvendikosoves.org\/ Kosovo Parliament (englisch, albanisch, serbisch)'>]^12<num>$^.<sent>$[][<\/a><\/li>
 <li> 
-<a href='http:\/\/www.nato.int\/kosovo\/ KFOR'>]^11<num>$[<\/a> <a href='NATO'>]^NATO<n><acr><sg>$[<\/a> ]^lead<vblex><pp>$ ^*peacekeeping$ ^force<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.unmikonline.org\/ UNMIK'>]^12<num>$[<\/a> <a href='UN'>]^UN<n><acr><sg>$[<\/a> ]^lead<vblex><pp>$ ^civilian<n><sg>$ ^administration<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ A collection of photos from Kosovo'>]^13<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.otvoreno.org.yu\/ A place where Serbian politicians speak openly of Kosovo issue'>]^14<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.iom.ipko.org\/ IOM International Organization for Migration'>]^15<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.crisisgroup.org\/home\/index.cfm?id=1243&amp;l=1 (ICG)'>]^16<num>$[<\/a> ]^International<adj>$ ^Crisis<n><sg>$ ^Group<n><sg>$^,<cm>$ ^a<det><ind><sg>$ ^source<n><sg>$ ^of<pr>$ ^independent<adj>$ ^analysis<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><pl>$^.<sent>$^.<sent>$[][<\/li>
+<a href='http:\/\/www.ks-gov.net\/eng\/e_link.htm Kosovo PGoverment (englisch, auch albanisch u. serbisch)'>]^13<num>$^.<sent>$[][<\/a><\/li>
+<li> 
+<a href='http:\/\/www.ks-gov.net\/esk\/index_english.htm The Statistic Agency (englisch)'>]^14<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.uni-pr.edu\/ Universitet of Prishtina (alb.)'>]^15<num>$^.<sent>$[][<\/a><\/li>
+<\/ul>
+<p>]^-<guio>$^-<guio>$^-<guio>$^-<guio>$^.<sent>$[][<\/p>
+<ul>
+<li><a href='http:\/\/www.balkanforums.com Kosovo and the Balkans'>]^16<num>$[<\/a> ]^-<guio>$ ^Discussion<n><sg>$ ^Forum<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/digital.library.unt.edu\/govdocs\/crs\/search.tkl?q=kosovo&amp;search_crit=fulltext&amp;search=Search&amp;date1=Anytime&amp;date2=Anytime&amp;type=form  Congressional Research Service (CRS) Reports regarding Kosovo'>]^17<num>$^.<sent>$[][<\/a><\/li>
+<li><\/li>
+<li><a href='http:\/\/www.rtklive.com  RTK - Kosova's public television - news in Albanian, Serbian, Turkish and Roma'>]^18<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='https:\/\/www.osce.org\/documents\/mik\/1999\/11\/1620_en.pdf Human Rights in Kosovo: As Seen, As Told. Volume I, October 1998 - June 1999'>]^19<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^20<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovakosovo.com\/ A source of information reflecting both sidesâ claims in the dispute'>]^21<num>$^.<sent>$[][<\/a><\/li>
+<li> 
+<a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ A collection of photos from Kosovo'>]^22<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.otvoreno.org.yu\/ A place where Serbian politicians speak openly of Kosovo issue'>]^23<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.iom.ipko.org\/ IOM International Organization for Migration'>]^24<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.crisisgroup.org\/home\/index.cfm?id=1243&amp;l=1 (ICG)'>]^25<num>$[<\/a> ]^International<adj>$ ^Crisis<n><sg>$ ^Group<n><sg>$^,<cm>$ ^a<det><ind><sg>$ ^source<n><sg>$ ^of<pr>$ ^independent<adj>$ ^analysis<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><pl>$^.<sent>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 &lt;]^*div$ ^class<n><sg>$="^*NavFrame$"^.<sent>$[][&gt;<\/p>
@@ -182,17 +201,17 @@
 <pre>&lt;]^*div$ ^class<n><sg>$="^*NavHead$"[&gt;]^*Pro$^-<guio>$^Albanian<n><sg>$[&lt;]\/^*div$[&gt;
 &lt;]^*div$ ^class<n><sg>$="^*NavContent$" ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$^left<adv>$^;<sent>$"^.<sent>$[][&gt;
 <\/pre><ul>
-<li><a href='http:\/\/BalkanUpdate.blogspot.com Balkan Update'>]^17<num>$[<\/a>]^-<guio>$ ^A<det><ind><sg>$ ^*blog$ ^with<pr>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*lates$ ^update<vblex><pri><p3><sg>$ ^from<pr>$ ^*Balkans$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.eciks.org Economic Initiative for Kosovo'>]^18<num>$[<\/a> ]^-<guio>$ "^.<sent>$^.<sent>$^.<sent>$^late<adj><sint><sup>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^publication<n><pl>$ ^from<pr>$ ^the<det><def><sp>$ ^*Kosovar$ ^economy<n><sg>$"^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.albanian.com\/main\/countries\/kosova Albanian.com'>]^19<num>$[<\/a> ]^-<guio>$ ^general<adj>$ ^information<n><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovaelire.com\/ Kosova e lirÃ«'>]^20<num>$[<\/a> ]^(<lpar>$^Free<adj><sint>$ ^*Kosova$^)<rpar>$ ^-<guio>$^-<guio>$ ^Material<n><sg>$ ^about<pr>$ ^*Kosovars$ ^and<cnjcoo>$ ^Albanian<n><pl>$ ^in<pr>$ ^Albanian<adj>$ ^language<n><sg>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/BalkanUpdate.blogspot.com Balkan Update'>]^26<num>$[<\/a>]^-<guio>$ ^A<det><ind><sg>$ ^*blog$ ^with<pr>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*lates$ ^update<vblex><pri><p3><sg>$ ^from<pr>$ ^*Balkans$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.eciks.org Economic Initiative for Kosovo'>]^27<num>$[<\/a> ]^-<guio>$ "^.<sent>$^.<sent>$^.<sent>$^late<adj><sint><sup>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^publication<n><pl>$ ^from<pr>$ ^the<det><def><sp>$ ^*Kosovar$ ^economy<n><sg>$"^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.albanian.com\/main\/countries\/kosova Albanian.com'>]^28<num>$[<\/a> ]^-<guio>$ ^general<adj>$ ^information<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovaelire.com\/ Kosova e lirÃ«'>]^29<num>$[<\/a> ]^(<lpar>$^Free<adj><sint>$ ^*Kosova$^)<rpar>$ ^-<guio>$^-<guio>$ ^Material<n><sg>$ ^about<pr>$ ^*Kosovars$ ^and<cnjcoo>$ ^Albanian<n><pl>$ ^in<pr>$ ^Albanian<adj>$ ^language<n><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li> 
-<a href='http:\/\/www.alb-shkenca.org\/images\/stories\/Why%20Independence.pdf Why Independence for Kosovo?'>]^21<num>$[<\/a> ]^A<det><ind><sg>$ ^summary<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^case<n><sg>$ ^for<pr>$ ^a<det><ind><sg>$ ^independent<adj>$ ^Kosovo<np><loc><sg>$ ^by<pr>$ ^two<num><sp>$ ^*Prishtina$ ^intellectual<n><pl>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.newkosovo.org\/news.htm Alliance for New Kosovo'>]^22<num>$[<\/a> ]^A<det><ind><sg>$ ^policy<n><sg>$ ^resource<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^Independence<n><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovareport.org\/news.htm Kosovareport'>]^23<num>$[<\/a> ]^A<det><ind><sg>$ ^collection<n><sg>$ ^of<pr>$ ^news<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^in<pr>$ ^English<adj>$^,<cm>$ ^gather<vblex><pp>$ ^from<pr>$ ^many<det><qnt><pl>$ ^agency<n><pl>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.alb-net.com\/index.htm Kosova Crisis Center'>]^24<num>$[<\/a> ]^A<det><ind><sg>$ ^collection<n><sg>$ ^of<pr>$ ^article<n><pl>$ ^on<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^in<pr>$ ^English<adj>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.xhakli.com\/2004\/05\/kosovo-search-challenge-helping-people_25.php?show_id=108543905534062634 Kosovo Search Challenge: Helping people find information from Kosovo'>]^25<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^*Blog$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.aacl.com\/indexmain.html AACL'>]^26<num>$[<\/a> ]^Albanian<adj>$ ^American<adj>$ ^Civic<adj>$ ^League<n><sg>$^.<sent>$^.<sent>$[][<\/li>
+<a href='http:\/\/www.alb-shkenca.org\/images\/stories\/Why%20Independence.pdf Why Independence for Kosovo?'>]^30<num>$[<\/a> ]^A<det><ind><sg>$ ^summary<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^case<n><sg>$ ^for<pr>$ ^a<det><ind><sg>$ ^independent<adj>$ ^Kosovo<np><loc><sg>$ ^by<pr>$ ^two<num><sp>$ ^*Prishtina$ ^intellectual<n><pl>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.newkosovo.org\/news.htm Alliance for New Kosovo'>]^31<num>$[<\/a> ]^A<det><ind><sg>$ ^policy<n><sg>$ ^resource<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^Independence<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovareport.org\/news.htm Kosovareport'>]^32<num>$[<\/a> ]^A<det><ind><sg>$ ^collection<n><sg>$ ^of<pr>$ ^news<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^in<pr>$ ^English<adj>$^,<cm>$ ^gather<vblex><pp>$ ^from<pr>$ ^many<det><qnt><pl>$ ^agency<n><pl>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.alb-net.com\/index.htm Kosova Crisis Center'>]^33<num>$[<\/a> ]^A<det><ind><sg>$ ^collection<n><sg>$ ^of<pr>$ ^article<n><pl>$ ^on<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^in<pr>$ ^English<adj>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.xhakli.com\/2004\/05\/kosovo-search-challenge-helping-people_25.php?show_id=108543905534062634 Kosovo Search Challenge: Helping people find information from Kosovo'>]^34<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^*Blog$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.aacl.com\/indexmain.html AACL'>]^35<num>$[<\/a> ]^Albanian<adj>$ ^American<adj>$ ^Civic<adj>$ ^League<n><sg>$^.<sent>$^.<sent>$[][<\/li>
 <\/ul>
 <p>&lt;]\/^*div$^.<sent>$[][&gt;<\/p>
 
@@ -203,16 +222,16 @@
 <pre>&lt;]^*div$ ^class<n><sg>$="^*NavHead$"[&gt;]^*Pro$^-<guio>$^*Serbian$[&lt;]\/^*div$[&gt;
 &lt;]^*div$ ^class<n><sg>$="^*NavContent$" ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$^left<adv>$^;<sent>$"^.<sent>$[][&gt;
 <\/pre><ul>
-<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government Kosovo-Metohija site'>]^27<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovo.net\/ Kosovo.net'>]^28<num>$[<\/a> ]^*Serbian$ ^Orthodox<adj>$ ^Church<n><sg>$^'s<gen>$ ^official<adj>$ ^*website$ ^on<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohija'>]^29<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/groups.yahoo.com\/group\/decani\/ Kosovo Newsgroup archive'>]^30<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^31<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^32<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.axisglobe.com\/article.asp?article=689 Southern Serbia: The second Kosovo?'>]^33<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/serbo.blogspot.com Serbo'>]^34<num>$[<\/a> ]^-<guio>$ ^News<n><sg>$ ^and<cnjcoo>$ ^opinion<n><pl>$ ^about<pr>$ ^*Serbia$ ^and<cnjcoo>$ ^*Balkans$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^35<num>$[<\/a> ]^*Serbian$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovo.net\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^36<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government Kosovo-Metohija site'>]^36<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovo.net\/ Kosovo.net'>]^37<num>$[<\/a> ]^*Serbian$ ^Orthodox<adj>$ ^Church<n><sg>$^'s<gen>$ ^official<adj>$ ^*website$ ^on<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohija'>]^38<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/groups.yahoo.com\/group\/decani\/ Kosovo Newsgroup archive'>]^39<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^40<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^41<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.axisglobe.com\/article.asp?article=689 Southern Serbia: The second Kosovo?'>]^42<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/serbo.blogspot.com Serbo'>]^43<num>$[<\/a> ]^-<guio>$ ^News<n><sg>$ ^and<cnjcoo>$ ^opinion<n><pl>$ ^about<pr>$ ^*Serbia$ ^and<cnjcoo>$ ^*Balkans$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^44<num>$[<\/a> ]^*Serbian$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovo.net\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^45<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
 <\/ul>
 <p>&lt;]\/^*div$^.<sent>$[][&gt;<\/p>
 
