@@ -563,9 +563,9 @@
 ^.$
 [][<\/p>
 <a name="Cities"><\/a><h2>]^City<n><pl>$^.$
-[][<\/h2><p><a href='Image:Prishtina maj 2005.jpg|thumb|200px|PriÅ¡tina.'>]^Image<n><sg>$^:$
+[][<\/h2><p><a href='Image:Prishtina maj 2005.jpg|thumb|200px|Prishtina.'>]^Image<n><sg>$^:$
 ^*Prishtina$ ^*maj$ ^2005<num>$^.$
-^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^*Pri$Å^¡<lquest>$^*tina$^.$
+^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^*Prishtina$^.$
 ^.$
 [][<\/a><\/p>
 <p>]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^for<pr>$ ^2006<num>$^)<rpar>$^:$
@@ -575,6 +575,9 @@
 ^*x$=[&amp;]^man<n><pl>$=^*gcis$[&amp;]^*lng$=^*en$[&amp;]^*dat$=^32<num>$[&amp;]^*srt$=^*npan$[&amp;]^*col$=^*aohdq$[&amp;]^*geo$=^-<guio>$^244<num>$[&lt;]\/^*ref$^.$
 [][&gt;<\/p>
 <ul>
+<li><a href='MitrovicÃ«'>]^*Mitrovic$Ã«[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*Kosovska$ ^*Mitrovica$}}^)<rpar>$^:$
+ ^198,659<num>$^.$
+[][<\/li>
 <li><a href='PrishtinÃ«'>]^*Prishtin$Ã«[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*Pri$Å^¡<lquest>$^*tina$}}^)<rpar>$^:$
  ^571,532<num>$^.$
 [][<\/li>
@@ -592,9 +595,6 @@
 [][<\/li>
 <li><a href='Gjilan'>]^*Gjilan$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*Gnjilane$}}^)<rpar>$^:$
  ^191,595<num>$^.$
-[][<\/li>
-<li><a href='MitrovicÃ«|Mitrovica e KosovÃ«s'>]^*Mitrovic$Ã«|^*Mitrovica$ ^*e$ ^*Kosov$Ã«^*s$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*Kosovska$ ^*Mitrovica$}}^)<rpar>$^:$
- ^198,659<num>$^.$
 [][<\/li>
 <li><a href='PodujevÃ«'>]^*Podujev$Ã«[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*Podujevo$}}^)<rpar>$^:$
  ^48,526<num>$^.$
