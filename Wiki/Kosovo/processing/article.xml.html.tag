@@ -310,6 +310,7 @@
 <li><a href='Metohija'>]^*Metohija$^.<sent>$[][<\/a><\/li>
 <li><a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Flag of Kosovo'>]^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='2008 Kosovo declaration of independence'>]^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p>&lt;]\/^*div$^.<sent>$[][&gt;<\/p>
 <a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
