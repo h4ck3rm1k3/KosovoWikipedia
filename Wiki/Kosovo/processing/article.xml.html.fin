@@ -706,8 +706,8 @@
 ^*asp$^?$
 ^*NewsID$=^28492<num>$[&amp;]^*Cr$=^Kosovo<np><loc><sg>$[&amp;]^*Cr$^1<num>$=[&lt;]\/^*ref$^.$
 [][&gt;<\/p>
-<a name="Geography"><\/a><h2>]^Geography<n><sg>$^.$
-[][<\/h2><p>]{{^main<adj>$|^Geography<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}^.$
+<a name="Geography"><\/a><h3>]^Geography<n><sg>$^.$
+[][<\/h3><p>]{{^main<adj>$|^Geography<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}^.$
 [][<\/p>
 <p>]^Kosovo<np><loc><sg>$ ^have<vblex><pri><p3><sg>$ ^a<det><ind><sg>$ ^area<n><sg>$ ^of<pr>$ {{^convert<vblex><inf>$|^10908<num>$|^*km$^2<num>$|^*sqmi$|^0<num>$|^*abbr$=^on<pr>$}}[&lt;]^*ref$[&gt;]{{^cite<vblex><pres>$ ^web<n><sg>$ |^*url$=^*http$^:$
 \/\/^www.ks-gov.net<num>$\/^ESK<n><acr><sg>$\/|^title<vblex><pres>$=^Statistical<adj>$ ^Office<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[&lt;]\/^*ref$[&gt; ]^and<cnjcoo>$ ^a<det><ind><sg>$ ^population<n><sg>$ ^of<pr>$ ^about<pr>$ ^2.2<num>$[&amp;]^*nbsp$^;$
@@ -736,6 +736,18 @@
  ^Final<adj>$ ^Report<n><sg>$ ^submit<vblex><pp>$ ^to<pr>$[ <a href='USAID'>]^the<det><def><sp>$ ^*USAID$[<\/a>]^,<cm>$ ^*ARD$^-<guio>$^*BIOFOR$ ^*IQC$ ^Consortium<n><sg>$^,<cm>$ ^May<n><sg>$ ^2003<num>$^.$
 [&lt;]\/^*ref$^.$
 [][&gt;<\/p>
+<a name="Plants_and_Animals"><\/a><h3>]^Plant<n><pl>$ ^and<cnjcoo>$ ^Animal<n><pl>$^.$
+[][<\/h3><p>]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^one<prn><tn><mf><sg>$ ^of<pr>$ ^the most<det><qnt><sp>$ ^*ecologically$ ^varied<adj>$ ^region<n><pl>$ ^in<pr>$ ^Europe<np><loc><sg>$^.$
+ ^Prpers<prn><subj><p3><nt><sg>$ ^be<vbser><pri><p3><sg>$ ^rich<adj><sint>$ ^in<pr>$[ <a href='Flora'>]^Flora<n><sg>$[<\/a> ]^(<lpar>$^around<pr>$ ^19<num>$ ^per<pr>$ ^cent<n><sg>$ ^of<pr>$ ^all<predet><sp>$ ^European<adj>$ ^flora<n><sg>$^)<rpar>$ ^and<cnjcoo>$ ^also<adv>$ ^different<adj>$ ^species<n><sg>$ ^of<pr>$ ^tree<n><sg>$ ^include<vblex><ger>$[ <em>]^*beech$ ^forest<n><pl>$[<\/em> ]^and<cnjcoo>$[ <em>]^dominate<vblex><inf>$[<\/em> ]^but<cnjcoo>$ ^also<adv>$ ^include<vblex><ger>$[ <a href='Pine'>]^*Pine$[<\/a> ]^in<pr>$ ^area<n><pl>$ ^of<pr>$ ^increasing<adj>$ ^altitude<n><sg>$^.$
+ ^Plane<n><pl>$^,<cm>$ ^Black<adj>$ ^oak<n><sg>$^,<cm>$ ^*poplars$ ^and<cnjcoo>$ ^*ash$ ^tree<n><pl>$ ^can<vaux><pres>$ ^also<adv>$ ^be<vbser><inf>$ ^find<vblex><pp>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.$
+^.$
+[][<\/p>
+<p> 
+]^The<det><def><sp>$ ^habitat<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^also<adv>$ ^allow<vblex><pri><p3><sg>$ ^for<pr>$ ^a<det><ind><sg>$ ^variety<n><sg>$ ^of<pr>$ ^species<n><sg>$ ^to<pr>$ ^*flourish$^,<cm>$ ^include<vblex><ger>$^;$
+ ^Rabbit<n><pl>$^,<cm>$ ^*Lynx$^,<cm>$ ^Bear<vblex><pres>$^,<cm>$ ^*Wolf$^,<cm>$ ^Wild<adj><sint>$ ^*boar$^,<cm>$ ^*Woe$ ^*deer$ ^and<cnjcoo>$ ^*Chamois$^.$
+ ^Fish<n><sg>$ ^that<rel><an><mf><sp>$ ^be<vbser><pres>$ ^native<adj>$ ^to<pr>$ ^Kosovo<np><loc><sg>$ ^be<vbser><pres>$ ^Carp<n><sg>$^,<cm>$ ^Eel<n><sg>$^,<cm>$ ^*Salmon$ ^*trout$ ^and<cnjcoo>$ ^*Cart$ ^fish<n><sg>$^.$
+^.$
+[][<\/p>
 <a name="Constitutional_status"><\/a><h2>]^Constitutional<adj>$ ^status<n><sg>$^.$
 [][<\/h2><p>]{{^POV<n><acr><sg>$|^date<n><sg>$=^November<n><sg>$ ^2008<num>$}}[
 ]{{^main<adj>$|^Political<adj>$ ^status<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Kosovo<np><loc><sg>$ ^status<n><sg>$ ^process<n><sg>$}}[
