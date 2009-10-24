@@ -163,8 +163,7 @@
 <li><a href='http:\/\/www.axisglobe.com\/article.asp?article=689 Southern Serbia: The second Kosovo?'>]^24<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p> 
-<br\/>
-]{{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$}}^.<sent>$[][<\/p>
+<br\/><\/p>
 <p><a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
 <a href='Category:Kosovo| '>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|[ <\/a>
 <a href='Category:United Nations'>]^Category<n><sg>$^:<sent>$^Unite<vblex><pp>$ ^Nation<n><pl>$^.<sent>$[][<\/a><\/p>
