@@ -83,22 +83,22 @@
 <\/p>
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><ul>
 <li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohia'>]^9<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?order=priority&amp;nav_category=19  B92 News on Kosovo'>]^10<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.albanian.com\/main\/countries\/kosova General information from Albanian.com'>]^11<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.serbia.sr.gov.yu\/coordination_centre\/index.html Kosovo Coordination Center'>]^12<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.alb-net.com\/warcrimes-img\/warcrimes.htm Kosovo Crisis Center - Albanian claims of Serbian Massacres'>]^13<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovo.com\/ Kosovo Land of the Living Past'>]^14<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^15<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.serbia.sr.gov.yu\/news\/kosovo News from the Serbian Government'>]^16<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovo.net\/ News from the Serbian Orthodox Church'>]^17<num>$^.<sent>$[][<\/a><ul>
+<li><a href='http:\/\/www.albanian.com\/main\/countries\/kosova General information from Albanian.com'>]^10<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/beqiraj.com\/kosova\/al\/ General information from Beqiraj.com'>]^11<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^Albanian<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.alb-net.com\/warcrimes-img\/warcrimes.htm Kosovo Crisis Center - Serbian Massacres of Albanians'>]^12<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovo.com\/ Kosovo.com'>]^13<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosova.com Kosova Information Center (in Albanian)'>]^14<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovapress.com Kosova Press - Kosovo news agency'>]^15<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^16<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?order=priority&amp;nav_category=19 News from B92 Belgrade'>]^17<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.serbia.sr.gov.yu\/news\/kosovo News from the Serbian Government'>]^18<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovo.net\/ News from the Serbian Orthodox Church'>]^19<num>$^.<sent>$[][<\/a><ul>
 <li> 
-<a href='http:\/\/groups.yahoo.com\/group\/decani\/ News archive'>]^18<num>$^.<sent>$[][<\/a><\/li>
+<a href='http:\/\/groups.yahoo.com\/group\/decani\/ News archive'>]^20<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <\/li>
-<li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ Kosovo collection of pictures around the country'>]^19<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/beqiraj.com\/kosova\/al\/ General information from Beqiraj.com'>]^20<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^Albanian<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosova.com Kosova Information Center (in Albanian)'>]^21<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovapress.com Kosova Press - Kosovo news agency (in Albanian)'>]^22<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.serbia.sr.gov.yu\/coordination_centre\/index.html Serb Kosovo Coordination Center'>]^21<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ Kosovo collection of pictures around the country'>]^22<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 ]{{^*msg$^:<sent>$^*SFRY$}}^.<sent>$[][<\/p>
