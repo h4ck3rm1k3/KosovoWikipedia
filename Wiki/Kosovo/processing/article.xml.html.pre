@@ -358,7 +358,7 @@
 <a href='nn:Kosovo'>]^*nn$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='oc:KosovÃ«'>]^*oc$^:<sent>$^*Kosov$Ã«[<\/a>
 <a href='nds:Kosovo'>]^*nds$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='pl:Kosowo (prowincja)'>]^*pl$^:<sent>$^*Kosowo$ ^(<lpar>$^*prowincja$^)<rpar>$[<\/a>
+<a href='pl:Kosowo'>]^*pl$^:<sent>$^*Kosowo$[<\/a>
 <a href='pt:Kosovo'>]^*pt$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ro:Kosovo'>]^*ro$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ru:ÐÐ¾ÑÐ¾Ð²Ð¾ Ð¸ ÐÐµÑÐ¾ÑÐ¸Ñ'>]^*ru$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$[<\/a>
