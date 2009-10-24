@@ -297,6 +297,7 @@
 <li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^54<num>$[<\/a> ]^*Serbian$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovo.net\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^55<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.americansforkosovo.org The American Council for Kosovo'>]^56<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.hirhome.com\/yugo\/kosovo_junger.htm To see where Israel is headed, visit Kosovo'>]^57<num>$[<\/a> ]^*HIR$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
