@@ -456,8 +456,7 @@
 ^.$
 [][<\/p>
 <a name="Districts"><\/a><h3>]^District<n><pl>$^.$
-[][<\/h3><p>]{{^main<adj>$|^*Subdivisions$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
-]{{^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}^.$
+[][<\/h3><p>]{{^main<adj>$|^*Subdivisions$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}^.$
 [][<\/p>
 <a name="Municipalities_and_cities"><\/a><h3>]^Municipality<n><pl>$ ^and<cnjcoo>$ ^city<n><pl>$^.$
 [][<\/h3><p>]{{^main<adj>$|^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
