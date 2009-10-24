@@ -25,7 +25,7 @@
 ]|^national<adj>$_^*anthem$[          ]=[
 ]|^ethnic<adj>$_^group<n><pl>$[            ]= ^92%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>&lt;]^*br$\/[&gt;]^5.3%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a>&lt;]^*br$\/[&gt;]^2.7%<num><percent>$ ^others<prn><tn><mf><pl>$[ &lt;]^*ref$[&gt;<a href='http:\/\/www.ks-gov.net\/ESK\/esk\/english\/english.htm Enti i StatistikÃ«s sÃ« KosovÃ«s'>]^1<num>$[<\/a>&lt;]\/^*ref$[&gt;
 ]|^ethnic<adj>$_^group<n><pl>$_^year<n><sg>$[       ]= ^2007<num>$[
-]|^capital<n><sg>$[                  ]= {{^*nowrap$|[<a href='PriÅ¡tina|Pristina'>]^*Pri$Å^¡<lquest>$^*tina$|^*Pristina$[<\/a>]}}[
+]|^capital<n><sg>$[                  ]= {{^*nowrap$|[<a href='Pristina'>]^*Pristina$[<\/a>]}}[
 &lt;]^!<sent>$^-<guio>$^-<guio>$[
 ]^PLEASE<vblex><inf>$ ^DO<vbdo><pres>$ ^NOT<adv>$ ^CHANGE<vblex><inf>$ ^THE<det><def><sp>$ ^CAPITAL<n><sg>$^'s<gen>$ ^NAME<n><sg>$^!<sent>$ ^Per<pr>$ ^*talkpage$^,<cm>$ ^prpers<prn><subj><p1><mf><pl>$ ^currently<adv>$ ^use<vblex><inf>$ ^*Pristina$^,<cm>$ ^not<adv>$ ^*Prishtina$ ^or<cnjcoo>$ ^*Pri$Å^¡<lquest>$^*tina$^.<sent>$[
 ]^-<guio>$^-<guio>$[&gt;
@@ -371,7 +371,8 @@
 <a href='zh-yue:ç§ç´¢æ²'>]^*zh$^-<guio>$^*yue$^:<sent>$^*ç$§^*ç$´¢æ²[<\/a>
 <a href='diq:Kosova'>]^*diq$^:<sent>$^*Kosova$[<\/a>
 <a href='zea:Kosovo'>]^*zea$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='bat-smg:Kuosuovs'>]^bat<n><sg>$^-<guio>$^*smg$^:<sent>$^*Kuosuovs$^.<sent>$[][<\/a><\/p>
+<a href='bat-smg:Kuosuovs'>]^bat<n><sg>$^-<guio>$^*smg$^:<sent>$^*Kuosuovs$[<\/a>
+<a href='zh:ç§ç´¢æ²'>]^*zh$^:<sent>$^*ç$§^*ç$´¢æ²^.<sent>$[][<\/a><\/p>
 <\/body>
 <\/html>
 ]
