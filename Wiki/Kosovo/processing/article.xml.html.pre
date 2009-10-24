@@ -262,8 +262,10 @@
 <li><a href='http:\/\/www.assembly-kosova.org\/ Assembly of Kosovo'>]^74<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.president-ksgov.net\/?id=1,67,67,67,e\/ President of Kosovo'>]^75<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/?change_lang=en Serbian Government for Kosovo and Metohija'>]^76<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='https:\/\/www.cia.gov\/library\/publications\/world-leaders-1\/world-leaders-k\/kosovo.html Chief of State and Cabinet Members'>]^77<num>$^.<sent>$[][<\/a><\/li>
 <li>]{{^CIA<n><acr><sg>$ ^World<adj>$ ^*Factbook$ ^link<n><sg>$|^*kv$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.visitkosova.org\/english\/index.htm Visit Kosovo - Tourism Website'>]^77<num>$^.<sent>$[][<\/a><\/li>
+<li>]{{^*dmoz$|^Regional<adj>$\/^Europe<np><loc><sg>$\/^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.visitkosova.org\/english\/index.htm Visit Kosovo - Tourism Website'>]^78<num>$^.<sent>$[][<\/a><\/li>
 <li><\/li>
 <\/ul>
 <p><br\/>
