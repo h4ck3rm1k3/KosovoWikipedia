@@ -110,8 +110,7 @@
 <\/ul>
 <p> 
 <br\/>
-]{{^*Serbia$_^and<cnjcoo>$_^Montenegro<np><loc><sg>$}}^.<sent>$[][<\/p>
-<p><a href='de:Kosovo'>]^*de$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='de:Kosovo'>]^*de$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='et:Kosovo'>]^*et$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='es:Kosovo'>]^*es$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='eo:Kosovo'>]^*eo$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
