@@ -290,7 +290,7 @@
 ]{{^Template/Template<n><sg>$ ^group/group<n><sg>$[
 ]|^title/title<n><sg>/title<vblex><inf>/title<vblex><pres>$ = ^International/International<adj>$ ^membership/membership<n><sg>$ ^and/and<cnjcoo>$ ^history/history<n><sg>$[
 ]|^list/list<n><sg>/list<vblex><inf>/list<vblex><pres>$[  ]=[
-]{{^Countries/Country<n><pl>$ ^of/of<pr>$ ^Europe/Europe<np><loc><sg>$}}[
+]{{^Non/Non<adv>$^-/-<guio>$^sovereign/sovereign<adj>/sovereign<n><sg>$ ^territories/territory<n><pl>$ ^of/of<pr>$ ^Europeâ/*Europeâ$|^spell/spell<n><sg>/spell<vblex><inf>/spell<vblex><pres>$=^ise/*ise$}}[
 ]}}^./.<sent>$[][<\/p>
 <p>&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^Categories/Category<n><pl>$^-/-<guio>$^-/-<guio>$[&gt;
 <a href='Category:Kosovo'>]^Category/Category<n><sg>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>

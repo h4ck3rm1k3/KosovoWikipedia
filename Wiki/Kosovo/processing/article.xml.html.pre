@@ -290,7 +290,7 @@
 ]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<vblex><pres>$ = ^International<adj>$ ^membership<n><sg>$ ^and<cnjcoo>$ ^history<n><sg>$[
 ]|^list<n><sg>$[  ]=[
-]{{^Country<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$}}[
+]{{^Non<adv>$^-<guio>$^sovereign<adj>$ ^territory<n><pl>$ ^of<pr>$ ^*Europeâ$|^spell<n><sg>$=^*ise$}}[
 ]}}^.<sent>$[][<\/p>
 <p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$[&gt;
 <a href='Category:Kosovo'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
