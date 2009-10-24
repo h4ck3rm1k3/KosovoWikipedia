@@ -21,7 +21,7 @@
 ]{{^*Infobox$ ^Country<n><sg>$[
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[      ]= ^Kosovo<np><loc><sg>$[
 ]|^common<adj>$_^name<n><sg>$[                 ]= ^Kosovo<np><loc><sg>$[
-]|^image<n><sg>$_^map<n><sg>$[                   ]= ^Europe<np><loc><sg>$ ^location<n><sg>$ ^SRB<n><acr><sg>$ ^with<pr>$ ^*KOS$^.<sent>$^*png$[
+]|^image<n><sg>$_^map<n><sg>$[                   ]= ^Europe<np><loc><sg>$ ^location<n><sg>$ ^*KOS$^.<sent>$^*png$[
 ]|^map<n><sg>$_^*caption$[                 ]= ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^in<pr>$ ^Europe<np><loc><sg>$[
 ]|^ethnic<adj>$_^group<n><pl>$[               ]= ^92%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>&lt;]^*br$ \/[&gt;]^5.3%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a>&lt;]^*br$ \/[&gt;]^2.7%<num><percent>$ ^others<prn><tn><mf><pl>$[&lt;]^*ref$[&gt;]{{^*citation$ | ^*url$ = ^*http$^:<sent>$\/\/^www.ks-gov.net<num>$\/^ESK<n><acr><sg>$\/^*eng$\/ | ^title<vblex><pres>$ = ^Statistical<adj>$ ^Office<n><sg>$ | ^publisher<n><sg>$ = ^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[&lt;]\/^*ref$[&gt;
 ]|^ethnic<adj>$_^group<n><pl>$_^year<n><sg>$[          ]= ^2007<num>$[
