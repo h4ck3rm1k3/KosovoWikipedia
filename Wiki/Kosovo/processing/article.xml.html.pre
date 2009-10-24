@@ -255,7 +255,7 @@
 <li><a href='Serbs in Kosovo'>]^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Albanians in Kosovo'>]^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Post and Telecom of Kosovo'>]^Post<n><sg>$ ^and<cnjcoo>$ ^*Telecom$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='National awakening and the birth of Albania'>]^National<adj>$ ^awaken<vblex><ger>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^birth<n><sg>$ ^of<pr>$ ^*Albania$^.<sent>$[][<\/a><\/li>
+<li><a href='Albanian nationalism and independence'>]^Albanian<adj>$ ^nationalism<n><sg>$ ^and<cnjcoo>$ ^independence<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Demographic history of Kosovo'>]^*Demographic$ ^history<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Unrest in Kosovo|Unrest in Kosovo during March 2004'>]^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^during<pr>$ ^March<n><sg>$ ^2004<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='Metohija'>]^*Metohija$^.<sent>$[][<\/a><\/li>
