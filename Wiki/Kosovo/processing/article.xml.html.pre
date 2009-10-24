@@ -39,13 +39,16 @@
 <br\/>
 <\/p>
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><ul>
-<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?order=priority&amp;nav_category=19 News from B92 Belgrade'>]^2<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.serbia.sr.gov.yu\/news\/kosovo News from the Serbian Government'>]^3<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovo.com\/default4.html News from the Serbian Orthodox Church'>]^4<num>$^.<sent>$[][<\/a><\/li>
-<li> 
-<a href='http:\/\/www.kosovapress.com Kosovo Press - the KLA news agency'>]^5<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^6<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.serbia.sr.gov.yu\/coordination_centre\/index.html Serb Kosovo Coordination Center'>]^7<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohia'>]^2<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.albanian.com\/main\/countries\/kosova General information from Albanian.com'>]^3<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/beqiraj.com\/kosova\/al\/ General information from Beqiraj.com (in Albanian)'>]^4<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.alb-net.com\/warcrimes-img\/warcrimes.htm Kosova Crisis Center - Serbian Massacres of Albanians'>]^5<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosova.com Kosova Information Center'>]^6<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovapress.com Kosova Press - Kosova news agency'>]^7<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^8<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?order=priority&amp;nav_category=19 News from B92 Belgrade'>]^9<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.serbia.sr.gov.yu\/news\/kosovo News from the Serbian Government'>]^10<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovo.com\/default4.html News from the Serbian Orthodox Church'>]^11<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <\/body>
 <\/html>
