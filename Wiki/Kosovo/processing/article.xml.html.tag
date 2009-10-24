@@ -338,7 +338,8 @@
 <li><a href='http:\/\/www.americansforkosovo.org The American Council for Kosovo'>]^53<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
-<a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
+]{{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$}}^.<sent>$[][<\/p>
+<p><a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
 <a href='Category:Kosovo'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='Category:UN_peacekeeping_missions_and_operations'>]^Category<n><sg>$^:<sent>$^UN<n><acr><sg>$_^*peacekeeping$_^mission<n><pl>$_^and<cnjcoo>$_^operation<n><pl>$[<\/a>
 <a href='ar:ÙÙØµÙØ©'>]^*ar$^:<sent>$^*Ù$^*Ù$Øµ^*Ù$Ø©[<\/a>
