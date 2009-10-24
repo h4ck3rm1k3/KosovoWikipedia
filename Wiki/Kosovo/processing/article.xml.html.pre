@@ -15,7 +15,7 @@
 ]{{^current<n><sg>$ ^relate<vblex><pp>$|^article<n><sg>$|^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$|^date<n><sg>$=^February<n><sg>$ ^2008<num>$}}[
 
 ]{{^*Infobox$ ^Country<n><sg>$[
-]|^native<adj>$_^name<n><sg>$[              ]= {{^*nowrap$|{{^*lang$|^*sq$|[<em>]^*Kosova$[<\/em>]}}[&lt;]^*br$[&gt;]{{^*lang$|^*sr$^-<guio>$^*Cyrl$|[<em>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/em>]}} \/ {{^*lang$|^*sr$^-<guio>$^*Latn$|[<em>]^Kosovo<np><loc><sg>$[<\/em>]}}}}[
+]|^native<adj>$_^name<n><sg>$[              ]= {{^*nowrap$|{{^*lang$|^*sq$|[<em>]^*Republika$ ^*e$ ^*Kosov$Ã«^*s$[<\/em>]}}[&lt;]^*br$[&gt;]{{^*lang$|^*sr$^-<guio>$^*Cyrl$|[<em>]Ð ÐµÐ^¿<lquest>$^*Ñ$Ð±Ð»Ð¸ÐºÐ° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/em>]}} \/ {{^*lang$|^*sr$^-<guio>$^*Latn$|[<em>]^*Republika$ ^Kosovo<np><loc><sg>$[<\/em>]}}}}[
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[   ]= ^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[
 ]|^common<adj>$_^name<n><sg>$[              ]= ^Kosovo<np><loc><sg>$[
 ]|^image<n><sg>$_^flag<n><sg>$[               ]= ^Flag<n><sg>$_^of<pr>$_^Kosovo<np><loc><sg>$^.<sent>$^*svg$[
