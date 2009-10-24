@@ -61,6 +61,8 @@
  ^5%<num><percent>$[
 ]|^-<guio>$[
 ]|[ <a href='Time zone'>]^Time<n><sg>$ ^zone<n><sg>$[<\/a> ]||[ <a href='UTC'>]^*UTC$[<\/a> ]+^2<num>$[
+]|^-<guio>$[
+]| ^*valign$=^top<adj>$ |[ <a href='Airline'>]^*Airline$[<\/a> ]^carrier<n><sg>$ ||[ <a href='Kosova Airlines'>]^*Kosova$ ^*Airlines$[<\/a>
 ]|}^.$
 [][<\/p>
 

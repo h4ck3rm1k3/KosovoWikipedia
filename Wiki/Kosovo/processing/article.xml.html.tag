@@ -27,6 +27,8 @@
 ]| ^*valign$=^top<adj>$ |[ <a href='List of ethnic groups|Ethnic groups'>]^List<n><sg>$ ^of<pr>$ ^ethnic<adj>$ ^group<n><pl>$|^Ethnic<adj>$ ^group<n><pl>$[<\/a>&lt;]^*br$[&gt;]^(<lpar>$[<a href='2003'>]^2003<num>$[<\/a>]^)<rpar>$ ||[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>]^:<sent>$^88%<num><percent>$[&lt;]^*br$[&gt;<a href='Serbs'>]^*Serbs$[<\/a>]^:<sent>$ ^7%<num><percent>$[&lt;]^*br$[&gt;]^Others<prn><tn><mf><pl>$^:<sent>$ ^5%<num><percent>$[
 ]|^-<guio>$[
 ]|[ <a href='Time zone'>]^Time<n><sg>$ ^zone<n><sg>$[<\/a> ]||[ <a href='UTC'>]^*UTC$[<\/a> ]+^2<num>$[
+]|^-<guio>$[
+]| ^*valign$=^top<adj>$ |[ <a href='Airline'>]^*Airline$[<\/a> ]^carrier<n><sg>$ ||[ <a href='Kosova Airlines'>]^*Kosova$ ^*Airlines$[<\/a>
 ]|}^.<sent>$[][<\/p>
 
 <pre>
