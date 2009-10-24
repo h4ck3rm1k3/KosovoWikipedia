@@ -75,33 +75,31 @@
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><ul>
 <li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^3<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ A collection of photos from Kosovo'>]^4<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.antiwar.com\/orig\/deliso5.html  How Islamic Terrorism Took Root in Albania'>]^5<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.siri-us.com\/backgrounders\/Archives_Kosovo\/KLA-Drugs.html  Articles on KLA-Kosovo-Drugs-Mafia and Fundraising'>]^6<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <\/p>
 <a name="Pro-Albanian"><\/a><h3>]^*Pro$^-<guio>$^Albanian<n><sg>$^.<sent>$[][<\/h3><ul>
-<li><a href='http:\/\/www.assembly-kosova.org\/ Kosovo Assembly'>]^7<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.pm-ksgov.net\/ Kosovo Prime Minister'>]^8<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosova.com Kosova Information Center (in Albanian)'>]^9<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovapress.com Kosovapress - Kosovo news agency'>]^10<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/beqiraj.com\/kosova\/al\/ General information from Beqiraj.com'>]^11<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^Albanian<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.albanian.com\/main\/countries\/kosova General information from Albanian.com'>]^12<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.alb-net.com\/warcrimes-img\/warcrimes.htm Kosovo Crisis Center - Serbian Massacres of Albanians'>]^13<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.assembly-kosova.org\/ Kosovo Assembly'>]^5<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.pm-ksgov.net\/ Kosovo Prime Minister'>]^6<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosova.com Kosova Information Center (in Albanian)'>]^7<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovapress.com Kosovapress - Kosovo news agency'>]^8<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/beqiraj.com\/kosova\/al\/ General information from Beqiraj.com'>]^9<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^Albanian<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.albanian.com\/main\/countries\/kosova General information from Albanian.com'>]^10<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.alb-net.com\/warcrimes-img\/warcrimes.htm Kosovo Crisis Center - Serbian Massacres of Albanians'>]^11<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <\/p>
 <a name="Pro-Serb"><\/a><h3>]^*Pro$^-<guio>$^*Serb$^.<sent>$[][<\/h3><ul>
-<li><a href='http:\/\/www.kosovo.com\/ Kosovo.com'>]^14<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohia'>]^15<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?order=priority&amp;nav_category=19 News from B92 Belgrade'>]^16<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.serbia.sr.gov.yu\/news\/kosovo News from the Serbian Government'>]^17<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovo.net\/ News from the Serbian Orthodox Church'>]^18<num>$^.<sent>$[][<\/a><ul>
+<li><a href='http:\/\/www.kosovo.com\/ Kosovo.com'>]^12<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohia'>]^13<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?order=priority&amp;nav_category=19 News from B92 Belgrade'>]^14<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.serbia.sr.gov.yu\/news\/kosovo News from the Serbian Government'>]^15<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovo.net\/ News from the Serbian Orthodox Church'>]^16<num>$^.<sent>$[][<\/a><ul>
 <li> 
-<a href='http:\/\/groups.yahoo.com\/group\/decani\/ News archive'>]^19<num>$^.<sent>$[][<\/a><\/li>
+<a href='http:\/\/groups.yahoo.com\/group\/decani\/ News archive'>]^17<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <\/li>
-<li><a href='http:\/\/www.serbia.sr.gov.yu\/coordination_centre\/index.html Serb Kosovo Coordination Center'>]^20<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.serbia.sr.gov.yu\/coordination_centre\/index.html Serb Kosovo Coordination Center'>]^18<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 ]{{^*Serbia$_^and<cnjcoo>$_^Montenegro<np><loc><sg>$}}^.<sent>$[][<\/p>
