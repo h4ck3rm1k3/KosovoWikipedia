@@ -73,7 +73,7 @@
 ]|[ <a href='UTC+1'>]^*UTC$+^1<num>$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Currency'>]^Currency<n><sg>$[<\/a>
-]|[ <a href='Euro'>]^Euro<n><sg>$[<\/a> 
+]|[ <a href='Euro'>]^Euro<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian Dinar'>]^*Serbian$ ^*Dinar$[<\/a>
 ]|^-<guio>$[
 ]|}^.$
 [][<\/p>
