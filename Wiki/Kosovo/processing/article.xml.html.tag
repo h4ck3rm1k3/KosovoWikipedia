@@ -14,7 +14,8 @@
 &lt;]^*u$[&gt;]^'<apos>$^'<apos>$^'<apos>$[
 ]^Prior<adj>$ ^to<pr>$ ^a<det><ind><sg>$ ^change<n><sg>$ ^(<lpar>$^other<det><ind><sp>$ ^than<cnjcoo>$ ^minor<n><sg>$ ^edit<vblex><pri><p3><sg>$^)<rpar>$^,<cm>$ ^discussion<n><sg>$ ^NEED<n><pl>$ ^to<pr>$ ^take<vblex><inf># place$^.<sent>$ ^PRIOR<adj>$ ^TO<pr>$ ^not<adv>$ ^afterwards<adv>$^.<sent>$ ^Please<vblex><inf>$ ^address<vblex><inf>$ ^such<det><ind><sp>$ ^*controversial$ ^edit<vblex><pri><p3><sg>$ ^within<pr>$ ^the<det><def><sp>$ ^Talk<n><sg>$ ^Page<n><sg>$ ^first<adv>$^.<sent>$^'<apos>$^'<apos>$^'<apos>$[&lt;]\/^*u$[&gt;
 ]^-<guio>$^-<guio>$^-<guio>$^-<guio>$^-<guio>$^-<guio>$[&gt;
-]{{^redirect<vblex><inf>$^6<num>$|^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^the<det><def><sp>$ ^state<adj>$ ^proclaim<vblex><pp>$ ^in<pr>$ ^1991<num>$|^Republic<n><sg>$ ^of<pr>$ ^*Kosova$||^Kosovo<np><loc><sg>$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
+]{{^*seealso$|^Independent<adj>$ ^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
+]{{^redirect<vblex><pres>$^6<num>$||^the<det><def><sp>$ ^state<adj>$ ^proclaim<vblex><pp>$ ^in<pr>$ ^1991<num>$|^Republic<n><sg>$ ^of<pr>$ ^*Kosova$||^Kosovo<np><loc><sg>$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
 ]{{^redirect<vblex><pres>$^5<num>$|^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$|^the<det><def><sp>$[ <a href='SFR Yugoslavia|SFR Yugoslav'>]^SFR<n><acr><sg>$ ^Yugoslavia<np><loc><sg>$|^SFR<n><acr><sg>$ ^Yugoslav<adj>$[<\/a> ]^entity<n><sg>$ ^of<pr>$ ^the same<det><ind><sp>$ ^name<n><sg>$ ^between<pr>$ ^1946<num>$ ^and<cnjcoo>$ ^1974<num>$|^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^(<lpar>$^1946<num>$^-<guio>$^1974<num>$^)<rpar>$|^a<det><ind><sg>$ ^account<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^period<n><sg>$ ^between<pr>$ ^1990<num>$ ^and<cnjcoo>$ ^1999<num>$|^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^(<lpar>$^1990<num>$^*â$^1999<num>$^)<rpar>$}}[
 ]{{^*Infobox$ ^Country<n><sg>$[
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$ = ^Kosovo<np><loc><sg>$[
@@ -64,7 +65,6 @@
 ]|^*footnote$^1<num>$ = ^The<det><def><sp>$ ^*census$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^reconstruction<n><sg>$^;<sent>$ ^most of<det><qnt><sp>$ ^the<det><def><sp>$ ^ethnic<adj>$ ^Albanian<adj>$ ^majority<n><sg>$ ^boycott<vblex><past>$^.<sent>$[
 ]|^*footnote$^2<num>$ = ^Officially<adv>$[ <a href='Telephone numbers in Serbia|+381'>]^Telephone<n><sg>$ ^number<n><pl>$ ^in<pr>$ ^*Serbia$|+^381<num>$[<\/a>]^;<sent>$ ^some<prn><tn><mf><pl>$ ^mobile<adj>$ ^phone<n><sg>$ ^provider<n><pl>$ ^use<n><sg>$[ <a href='Telephone numbers in Monaco|+377'>]^Telephone<n><sg>$ ^number<n><pl>$ ^in<pr>$ ^Monaco<np><loc><sg>$|+^377<num>$[<\/a> ]^(<lpar>$^Monaco<np><loc><sg>$^)<rpar>$ ^or<cnjcoo>$[ <a href='Telephone numbers in Slovenia|+386'>]^Telephone<n><sg>$ ^number<n><pl>$ ^in<pr>$ ^Slovenia<np><loc><sg>$|+^386<num>$[<\/a> ]^(<lpar>$^Slovenia<np><loc><sg>$^)<rpar>$ ^instead<adv>$^.<sent>$[
 ]}}[
-]{{^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]{{^*Infobox$ ^Country<n><sg>$[
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$ = ^Kosovo<np><loc><sg>$^,<cm>$ ^UN<n><acr><sg>$ ^administration<n><sg>$[
 ]|^image<n><sg>$_^map<n><sg>$ = ^Map<n><sg>$ ^of<pr>$ ^*Serbia$ ^(<lpar>$^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$^)<rpar>$^.<sent>$^*PNG$[
