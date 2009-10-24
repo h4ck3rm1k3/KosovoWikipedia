@@ -116,9 +116,9 @@
 <li><a href='http:\/\/www.kosovo.com\/ Kosovo.com'>]^13<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.assembly-kosova.org\/ Kosovo Assembly'>]^14<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.kosova.com Kosova Information Center (in Albanian)'>]^15<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovapress.com Kosova Press - Kosovo news agency'>]^16<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^17<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.pm-ksgov.net\/ Kosovo Prime Minister'>]^18<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovapress.com Kosovapress - Kosovo news agency'>]^16<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.pm-ksgov.net\/ Kosovo Prime Minister'>]^17<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^18<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.b92.net\/english\/news\/index.php?order=priority&amp;nav_category=19 News from B92 Belgrade'>]^19<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.serbia.sr.gov.yu\/news\/kosovo News from the Serbian Government'>]^20<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.kosovo.net\/ News from the Serbian Orthodox Church'>]^21<num>$^.<sent>$[][<\/a><ul>
