@@ -12,17 +12,17 @@
 ]{|[ 
 ]|^-<guio>$[
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[
-&lt;]^big<adj><sint>$[&gt;<strong>]^Kosovo<np><loc><sg>$[<\/strong>&lt;]^*br$\/[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt;<strong>]^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosov$Ã«[<\/strong>&lt;]^*br$\/[&gt;&lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$[&gt;
+&lt;]^big<adj><sint>$[&gt;<strong>]^*Kosov$Ã«[<\/strong>&lt;]^*br$\/[&gt;
 ]|^-<guio>$[
 ]|^-<guio>$ ^style<n><sg>$="^border<n><sg>$^-<guio>$^top<n><sg>$^:<sent>$ ^2<num>$^*px$ ^solid<adj><sint>$ ^gray<adj><sint>$^;<sent>$"[
 ]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-KosovoMetohija.png|100px|Map showing Kosovo within the state union'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^*KosovoMetohija$^.<sent>$^*png$|^100<num>$^*px$|^Map<n><sg>$ ^show<vblex><ger>$ ^Kosovo<np><loc><sg>$ ^within<pr>$ ^the<det><def><sp>$ ^state<adj>$ ^union<n><sg>$[<\/a> 
 ]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
-]|[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^,<cm>$[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>
+]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>
 ]|^-<guio>$[
-]|[ <a href='Capital'>]^Capital<adj>$[<\/a>
-]|[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]^,<cm>$[ <a href='PrishtinÃ«'>]^*Prishtin$Ã«[<\/a>
+]|[ <a href='Capital'>]^Capital<n><sg>$[<\/a>
+]|[ <a href='Prishtina'>]^*Prishtina$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
 ]|[ <a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>
