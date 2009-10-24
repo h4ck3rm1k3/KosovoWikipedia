@@ -548,7 +548,7 @@
 ^*html$ |^title<vblex><pres>$=^Kosovo<np><loc><sg>$ |^author<n><sg>$=^City<n><sg>$ ^Population<n><sg>$}}[&lt;]\/^*ref$^.$
 [][&gt;<\/p>
 <ul>
-<li><a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^:$
+<li><a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^(<lpar>$^*Prishtina$^)<rpar>$^:$
  ^165,844<num>$^.$
 [][<\/li>
 <li><a href='Prizren'>]^*Prizren$[<\/a> ]^:$
@@ -566,7 +566,7 @@
 <li><a href='PeÄ'>]^*PeÄ$[<\/a> ]^(<lpar>$^*Peja$^)<rpar>$ ^:$
  ^68,551<num>$^.$
 [][<\/li>
-<li><a href='Gnjilane'>]^*Gnjilane$[<\/a> ]^:$
+<li><a href='Gnjilane'>]^*Gnjilane$[<\/a> ]^(<lpar>$^*Gjilan$^)<rpar>$^:$
  ^55,781<num>$^.$
 [][<\/li>
 <li><a href='VuÄitrn'>]^*VuÄ$^*itrn$[<\/a> ]^(<lpar>$^*Vushtrri$^)<rpar>$ ^:$
