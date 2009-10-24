@@ -25,6 +25,7 @@
 ]|^-<guio>$ ^style<n><sg>$="^border<n><sg>$^-<guio>$^top<n><sg>$^:<sent>$ ^2<num>$^*px$ ^solid<adj><sint>$ ^gray<adj><sint>$^;<sent>$"[
 ]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-Montenegro2.png | Map of Montenegro within the state union'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Montenegro<np><loc><sg>$^2<num>$^.<sent>$^*png$ | ^Map<n><sg>$ ^of<pr>$ ^Montenegro<np><loc><sg>$ ^within<pr>$ ^the<det><def><sp>$ ^state<adj>$ ^union<n><sg>$[<\/a>
 ]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
+]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
 ]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
 ]|^-<guio>$[
