@@ -239,7 +239,7 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^20<num>$[<\/a> ]"^,<cm>$[ 
 <li><a href='Sexual trafficking in Kosovo'>]^Sexual<adj>$ ^trafficking<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p>]}}^.<sent>$[][<\/p>
-<a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><p>&lt;]^*div$ ^class<n><sg>$="^reference<n><pl>$^-<guio>$^small<adj><sint>$" ^style<n><sg>$="^-<guio>$^*moz$^-<guio>$^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^2<num>$^;<sent>$ ^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^2<num>$^;<sent>$"[&gt;&lt;]^reference<n><pl>$\/[&gt;&lt;]\/^*div$^.<sent>$[][&gt;<\/p>
+<a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><p>&lt;]^*div$ ^class<n><sg>$="^reference<n><pl>$^-<guio>$^small<adj><sint>$"[&gt;&lt;]^reference<n><pl>$\/[&gt;&lt;]\/^*div$[&gt;&lt;]^-<guio>$^-<guio>$^Please<vblex><inf>$ ^keep<vblex><inf>$ ^as<preadv>$ ^single<adj>$ ^column<n><sg>$ ^as<pr>$ ^long<adj><sint>$ ^*URLs$ ^*otherwise$ ^cause<n><sg>$ ^display<n><sg>$ ^problem<n><pl>$ ^on<pr>$ ^small<adj><sint><comp>$ ^window<n><pl>$\/^screen<n><pl>$^;<sent>$ ^*thanks$^.<sent>$^-<guio>$^-<guio>$^.<sent>$[][&gt;<\/p>
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <ul>
 <li><a href='http:\/\/www.ks-gov.net\/pm\/?menuid=&amp;subid=&amp;lingo=2 The office of Prime Minister of Kosovo'>]^31<num>$[<\/a> ]^English<adj>$ ^version<n><sg>$^.<sent>$[][<\/li>
