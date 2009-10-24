@@ -60,7 +60,7 @@
 ]}}[
 ]{{^Republic/Republic<n><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$}}[
 ]{{^Infobox/*Infobox$ ^Country/Country<n><sg>$[
-]|^conventional/conventional<adj>$_^long/long<adv>/long<adj><sint>$_^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>$ = ^Autonomous/Autonomous<adj>$ ^Province/Province<n><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$ ^and/and<cnjcoo>$ ^Metohija/*Metohija$[
+]|^conventional/conventional<adj>$_^long/long<adv>/long<adj><sint>$_^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>$ = ^Kosovo/Kosovo<np><loc><sg>$^,/,<cm>$ ^UN/UN<n><acr><sg>$ ^protectorate/protectorate<n><sg>$[
 ]|^image/image<n><sg>$_^map/map<n><sg>$[    ]= ^Map/Map<n><sg>$ ^of/of<pr>$ ^Serbia/*Serbia$ ^(/(<lpar>$^Kosovo/Kosovo<np><loc><sg>$ ^and/and<cnjcoo>$ ^Metohija/*Metohija$^)/)<rpar>$^./.<sent>$^PNG/*PNG$[
 ]|^map/map<n><sg>$_^caption/*caption$[  ]= ^Kosovo/Kosovo<np><loc><sg>$ ^within/within<adv>/within<pr>$ ^Serbia/*Serbia$[
 ]|^common/common<adj>$_^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>$[  ]= ^Kosovo/Kosovo<np><loc><sg>$[
