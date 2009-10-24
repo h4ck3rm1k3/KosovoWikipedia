@@ -50,7 +50,7 @@
 ]|^area<n><sg>$_^*km$^2<num>$[                 ]= ^10,887<num>$[
 ]|^area<n><sg>$_^*sq$_^*mi$[               ]= ^4,203<num>$[
 ]|^percent<n><sg>$_^water<n><sg>$[            ]= ^*n$\/^a<det><ind><sg>$[
-]|^population<n><sg>$_^estimate<n><sg>$[      ]= ^2.2<num>$ ^million<num><sp>$[
+]|^population<n><sg>$_^estimate<n><sg>$[      ]= ^2<num>$ ^million<num><sp>$[
 ]|^population<n><sg>$_^estimate<n><sg>$_^rank<n><sg>$ =[ 
 ]|^population<n><sg>$_^estimate<n><sg>$_^year<n><sg>$ = ^2005<num>$[
 ]|^population<n><sg>$_^*census$[        ]=[ 

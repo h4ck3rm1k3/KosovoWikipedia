@@ -50,7 +50,7 @@
 ]|^area/area<n><sg>$_^km/*km$^2/2<num>$[                 ]= ^10,887/10,887<num>$[
 ]|^area/area<n><sg>$_^sq/*sq$_^mi/*mi$[               ]= ^4,203/4,203<num>$[
 ]|^percent/percent<adv>/percent<n><sg>$_^water/water<n><sg>$[            ]= ^n/*n$\/^a/a<det><ind><sg>$[
-]|^population/population<n><sg>$_^estimate/estimate<n><sg>/estimate<vblex><inf>/estimate<vblex><pres>$[      ]= ^2.2/2.2<num>$ ^million/million<num><sp>/million<n><sg>$[
+]|^population/population<n><sg>$_^estimate/estimate<n><sg>/estimate<vblex><inf>/estimate<vblex><pres>$[      ]= ^2/2<num>$ ^million/million<num><sp>/million<n><sg>$[
 ]|^population/population<n><sg>$_^estimate/estimate<n><sg>/estimate<vblex><inf>/estimate<vblex><pres>$_^rank/rank<n><sg>$ =[ 
 ]|^population/population<n><sg>$_^estimate/estimate<n><sg>/estimate<vblex><inf>/estimate<vblex><pres>$_^year/year<n><sg>$ = ^2005/2005<num>$[
 ]|^population/population<n><sg>$_^census/*census$[        ]=[ 
