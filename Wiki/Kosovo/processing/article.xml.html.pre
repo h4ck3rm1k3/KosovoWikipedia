@@ -58,7 +58,7 @@
 ]}}[
 ]{{^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]{{^*Infobox$ ^Country<n><sg>$[
-]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$ = ^Kosovo<np><loc><sg>$^,<cm>$ ^UN<n><acr><sg>$ ^protectorate<n><sg>$[
+]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$ = ^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^UN<n><acr><sg>$ ^administration<n><sg>$[
 ]|^image<n><sg>$_^map<n><sg>$ = ^Map<n><sg>$ ^of<pr>$ ^*Serbia$ ^(<lpar>$^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$^)<rpar>$^.<sent>$^*PNG$[
 ]|^map<n><sg>$_^*caption$ = ^Kosovo<np><loc><sg>$ ^within<pr>$ ^*Serbia$[
 ]|^common<adj>$_^name<n><sg>$ = ^Kosovo<np><loc><sg>$[
