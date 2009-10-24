@@ -382,6 +382,7 @@
 <a href='roa-rup:Cosova'>]^*roa$^-<guio>$^*rup$^:<sent>$^*Cosova$[<\/a>
 <a href='frp:Kosovo'>]^*frp$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ast:Kosovo'>]^*ast$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='az:Kosovo'>]^*az$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='zh-min-nan:Kosovo'>]^*zh$^-<guio>$^*min$^-<guio>$^*nan$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='be-x-old:ÐÐ¾ÑÐ°Ð²Ð°'>]^be<vbser><inf>$^-<guio>$^*x$^-<guio>$^old<adj><sint>$^:<sent>$ÐÐ¾^*Ñ$Ð°Ð²Ð°[<\/a>
 <a href='bs:Kosovo'>]^*bs$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
