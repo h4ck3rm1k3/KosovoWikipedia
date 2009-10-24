@@ -170,10 +170,10 @@
 <ul>
 <li><a href='Äakovica  District|Äakovica\/Gjakova District'>]^*Ä$^*akovica$[  ]^District<n><sg>$|^*Ä$^*akovica$\/^*Gjakova$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Gnjilane District|Gnjilane\/Gjilani District'>]^*Gnjilane$ ^District<n><sg>$|^*Gnjilane$\/^*Gjilani$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Kosovska Mitrovica District|Kosovska Mitrovica\/Mitrovica District'>]^*Kosovska$ ^*Mitrovica$ ^District<n><sg>$|^*Kosovska$ ^*Mitrovica$\/^*Mitrovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='PeÄ District|PeÄ\/Peja District'>]^*PeÄ$ ^District<n><sg>$|^*PeÄ$\/^*Peja$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='District of Kosovska Mitrovica|Kosovska Mitrovica\/Mitrovica District'>]^District<n><sg>$ ^of<pr>$ ^*Kosovska$ ^*Mitrovica$|^*Kosovska$ ^*Mitrovica$\/^*Mitrovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='District of PeÄ|PeÄ\/Peja District'>]^District<n><sg>$ ^of<pr>$ ^*PeÄ$|^*PeÄ$\/^*Peja$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='PriÅ¡tina District|PriÅ¡tina\/Prishtina District'>]^*Pri$Å^¡<lquest>$^*tina$ ^District<n><sg>$|^*Pri$Å^¡<lquest>$^*tina$\/^*Prishtina$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Prizren District|Prizren\/Prizreni District'>]^*Prizren$ ^District<n><sg>$|^*Prizren$\/^*Prizreni$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='District of Prizren|Prizren\/Prizreni District'>]^District<n><sg>$ ^of<pr>$ ^*Prizren$|^*Prizren$\/^*Prizreni$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='UroÅ¡evac District|UroÅ¡evac\/Ferizaji District'>]^*Uro$Å^¡<lquest>$^*evac$ ^District<n><sg>$|^*Uro$Å^¡<lquest>$^*evac$\/^*Ferizaji$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
