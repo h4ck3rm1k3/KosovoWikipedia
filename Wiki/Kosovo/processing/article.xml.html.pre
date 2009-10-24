@@ -112,6 +112,7 @@
 <p><br\/>
 <\/p>
 <a name="Gallery"><\/a><h2>]^Gallery<n><sg>$^.<sent>$[][<\/h2><p>&lt;]^gallery<n><sg>$[&gt;
+]^Image<n><sg>$^:<sent>$^*Prishtina$^.<sent>$^*jpg$[ <a href='Prishtina'>]^*Prishtina$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Prizen$ ^*kosovo$^.<sent>$^*jpg$|[<a href='Prizren'>]^*Prizren$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Rahoveci$^.<sent>$^*jpg$|[<a href='Rahovec'>]^*Rahovec$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Gjakova$^.<sent>$^*jpg$|[<a href='Gjakova'>]^*Gjakova$[<\/a>
