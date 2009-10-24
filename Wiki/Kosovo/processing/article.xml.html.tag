@@ -305,8 +305,9 @@
 <li><a href='http:\/\/www.kosovo.net\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^63<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
 <li> 
 <a href='http:\/\/www.savekosovo.org Save Kosovo'>]^64<num>$[<\/a> ]^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^promote<vblex><ger>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^American<adj>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^and<cnjcoo>$ ^of<pr>$ ^the<det><def><sp>$ ^critical<adj>$ ^American<adj>$ ^stake<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*provinceâ$^*s$ ^future<n><sg>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/serbo.blogspot.com Serbo Journal'>]^65<num>$[<\/a>]^*Online$ ^*blog$ ^with<pr>$ ^column<n><pl>$ ^and<cnjcoo>$ ^opinion<n><pl>$^.<sent>$[][<\/li>
 <\/ul>
+<p><br\/>
+<\/p>
 <a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><p>&lt;]^*div$ ^class<n><sg>$="^reference<n><pl>$^-<guio>$^small<adj><sint>$" ^style<n><sg>$="^-<guio>$^*moz$^-<guio>$^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^2<num>$^;<sent>$ ^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^2<num>$^;<sent>$"[&gt;&lt;]^reference<n><pl>$\/[&gt;&lt;]\/^*div$^.<sent>$[][&gt;<\/p>
 <p><a href='Category:Kosovo|*'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|*[<\/a>
 <a href='Category:Proposed countries'>]^Category<n><sg>$^:<sent>$^Propose<vblex><pp>$ ^country<n><pl>$^.<sent>$[][<\/a><\/p>
