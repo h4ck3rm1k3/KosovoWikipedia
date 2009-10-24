@@ -93,6 +93,8 @@
 <li> 
 ]^7%<num><percent>$ ^*Serbs$ ^(<lpar>$^137,900<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
+]^1.9%<num><percent>$ ^Muslim<n><sg>$ ^*Slavs$ ^(<lpar>$^37,400<num>$^)<rpar>$^.<sent>$[][<\/li>
+<li> 
 ]^1.7%<num><percent>$ ^*Roma$ ^(<lpar>$^33,500<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
 ]^1%<num><percent>$ ^*Turks$ ^(<lpar>$^19,700<num>$^)<rpar>$^.<sent>$[][<\/li>
