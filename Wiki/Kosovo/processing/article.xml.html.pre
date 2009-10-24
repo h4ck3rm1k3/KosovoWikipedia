@@ -118,7 +118,6 @@
 <\/ul>
 <p><br\/>
 ]{{^*msg$^:<sent>$^*Serbia$_^and<cnjcoo>$_^Montenegro<np><loc><sg>$}}^.<sent>$[][<\/p>
-<p>]{{^*msg$^:<sent>$^*SFRY$}}^.<sent>$[][<\/p>
 <p><a href='de:Kosovo'>]^*de$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='et:Kosovo'>]^*et$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='fr:Kosovo'>]^*fr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
