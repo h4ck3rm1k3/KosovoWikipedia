@@ -9,8 +9,10 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>]{{^POV<n><acr><sg>$}}[
-<a href='Image:SerbiaMontenegro-Kosovo.png|right|'>]^Image<n><sg>$^:$
+<p>
+]{{^POV<n><acr><sg>$}}^.$
+[][<\/p>
+<p><a href='Image:SerbiaMontenegro-Kosovo.png|right|'>]^Image<n><sg>$^:$
 ^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^.$
 ^*png$|^right<n><sg>$|^.$
 [][<\/a><\/p>
