@@ -8,8 +8,7 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>
-]{{^POV/POV<n><acr><sg>$}}^./.<sent>$[][<\/p>
+<p>]{{^POV/POV<n><acr><sg>$}}^./.<sent>$[][<\/p>
 <p><a href='Image:SerbiaMontenegro-Kosovo.png|framed|Kosovo region'>]^Image/Image<n><sg>$^:/:<sent>$^SerbiaMontenegro/*SerbiaMontenegro$^-/-<guio>$^Kosovo/Kosovo<np><loc><sg>$^./.<sent>$^png/*png$|^framed/frame<vblex><past>/frame<vblex><pp>$|^Kosovo/Kosovo<np><loc><sg>$ ^region/region<n><sg>$^./.<sent>$[][<\/a><\/p>
 
 <pre>
