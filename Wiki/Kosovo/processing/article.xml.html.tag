@@ -91,6 +91,7 @@
 <p>]^However<adv>$^,<cm>$ ^the<det><def><sp>$ ^figure<n><pl>$ ^be<vbser><pres>$ ^highly<adv>$ ^*disputable$ ^and<cnjcoo>$ ^may<vaux><inf>$ ^*presently$ ^include<vblex><inf>$ ^a<det><ind><sg>$ ^Albanian<adj>$ ^majority<n><sg>$ ^well<adv>$ ^into<pr>$ ^the<det><def><sp>$ ^90<num>$^*s$ ^in<pr>$ ^*percentile$^.<sent>$^.<sent>$[][<\/p>
 <a name="Presidents"><\/a><h2>]^President<n><pl>$^.<sent>$[][<\/h2><ul>
 <li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>]^,<cm>$[ <a href='1992'>]^1992<num>$[<\/a>]^-<guio>$[<a href='2006'>]^2006<num>$[<\/a> ]^(<lpar>$^*deceased$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>]^,<cm>$[ <a href='2006'>]^2006<num>$[<\/a>]^-<guio>$^present<n><sg>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
