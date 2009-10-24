@@ -325,6 +325,7 @@
 <a href='fa:Ú©ÙØ²ÙÙ'>]^*fa$^:<sent>$^*Ú$©^*Ù$Ø²^*Ù$^*Ù$[<\/a>
 <a href='fo:Kosovo'>]^*fo$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='fr:Kosovo'>]^*fr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='fy:Kosovo'>]^*fy$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ga:An Chosaiv'>]^*ga$^:<sent>$^A<det><ind><sg>$ ^*Chosaiv$[<\/a>
 <a href='gan:ç§ç´¢æ²'>]^*gan$^:<sent>$^*ç$§^*ç$´¢æ²[<\/a>
 <a href='gv:Kosovo'>]^*gv$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
