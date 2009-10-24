@@ -62,7 +62,7 @@
 <li>]^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^(<lpar>$[<a href='1963'>]^1963<num>$[<\/a>]^-<guio>$[<a href='1968'>]^1968<num>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li>]^Socialist<adj>$ ^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$[<a href='1968'>]^1968<num>$[<\/a>]^-<guio>$[<a href='1989'>]^1989<num>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li>]^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohia$ ^(<lpar>$[<a href='1989'>]^1989<num>$[<\/a> ]^-<guio>$ ^present<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
-<li>]^Kosovo<np><loc><sg>$ ^be<vbser><past><p3><sg>$ ^also<adv>$ ^call<vblex><pp>$ "^republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$" ^by<pr>$ ^the<det><def><sp>$ ^shadow<n><sg>$ ^Kosovo<np><loc><sg>$ ^Albanian<adj>$ ^government<n><sg>$ ^between<pr>$ ^a<det><ind><sg>$[ <a href='1990'>]^1990<num>$[<\/a> ]^*declaration$ ^of<pr>$ ^independence<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^Kosovo<np><loc><sg>$ ^War<n><sg>$ ^in<pr>$[ <a href='1999'>]^1999<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
+<li>]^Kosovo<np><loc><sg>$ ^be<vbser><past><p3><sg>$ ^also<adv>$ ^call<vblex><pp>$ "^republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$" ^by<pr>$ ^the<det><def><sp>$ ^shadow<n><sg>$ ^Kosovo<np><loc><sg>$ ^Albanian<adj>$ ^government<n><sg>$ ^between<pr>$ ^a<det><ind><sg>$[ <a href='1990'>]^1990<num>$[<\/a> ]^*declaration$ ^of<pr>$ ^independence<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^Kosovo<np><loc><sg>$ ^War<n><sg>$ ^in<pr>$ ^\[<lpar>$^\[<lpar>$^1999<num>$^the<det><def><sp>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
