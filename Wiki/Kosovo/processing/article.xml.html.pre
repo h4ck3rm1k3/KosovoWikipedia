@@ -267,6 +267,7 @@
 <li><a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Prime Minister of Kosovo'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='President of Kosovo'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Albanians in Kosovo'>]^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Post and Telecom of Kosovo'>]^Post<n><sg>$ ^and<cnjcoo>$ ^*Telecom$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Battle of Kosovo|Battle of Kosovo (1389)'>]^Battle<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Battle<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^1389<num>$^)<rpar>$^.<sent>$[][<\/a><\/li>
 <li><a href='Subdivisions of Kosovo'>]^*Subdivisions$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
