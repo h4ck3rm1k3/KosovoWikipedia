@@ -89,9 +89,9 @@
 <p> 
 ]^According to<pr>$ ^the<det><def><sp>$ ^2000<num>$ ^Living<adj>$ ^Standard<adj>$ ^Measurement<n><sg>$ ^Survey<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Statistical<adj>$ ^Office<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<a href='http:\/\/www.sok-kosovo.org\/pdf\/population\/Kosovo_population.pdf'>]^3<num>$[<\/a>]^,<cm>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^total<adj>$ ^population<n><sg>$ ^be<vbser><pri><p3><sg>$ ^estimate<vblex><pp>$ ^between<pr>$ ^1,8<num>$ ^and<cnjcoo>$ ^2,0<num>$ ^million<num><sp>$ ^in<pr>$ ^the<det><def><sp>$ ^follow<vblex><ger>$ ^ethnic<adj>$ ^proportion<n><pl>$^:<sent>$^.<sent>$[][<\/p>
 <ul>
-<li>]^88%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a> ]^(<lpar>$^between<pr>$ ^1,584<num>$^,<cm>$^000<num>$ ^or<cnjcoo>$ ^1,733<num>$^,<cm>$^600<num>$^)<rpar>$^.<sent>$[][<\/li>
+<li>]^88%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a> ]^(<lpar>$^between<pr>$ ^1,584<num>$^,<cm>$^000<num>$ ^and<cnjcoo>$ ^1,733<num>$^,<cm>$^600<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
-]^7%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a> ]^(<lpar>$^between<pr>$ ^126,000<num>$ ^or<cnjcoo>$ ^140,000<num>$^)<rpar>$^.<sent>$[][<\/li>
+]^7%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a> ]^(<lpar>$^between<pr>$ ^126,000<num>$ ^and<cnjcoo>$ ^140,000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li>	
 ]^3%<num><percent>$[ <a href='Muslims by nationality|Muslims'>]^Muslim<n><pl>$ ^by<pr>$ ^nationality<n><sg>$|^Muslim<n><pl>$[<\/a> ]^and<cnjcoo>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^(<lpar>$^54<num>$ ^to<pr>$ ^60<num>$ ^thousand<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
