@@ -375,6 +375,7 @@
 <a href='ro:Kosovo'>]^*ro$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='qu:Kusuwu'>]^*qu$^:<sent>$^*Kusuwu$[<\/a>
 <a href='ru:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*ru$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
+<a href='sah:ÐÐ¾ÑÐ¾Ð²Ð°'>]^*sah$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð°[<\/a>
 <a href='sco:Kosovo'>]^*sco$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='sq:Kosova'>]^*sq$^:<sent>$^*Kosova$[<\/a>
 <a href='scn:KÃ²ssuvu'>]^*scn$^:<sent>$^*K$Ã²^*ssuvu$[<\/a>
