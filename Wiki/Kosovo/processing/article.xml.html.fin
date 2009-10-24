@@ -101,7 +101,7 @@
 ]|^population<n><sg>$_^density<n><sg>$_^rank<n><sg>$[  ]= ^55<num>$[
 ]| ^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^year<n><sg>$[             ]= ^2007<num>$[
 ]| ^GDP<n><acr><sg>$_^PPP<n><acr><sg>$[                  ]= \$^4<num>$ ^*billion$ ^(<lpar>$^CIA<n><acr><sg>$ ^World<n><sg>$ ^*factbook$^)<rpar>$[
-]| ^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^rank<n><sg>$[             ]= ^162<num>$[
+]| ^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^rank<n><sg>$[             ]= ^158<num>$[
 ]| ^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^per<pr>$_^*capita$[       ]= \$^1,800<num>$ \$[
 ]| ^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^per<pr>$_^*capita$_^rank<n><sg>$[  ]=[ 
 ]| ^GDP<n><acr><sg>$_^*Nominal$_^year<n><sg>$[         ]= ^2007<num>$[
