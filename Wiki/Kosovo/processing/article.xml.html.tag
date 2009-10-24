@@ -236,7 +236,7 @@
 <a href='http:\/\/www.ks-gov.net\/esk\/index_english.htm Kosovo Statistical Office (SOK)'>]^6<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/digital.library.unt.edu\/govdocs\/crs\/search.tkl?q=kosovo&amp;search_crit=fulltext&amp;search=Search&amp;date1=Anytime&amp;date2=Anytime&amp;type=form  Congressional Research Service (CRS) Reports regarding Kosovo'>]^7<num>$^.<sent>$[][<\/a><\/li>
 <li><\/li>
-<li><a href='http:\/\/www.rtklive.com  RTK - Kosova's public television - news in Albanian, Serbian, Turkish and Roma'>]^8<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.rtklive.com  RTK - Kosovo's public television - news in Albanian, Serbian, Turkish and Roma'>]^8<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='https:\/\/www.osce.org\/documents\/mik\/1999\/11\/1620_en.pdf Human Rights in Kosovo: As Seen, As Told. Volume I, October 1998 - June 1999'>]^9<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^10<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.kosovakosovo.com\/ KosovaKosovo'>]^11<num>$[<\/a> ]^A<det><ind><sg>$ ^source<n><sg>$ ^of<pr>$ ^information<n><sg>$ ^reflect<vblex><ger>$ ^both<det><ind><pl>$ ^*sidesâ$ ^claim<n><pl>$ ^in<pr>$ ^the<det><def><sp>$ ^dispute<n><sg>$^.<sent>$[][<\/li>
@@ -252,7 +252,7 @@
 <li> 
 <a href='http:\/\/www.crisisgroup.org\/home\/index.cfm?id=1243&amp;l=1 (ICG)'>]^20<num>$[<\/a> ]^International<adj>$ ^Crisis<n><sg>$ ^Group<n><sg>$^,<cm>$ ^a<det><ind><sg>$ ^source<n><sg>$ ^of<pr>$ ^independent<adj>$ ^analysis<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><pl>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.xhakli.com\/2004\/05\/kosovo-search-challenge-helping-people_25.php?show_id=108543905534062634 Kosovo Blog'>]^21<num>$[<\/a> ]^Search<n><sg>$ ^Challenge<n><sg>$^:<sent>$ ^Help<vblex><ger>$ ^person<n><pl>$ ^find<vblex><inf>$ ^information<n><sg>$ ^from<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.eciks.org\/english\/index.php ECIKS'>]^22<num>$[<\/a> ]^Economic<adj>$ ^Initiative<n><sg>$ ^for<pr>$ ^*Kosova$^,<cm>$ ^information<n><sg>$ ^on<pr>$ ^investment<n><sg>$ ^opportunity<n><pl>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.eciks.org\/english\/index.php ECIKS'>]^22<num>$[<\/a> ]^Economic<adj>$ ^Initiative<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^information<n><sg>$ ^on<pr>$ ^investment<n><sg>$ ^opportunity<n><pl>$^.<sent>$^.<sent>$[][<\/li>
 <\/ul>
 <p> 
 <br\/>
