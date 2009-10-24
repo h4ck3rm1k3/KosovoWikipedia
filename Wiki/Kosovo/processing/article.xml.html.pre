@@ -258,7 +258,7 @@
 <li><a href='http:\/\/www.balkanforums.com Kosovo and the Balkans'>]^26<num>$[<\/a> ]^-<guio>$ ^Discussion<n><sg>$ ^Forum<n><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/ec.europa.eu\/comm\/enlargement\/serbia_montenegro\/kosovo_economical_profile.htm European Commission information on Kosovo'>]^27<num>$^.<sent>$[][<\/a><\/li>
 <li> 
-<a href='http:\/\/www.ks-gov.net\/esk\/index_english.htm Kosovo Statistical Office (SOK)'>]^28<num>$^.<sent>$[][<\/a><\/li>
+<a href='http:\/\/www.ks-gov.net\/esk\/esk\/english\/english.htm Kosovo Statistical Office (SOK)'>]^28<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/digital.library.unt.edu\/govdocs\/crs\/search.tkl?q=kosovo&amp;search_crit=fulltext&amp;search=Search&amp;date1=Anytime&amp;date2=Anytime&amp;type=form  Congressional Research Service (CRS) Reports regarding Kosovo'>]^29<num>$^.<sent>$[][<\/a><\/li>
 <li><\/li>
 <li><a href='http:\/\/www.rtklive.com  RTK - Kosovo's public television - news in Albanian, Serbian, Turkish and Roma'>]^30<num>$^.<sent>$[][<\/a><\/li>
