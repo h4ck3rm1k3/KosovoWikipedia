@@ -24,9 +24,11 @@
 ]|^-<guio>$[
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:$
  ^centre<n><sg>$^;$
-" ^*colspan$="^2<num>$" |[ <a href='Image:Citys of Kosova.PNG|160px'>]^Image<n><sg>$^:$
-^City<n><pl>$ ^of<pr>$ ^*Kosova$^.$
-^*PNG$|^160<num>$^*px$[<\/a> 
+" ^*colspan$="^2<num>$" |[ <a href='Image:Kosovo position within Serbia.PNG|150px'>]^Image<n><sg>$^:$
+^Kosovo<np><loc><sg>$ ^position<n><sg>$ ^within<pr>$ ^*Serbia$^.$
+^*PNG$|^150<num>$^*px$[<\/a><a href='Image:The position of Kosovo within Serbia.PNG'>]^Image<n><sg>$^:$
+^The<det><def><sp>$ ^position<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^within<pr>$ ^*Serbia$^.$
+^*PNG$[<\/a> 
 ]|^-<guio>$[
 ]|^-<guio>$^.$
 [][<\/p>
