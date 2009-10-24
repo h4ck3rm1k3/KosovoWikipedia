@@ -1205,8 +1205,8 @@ _^*r$=^1<num>$[&amp;]^*oref$=^*slogin$[&lt;]\/^*ref$[&gt;]^.$
 ^*Kosovas$[<\/a>
 <a href='li:Kosovo'>]^*li$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
-<a href='hu:KoszovÃ³'>]^*hu$^:$
-^*Koszov$Ã³[<\/a>
+<a href='hu:Kosovo'>]^*hu$^:$
+^Kosovo<np><loc><sg>$[<\/a>
 <a href='mk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*mk$^:$
 ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='ms:Kosovo'>]^*ms$^:$
@@ -1249,6 +1249,8 @@ _^*r$=^1<num>$[&amp;]^*oref$=^*slogin$[&lt;]\/^*ref$[&gt;]^.$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='th:à¸à¸­à¹à¸à¹à¸§'>]^*th$^:$
 ^*à$¸^*à$¸­^*à$¹^*à$¸^*à$¹^*à$¸§[<\/a>
+<a href='vi:Kosovo'>]^*vi$^:$
+^Kosovo<np><loc><sg>$[<\/a>
 <a href='tr:Kosova (Ã¼lke)'>]^*tr$^:$
 ^*Kosova$ ^(<lpar>$Ã¼^*lke$^)<rpar>$[<\/a>
 <a href='uk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*uk$^:$
