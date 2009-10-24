@@ -115,6 +115,12 @@
 <\/ul>
 <p><br\/>
 <\/p>
+<a name="Gallery"><\/a><h2>]^Gallery<n><sg>$^.<sent>$[][<\/h2><p>&lt;]^gallery<n><sg>$[&gt;
+]^Image<n><sg>$^:<sent>$^*Prishtina$ ^*maj$ ^2005<num>$^.<sent>$^*jpg$|[<a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
+]^Image<n><sg>$^:<sent>$^*Prizen$ ^*kosovo$^.<sent>$^*jpg$|[<a href='Prizreni'>]^*Prizreni$[<\/a>]\/[<a href='Prizren'>]^*Prizren$[<\/a>
+]^Image<n><sg>$^:<sent>$^*Gjakova$^.<sent>$^*jpg$|[<a href='Gjakova'>]^*Gjakova$[<\/a>]\/[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>
+]^Image<n><sg>$^:<sent>$^French<adj>$ ^*Peugeot$ ^*P$^4<num>$ ^*dsc$^06852<num>$^.<sent>$^*jpg$|[<a href='KFOR'>]^*KFOR$[<\/a>
+&lt;]\/^gallery<n><sg>$^.<sent>$[][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><ul>
 <li><a href='Assembly of Kosovo'>]^Assembly<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
