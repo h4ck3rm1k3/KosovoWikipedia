@@ -53,6 +53,9 @@
 ]|^population/population<n><sg>$_^estimate/estimate<n><sg>/estimate<vblex><inf>/estimate<vblex><pres>$[         ]= ^2/2<num>$ ^million/million<num><sp>/million<n><sg>$[
 ]|^population/population<n><sg>$_^estimate/estimate<n><sg>/estimate<vblex><inf>/estimate<vblex><pres>$_^rank/rank<n><sg>$[    ]=[ 
 ]|^population/population<n><sg>$_^estimate/estimate<n><sg>/estimate<vblex><inf>/estimate<vblex><pres>$_^year/year<n><sg>$[    ]= ^2003/2003<num>$[
+]|^population/population<n><sg>$_^estimate/estimate<n><sg>/estimate<vblex><inf>/estimate<vblex><pres>$[         ]= ^2.4/2.4<num>$ ^million/million<num><sp>/million<n><sg>$ ^(/(<lpar>$^with/with<pr>$ ^returning/return<vblex><ger>/return<vblex><pprs>/return<vblex><subs>$ ^Albanian/Albanian<adj>/Albanian<n><sg>$^'s/'s<gen>$ ^who/who<prn><itg><m><sp>/who<rel><an><mf><sp>$ ^left/left<adj>/left<adv>/left<n><sg>/leave<vblex><past>/leave<vblex><pp>$ ^in/in<adv>/in<pr>$ ^the/the<det><def><sp>$ ^80/80<num>$^'s/'s<gen>$ ^era/era<n><sg>$^)/)<rpar>$[
+]|^population/population<n><sg>$_^estimate/estimate<n><sg>/estimate<vblex><inf>/estimate<vblex><pres>$_^rank/rank<n><sg>$[    ]=[ 
+]|^population/population<n><sg>$_^estimate/estimate<n><sg>/estimate<vblex><inf>/estimate<vblex><pres>$_^year/year<n><sg>$[    ]= ^2007/2007<num>$[
 ]|^population/population<n><sg>$_^census/*census$[           ]=[ 
 ]|^population/population<n><sg>$_^census/*census$_^year/year<n><sg>$[      ]=[ 
 ]|^population/population<n><sg>$_^density/density<n><sg>$[          ]= ^220/220<num>$[

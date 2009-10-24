@@ -58,6 +58,9 @@
 ]|^population<n><sg>$_^estimate<n><sg>$[         ]= ^2<num>$ ^million<num><sp>$[
 ]|^population<n><sg>$_^estimate<n><sg>$_^rank<n><sg>$[    ]=[ 
 ]|^population<n><sg>$_^estimate<n><sg>$_^year<n><sg>$[    ]= ^2003<num>$[
+]|^population<n><sg>$_^estimate<n><sg>$[         ]= ^2.4<num>$ ^million<num><sp>$ ^(<lpar>$^with<pr>$ ^return<vblex><ger>$ ^Albanian<n><sg>$^'s<gen>$ ^who<prn><itg><m><sp>$ ^leave<vblex><pp>$ ^in<pr>$ ^the<det><def><sp>$ ^80<num>$^'s<gen>$ ^era<n><sg>$^)<rpar>$[
+]|^population<n><sg>$_^estimate<n><sg>$_^rank<n><sg>$[    ]=[ 
+]|^population<n><sg>$_^estimate<n><sg>$_^year<n><sg>$[    ]= ^2007<num>$[
 ]|^population<n><sg>$_^*census$[           ]=[ 
 ]|^population<n><sg>$_^*census$_^year<n><sg>$[      ]=[ 
 ]|^population<n><sg>$_^density<n><sg>$[          ]= ^220<num>$[
