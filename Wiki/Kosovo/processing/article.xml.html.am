@@ -279,7 +279,7 @@
 ]| ^Centre/Centre<n><sg>/Centre<vblex><inf>/Centre<vblex><pres>$ = {{^flagicon/*flagicon$|^Kosovo/Kosovo<np><loc><sg>$}}[ <a href='Outline of Kosovo|Kosovo'>]^Outline/Outline<n><sg>/Outline<vblex><inf>/Outline<vblex><pres>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$|^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 ]| ^East/East<adj>/East<n><sg>$ = {{^flag/flag<n><sg>$|^Serbia/*Serbia$}}[
 ]| ^Southwest/Southwest<adv>/Southwest<n><sg>$ = {{^flag/flag<n><sg>$|^Albania/*Albania$}}[
-]| ^South/South<adv>/South<adj><sint>/South<n><sg>$ = {{^flag/flag<n><sg>$|^Republic/Republic<n><sg>$ ^of/of<pr>$ ^Macedonia/Macedonia<np><ant><f><sg>$}}[
+]| ^South/South<adv>/South<adj><sint>/South<n><sg>$ = {{^flag/flag<n><sg>$|^Macedonia/Macedonia<np><ant><f><sg>$}}[
 ]| ^Southeast/Southeast<adv>$ = {{^flag/flag<n><sg>$|^Serbia/*Serbia$}}^./.<sent>$[][
 <\/pre><p>]}}^./.<sent>$[][<\/p>
 <p>]{{^Kosovo/Kosovo<np><loc><sg>$ ^topics/topic<n><pl>$}}[

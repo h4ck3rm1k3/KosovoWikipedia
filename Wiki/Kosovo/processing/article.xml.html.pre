@@ -279,7 +279,7 @@
 ]| ^Centre<n><sg>$ = {{^*flagicon$|^Kosovo<np><loc><sg>$}}[ <a href='Outline of Kosovo|Kosovo'>]^Outline<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Kosovo<np><loc><sg>$[<\/a>
 ]| ^East<adj>$ = {{^flag<n><sg>$|^*Serbia$}}[
 ]| ^Southwest<n><sg>$ = {{^flag<n><sg>$|^*Albania$}}[
-]| ^South<adj><sint>$ = {{^flag<n><sg>$|^Republic<n><sg>$ ^of<pr>$ ^Macedonia<np><ant><f><sg>$}}[
+]| ^South<adj><sint>$ = {{^flag<n><sg>$|^Macedonia<np><ant><f><sg>$}}[
 ]| ^Southeast<adv>$ = {{^flag<n><sg>$|^*Serbia$}}^.<sent>$[][
 <\/pre><p>]}}^.<sent>$[][<\/p>
 <p>]{{^Kosovo<np><loc><sg>$ ^topic<n><pl>$}}[
