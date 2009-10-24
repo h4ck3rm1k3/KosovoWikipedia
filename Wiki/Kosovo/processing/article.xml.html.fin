@@ -16,19 +16,7 @@
  ^centre<n><sg>$^;$
 " ^*colspan$="^2<num>$" |[
 &lt;]^big<adj><sint>$[&gt;<strong> ]^Kosovo<np><loc><sg>$[ <\/strong>&lt;]^*br$\/[&gt;&lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$[&gt;
-]| ^style<n><sg>$="^background<n><sg>$^:$
- #^*ffffff$^;$
-" ^*align$=^centre<n><sg>$ ^*colspan$=^2<num>$ |[
-]{| ^border<n><sg>$=^0<num>$ ^*cellpadding$=^2<num>$ ^*cellspacing$=^0<num>$[
-]| ^*align$=^centre<n><sg>$ ^width<n><sg>$=^140<num>$^*px$ | {{^border<n><sg>$|[<a href='Image:UNMIK_logo.png|125px'>]^Image<n><sg>$^:$
-^*UNMIK$_^*logo$^.$
-^*png$|^125<num>$^*px$[<\/a>]}}[
-]| ^*align$=^centre<n><sg>$ ^width<n><sg>$=^140<num>$^*px$ |[ <a href='Image:Kosovo_pisg_logo.PNG|150px| PISG Coat of Arms(large)'>]^Image<n><sg>$^:$
-^Kosovo<np><loc><sg>$_^*pisg$_^*logo$^.$
-^*PNG$|^150<num>$^*px$| ^*PISG$ ^Coat<n><sg>$ ^of<pr>$ ^Arm<n><pl>$^(<lpar>$^large<adj><sint>$^)<rpar>$[<\/a>
 ]|^-<guio>$[
-]| ^*align$=^centre<n><sg>$ ^width<n><sg>$=^140<num>$^*px$ |[ <a href='UNMIK Logo'>]^*UNMIK$ ^*Logo$[<\/a>
-]| ^*align$=^centre<n><sg>$ ^width<n><sg>$=^140<num>$^*px$ |[ <a href='Coat of Arms of PISG'>]^Coat<n><sg>$ ^of<pr>$ ^Arm<n><pl>$ ^of<pr>$ ^*PISG$[<\/a>]|^-<guio>$[
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:$
  ^centre<n><sg>$^;$
 " ^*colspan$="^2<num>$" |[ <a href='Image:Citys of Kosova.PNG|160px'>]^Image<n><sg>$^:$
