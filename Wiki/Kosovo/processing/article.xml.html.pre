@@ -297,7 +297,7 @@
 ]^Image<n><sg>$^:<sent>$^*Prishtinabynight$^.<sent>$^*jpg$|^The<det><def><sp>$ ^Capital<adj>$[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^by<pr>$ ^night<n><sg>$[
 ]^Image<n><sg>$^:<sent>$^*Xh$^.<sent>$ ^*e$ ^*madhe$^.<sent>$^*jpg$|"^*Xhamia$ ^*e$ ^*madhe$" ^in<pr>$ ^*Pri$Å^¡<lquest>$^*tina$[
 ]^Image<n><sg>$^:<sent>$^*Hamam$^.<sent>$^*jpg$|"^*Mehmet$ ^*Pasha$" ^*Hamam$ ^in<pr>$[ <a href='Prizren'>]^*Prizren$[<\/a>
-]^Image<n><sg>$^:<sent>$^*Bridgeoverdrin$^.<sent>$^*jpg$|^A<det><ind><sg>$ ^bridge<n><sg>$ ^over<pr>$ ^the<det><def><sp>$ ^river<n><sg>$ ^*Drini$ ^in<pr>$[ <a href='Prizren'>]^*Prizren$[<\/a>
+]^Image<n><sg>$^:<sent>$^*Bridgeoverdrin$^.<sent>$^*jpg$|^A<det><ind><sg>$ ^bridge<n><sg>$ ^over<pr>$[ <a href='Drin River'>]^the<det><def><sp>$ ^*Drin$ ^River<n><sg>$[<\/a> ]^in<pr>$[ <a href='Prizren'>]^*Prizren$[<\/a>
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^museum<n><sg>$^.<sent>$^*jpg$|^The<det><def><sp>$ ^Museum<n><sg>$ ^of<pr>$[ <a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*BoroRamizi$^.<sent>$^*jpg$|"^*Pallati$ ^*i$ ^*Rinis$Ã«" ^in<pr>$[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
 &lt;]\/^gallery<n><sg>$[&gt;&lt;]\/^centre<n><sg>$^.<sent>$[][&gt;<\/p>
