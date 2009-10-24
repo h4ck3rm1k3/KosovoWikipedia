@@ -60,7 +60,7 @@
 ]|^population<n><sg>$_^density<n><sg>$_^*km$^2<num>$[   ]= ^220<num>$[
 ]|^population<n><sg>$_^density<n><sg>$_^*sq$_^*mi$ = ^500<num>$[
 ]|^population<n><sg>$_^density<n><sg>$_^rank<n><sg>$[  ]=[ 
-]|^currency<n><sg>$[                 ]=[ <a href='Euro'>]^Euro<n><sg>$[<\/a> ]^(<lpar>$^*â$¬^)<rpar>$[
+]|^currency<n><sg>$[                 ]=[ <a href='Euro'>]^Euro<n><sg>$[<\/a> ]^(<lpar>$^*â$¬^)<rpar>$^(<lpar>$^The<det><def><sp>$ ^*Serbian$ ^*Dinar$ ^(<lpar>$^RSD<n><acr><sg>$^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^*de$ ^*facto$ ^use<vblex><pp>$ ^in<pr>$ ^*Serb$ ^*inhabited$ ^area<n><pl>$^)<rpar>$[
 ]|^currency<n><sg>$_^code<n><sg>$[            ]= ^*EUR$[
 ]|^time<n><sg>$_^zone<vblex><pres>$[                ]=[ <a href='Central European Time|CET'>]^Central<adj>$ ^European<adj>$ ^Time<n><sg>$|^CET<n><acr><sg>$[<\/a>
 ]|^*utc$_^*offset$[               ]= +^1<num>$[

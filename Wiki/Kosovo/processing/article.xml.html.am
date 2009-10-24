@@ -60,7 +60,7 @@
 ]|^population/population<n><sg>$_^density/density<n><sg>$_^km/*km$^2/2<num>$[   ]= ^220/220<num>$[
 ]|^population/population<n><sg>$_^density/density<n><sg>$_^sq/*sq$_^mi/*mi$ = ^500/500<num>$[
 ]|^population/population<n><sg>$_^density/density<n><sg>$_^rank/rank<n><sg>$[  ]=[ 
-]|^currency/currency<n><sg>$[                 ]=[ <a href='Euro'>]^Euro/Euro<n><sg>/Euro<n><pl>$[<\/a> ]^(/(<lpar>$^â/*â$¬^)/)<rpar>$[
+]|^currency/currency<n><sg>$[                 ]=[ <a href='Euro'>]^Euro/Euro<n><sg>/Euro<n><pl>$[<\/a> ]^(/(<lpar>$^â/*â$¬^)/)<rpar>$^(/(<lpar>$^The/The<det><def><sp>$ ^Serbian/*Serbian$ ^Dinar/*Dinar$ ^(/(<lpar>$^RSD/RSD<n><acr><sg>$^)/)<rpar>$ ^is/be<vbser><pri><p3><sg>$ ^de/*de$ ^facto/*facto$ ^used/use<vblex><past>/use<vblex><pp>$ ^in/in<adv>/in<pr>$ ^Serb/*Serb$ ^inhabited/*inhabited$ ^areas/area<n><pl>$^)/)<rpar>$[
 ]|^currency/currency<n><sg>$_^code/code<n><sg>$[            ]= ^EUR/*EUR$[
 ]|^time/time<n><sg>/time<vblex><inf>/time<vblex><pres>$_^zone/zone<n><sg>/zone<vblex><inf>/zone<vblex><pres>$[                ]=[ <a href='Central European Time|CET'>]^Central/Central<adj>$ ^European/European<adj>/European<n><sg>$ ^Time/Time<n><sg>/Time<vblex><inf>/Time<vblex><pres>$|^CET/CET<n><acr><sg>$[<\/a>
 ]|^utc/*utc$_^offset/*offset$[               ]= +^1/1<num>$[
