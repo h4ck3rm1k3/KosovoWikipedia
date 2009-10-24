@@ -136,7 +136,7 @@
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <ul>
 <li><a href='http:\/\/www.balkanforums.com Kosovo and the Balkans'>]^5<num>$[<\/a> ]^-<guio>$ ^Discussion<n><sg>$ ^Forum<n><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.antiwar.com\/malic\/?articleid=8511 - Kosovo as the price of Euro-Atlantic integrations'>]^6<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.antiwar.com\/malic\/?articleid=8511 Kosovo as the price of Euro-Atlantic integrations'>]^6<num>$^.<sent>$[][<\/a><\/li>
 <li><\/li>
 <li><a href='http:\/\/www.rtklive.com  RTK - Kosova's public television - news in Albanian, Serbian, Turkish and Roma'>]^7<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.xixonline.com  Restaurant in Kosovo - Restaurant in Kosova'>]^8<num>$^.<sent>$[][<\/a><\/li>
