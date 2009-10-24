@@ -237,6 +237,7 @@
 <li><a href='Metohija'>]^*Metohija$^.<sent>$[][<\/a><\/li>
 <li><a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Flag of Kosovo'>]^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Pristina|Pristina, the capital'>]^*Pristina$|^*Pristina$^,<cm>$ ^the<det><def><sp>$ ^capital<n><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p>]\\[
 &lt;]\/^*div$^.<sent>$[][&gt;<\/p>
