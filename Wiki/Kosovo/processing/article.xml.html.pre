@@ -163,16 +163,16 @@
 ]{{^see<vblex><pres>$ ^also<adv>$|^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^divide<vblex><pp>$ ^into<pr>$ ^seven<num><sp>$ ^district<n><pl>$^:<sent>$^.<sent>$[][<\/p>
 <ul>
-<li><a href='Gjakova  District|Äakovica\/Gjakova District'>]^*Gjakova$[  ]^District<n><sg>$|^*Ä$^*akovica$\/^*Gjakova$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='GjakovÃ«  District|Äakovica\/Gjakova District'>]^*Gjakov$Ã«[  ]^District<n><sg>$|^*Ä$^*akovica$\/^*Gjakova$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Gjilan District|Gnjilane\/Gjilani District'>]^*Gjilan$ ^District<n><sg>$|^*Gnjilane$\/^*Gjilani$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='District of Mitrovica|Kosovska Mitrovica\/Mitrovica District'>]^District<n><sg>$ ^of<pr>$ ^*Mitrovica$|^*Kosovska$ ^*Mitrovica$\/^*Mitrovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='District of Peja|PeÄ\/Peja District'>]^District<n><sg>$ ^of<pr>$ ^*Peja$|^*PeÄ$\/^*Peja$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Prishtina District|PriÅ¡tina\/Prishtina District'>]^*Prishtina$ ^District<n><sg>$|^*Pri$Å^¡<lquest>$^*tina$\/^*Prishtina$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='District of MitrovicÃ«|Kosovska Mitrovica\/Mitrovica District'>]^District<n><sg>$ ^of<pr>$ ^*Mitrovic$Ã«|^*Kosovska$ ^*Mitrovica$\/^*Mitrovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='District of PejÃ«|PeÄ\/Peja District'>]^District<n><sg>$ ^of<pr>$ ^*Pej$Ã«|^*PeÄ$\/^*Peja$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='PrishtinÃ« District|PriÅ¡tina\/Prishtina District'>]^*Prishtin$Ã« ^District<n><sg>$|^*Pri$Å^¡<lquest>$^*tina$\/^*Prishtina$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='District of Prizren|Prizren\/Prizreni District'>]^District<n><sg>$ ^of<pr>$ ^*Prizren$|^*Prizren$\/^*Prizreni$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Ferizaj District|UroÅ¡evac\/Ferizaji District'>]^*Ferizaj$ ^District<n><sg>$|^*Uro$Å^¡<lquest>$^*evac$\/^*Ferizaji$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
-<a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$[<\/a> ]^maintain<vblex><pri><p3><sg>$ ^its<det><pos><sp>$ ^own<adj>$ ^government<n><sg>$^,<cm>$ ^infrastructure<n><sg>$ ^and<cnjcoo>$ ^institution<n><pl>$ ^by<pr>$ ^its<det><pos><sp>$ ^dominant<adj>$ ^ethnic<adj>$[ <a href='Serb'>]^*Serb$[<\/a> ]^population<n><sg>$ ^in<pr>$[ <a href='Mitrovica District'>]^the<det><def><sp>$ ^*Mitrovica$ ^District<n><sg>$[<\/a>]^,<cm>$ ^*viz$^.<sent>$ ^in<pr>$[ <a href='Leposavic'>]^the<det><def><sp>$ ^*Leposavic$[<\/a>]^,<cm>$[ <a href='Zvecan'>]^*Zvecan$[<\/a> ]^and<cnjcoo>$[ <a href='Zubin Potok'>]^*Zubin$ ^*Potok$[<\/a> ]^municipality<n><pl>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^northern<adj>$ ^part<n><sg>$ ^of<pr>$[ <a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a>]^.<sent>$^.<sent>$[][
+<a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$[<\/a> ]^maintain<vblex><pri><p3><sg>$ ^its<det><pos><sp>$ ^own<adj>$ ^government<n><sg>$^,<cm>$ ^infrastructure<n><sg>$ ^and<cnjcoo>$ ^institution<n><pl>$ ^by<pr>$ ^its<det><pos><sp>$ ^dominant<adj>$ ^ethnic<adj>$[ <a href='Serb'>]^*Serb$[<\/a> ]^population<n><sg>$ ^in<pr>$[ <a href='Mitrovica District'>]^the<det><def><sp>$ ^*Mitrovica$ ^District<n><sg>$[<\/a>]^,<cm>$ ^*viz$^.<sent>$ ^in<pr>$[ <a href='Albanik'>]^the<det><def><sp>$ ^*Albanik$[<\/a>]^,<cm>$[ <a href='Zvecan'>]^*Zvecan$[<\/a> ]^and<cnjcoo>$[ <a href='Zubin Potok'>]^*Zubin$ ^*Potok$[<\/a> ]^municipality<n><pl>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^northern<adj>$ ^part<n><sg>$ ^of<pr>$[ <a href='Mitrovica'>]^*Mitrovica$[<\/a>]^.<sent>$^.<sent>$[][
 <\/p>
 <a name="Municipalities"><\/a><h3>]^Municipality<n><pl>$^.<sent>$[][<\/h3><p>]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^also<adv>$ ^divide<vblex><pp>$ ^into<pr>$ ^30<num>$ ^municipality<n><pl>$ ^:<sent>$^.<sent>$[][<\/p>
 <p>]{{^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
@@ -180,14 +180,14 @@
 <a href='Image:BoroRamizi.jpg|thumb|200px|\[\[Pristina|Prishtina'>]^Image<n><sg>$^:<sent>$^*BoroRamizi$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^\[<lpar>$^\[<lpar>$^*Pristina$|^*Prishtina$[<\/a>]^\]<rpar>$^\]<rpar>$^.<sent>$[][<\/p>
 <p>]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^for<pr>$ ^2006<num>$^)<rpar>$^:<sent>$[&lt;]^*ref$[&gt;]^*http$^:<sent>$\/\/^www.world-gazetteer.com<num>$\/^*wg$^.<sent>$^*php$^?<sent>$^*x$=[&amp;]^man<n><pl>$=^*gcis$[&amp;]^*lng$=^*en$[&amp;]^*dat$=^32<num>$[&amp;]^*srt$=^*npan$[&amp;]^*col$=^*aohdq$[&amp;]^*geo$=^-<guio>$^244<num>$[&lt;]\/^*ref$^.<sent>$[][&gt;<\/p>
 <ul>
-<li><a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^:<sent>$ ^571,532<num>$^.<sent>$[][<\/li>
+<li><a href='Prishtina'>]^*Prishtina$[<\/a> ]^:<sent>$ ^571,532<num>$^.<sent>$[][<\/li>
 <li><a href='Prizren'>]^*Prizren$[<\/a> ]^:<sent>$ ^165,229<num>$^.<sent>$[][<\/li>
-<li><a href='UroÅ¡evac'>]^*Uro$Å^¡<lquest>$^*evac$[<\/a> ]^:<sent>$ ^197,741<num>$^.<sent>$[][<\/li>
-<li><a href='Äakovica'>]^*Ä$^*akovica$[<\/a> ]^:<sent>$ ^127,156<num>$^.<sent>$[][<\/li>
-<li><a href='PeÄ'>]^*PeÄ$[<\/a> ]^:<sent>$ ^195,190<num>$^.<sent>$[][<\/li>
-<li><a href='Gnjilane'>]^*Gnjilane$[<\/a> ]^:<sent>$ ^191,595<num>$^.<sent>$[][<\/li>
+<li><a href='Ferizaj'>]^*Ferizaj$[<\/a> ]^:<sent>$ ^197,741<num>$^.<sent>$[][<\/li>
+<li><a href='Gjakova'>]^*Gjakova$[<\/a> ]^:<sent>$ ^127,156<num>$^.<sent>$[][<\/li>
+<li><a href='Peja'>]^*Peja$[<\/a> ]^:<sent>$ ^195,190<num>$^.<sent>$[][<\/li>
+<li><a href='Gjilan'>]^*Gjilan$[<\/a> ]^:<sent>$ ^191,595<num>$^.<sent>$[][<\/li>
 <li><a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a> ]^:<sent>$ ^186,359<num>$^.<sent>$[][<\/li>
-<li><a href='Podujevo'>]^*Podujevo$[<\/a> ]^:<sent>$ ^48,526<num>$^.<sent>$[][<\/li>
+<li><a href='Besiana'>]^*Besiana$[<\/a> ]^:<sent>$ ^48,526<num>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
