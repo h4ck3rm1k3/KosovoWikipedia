@@ -41,7 +41,7 @@
 ]|^national<adj>$_^*anthem$[          ]=[
 ]|^ethnic<adj>$_^group<n><pl>$[            ]= ^92%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>&lt;]^*br$\/[&gt;]^5.3%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a>&lt;]^*br$\/[&gt;]^2.7%<num><percent>$ ^others<prn><tn><mf><pl>$[ &lt;]^*ref$[&gt;<a href='http:\/\/www.ks-gov.net\/ESK\/esk\/english\/english.htm Enti i StatistikÃ«s sÃ« KosovÃ«s'>]^1<num>$[<\/a>&lt;]\/^*ref$[&gt;
 ]|^ethnic<adj>$_^group<n><pl>$_^year<n><sg>$[       ]= ^2007<num>$[
-]|^capital<n><sg>$[                  ]= {{^*nowrap$|[<a href='Pristina|Pristina'>]^*Pristina$|^*Pristina$[<\/a>]}}[
+]|^capital<n><sg>$[                  ]= {{^*nowrap$|[<a href='Pristina'>]^*Pristina$[<\/a>]}}[
 &lt;]^!$
 ^-<guio>$^-<guio>$[
 ]^PLEASE<vblex><inf>$ ^DO<vbdo><pres>$ ^NOT<adv>$ ^CHANGE<vblex><inf>$ ^THE<det><def><sp>$ ^CAPITAL<n><sg>$^'s<gen>$ ^NAME<n><sg>$^!$
@@ -105,7 +105,7 @@
 ]|^image<n><sg>$_^flag<n><sg>$[   ]=[ 
 ]|^image<n><sg>$_^coat<n><sg>$[   ]=[ 
 ]|^sovereignty<n><sg>$_^type<n><sg>$[         ]= ^UN<n><acr><sg>$ ^protectorate<n><sg>$[
-]|^sovereignty<n><sg>$_^note<n><sg>$[         ]=[ <a href='United Nations Security Council Resolution 1244|UN administration'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$|^UN<n><acr><sg>$ ^administration<n><sg>$[<\/a> ]^of<pr>$[ <a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>]^,<cm>$ ^a<det><ind><sg>$ ^autonomous<adj>$ ^province<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>
+]|^sovereignty<n><sg>$_^note<n><sg>$[         ]=[ <a href='United Nations Security Council Resolution 1244|UN administration'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$|^UN<n><acr><sg>$ ^administration<n><sg>$[<\/a> ]^of<pr>$[ <a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>]^,<cm>$ ^a<det><ind><sg>$ ^autonomous<adj>$ ^province<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>]{{^Fact<n><sg>$|^date<n><sg>$=^May<n><sg>$ ^2008<num>$}}[
 ]|^leader<n><sg>$_^title<n><sg>$^1<num>$ =[ <a href='Special Representative of the Secretary-General for Kosovo|Special Representative'>]^Special<adj>$ ^Representative<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Secretary<n><sg>$^-<guio>$^General<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$|^Special<adj>$ ^Representative<adj>$[<\/a>
 ]|^leader<n><sg>$_^name<n><sg>$^1<num>$[      ]= ^*Joachim$ ^*R$Ã¼^*cker$[
 ]|^leader<n><sg>$_^title<n><sg>$^2<num>$ =[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
