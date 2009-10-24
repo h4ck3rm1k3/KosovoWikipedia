@@ -15,13 +15,13 @@
 ]|^image<n><sg>$_^flag<n><sg>$[                  ]=[ 
 ]|^image<n><sg>$_^coat<n><sg>$[                  ]=[ 
 ]|^image<n><sg>$_^map<n><sg>$[                   ]= ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^part<n><sg>$ ^of<pr>$ ^*Serbia$^.<sent>$^*png$[
-]|^map<n><sg>$_^*caption$[                 ]= ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^within<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>
+]|^map<n><sg>$_^*caption$[                 ]= ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$[ <a href='Serbia'>]^*Serbia$[<\/a>
 ]|^image<n><sg>$_^map<n><sg>$^2<num>$[                  ]= ^The<det><def><sp>$ ^position<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^within<pr>$ ^*Serbia$^.<sent>$^*PNG$[
 ]|^map<n><sg>$_^*caption$^2<num>$[                ]= ^Location<n><sg>$ ^of<pr>$ ^*Serbia$ ^(<lpar>$^orange<n><sg>$^)<rpar>$ ^on<pr>$[ <a href='Europe|European continent'>]^the<det><def><sp>$ ^Europe<np><loc><sg>$|^European<adj>$ ^continent<n><sg>$[<\/a>
 ]|^national<adj>$_^*motto$[              ]=[ 
 ]|^national<adj>$_^*anthem$[             ]=[ 
-]|^official<adj>$_^language<n><pl>$[          ]=[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^,<cm>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>
-]|^ethnic<adj>$_^group<n><pl>$[               ]= ^90%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>&lt;]^*br$\/[&gt;]^8%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a>&lt;]^*br$\/[&gt;]^2%<num><percent>$ ^others<prn><tn><mf><pl>$[
+]|^official<adj>$_^language<n><pl>$[          ]=[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^,<cm>$[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>
+]|^ethnic<adj>$_^group<n><pl>$[               ]= ^88%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>&lt;]^*br$\/[&gt;]^8%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a>&lt;]^*br$\/[&gt;]^4%<num><percent>$ ^others<prn><tn><mf><pl>$[
 ]|^ethnic<adj>$_^group<n><pl>$_^year<n><sg>$[          ]= ^2003<num>$[
 ]|^capital<adj>$[                     ]=[ <a href='PriÅ¡tina|PriÅ¡tina (PrishtinÃ«)'>]^*Pri$Å^¡<lquest>$^*tina$|^*Pri$Å^¡<lquest>$^*tina$ ^(<lpar>$^*Prishtin$Ã«^)<rpar>$[<\/a>
 ]|^*latd$= |^*latm$= |^*latNS$= |^*longd$= |^*longm$= |^*longEW$=[
@@ -217,7 +217,7 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^20<num>$[<\/a> ]"^,<cm>$[ 
 <ul>
 <li>]^88%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a> ]^(<lpar>$^between<pr>$ ^1,972<num>$^,<cm>$^000<num>$ ^and<cnjcoo>$ ^2,100<num>$^,<cm>$^000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
-]^7%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a> ]^(<lpar>$^between<pr>$ ^126,000<num>$ ^and<cnjcoo>$ ^140,000<num>$^)<rpar>$^.<sent>$[][<\/li>
+]^7.5%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a> ]^(<lpar>$^between<pr>$ ^126,000<num>$ ^and<cnjcoo>$ ^140,000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
 ]^1.9%<num><percent>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^(<lpar>$^between<pr>$ ^34,200<num>$ ^and<cnjcoo>$ ^38,000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
@@ -231,13 +231,13 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^20<num>$[<\/a> ]"^,<cm>$[ 
 ]{{^see<vblex><pres>$ ^also<adv>$|^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^divide<vblex><pp>$ ^into<pr>$ ^seven<num><sp>$ ^district<n><pl>$^:<sent>$^.<sent>$[][<\/p>
 <ul>
-<li><a href='Prishtina District|Prishtina\/PriÅ¡tina District'>]^*Prishtina$ ^District<n><sg>$|^*Prishtina$\/^*Pri$Å^¡<lquest>$^*tina$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Prizreni District|Prizreni\/Prizren District'>]^*Prizreni$ ^District<n><sg>$|^*Prizreni$\/^*Prizren$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Peja District|Peja\/PeÄ District'>]^*Peja$ ^District<n><sg>$|^*Peja$\/^*PeÄ$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Ferizaji District|Ferizaji\/UroÅ¡evac District'>]^*Ferizaji$ ^District<n><sg>$|^*Ferizaji$\/^*Uro$Å^¡<lquest>$^*evac$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Gjakova District|Gjakova\/Äakovica District'>]^*Gjakova$ ^District<n><sg>$|^*Gjakova$\/^*Ä$^*akovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Mitrovica District|Mitrovica\/Kosovska Mitrovica District'>]^*Mitrovica$ ^District<n><sg>$|^*Mitrovica$\/^*Kosovska$ ^*Mitrovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Gjilani District|Gjilani\/Gnjilane District'>]^*Gjilani$ ^District<n><sg>$|^*Gjilani$\/^*Gnjilane$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='PriÅ¡tina District|Prishtina\/PriÅ¡tina District'>]^*Pri$Å^¡<lquest>$^*tina$ ^District<n><sg>$|^*Prishtina$\/^*Pri$Å^¡<lquest>$^*tina$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Prizren District|Prizreni\/Prizren District'>]^*Prizren$ ^District<n><sg>$|^*Prizreni$\/^*Prizren$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='PeÄ District|Peja\/PeÄ District'>]^*PeÄ$ ^District<n><sg>$|^*Peja$\/^*PeÄ$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='UroÅ¡evac District|Ferizaji\/UroÅ¡evac District'>]^*Uro$Å^¡<lquest>$^*evac$ ^District<n><sg>$|^*Ferizaji$\/^*Uro$Å^¡<lquest>$^*evac$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Äakovica  District|Gjakova\/Äakovica District'>]^*Ä$^*akovica$[  ]^District<n><sg>$|^*Gjakova$\/^*Ä$^*akovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Kosovska Mitrovica District|Mitrovica\/Kosovska Mitrovica District'>]^*Kosovska$ ^*Mitrovica$ ^District<n><sg>$|^*Mitrovica$\/^*Kosovska$ ^*Mitrovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Gnjilane District|Gjilani\/Gnjilane District'>]^*Gnjilane$ ^District<n><sg>$|^*Gjilani$\/^*Gnjilane$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$[<\/a> ]^maintain<vblex><pri><p3><sg>$ ^its<det><pos><sp>$ ^own<adj>$ ^government<n><sg>$^,<cm>$ ^infrastructure<n><sg>$ ^and<cnjcoo>$ ^institution<n><pl>$ ^by<pr>$ ^its<det><pos><sp>$ ^dominant<adj>$ ^ethnic<adj>$[ <a href='Serb'>]^*Serb$[<\/a> ]^population<n><sg>$ ^in<pr>$[ <a href='Mitrovica District'>]^the<det><def><sp>$ ^*Mitrovica$ ^District<n><sg>$[<\/a>]^,<cm>$ ^*viz$^.<sent>$ ^in<pr>$[ <a href='Leposavic'>]^the<det><def><sp>$ ^*Leposavic$[<\/a>]^,<cm>$[ <a href='Zvecan'>]^*Zvecan$[<\/a> ]^and<cnjcoo>$[ <a href='Zubin Potok'>]^*Zubin$ ^*Potok$[<\/a> ]^municipality<n><pl>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^northern<adj>$ ^part<n><sg>$ ^of<pr>$[ <a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a>]^.<sent>$^.<sent>$[][<\/p>
@@ -303,8 +303,8 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^20<num>$[<\/a> ]"^,<cm>$[ 
 <li><a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Prime Minister of Kosovo'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='President of Kosovo'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Albanians in Kosovo'>]^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Serbs in Kosovo'>]^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Albanians in Kosovo'>]^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Post and Telecom of Kosovo'>]^Post<n><sg>$ ^and<cnjcoo>$ ^*Telecom$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p>]|^*col$^2<num>$ =^.<sent>$[][<\/p>
@@ -339,36 +339,34 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^20<num>$[<\/a> ]"^,<cm>$[ 
 <li><a href='http:\/\/www.state.gov\/www\/regions\/eur\/rpt_990604_ksvo_ethnic.html US State Dept. fact sheet "The Ethnic Cleansing of Kosovo"'>]^45<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.xhakli.com\/2004\/05\/25\/kosovo-search-challenge-helping-people-find-information-from-kosovo.php Kosovo Blog Online"'>]^46<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Search<n><sg>$ ^Challenge<n><sg>$^:<sent>$ ^Help<vblex><ger>$ ^person<n><pl>$ ^find<vblex><inf>$ ^information<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^the<det><def><sp>$ ^positive<adj>$ ^side<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
 <\/ul>
-<p><br\/>
-<\/p>
-<a name="Pro-Albanian"><\/a><h3>]^*Pro$^-<guio>$^Albanian<n><sg>$^.<sent>$[][<\/h3><ul>
-<li><a href='http:\/\/www.albanian.com\/ Albanian.com'>]^47<num>$[<\/a> ]^A<det><ind><sg>$ ^Community<n><sg>$ ^portal<n><sg>$ ^where<rel><adv>$ ^Albanian<n><pl>$ ^share<n><sg>$ ^information<n><sg>$ ^and<cnjcoo>$ ^idea<n><pl>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.newkosovo.org\/ Alliance for a New Kosovo'>]^48<num>$[<\/a> ]^A<det><ind><sg>$ ^Policy<n><sg>$ ^Resource<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^Independence<n><sg>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovaevidence.com KosovoEvidence.com'>]^49<num>$[<\/a> ]^-<guio>$ ^movie<n><sg>$ ^about<pr>$ ^what<rel><nn><mf><sg>$ ^happen<vblex><past>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^during<pr>$ ^the<det><def><sp>$ ^war<n><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.eciks.org Economic Initiative for Kosovo'>]^50<num>$[<\/a> ]^-<guio>$ "^.<sent>$^.<sent>$^.<sent>$^late<adj><sint><sup>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^publication<n><pl>$ ^from<pr>$ ^the<det><def><sp>$ ^*Kosovar$ ^economy<n><sg>$"^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.alb-shkenca.org\/images\/stories\/Why%20Independence.pdf Why Independence for Kosovo?'>]^51<num>$[<\/a> ]^A<det><ind><sg>$ ^summary<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^case<n><sg>$ ^for<pr>$ ^a<det><ind><sg>$ ^independent<adj>$ ^Kosovo<np><loc><sg>$ ^by<pr>$ ^two<num><sp>$ ^*Pri$Å^¡<lquest>$^*tina$ ^intellectual<n><pl>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.newkosovo.org\/news.htm Alliance for New Kosovo'>]^52<num>$[<\/a> ]^A<det><ind><sg>$ ^policy<n><sg>$ ^resource<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^independence<n><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.alb-net.com\/index.htm Kosovo Crisis Center'>]^53<num>$[<\/a> ]^A<det><ind><sg>$ ^collection<n><sg>$ ^of<pr>$ ^article<n><pl>$ ^on<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.aacl.com\/indexmain.html AACL'>]^54<num>$[<\/a> ]^Albanian<adj>$ ^American<adj>$ ^Civic<adj>$ ^League<n><sg>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovalive.com\/?cid=2 KosovaLive'>]^55<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Albanian<adj>$ ^independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$ ^(<lpar>$^this<det><dem><sg>$ ^section<n><sg>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.savekosova.org\/ American Council for Kosova'>]^56<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^issue<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^by<pr>$ ^the<det><def><sp>$ ^American<adj>$ ^public<n><sg>$^.<sent>$[][<\/li>
-<\/ul>
-<p><br\/>
-<\/p>
+<p><br\/><\/p>
 <a name="Pro-Serbian"><\/a><h3>]^*Pro$^-<guio>$^*Serbian$^.<sent>$[][<\/h3><ul>
-<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government for Kosovo-Metohija'>]^57<num>$[<\/a> ]^*Website$ ^that<det><dem><sg>$ ^*focusses$ ^on<pr>$ ^the<det><def><sp>$ ^human<adj>$ ^right<n><pl>$ ^situation<n><sg>$ ^of<pr>$ ^*Serbian$ ^and<cnjcoo>$ ^other<det><ind><sp>$ ^non<adv>$^-<guio>$^Albanian<adj>$ ^population<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$ ^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a> ]^and<cnjcoo>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovocompromise.com\/ Kosovo Compromise'>]^58<num>$[<\/a> ]^Presentation<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><sg>$ ^of<pr>$[ <a href='4S Institute'>]^4<num>$^*S$[<\/a>]^Institute<n><sg>$ ^,<cm>$ ^Brussels<np><loc><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/ Rastko'>]^59<num>$[<\/a> ]^Project<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^*Serb$ ^and<cnjcoo>$ ^*Serb$^-<guio>$^relate<vblex><pp>$ ^art<n><pl>$ ^and<cnjcoo>$ ^*humanities$^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.mfa.gov.yu\/Policy\/CI\/kosovo-slike\/index.html Terror in Kosovo'>]^60<num>$[<\/a> ]^Terror<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^61<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='http:\/\/www.kc.gov.yu\/D-ENGLISH\/index-eng.html English'>]^62<num>$[<\/a>]^,<cm>$[ <a href='http:\/\/www.kc.gov.yu\/A-CIRILICA\/index-cir.html Serbian'>]^63<num>$[<\/a> ]^and<cnjcoo>$[ <a href='http:\/\/www.kc.gov.yu\/C-ALBANSKI\/index-alb.html Albanian'>]^64<num>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovo.net\/ Kosovo-The Land of the Living past'>]^65<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^66<num>$[<\/a> ]^*Serbian$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$ ^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.savekosovo.org Save Kosovo'>]^67<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^promote<vblex><ger>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^American<adj>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^and<cnjcoo>$ ^of<pr>$ ^the<det><def><sp>$ ^critical<adj>$ ^American<adj>$ ^stake<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*provinceâ$^*s$ ^future<n><sg>$^.<sent>$ ^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovocompromise.com\/ Kosovo 2006 Making of a Compromise'>]^68<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.eparhija-prizren.com\/defaultE.asp Diocese Kosovo of Serbian Orthodox Church'>]^69<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='http:\/\/www.eparhija-prizren.com\/defaultE.asp English'>]^70<num>$[<\/a>]^,<cm>$[ <a href='http:\/\/www.eparhija-prizren.com\/default.asp Serbian'>]^71<num>$[<\/a> ]^and<cnjcoo>$[ <a href='http:\/\/www.eparhija-prizren.com\/defaultR.asp Russian'>]^72<num>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government for Kosovo-Metohija'>]^47<num>$[<\/a> ]^*Website$ ^that<det><dem><sg>$ ^*focusses$ ^on<pr>$ ^the<det><def><sp>$ ^human<adj>$ ^right<n><pl>$ ^situation<n><sg>$ ^of<pr>$ ^*Serbian$ ^and<cnjcoo>$ ^other<det><ind><sp>$ ^non<adv>$^-<guio>$^Albanian<adj>$ ^population<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$ ^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a> ]^and<cnjcoo>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovocompromise.com\/ Kosovo Compromise'>]^48<num>$[<\/a> ]^Presentation<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><sg>$ ^of<pr>$[ <a href='4S Institute'>]^4<num>$^*S$[<\/a>]^Institute<n><sg>$ ^,<cm>$ ^Brussels<np><loc><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/ Rastko'>]^49<num>$[<\/a> ]^Project<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^*Serb$ ^and<cnjcoo>$ ^*Serb$^-<guio>$^relate<vblex><pp>$ ^art<n><pl>$ ^and<cnjcoo>$ ^*humanities$^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.mfa.gov.yu\/Policy\/CI\/kosovo-slike\/index.html Terror in Kosovo'>]^50<num>$[<\/a> ]^Terror<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^51<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='http:\/\/www.kc.gov.yu\/D-ENGLISH\/index-eng.html English'>]^52<num>$[<\/a>]^,<cm>$[ <a href='http:\/\/www.kc.gov.yu\/A-CIRILICA\/index-cir.html Serbian'>]^53<num>$[<\/a> ]^and<cnjcoo>$[ <a href='http:\/\/www.kc.gov.yu\/C-ALBANSKI\/index-alb.html Albanian'>]^54<num>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovo.net\/ Kosovo-The Land of the Living past'>]^55<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^56<num>$[<\/a> ]^*Serbian$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$ ^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.savekosovo.org Save Kosovo'>]^57<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^promote<vblex><ger>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^American<adj>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^and<cnjcoo>$ ^of<pr>$ ^the<det><def><sp>$ ^critical<adj>$ ^American<adj>$ ^stake<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*provinceâ$^*s$ ^future<n><sg>$^.<sent>$ ^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovocompromise.com\/ Kosovo 2006 Making of a Compromise'>]^58<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.eparhija-prizren.com\/defaultE.asp Diocese Kosovo of Serbian Orthodox Church'>]^59<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='http:\/\/www.eparhija-prizren.com\/defaultE.asp English'>]^60<num>$[<\/a>]^,<cm>$[ <a href='http:\/\/www.eparhija-prizren.com\/default.asp Serbian'>]^61<num>$[<\/a> ]^and<cnjcoo>$[ <a href='http:\/\/www.eparhija-prizren.com\/defaultR.asp Russian'>]^62<num>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
-<p><br\/>
-]{{^Template<n><sg>$ ^group<n><sg>$[
+<p><br\/><\/p>
+<a name="Pro-Albanian"><\/a><h3>]^*Pro$^-<guio>$^Albanian<n><sg>$^.<sent>$[][<\/h3><ul>
+<li><a href='http:\/\/www.albanian.com\/ Albanian.com'>]^63<num>$[<\/a> ]^A<det><ind><sg>$ ^Community<n><sg>$ ^portal<n><sg>$ ^where<rel><adv>$ ^Albanian<n><pl>$ ^share<n><sg>$ ^information<n><sg>$ ^and<cnjcoo>$ ^idea<n><pl>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.newkosovo.org\/ Alliance for a New Kosovo'>]^64<num>$[<\/a> ]^A<det><ind><sg>$ ^Policy<n><sg>$ ^Resource<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^Independence<n><sg>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovaevidence.com KosovoEvidence.com'>]^65<num>$[<\/a> ]^-<guio>$ ^movie<n><sg>$ ^about<pr>$ ^what<rel><nn><mf><sg>$ ^happen<vblex><past>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^during<pr>$ ^the<det><def><sp>$ ^war<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.eciks.org Economic Initiative for Kosovo'>]^66<num>$[<\/a> ]^-<guio>$ "^.<sent>$^.<sent>$^.<sent>$^late<adj><sint><sup>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^publication<n><pl>$ ^from<pr>$ ^the<det><def><sp>$ ^*Kosovar$ ^economy<n><sg>$"^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.alb-shkenca.org\/images\/stories\/Why%20Independence.pdf Why Independence for Kosovo?'>]^67<num>$[<\/a> ]^A<det><ind><sg>$ ^summary<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^case<n><sg>$ ^for<pr>$ ^a<det><ind><sg>$ ^independent<adj>$ ^Kosovo<np><loc><sg>$ ^by<pr>$ ^two<num><sp>$ ^*Pri$Å^¡<lquest>$^*tina$ ^intellectual<n><pl>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.newkosovo.org\/news.htm Alliance for New Kosovo'>]^68<num>$[<\/a> ]^A<det><ind><sg>$ ^policy<n><sg>$ ^resource<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^independence<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.alb-net.com\/index.htm Kosovo Crisis Center'>]^69<num>$[<\/a> ]^A<det><ind><sg>$ ^collection<n><sg>$ ^of<pr>$ ^article<n><pl>$ ^on<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.aacl.com\/indexmain.html AACL'>]^70<num>$[<\/a> ]^Albanian<adj>$ ^American<adj>$ ^Civic<adj>$ ^League<n><sg>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovalive.com\/?cid=2 KosovaLive'>]^71<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Albanian<adj>$ ^independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$ ^(<lpar>$^this<det><dem><sg>$ ^section<n><sg>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.savekosova.org\/ American Council for Kosova'>]^72<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^issue<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^by<pr>$ ^the<det><def><sp>$ ^American<adj>$ ^public<n><sg>$^.<sent>$[][<\/li>
+<\/ul>
+<p><br\/><\/p>
+<p>]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<vblex><pres>$ = ^Geographic<adj>$ ^*locale$[
 ]|^list<n><sg>$[  ]=[
 
@@ -411,7 +409,7 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^20<num>$[<\/a> ]"^,<cm>$[ 
 <a href='it:Kosovo'>]^prpers<prn><obj><p3><nt><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='he:×§××¡××× ×××××××'>]^prpers<prn><subj><p3><m><sg>$^:<sent>$×§××^¡<lquest>$××× ×××××××[<\/a>
 <a href='la:Ager merulensis'>]^*la$^:<sent>$^*Ager$ ^*merulensis$[<\/a>
-<a href='lv:Kosova un Metohija'>]^*lv$^:<sent>$^*Kosova$ ^*un$ ^*Metohija$[<\/a>
+<a href='lv:Kosovo un Metohija'>]^*lv$^:<sent>$^Kosovo<np><loc><sg>$ ^*un$ ^*Metohija$[<\/a>
 <a href='lt:Kosovas'>]^*lt$^:<sent>$^*Kosovas$[<\/a>
 <a href='li:Kosovo'>]^*li$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='hu:KoszovÃ³'>]^*hu$^:<sent>$^*Koszov$Ã³[<\/a>
