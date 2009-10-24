@@ -18,7 +18,7 @@
 ]|^native<adj>$_^name<n><sg>$[              ]= {{^*nowrap$|{{^*lang$|^*sq$|[<em>]^*Republika$ ^*e$ ^*Kosov$Ã«^*s$[<\/em>]}}[&lt;]^*br$[&gt;]{{^*lang$|^*sr$^-<guio>$^*Cyrl$|Ð ÐµÐ^¿<lquest>$^*Ñ$Ð±Ð»Ð¸ÐºÐ° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾}} \/ {{^*lang$|^*sr$^-<guio>$^*Lat$|[<em>]^*Republika$ ^Kosovo<np><loc><sg>$[<\/em>]}}}}[
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[   ]= ^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[
 ]|^common<adj>$_^name<n><sg>$[                 ]= ^Kosovo<np><loc><sg>$[
-]|^image<n><sg>$_^flag<n><sg>$[                  ]= ^Image<n><sg>$^:<sent>$^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^*svg$[
+]|^image<n><sg>$_^flag<n><sg>$[                  ]= ^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^*svg$[
 ]|^image<n><sg>$_^coat<n><sg>$[                  ]= ^Coat<n><sg>$ ^of<pr>$ ^arm<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^*svg$[
 ]|^image<n><sg>$_^map<n><sg>$[                  ]= ^Europe<np><loc><sg>$_^location<n><sg>$_^*KOS$^.<sent>$^*png$[
 ]|^map<n><sg>$_^*caption$[                ]= |^map<n><sg>$_^*caption$ = ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^on<pr>$[ <a href='Europe|European continent'>]^the<det><def><sp>$ ^Europe<np><loc><sg>$|^European<adj>$ ^continent<n><sg>$[<\/a>
