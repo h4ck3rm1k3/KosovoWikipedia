@@ -204,7 +204,7 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^19<num>$[<\/a> ]"^,<cm>$[ 
 <li><em><a href='North Kosovo|North'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$|^North<adj><sint>$[<\/a> <a href='Kosovska Mitrovica|City'>]^*Kosovska$ ^*Mitrovica$|^City<n><sg>$[<\/a> <a href='Jazz'>]^Jazz<n><sg>$[<\/a> &amp; <a href='Blues'>]^*Blues$[<\/a> <a href='festival'>]^festival<n><sg>$[<\/a><\/em>]^,<cm>$ ^a<det><ind><sg>$ ^international<adj>$[ <a href='music festival'>]^music<n><sg>$ ^festival<n><sg>$[<\/a> ]^hold<vblex><past>$ ^annually<adv>$ ^in<pr>$[ <a href='Zvecan'>]^*Zvecan$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p>]^Kosovo<np><loc><sg>$ ^*Radiotelevisions$ ^like<pr>$[ <em>]^*RTK$[<\/em>]^,<cm>$[ <em>]^21<num>$[<\/em> ]^and<cnjcoo>$[ <em>]^*KTV$[<\/em> ]^have<vblex><pres>$ ^their<det><pos><sp>$ ^musical<adj>$ ^chart<n><pl>$^.<sent>$^.<sent>$[][<\/p>
-<a name="List_of_Presidents"><\/a><h2>]^List<n><sg>$ ^of<pr>$ ^President<n><pl>$^.<sent>$[][<\/h2><p>]{{^main<adj>$|^Ruler<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
+<a name="List_of_presidents"><\/a><h2>]^List<n><sg>$ ^of<pr>$ ^president<n><pl>$^.<sent>$[][<\/h2><p>]{{^main<adj>$|^Ruler<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]^:<sent>$ ^Source<n><sg>$^:<sent>$ ^*http$^:<sent>$\/\/^www.worldstatesmen.org<num>$\/^Yugoslavia<np><loc><sg>$^.<sent>$^*html$#^Kosovo<np><loc><sg>$^.<sent>$[][<\/p>
 <ul>
 <li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>]^,<cm>$[ <a href='4 March'>]^4<num>$ ^March<n><sg>$[<\/a> <a href='2002'>]^2002<num>$[<\/a> ]^-<guio>$[ <a href='21 January'>]^21<num>$ ^January<n><sg>$[<\/a> <a href='2006'>]^2006<num>$^.<sent>$[][<\/a><\/li>
