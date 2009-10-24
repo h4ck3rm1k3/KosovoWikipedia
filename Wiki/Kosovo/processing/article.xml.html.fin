@@ -1266,7 +1266,6 @@
 ]|^title<vblex><pres>$ = ^Geographic<adj>$ ^*locale$[
 ]|^list<n><sg>$[  ]=[
 
-]{{^Autonomous<adj>$ ^Province<n><pl>$ ^of<pr>$ ^*Serbia$}}[
 ]}}[
 ]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<vblex><pres>$ = ^International<adj>$ ^membership<n><sg>$ ^and<cnjcoo>$ ^history<n><sg>$[
