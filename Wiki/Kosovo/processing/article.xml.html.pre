@@ -8,7 +8,6 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p><a href='Category:History of Kosovo'>]^Category<n><sg>$^:<sent>$^History<n><sg>$ ^of<pr>$ ^*KosovoXHTML$[<\/a>]^:<sent>$^:<sent>$^*MediaWiki$^:<sent>$^:<sent>$^*Parser$=^*HASH$^(<lpar>$^0<num>$^*x$^83<num>$^*aca$^00<num>$^)<rpar>$^.<sent>$[][<\/p>
 <\/body>
 <\/html>
 ]
