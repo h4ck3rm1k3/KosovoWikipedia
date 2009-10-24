@@ -17,16 +17,12 @@
 ]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^currently<adv>$ ^administer<vblex><pp>$ ^by<pr>$[ <a href='United Nations'>]^the<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$[<\/a>]^.<sent>$[
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
-]|[ <a href='English'>]^English<adj>$[<\/a>]^,<cm>$[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
+]|[  <a href='Serbian language|Ð¡ÑÐ¿ÑÐºÐ¸ ÑÐµÐ·Ð¸Ðº'>]^*Serbian$ ^language<n><sg>$|Ð^¡<lquest>$^*Ñ$Ð^¿<lquest>$^*Ñ$ÐºÐ¸ ^*Ñ$ÐµÐ^*·$Ð¸Ðº[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Capital'>]^Capital<n><sg>$[<\/a>
-]|[ <a href='PrishtinÃ«'>]^*Prishtin$Ã«[<\/a>
+]|[ <a href='ÐÑÐ¸ÑÑÐ¸Ð½Ð°'>]Ð^*Ñ$Ð¸^*Ñ$^*Ñ$Ð¸Ð½Ð°[<\/a>
 ]|^-<guio>$[
-]|[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
-]|[<a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>
-]|^-<guio>$[
-]|[ <a href='Prime Minister of Kosovo|Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Prime<adj>$ ^Minister<n><sg>$[<\/a>
-]|[ <a href='Bajram Kosumi'>]^*Bajram$ ^*Kosumi$[<\/a>
+]|[ 
 ]|^-<guio>$[
 ]|[ <a href='Area'>]^Area<n><sg>$[<\/a>&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[&amp;]^*ndash$^;<sent>$ ^Total<n><sg>$[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[&amp;]^*ndash$^;<sent>$ % ^water<n><sg>$[
 ]|[ &lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[<a href='1 E10 mÂ²|10,912'>]^1<num>$ ^*E$^10<num>$ ^*mÂ$²|^10,912<num>$[<\/a> ]^*kmÂ$²[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$^*n$\/^a<det><ind><sg>$[
