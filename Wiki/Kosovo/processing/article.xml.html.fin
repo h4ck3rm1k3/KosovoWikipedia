@@ -644,8 +644,11 @@
 ^Kosovo<np><loc><sg>$ ^*Polje$ ^*sized$^.$
 ^*jpg$|[<a href='Kosovo Polje'>]^Kosovo<np><loc><sg>$ ^*Polje$[<\/a>]^.$
 [
-&lt;]\/^gallery<n><sg>$^.$
-[][&gt;<\/p>
+&lt;]\/^gallery<n><sg>$[&gt;
+<a href='Image:kosovo.png'>]^Image<n><sg>$^:$
+^*kosovo$^.$
+^*png$^.$
+[][<\/a><\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.$
 [][<\/h2><p>]{{^column<n><pl>$ |^width<n><sg>$=^280<num>$^*px$[
 ]|^*col$^1<num>$ =^.$

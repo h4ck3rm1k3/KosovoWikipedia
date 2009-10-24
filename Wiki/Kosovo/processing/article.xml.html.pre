@@ -163,7 +163,8 @@
 ]^Image<n><sg>$^:<sent>$^*Pec$ ^001<num>$^.<sent>$^*jpg$|^*Serbian$ ^*monastery$ ^in<pr>$[ <a href='PeÄ'>]^*PeÄ$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Prizren$ ^004<num>$^.<sent>$^*JPG$|^*Serbian$ ^*monastery$ ^in<pr>$ ^*Prizren$^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^*Polje$ ^*sized$^.<sent>$^*jpg$|[<a href='Kosovo Polje'>]^Kosovo<np><loc><sg>$ ^*Polje$[<\/a>]^.<sent>$[
-&lt;]\/^gallery<n><sg>$^.<sent>$[][&gt;<\/p>
+&lt;]\/^gallery<n><sg>$[&gt;
+<a href='Image:kosovo.png'>]^Image<n><sg>$^:<sent>$^*kosovo$^.<sent>$^*png$^.<sent>$[][<\/a><\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><p>]{{^column<n><pl>$ |^width<n><sg>$=^280<num>$^*px$[
 ]|^*col$^1<num>$ =^.<sent>$[][<\/p>
 <ul>
