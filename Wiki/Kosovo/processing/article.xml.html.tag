@@ -412,6 +412,7 @@
 <a href='ur:Ú©ÙØ³ÙÙÛ'>]^*ur$^:<sent>$^*Ú$©^*Ù$Ø³^*Ù$^*Ù$^*Û$[<\/a>
 <a href='vec:Kosovo'>]^*vec$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='vi:Kosovo'>]^*vi$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='fiu-vro:Kosovo'>]^*fiu$^-<guio>$^*vro$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='zh-classical:ç§ç´¢æ²'>]^*zh$^-<guio>$^classical<adj>$^:<sent>$^*ç$§^*ç$´¢æ²[<\/a>
 <a href='wuu:ç§ç´¢æ²'>]^*wuu$^:<sent>$^*ç$§^*ç$´¢æ²[<\/a>
 <a href='zh-yue:ç§ç´¢æ²'>]^*zh$^-<guio>$^*yue$^:<sent>$^*ç$§^*ç$´¢æ²[<\/a>
