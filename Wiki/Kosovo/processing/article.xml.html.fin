@@ -12,13 +12,21 @@
 <p>]{{^POV<n><acr><sg>$}}^.$
 [][<\/p>
 <p>]{|[ 
-]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosova$[<\/strong>&lt;]^*br$\/[&gt;]^'<apos>$^'<apos>$^'<apos>$^Kosovo<np><loc><sg>$[&lt;]\/^big<adj><sint>$[&gt;&lt;]\/^big<adj><sint>$[&gt;
+]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong>]^*Kosov$Ã«[<\/strong> ]\/[ <strong>]^*Kosova$[<\/strong>&lt;]^*br$\/[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt;<strong>]^Kosovo<np><loc><sg>$[&lt;]^*br$[&gt;]^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohia$[<\/strong>&lt;]\/^big<adj><sint>$[&gt;&lt;]\/^big<adj><sint>$[&gt;
 ]|^-<guio>$[
 ]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-Kosovo2.png'>]^Image<n><sg>$^:$
 ^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^2<num>$^.$
 ^*png$[<\/a>
 ]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
+&lt;]^!$
+^-<guio>$^-<guio>$^Albanian<n><sg>$ ^be<vbser><pri><p3><sg>$ ^official<adj>$ ^language<n><sg>$ ^in<pr>$ ^*kosovo$ ^but<cnjcoo>$ ^not<adv>$ ^in<pr>$ ^the<det><def><sp>$ ^state<adj>$ ^*Serbia$ ^(<lpar>$^*Bujanovc$^,<cm>$ ^*Presheva$ ^?$
+^)<rpar>$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^(<lpar>$^*Plave$^,<cm>$ ^*Gusia$^,<cm>$ ^*Ulcin$ ^?$
+^)<rpar>$^?$
+^?$
+^?$
+^?$
+^-<guio>$^-<guio>$[&gt;
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
 ]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
 ]|^-<guio>$[
@@ -65,12 +73,12 @@
 ]|[ <a href='Kosova Airlines'>]^*Kosova$ ^*Airlines$[<\/a>
 ]|}^.$
 [][<\/p>
-<p><strong>]^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohia$[<\/strong> ]^(<lpar>$[<a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^:$
- ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð° \/[ <em>]^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/em>]^,<cm>$[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^:$
-[ <em>]^*Kosov$Ã«[<\/em> ]\/[ <em>]^*Kosova$[<\/em>]^)<rpar>$^,<cm>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a> ]^most<preadv>$ ^often<adv>$ ^call<vblex><pp>$ ^just<adv>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^province<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>]^.$
+<p><strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>$[<a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^:$
+[ <em>]^*Kosov$Ã«[<\/em> ]\/[ <em>]^*Kosova$[<\/em>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^:$
+ ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð° \/[ <em>]^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/em>]^)<rpar>$^,<cm>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a> ]^most<preadv>$ ^often<adv>$ ^call<vblex><pp>$ ^just<adv>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^province<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>]^.$
  ^Prpers<prn><subj><p3><nt><sg>$ ^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$ ^subject<n><sg>$ ^of<pr>$ ^a<det><ind><sg>$ ^ongoing<adj>$ ^territorial<adj>$ ^dispute<n><sg>$ ^between<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^government<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^province<n><sg>$^'s<gen>$ ^majority<n><sg>$ ^ethnic<adj>$[ <a href='Albanian'>]^Albanian<adj>$[<\/a> ]^population<n><sg>$^.$
  ^Prpers<prn><subj><p3><nt><sg>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^part<n><sg>$ ^of<pr>$ ^*Serbia$^,<cm>$ ^but<cnjcoo>$ ^since<pr>$ ^the<det><def><sp>$[ <a href='Kosovo War'>]^Kosovo<np><loc><sg>$ ^War<n><sg>$[<\/a> ]^prpers<prn><subj><p3><nt><sg>$ ^have<vbhaver><pri><p3><sg>$ ^be<vbser><pp>$ ^administer<vblex><pp>$ ^by<pr>$[ <a href='United Nations'>]^the<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$[<\/a> ]^as a<pr>$[ <a href='protectorate'>]^protectorate<n><sg>$[<\/a>]^.$
- ^Its<det><pos><sp>$ ^Albanian<adj>$ ^population<n><sg>$ ^*referred$ ^to<pr>$ ^the<det><def><sp>$ ^province<n><sg>$ ^as<pr>$ ^the<det><def><sp>$[ <strong>]^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/strong> ]^between<pr>$[ <a href='1990'>]^1990<num>$[<\/a> ]^and<cnjcoo>$[ <a href='1999'>]^1999<num>$[<\/a> ]^and<cnjcoo>$ ^declare<vblex><past>$ ^prpers<prn><obj><p3><nt><sg>$ ^a<det><ind><sg>$ ^independent<adj>$ ^state<n><sg>$^,<cm>$ ^though<cnjadv>$ ^this<prn><tn><mf><sg>$ ^be<vbser><past><p3><sg>$ ^recognize<vblex><pp>$ ^abroad<adv>$ ^only<adv>$ ^by<pr>$[ <a href='Albania'>]^*Albania$[<\/a>]^.$
+ ^Its<det><pos><sp>$ ^Albanian<adj>$ ^population<n><sg>$ ^*referred$ ^to<pr>$ ^the<det><def><sp>$ ^province<n><sg>$ ^as<pr>$ ^the<det><def><sp>$[ <strong>]^Republic<n><sg>$ ^of<pr>$ ^*Kosova$[<\/strong> ]^between<pr>$[ <a href='1990'>]^1990<num>$[<\/a> ]^and<cnjcoo>$[ <a href='1999'>]^1999<num>$[<\/a> ]^and<cnjcoo>$ ^declare<vblex><past>$ ^prpers<prn><obj><p3><nt><sg>$ ^a<det><ind><sg>$ ^independent<adj>$ ^state<n><sg>$^,<cm>$ ^though<cnjadv>$ ^this<prn><tn><mf><sg>$ ^be<vbser><past><p3><sg>$ ^recognize<vblex><pp>$ ^abroad<adv>$ ^only<adv>$ ^by<pr>$[ <a href='Albania'>]^*Albania$[<\/a>]^.$
  ^The<det><def><sp>$ ^province<n><sg>$^'s<gen>$ ^final<adj>$ ^status<n><sg>$ ^have<vbhaver><pri><p3><sg>$ ^yet<adv>$ ^to<pr>$ ^be<vbser><inf>$ ^determine<vblex><pp>$^;$
  ^talk<n><pl>$ ^on<pr>$ ^this<det><dem><sg>$ ^issue<n><sg>$ ^be<vbser><pres>$ ^schedule<vblex><pp>$ ^for<pr>$ ^later<adv>$ ^in<pr>$[ <a href='2005'>]^2005<num>$[<\/a>]^.$
 ^.$
@@ -364,78 +372,54 @@
 [][<\/li>
 <\/ul>
 <p><br\/>
-]===^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$===^.$
-[][<\/p>
-<ul>
-<li>  
-<a href='http:\/\/www.assembly-kosova.org\/ Assembly of Kosovo'>]^10<num>$^.$
-[][<\/a><\/li>
-<li>  
-<a href='http:\/\/www.pm-ksgov.net\/ Kosovo Prime Minister'>]^11<num>$^.$
-[][<\/a><\/li>
-<li><a href='http:\/\/www.mtpt.org\/ Ministry of Transport and Communications'>]^12<num>$^.$
-[][<\/a><\/li>
-<li><a href='http:\/\/www.mfe-ks.org\/ Ministry of Economy and Finance'>]^13<num>$^.$
-[][<\/a><\/li>
-<li><a href='http:\/\/www.mti-ks.org\/ Ministry of Trade and Industry'>]^14<num>$^.$
-[][<\/a><\/li>
-<li><a href='http:\/\/www.mashtgov.net\/ Ministry of Education, Science and Technology'>]^15<num>$^.$
-[][<\/a><\/li>
-<li><a href='http:\/\/www.mmph.org\/ Ministry of Environment and Spatial Planning'>]^16<num>$^.$
-[][<\/a><\/li>
-<li> 
-<a href='http:\/\/www.sok-kosovo.org Statistical Office of Kosovo'>]^17<num>$[<\/a> ]^-<guio>$ ^governmental<adj>$ ^agency<n><sg>$ ^of<pr>$ ^*statistics$^.$
-[][<\/li>
-<\/ul>
-<p><br\/>
 <\/p>
 <a name="Pro-Albanian"><\/a><h3>]^*Pro$^-<guio>$^Albanian<n><sg>$^.$
 [][<\/h3><ul>
-<li><a href='http:\/\/BalkanUpdate.blogspot.com Balkan Update'>]^18<num>$[<\/a>]^-<guio>$ ^A<det><ind><sg>$ ^*blog$ ^with<pr>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*lates$ ^update<vblex><pri><p3><sg>$ ^from<pr>$ ^*Balkans$^.$
+<li><a href='http:\/\/BalkanUpdate.blogspot.com Balkan Update'>]^10<num>$[<\/a>]^-<guio>$ ^A<det><ind><sg>$ ^*blog$ ^with<pr>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*lates$ ^update<vblex><pri><p3><sg>$ ^from<pr>$ ^*Balkans$^.$
 [][<\/li>
-<li><a href='http:\/\/kosovareport.blogspot.com Kosovareport'>]^19<num>$[<\/a> ]^-<guio>$ ^A<det><ind><sg>$ ^comprehensive<adj>$ ^*blog$ ^in<pr>$ ^English<adj>$ ^with<pr>$ ^news<n><sg>$ ^from<pr>$ ^local<adj>$^,<cm>$ ^regional<adj>$ ^and<cnjcoo>$ ^international<adj>$ ^*media$^.$
+<li><a href='http:\/\/kosovareport.blogspot.com Kosovareport'>]^11<num>$[<\/a> ]^-<guio>$ ^A<det><ind><sg>$ ^comprehensive<adj>$ ^*blog$ ^in<pr>$ ^English<adj>$ ^with<pr>$ ^news<n><sg>$ ^from<pr>$ ^local<adj>$^,<cm>$ ^regional<adj>$ ^and<cnjcoo>$ ^international<adj>$ ^*media$^.$
 [][<\/li>
-<li><a href='http:\/\/www.kosovalive.com KosovaLive'>]^20<num>$[<\/a> ]^-<guio>$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$ ^with<pr>$ ^some<det><qnt><sp>$ ^news<n><sg>$ ^in<pr>$ ^English<adj>$^.$
+<li><a href='http:\/\/www.kosovalive.com KosovaLive'>]^12<num>$[<\/a> ]^-<guio>$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$ ^with<pr>$ ^some<det><qnt><sp>$ ^news<n><sg>$ ^in<pr>$ ^English<adj>$^.$
 [][<\/li>
-<li><a href='http:\/\/www.eciks.org Economic Initiative for Kosovo'>]^21<num>$[<\/a> ]^-<guio>$ "^.$
+<li><a href='http:\/\/www.eciks.org Economic Initiative for Kosovo'>]^13<num>$[<\/a> ]^-<guio>$ "^.$
 ^.$
 ^.$
 ^late<adj><sint><sup>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^publication<n><pl>$ ^from<pr>$ ^the<det><def><sp>$ ^*Kosovar$ ^economy<n><sg>$"^.$
 [][<\/li>
-<li><a href='http:\/\/www.rtklive.com  RTK'>]^22<num>$[<\/a> ]^-<guio>$ ^*Kosova$^'s<gen>$ ^public<adj>$ ^television<n><sg>$ ^(<lpar>$^news<n><sg>$ ^in<pr>$ ^Albanian<n><sg>$^,<cm>$ ^*Serbian$^,<cm>$ ^Turkish<adj>$ ^and<cnjcoo>$ ^*Roma$^)<rpar>$^.$
+<li><a href='http:\/\/www.rtklive.com  RTK'>]^14<num>$[<\/a> ]^-<guio>$ ^*Kosova$^'s<gen>$ ^public<adj>$ ^television<n><sg>$ ^(<lpar>$^news<n><sg>$ ^in<pr>$ ^Albanian<n><sg>$^,<cm>$ ^*Serbian$^,<cm>$ ^Turkish<adj>$ ^and<cnjcoo>$ ^*Roma$^)<rpar>$^.$
 [][<\/li>
-<li><a href='http:\/\/www.kosova.com Kosova Information Center'>]^23<num>$[<\/a> ]^-<guio>$ ^LDK<n><acr><sg>$^'s<gen>$ ^news<n><sg>$ ^agency<n><sg>$ ^(<lpar>$^Albanian<adj>$ ^only<adj>$^)<rpar>$^.$
+<li><a href='http:\/\/www.kosova.com Kosova Information Center'>]^15<num>$[<\/a> ]^-<guio>$ ^LDK<n><acr><sg>$^'s<gen>$ ^news<n><sg>$ ^agency<n><sg>$ ^(<lpar>$^Albanian<adj>$ ^only<adj>$^)<rpar>$^.$
 [][<\/li>
 <li> 
-<a href='http:\/\/www.albanian.com\/main\/countries\/kosova Albanian.com'>]^24<num>$[<\/a> ]^-<guio>$ ^general<adj>$ ^information<n><sg>$^.$
+<a href='http:\/\/www.albanian.com\/main\/countries\/kosova Albanian.com'>]^16<num>$[<\/a> ]^-<guio>$ ^general<adj>$ ^information<n><sg>$^.$
 [][<\/li>
-<li><a href='http:\/\/www.alb-net.com\/warcrimes-img\/warcrimes.htm Kosovo Crisis Center'>]^25<num>$[<\/a> ]^-<guio>$ ^*Serbian$ ^Massacre<n><pl>$ ^of<pr>$ ^Albanian<n><pl>$^.$
+<li><a href='http:\/\/www.alb-net.com\/warcrimes-img\/warcrimes.htm Kosovo Crisis Center'>]^17<num>$[<\/a> ]^-<guio>$ ^*Serbian$ ^Massacre<n><pl>$ ^of<pr>$ ^Albanian<n><pl>$^.$
 [][<\/li>
-<li><a href='http:\/\/beqiraj.com\/kosova\/de\/ General information from Beqiraj.com'>]^26<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^German<adj>$^)<rpar>$^.$
+<li><a href='http:\/\/beqiraj.com\/kosova\/de\/ General information from Beqiraj.com'>]^18<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^German<adj>$^)<rpar>$^.$
 [][<\/li>
-<li><a href='http:\/\/beqiraj.com\/kosova\/al\/ General information from Beqiraj.com'>]^27<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^Albanian<n><sg>$^)<rpar>$^.$
+<li><a href='http:\/\/beqiraj.com\/kosova\/al\/ General information from Beqiraj.com'>]^19<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^Albanian<n><sg>$^)<rpar>$^.$
 [][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
 <a name="Pro-Serb"><\/a><h3>]^*Pro$^-<guio>$^*Serb$^.$
 [][<\/h3><ul>
-<li><a href='http:\/\/www.kosovo.com\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^28<num>$[<\/a>]^:$
+<li><a href='http:\/\/www.kosovo.com\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^20<num>$[<\/a>]^:$
  ^a<det><ind><sg>$ ^Jewish<adj>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.$
 [][<\/li>
-<li><a href='http:\/\/www.kosovo.com\/ Kosovo.com'>]^29<num>$[<\/a> ]^*Serbian$ ^Orthodox<adj>$ ^Church<n><sg>$^'s<gen>$ ^official<adj>$ ^*website$ ^on<pr>$ ^Kosovo<np><loc><sg>$^.$
+<li><a href='http:\/\/www.kosovo.com\/ Kosovo.com'>]^21<num>$[<\/a> ]^*Serbian$ ^Orthodox<adj>$ ^Church<n><sg>$^'s<gen>$ ^official<adj>$ ^*website$ ^on<pr>$ ^Kosovo<np><loc><sg>$^.$
 [][<\/li>
-<li><a href='http:\/\/BalkanUpdate.blogspot.com Balkan Update'>]^30<num>$[<\/a>]^-<guio>$ ^A<det><ind><sg>$ ^*blog$ ^with<pr>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*lates$ ^update<vblex><pri><p3><sg>$ ^from<pr>$ ^*Balkans$^.$
+<li><a href='http:\/\/BalkanUpdate.blogspot.com Balkan Update'>]^22<num>$[<\/a>]^-<guio>$ ^A<det><ind><sg>$ ^*blog$ ^with<pr>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*lates$ ^update<vblex><pri><p3><sg>$ ^from<pr>$ ^*Balkans$^.$
 [][<\/li>
-<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohia'>]^31<num>$^.$
+<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohia'>]^23<num>$^.$
 [][<\/a><\/li>
-<li><a href='http:\/\/groups.yahoo.com\/group\/decani\/ Kosovo Newsgroup archive'>]^32<num>$^.$
+<li><a href='http:\/\/groups.yahoo.com\/group\/decani\/ Kosovo Newsgroup archive'>]^24<num>$^.$
 [][<\/a><\/li>
-<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^33<num>$^.$
+<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^25<num>$^.$
 [][<\/a><\/li>
-<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government Kosovo-Metohija site'>]^34<num>$^.$
+<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government Kosovo-Metohija site'>]^26<num>$^.$
 [][<\/a><\/li>
-<li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^35<num>$^.$
+<li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^27<num>$^.$
 [][<\/a><\/li>
 <\/ul>
 <p><br\/>
