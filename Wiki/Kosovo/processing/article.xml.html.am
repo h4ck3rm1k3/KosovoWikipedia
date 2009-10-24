@@ -173,8 +173,7 @@
 <li><a href='http:\/\/www.crisisgroup.org\/home\/index.cfm?id=1243&amp;l=1 (ICG)'>]^16/16<num>$[<\/a> ]^International/International<adj>$ ^Crisis/Crisis<n><sg>$ ^Group/Group<n><sg>$^,/,<cm>$ ^a/a<det><ind><sg>$ ^source/source<n><sg>$ ^of/of<pr>$ ^independent/independent<adj>$ ^analysis/analysis<n><sg>$ ^on/on<adv>/on<pr>$ ^Kosovo/Kosovo<np><loc><sg>$ ^issues/issue<n><pl>/issue<vblex><pri><p3><sg>$^./.<sent>$^./.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
-<\/p>
-<a name="Pro-Albanian"><\/a><h3>]^Pro/*Pro$^-/-<guio>$^Albanian/Albanian<adj>/Albanian<n><sg>$^./.<sent>$[][<\/h3><p>&lt;]^div/*div$ ^class/class<n><sg>$="^NavFrame/*NavFrame$"^./.<sent>$[][&gt;<\/p>
+&lt;]^div/*div$ ^class/class<n><sg>$="^NavFrame/*NavFrame$"^./.<sent>$[][&gt;<\/p>
 
 <pre>&lt;]^div/*div$ ^class/class<n><sg>$="^NavHead/*NavHead$"[&gt;]^Pro/*Pro$^-/-<guio>$^Albanian/Albanian<adj>/Albanian<n><sg>$[&lt;]\/^div/*div$[&gt;
 &lt;]^div/*div$ ^class/class<n><sg>$="^NavContent/*NavContent$" ^style/style<n><sg>$="^text/text<n><sg>$^-/-<guio>$^align/*align$^:/:<sent>$^left/left<adj>/left<adv>/left<n><sg>/leave<vblex><past>/leave<vblex><pp>$^;/;<sent>$"^./.<sent>$[][&gt;
@@ -195,7 +194,11 @@
 
 <pre>&lt;]^div/*div$ ^class/class<n><sg>$="^NavEnd/*NavEnd$"[&gt; &lt;]\/^div/*div$^./.<sent>$[][&gt;
 <\/pre><p>&lt;]\/^div/*div$^./.<sent>$[][&gt;<\/p>
-<a name="Pro-Serbian"><\/a><h3>]^Pro/*Pro$^-/-<guio>$^Serbian/*Serbian$^./.<sent>$[][<\/h3><ul>
+<p>&lt;]^div/*div$ ^class/class<n><sg>$="^NavFrame/*NavFrame$"^./.<sent>$[][&gt;<\/p>
+
+<pre>&lt;]^div/*div$ ^class/class<n><sg>$="^NavHead/*NavHead$"[&gt;]^Pro/*Pro$^-/-<guio>$^Serbian/*Serbian$[&lt;]\/^div/*div$[&gt;
+&lt;]^div/*div$ ^class/class<n><sg>$="^NavContent/*NavContent$" ^style/style<n><sg>$="^text/text<n><sg>$^-/-<guio>$^align/*align$^:/:<sent>$^left/left<adj>/left<adv>/left<n><sg>/leave<vblex><past>/leave<vblex><pp>$^;/;<sent>$"^./.<sent>$[][&gt;
+<\/pre><ul>
 <li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government Kosovo-Metohija site'>]^27/27<num>$^./.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.kosovo.net\/ Kosovo.net'>]^28/28<num>$[<\/a> ]^Serbian/*Serbian$ ^Orthodox/Orthodox<adj>/Orthodox<n><sg>/Orthodox<n><pl>$ ^Church/Church<n><sg>$^'s/'s<gen>$ ^official/official<adj>/official<n><sg>$ ^website/*website$ ^on/on<adv>/on<pr>$ ^Kosovo/Kosovo<np><loc><sg>$^./.<sent>$[][<\/li>
 <li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohija'>]^29/29<num>$^./.<sent>$[][<\/a><\/li>
@@ -207,7 +210,10 @@
 <li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^35/35<num>$[<\/a> ]^Serbian/*Serbian$ ^Independent/Independent<adj>$ ^news/news<n><sg>/news<n><pl>$ ^agency/agency<n><sg>$^./.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovo.net\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo/Kosovo<np><loc><sg>$ ^Origins/Origin<n><pl>$[<\/em>]^'/'<apos>$[>]^36/36<num>$[<\/a>]^:/:<sent>$ ^a/a<det><ind><sg>$ ^historian/historian<n><sg>$^'s/'s<gen>$ ^comprehensive/comprehensive<adj>$ ^overview/*overview$^./.<sent>$[][<\/li>
 <\/ul>
-<p><br\/><\/p>
+<p>&lt;]\/^div/*div$^./.<sent>$[][&gt;<\/p>
+
+<pre>&lt;]^div/*div$ ^class/class<n><sg>$="^NavEnd/*NavEnd$"[&gt; &lt;]\/^div/*div$^./.<sent>$[][&gt;
+<\/pre><p>&lt;]\/^div/*div$^./.<sent>$[][&gt;<\/p>
 <p><a href='Category:Disputed territories'>]^Category/Category<n><sg>$^:/:<sent>$^Disputed/*Disputed$ ^territories/territory<n><pl>$[<\/a>
 <a href='Category:Kosovo'>]^Category/Category<n><sg>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='Category:UN_peacekeeping_missions_and_operations'>]^Category/Category<n><sg>$^:/:<sent>$^UN/UN<n><acr><sg>$_^peacekeeping/*peacekeeping$_^missions/mission<n><pl>$_^and/and<cnjcoo>$_^operations/operation<n><pl>$[<\/a>
