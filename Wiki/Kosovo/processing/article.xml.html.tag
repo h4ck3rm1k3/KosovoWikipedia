@@ -306,9 +306,7 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^20<num>$[<\/a> ]"^,<cm>$[ 
 <li><a href='National awakening and the birth of Albania'>]^National<adj>$ ^awaken<vblex><ger>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^birth<n><sg>$ ^of<pr>$ ^*Albania$^.<sent>$[][<\/a><\/li>
 <li><a href='Demographic history of Kosovo'>]^*Demographic$ ^history<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Unrest in Kosovo|Unrest in Kosovo during March 2004'>]^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^during<pr>$ ^March<n><sg>$ ^2004<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='Metohija'>]^*Metohija$^.<sent>$[][<\/a><\/li>
 <li><a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Sexual trafficking in Kosovo'>]^Sexual<adj>$ ^trafficking<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p>]}}^.<sent>$[][<\/p>
 <a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><p>&lt;]^*div$ ^class<n><sg>$="^reference<n><pl>$^-<guio>$^small<adj><sint>$"[&gt;&lt;]^reference<n><pl>$\/[&gt;&lt;]\/^*div$[&gt;&lt;]^!<sent>$^-<guio>$^-<guio>$^Please<vblex><inf>$ ^keep<vblex><inf>$ ^as<preadv>$ ^single<adj>$ ^column<n><sg>$ ^as<pr>$ ^long<adj><sint>$ ^*URLs$ ^*otherwise$ ^cause<n><sg>$ ^display<n><sg>$ ^problem<n><pl>$ ^on<pr>$ ^small<adj><sint><comp>$ ^window<n><pl>$\/^screen<n><pl>$^;<sent>$ ^*thanks$^.<sent>$^-<guio>$^-<guio>$^.<sent>$[][&gt;<\/p>
