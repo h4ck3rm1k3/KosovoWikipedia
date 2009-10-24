@@ -289,13 +289,11 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^19<num>$[<\/a> ]"^,<cm>$[ 
 <li><a href='http:\/\/www.mfa.gov.yu\/Policy\/CI\/kosovo-slike\/index.html Terror in Kosovo'>]^59<num>$[<\/a> ]^Terror<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^60<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='http:\/\/www.kc.gov.yu\/D-ENGLISH\/index-eng.html English'>]^61<num>$[<\/a>]^,<cm>$[ <a href='http:\/\/www.kc.gov.yu\/A-CIRILICA\/index-cir.html Serbian'>]^62<num>$[<\/a> ]^and<cnjcoo>$[ <a href='http:\/\/www.kc.gov.yu\/C-ALBANSKI\/index-alb.html Albanian'>]^63<num>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovo.net\/ Kosovo-The Land of the Living past'>]^64<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^65<num>$[<\/a> ]^*Serbian$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.savekosovo.org Save Kosovo'>]^65<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^promote<vblex><ger>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^American<adj>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^and<cnjcoo>$ ^of<pr>$ ^the<det><def><sp>$ ^critical<adj>$ ^American<adj>$ ^stake<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*provinceâ$^*s$ ^future<n><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li> 
-<a href='http:\/\/www.savekosovo.org Save Kosovo'>]^66<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^promote<vblex><ger>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^American<adj>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^and<cnjcoo>$ ^of<pr>$ ^the<det><def><sp>$ ^critical<adj>$ ^American<adj>$ ^stake<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*provinceâ$^*s$ ^future<n><sg>$^.<sent>$^.<sent>$[][<\/li>
+<a href='http:\/\/www.kosovocompromise.com\/ Kosovo 2006 Making of a Compromise'>]^66<num>$^.<sent>$[][<\/a><\/li>
 <li> 
-<a href='http:\/\/www.kosovocompromise.com\/ Kosovo 2006 Making of a Compromise'>]^67<num>$^.<sent>$[][<\/a><\/li>
-<li> 
-<a href='http:\/\/www.eparhija-prizren.com\/defaultE.asp Diocese Kosovo of Serbian Orthodox Church'>]^68<num>$^.<sent>$[][<\/a><\/li>
+<a href='http:\/\/www.eparhija-prizren.com\/defaultE.asp Diocese Kosovo of Serbian Orthodox Church'>]^67<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p> 
 <br\/><\/p>
