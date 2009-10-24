@@ -26,7 +26,7 @@
 ]|[ <a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Prime Minister of Kosovo|Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Prime<adj>$ ^Minister<n><sg>$[<\/a>
-]|[ <a href='Bajram Kosumi'>]^*Bajram$ ^*Kosumi$[<\/a>
+]|[ <a href='Agim Ãeku'>]^*Agim$ Ã^*eku$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Area'>]^Area<n><sg>$[<\/a>&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[&amp;]^*ndash$^;<sent>$ ^Total<n><sg>$[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[&amp;]^*ndash$^;<sent>$ % ^water<n><sg>$[
 ]|[ &lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[<a href='1 E10 mÂ²|10,912'>]^1<num>$ ^*E$^10<num>$ ^*mÂ$²|^10,912<num>$[<\/a> ]^*kmÂ$²[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$^*n$\/^a<det><ind><sg>$[
