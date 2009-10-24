@@ -219,6 +219,7 @@
 ]^Image<n><sg>$^:<sent>$^*Erzengelkloster$^2<num>$^.<sent>$^*jpg$|^*Serbian$ ^*monastery$ ^in<pr>$ ^*Bistrica$[
 ]^Image<n><sg>$^:<sent>$^*Bibloteka$ ^*Komb$Ã«^*tare$ ^*e$ ^*Kosov$Ã«^*s$^.<sent>$^*jpg$|^National<adj>$ ^Public<adj>$ ^Library<n><sg>$ ^in<pr>$ ^*Prishtina$\/^*Pri$Å^¡<lquest>$^*tina$[
 ]^Image<n><sg>$^:<sent>$^League<n><sg>$ ^of<pr>$ ^*Prizren$ ^building<n><sg>$^.<sent>$^*jpg$|^League<n><sg>$ ^of<pr>$ ^*Prizren$ ^building<n><sg>$ ^in<pr>$ ^*Prizren$[
+]^Image<n><sg>$^:<sent>$^White<adj><sint>$ ^*Drini$ ^05<num>$ ^01<num>$^.<sent>$^*jpg$|^*Ura$ ^*e$ ^*Fshejte$ ^on<pr>$ ^the<det><def><sp>$ ^White<adj><sint>$ ^*Drini$ ^river<n><sg>$[
 &lt;]\/^gallery<n><sg>$^.<sent>$[][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><ul>
 <li><a href='History of Kosovo'>]^History<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
