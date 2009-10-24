@@ -111,7 +111,6 @@
 <li><a href='Trafficking of women in and from Kosovo'>]^Trafficking<n><sg>$ ^of<pr>$ ^woman<n><pl>$ ^in<pr>$ ^and<cnjcoo>$ ^from<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Transnistria'>]^*Transnistria$^.<sent>$[][<\/a><\/li>
 <li><a href='Northern Cyprus'>]^Northern<adj>$ ^Cyprus<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Kashmir'>]^*Kashmir$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <\/p>
