@@ -8,8 +8,7 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>]{{^POV<n><acr><sg>$^-<guio>$^check<n><sg>$}}[
-]{|[ 
+<p>]{{^POV<n><acr><sg>$^-<guio>$^check<n><sg>$}}^use<n><pl>$}}{|[ 
 ]|^-<guio>$[
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[
 &lt;]^big<adj><sint>$[&gt;<strong> ]^Kosovo<np><loc><sg>$[ <\/strong>&lt;]^*br$\/[&gt;&lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$[&gt;
@@ -263,7 +262,7 @@
 <li><a href='http:\/\/serbo.blogspot.com Kosovo News blog'>]^34<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^35<num>$[<\/a> ]^*Serbian$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovo.net\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^36<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.savekosovo.org\/American council for kosovo'>]^37<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.savekosovo.org'>]^37<num>$[<\/a> ]^American<adj>$ ^council<n><sg>$ ^for<pr>$ ^*kosovo$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>

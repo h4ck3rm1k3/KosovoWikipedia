@@ -9,8 +9,7 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>]{{^POV<n><acr><sg>$^-<guio>$^check<n><sg>$}}[
-]{|[ 
+<p>]{{^POV<n><acr><sg>$^-<guio>$^check<n><sg>$}}^use<n><pl>$}}{|[ 
 ]|^-<guio>$[
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:$
  ^centre<n><sg>$^;$
@@ -724,8 +723,8 @@
 <li><a href='http:\/\/www.kosovo.net\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^36<num>$[<\/a>]^:$
  ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.$
 [][<\/li>
-<li><a href='http:\/\/www.savekosovo.org\/American council for kosovo'>]^37<num>$^.$
-[][<\/a><\/li>
+<li><a href='http:\/\/www.savekosovo.org'>]^37<num>$[<\/a> ]^American<adj>$ ^council<n><sg>$ ^for<pr>$ ^*kosovo$^.$
+[][<\/li>
 <\/ul>
 <p><br\/>
 <a href='Category:Disputed territories'>]^Category<n><sg>$^:$
