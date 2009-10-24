@@ -1114,7 +1114,7 @@
 <p><br\/>
 <\/p>
 <a name="References"><\/a><h2>]^Reference<n><pl>$^.$
-[][<\/h2><p>&lt;]^small<adj><sint>$[&gt;&lt;]^reference<n><pl>$\/[&gt;&lt;]\/^small<adj><sint>$^.$
+[][<\/h2><p>&lt;]^*div$ ^class<n><sg>$="^reference<n><pl>$^-<guio>$^small<adj><sint>$"[&gt;&lt;]^reference<n><pl>$\/[&gt;&lt;]\/^*div$^.$
 [][&gt;<\/p>
 <p><a href='Category:Kosovo|*'>]^Category<n><sg>$^:$
 ^Kosovo<np><loc><sg>$|*[<\/a>
