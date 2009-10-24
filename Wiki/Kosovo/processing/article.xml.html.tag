@@ -366,7 +366,7 @@
 <a href='sv:Kosovo'>]^*sv$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='th:à¸à¸­à¹à¸à¹à¸§'>]^*th$^:<sent>$^*à$¸^*à$¸­^*à$¹^*à$¸^*à$¹^*à$¸§[<\/a>
 <a href='vi:Kosovo'>]^*vi$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='tr:Kosova (SÄ±rp ili)'>]^*tr$^:<sent>$^*Kosova$ ^(<lpar>$^*SÄ$±^*rp$ ^*ili$^)<rpar>$[<\/a>
+<a href='tr:Kosova'>]^*tr$^:<sent>$^*Kosova$[<\/a>
 <a href='uk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*uk$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='ur:Ú©ÙØ³ÙÙÛ'>]^*ur$^:<sent>$^*Ú$©^*Ù$Ø³^*Ù$^*Ù$^*Û$^.<sent>$[][<\/a><\/p>
 <\/body>
