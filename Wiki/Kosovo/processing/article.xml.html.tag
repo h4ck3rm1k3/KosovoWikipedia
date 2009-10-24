@@ -9,9 +9,11 @@
 <body>
     <h1><\/h1>
 <ol>
-<li>]^REDIRECT<vblex><pres>$[<a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>&lt;]^!<sent>$^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$^.<sent>$[][&gt;<\/li>
+<li>]^REDIRECT<vblex><pres>$[<a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>]{{^*pp$^-<guio>$^*semi$^-<guio>$^protect<vblex><pp>$|^small<adj><sint>$=^yes<adv>$}}^.<sent>$[][<\/li>
 <\/ol>
-<p><a href='Category:Kosovo'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<p>  
+&lt;]^!<sent>$^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$[&gt;
+<a href='Category:Kosovo'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='Category:2008 establishments'>]^Category<n><sg>$^:<sent>$^2008<num>$ ^establishment<n><pl>$^.<sent>$[][<\/a><\/p>
 <p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Other<det><ind><sp>$ ^language<n><pl>$^-<guio>$^-<guio>$[&gt;
 <a href='bs:Republika Kosovo'>]^*bs$^:<sent>$^*Republika$ ^Kosovo<np><loc><sg>$[<\/a>

@@ -9,9 +9,11 @@
 <body>
     <h1><\/h1>
 <ol>
-<li>]^REDIRECT/REDIRECT<vblex><inf>/REDIRECT<vblex><pres>$[<a href='Kosovo'>]^Kosovo/Kosovo<np><loc><sg>$[<\/a>&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^Categories/Category<n><pl>$^-/-<guio>$^-/-<guio>$^./.<sent>$[][&gt;<\/li>
+<li>]^REDIRECT/REDIRECT<vblex><inf>/REDIRECT<vblex><pres>$[<a href='Kosovo'>]^Kosovo/Kosovo<np><loc><sg>$[<\/a>]{{^pp/*pp$^-/-<guio>$^semi/*semi$^-/-<guio>$^protected/protect<vblex><past>/protect<vblex><pp>$|^small/small<adj><sint>$=^yes/yes<adv>$}}^./.<sent>$[][<\/li>
 <\/ol>
-<p><a href='Category:Kosovo'>]^Category/Category<n><sg>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
+<p>  
+&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^Categories/Category<n><pl>$^-/-<guio>$^-/-<guio>$[&gt;
+<a href='Category:Kosovo'>]^Category/Category<n><sg>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='Category:2008 establishments'>]^Category/Category<n><sg>$^:/:<sent>$^2008/2008<num>$ ^establishments/establishment<n><pl>$^./.<sent>$[][<\/a><\/p>
 <p>&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^Other/Other<det><ind><sp>$ ^languages/language<n><pl>$^-/-<guio>$^-/-<guio>$[&gt;
 <a href='bs:Republika Kosovo'>]^bs/*bs$^:/:<sent>$^Republika/*Republika$ ^Kosovo/Kosovo<np><loc><sg>$[<\/a>

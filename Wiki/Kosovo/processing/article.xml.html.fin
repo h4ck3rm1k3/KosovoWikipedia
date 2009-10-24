@@ -10,11 +10,13 @@
 <body>
     <h1><\/h1>
 <ol>
-<li>]^REDIRECT<vblex><pres>$[<a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>&lt;]^!$
-^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$^.$
-[][&gt;<\/li>
+<li>]^REDIRECT<vblex><pres>$[<a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>]{{^*pp$^-<guio>$^*semi$^-<guio>$^protect<vblex><pp>$|^small<adj><sint>$=^yes<adv>$}}^.$
+[][<\/li>
 <\/ol>
-<p><a href='Category:Kosovo'>]^Category<n><sg>$^:$
+<p>  
+&lt;]^!$
+^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$[&gt;
+<a href='Category:Kosovo'>]^Category<n><sg>$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='Category:2008 establishments'>]^Category<n><sg>$^:$
 ^2008<num>$ ^establishment<n><pl>$^.$
