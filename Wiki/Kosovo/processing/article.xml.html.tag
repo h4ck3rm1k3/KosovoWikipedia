@@ -186,6 +186,7 @@
 <li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government Kosovo-Metohija site'>]^25<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^26<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.axisglobe.com\/article.asp?article=689 Southern Serbia: The second Kosovo?'>]^27<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/serbo.blogspot.com Kosovo News blog'>]^28<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
