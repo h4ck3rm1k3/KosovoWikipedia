@@ -310,8 +310,8 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^19<num>$[<\/a> ]"^,<cm>$[ 
 <p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$[&gt;
 <a href='Category:Kosovo| '>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|[ <\/a>
 <a href='Category:Proposed countries'>]^Category<n><sg>$^:<sent>$^Propose<vblex><pp>$ ^country<n><pl>$^.<sent>$[][<\/a><\/p>
-<p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Other<det><ind><sp>$ ^language<n><pl>$^-<guio>$^-<guio>$[&gt;
-<a href='als:Kosova'>]^*als$^:<sent>$^*Kosova$[<\/a>
+<p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Other<det><ind><sp>$ ^language<n><pl>$^-<guio>$^-<guio>$^.<sent>$[][&gt;<\/p>
+<p><a href='als:Kosova'>]^*als$^:<sent>$^*Kosova$[<\/a>
 <a href='ar:ÙÙØµÙÙ'>]^*ar$^:<sent>$^*Ù$^*Ù$Øµ^*Ù$^*Ù$[<\/a>
 <a href='frp:Kosovo'>]^*frp$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ast:Kosovo'>]^*ast$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
@@ -328,6 +328,7 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^19<num>$[<\/a> ]"^,<cm>$[ 
 <a href='es:Kosovo'>]^*es$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='eo:Kosovo'>]^*eo$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='fr:Kosovo'>]^*fr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='gl:Kosovo'>]^*gl$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ko:ì½ìë³´'>]^*ko$^:<sent>$^*ì$½^*ì$^*ë$³´[<\/a>
 <a href='hsb:Kosovo'>]^*hsb$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='hr:Kosovo'>]^*hr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
