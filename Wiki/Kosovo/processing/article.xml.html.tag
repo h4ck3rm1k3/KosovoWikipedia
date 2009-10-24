@@ -307,10 +307,10 @@
 <li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^51<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='http:\/\/www.kc.gov.yu\/D-ENGLISH\/index-eng.html English'>]^52<num>$[<\/a>]^,<cm>$[ <a href='http:\/\/www.kc.gov.yu\/A-CIRILICA\/index-cir.html Serbian'>]^53<num>$[<\/a> ]^and<cnjcoo>$[ <a href='http:\/\/www.kc.gov.yu\/C-ALBANSKI\/index-alb.html Albanian'>]^54<num>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovo.net\/ Kosovo-The Land of the Living past'>]^55<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.savekosovo.org American Council for Kosovo'>]^56<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^promote<vblex><ger>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^American<adj>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^and<cnjcoo>$ ^of<pr>$ ^the<det><def><sp>$ ^critical<adj>$ ^American<adj>$ ^stake<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*provinceâ$^*s$ ^future<n><sg>$^.<sent>$^.<sent>$[][<\/li>
+<li> 
+<a href='http:\/\/kosovonosevende.wordpress.com\/ Kosovo No Se Vende.'>]^57<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
-<p> 
-<br\/>
-]{{^Template<n><sg>$ ^group<n><sg>$[
+<p>]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<vblex><pres>$ = ^Geographic<adj>$ ^*locale$[
 ]|^list<n><sg>$[  ]=[
 
