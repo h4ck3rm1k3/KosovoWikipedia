@@ -214,16 +214,16 @@
 ]^Image<n><sg>$^:<sent>$^*Pec$ ^001<num>$^.<sent>$^*jpg$|^*Serbian$ ^*monastery$ ^in<pr>$[ <a href='PeÄ'>]^*PeÄ$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Prizren$ ^004<num>$^.<sent>$^*JPG$|^*Serbian$ ^*monastery$ ^in<pr>$[ <a href='Prizren'>]^*Prizren$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^*Polje$ ^*sized$^.<sent>$^*jpg$|[<a href='Kosovo Polje'>]^Kosovo<np><loc><sg>$ ^*Polje$[<\/a>]^.<sent>$[
-]^Image<n><sg>$^:<sent>$^*Bd$ ^shopping<n><sg>$^.<sent>$^*JPG$|"[<a href='Bregu i Diellit'>]^*Bregu$ ^*i$ ^*Diellit$[<\/a>]" ^shopping<n><sg>$ ^*mall$ ^in<pr>$[ <a href='Pristina'>]^*Pristina$[<\/a>
-]^Image<n><sg>$^:<sent>$^*Banesat$ ^*e$ ^*bardha$^.<sent>$^*JPG$|[<a href='Bregu i Diellit'>]^*Bregu$ ^*i$ ^*Diellit$[<\/a> ]^2<num>$ ^in<pr>$[ <a href='Pristina'>]^*Pristina$[<\/a>
+]^Image<n><sg>$^:<sent>$^*Bd$ ^shopping<n><sg>$^.<sent>$^*JPG$|"[<a href='Bregu i Diellit'>]^*Bregu$ ^*i$ ^*Diellit$[<\/a>]" ^shopping<n><sg>$ ^*mall$ ^in<pr>$[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
+]^Image<n><sg>$^:<sent>$^*Banesat$ ^*e$ ^*bardha$^.<sent>$^*JPG$|[<a href='Bregu i Diellit'>]^*Bregu$ ^*i$ ^*Diellit$[<\/a> ]^2<num>$ ^in<pr>$[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Nenatereze$^1<num>$^.<sent>$^*jpg$|^Mother<n><sg>$ ^*Tereza$ ^*boulevard$[
-]^Image<n><sg>$^:<sent>$^*Grand$ ^Hotel<n><sg>$^.<sent>$^*jpg$|^the<det><def><sp>$ ^*Grand$ ^Hotel<n><sg>$ ^in<pr>$[ <a href='Pristina'>]^*Pristina$[<\/a>
-]^Image<n><sg>$^:<sent>$^*Prishtinabynight$^.<sent>$^*jpg$|^The<det><def><sp>$ ^Capital<adj>$[ <a href='Pristina|Prishtina'>]^*Pristina$|^*Prishtina$[<\/a> ]^by<pr>$ ^night<n><sg>$[
-]^Image<n><sg>$^:<sent>$^*Xh$^.<sent>$ ^*e$ ^*madhe$^.<sent>$^*jpg$|"^*Xhamia$ ^*e$ ^*madhe$" ^in<pr>$ ^*Prishtina$[
+]^Image<n><sg>$^:<sent>$^*Grand$ ^Hotel<n><sg>$^.<sent>$^*jpg$|^the<det><def><sp>$ ^*Grand$ ^Hotel<n><sg>$ ^in<pr>$[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
+]^Image<n><sg>$^:<sent>$^*Prishtinabynight$^.<sent>$^*jpg$|^The<det><def><sp>$ ^Capital<adj>$[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^by<pr>$ ^night<n><sg>$[
+]^Image<n><sg>$^:<sent>$^*Xh$^.<sent>$ ^*e$ ^*madhe$^.<sent>$^*jpg$|"^*Xhamia$ ^*e$ ^*madhe$" ^in<pr>$ ^*Pri$Å^¡<lquest>$^*tina$[
 ]^Image<n><sg>$^:<sent>$^*Mehmet$ ^*hamam$^.<sent>$^*jpg$|"^*Mehmet$ ^*Pasha$" ^*Hamam$ ^in<pr>$[ <a href='Prizren'>]^*Prizren$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Bridgeoverdrin$^.<sent>$^*jpg$|^A<det><ind><sg>$ ^bridge<n><sg>$ ^over<pr>$ ^the<det><def><sp>$ ^river<n><sg>$ ^*Drini$ ^in<pr>$[ <a href='Prizren'>]^*Prizren$[<\/a>
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^museum<n><sg>$^.<sent>$^*jpg$|^The<det><def><sp>$ ^Museum<n><sg>$ ^of<pr>$[ <a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>
-]^Image<n><sg>$^:<sent>$^*BoroRamizi$^.<sent>$^*jpg$|"^*Pallati$ ^*i$ ^*Rinis$Ã«" ^in<pr>$[ <a href='Pristina'>]^*Pristina$[<\/a>
+]^Image<n><sg>$^:<sent>$^*BoroRamizi$^.<sent>$^*jpg$|"^*Pallati$ ^*i$ ^*Rinis$Ã«" ^in<pr>$[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
 &lt;]\/^gallery<n><sg>$[&gt;&lt;]\/^centre<n><sg>$^.<sent>$[][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><p>&lt;]^*div$ ^style<n><sg>$="^-<guio>$^*moz$^-<guio>$^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^4<num>$^;<sent>$ ^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^4<num>$^;<sent>$"^.<sent>$[][&gt;<\/p>
 <ul>
