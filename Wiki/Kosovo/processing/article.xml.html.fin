@@ -890,9 +890,9 @@
 [][<\/p>
 <a name="Demographics"><\/a><h2>]^*Demographics$^.$
 [][<\/h2><p>]{{^main<adj>$|^*Demographics$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
-<a href='Image:Kosovoethnicmap.jpg|thumb|Multi ethnic map of Kosovo'>]^Image<n><sg>$^:$
+<a href='Image:Kosovoethnicmap.jpg|thumb|Multi ethnic map of Kosovo|{{deletable image-caption|1=Tuesday, 24 June 2008}}'>]^Image<n><sg>$^:$
 ^*Kosovoethnicmap$^.$
-^*jpg$|^thumb<n><sg>$|^*Multi$ ^ethnic<adj>$ ^map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
+^*jpg$|^thumb<n><sg>$|^*Multi$ ^ethnic<adj>$ ^map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|{{^*deletable$ ^image<n><sg>$^-<guio>$^*caption$|^1<num>$=^Tuesday<n><sg>$^,<cm>$ ^24<num>$ ^June<n><sg>$ ^2008<num>$}}[<\/a>
 <a href='Image:ChildrensDayInKosovo2.JPG|thumb|Girls celebrate Children's Day'>]^Image<n><sg>$^:$
 ^*ChildrensDayInKosovo$^2<num>$^.$
 ^*JPG$|^thumb<n><sg>$|^Girl<n><pl>$ ^celebrate<vblex><inf>$ ^Child<n><pl>$^'s<gen>$ ^Day<n><sg>$[<\/a>
