@@ -23,10 +23,10 @@
 ]|[ <a href='Capital'>]^Capital<adj>$[<\/a>
 ]|[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]\/[<a href='PrishtinÃ«'>]^*Prishtin$Ã«[<\/a>
 ]|^-<guio>$[
-]|[ <a href='President of Kosovo'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
+]|[ <a href='President of Kosovo|Transitional President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^*Transitional$ ^President<n><sg>$[<\/a>
 ]|[ <a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>
 ]|^-<guio>$[
-]|[ <a href='Prime Minister of Kosovo'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
+]|[ <a href='Prime Minister of Kosovo|Transitional Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^*Transitional$ ^Prime<adj>$ ^Minister<n><sg>$[<\/a>
 ]|[ <a href='Agim Ãeku'>]^*Agim$ Ã^*eku$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Area'>]^Area<n><sg>$[<\/a>&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[&amp;]^*ndash$^;<sent>$ ^Total<n><sg>$[&lt;]^*br$\/[&gt;&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[&amp;]^*ndash$^;<sent>$ % ^water<n><sg>$[
