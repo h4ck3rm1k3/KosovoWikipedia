@@ -64,6 +64,8 @@
 <li><a href='http:\/\/www.b92.net\/english\/news\/index.php?order=priority&amp;nav_category=19 News from B92 Belgrade'>]^9<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.serbia.sr.gov.yu\/news\/kosovo News from the Serbian Government'>]^10<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.kosovo.com\/default4.html News from the Serbian Orthodox Church'>]^11<num>$^.<sent>$[][<\/a><\/li>
+<li> 
+<a href='http:\/\/www.serbia.sr.gov.yu\/coordination_centre\/index.html Serb Kosovo Coordination Center'>]^12<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <\/body>
 <\/html>
