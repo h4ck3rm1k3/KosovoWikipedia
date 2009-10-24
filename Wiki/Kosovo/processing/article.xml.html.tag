@@ -113,16 +113,16 @@
 ]{{^see<vblex><pres>$ ^also<adv>$|^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^divide<vblex><pp>$ ^into<pr>$ ^seven<num><sp>$ ^district<n><pl>$^:<sent>$^.<sent>$[][<\/p>
 <ul>
-<li><a href='PriÅ¡tina District|PriÅ¡tina\/Prishtina District'>]^*Pri$Å^¡<lquest>$^*tina$ ^District<n><sg>$|^*Pri$Å^¡<lquest>$^*tina$\/^*Prishtina$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Prizren District|Prizren\/Prizreni District'>]^*Prizren$ ^District<n><sg>$|^*Prizren$\/^*Prizreni$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='PeÄ District|PeÄ\/Peja District'>]^*PeÄ$ ^District<n><sg>$|^*PeÄ$\/^*Peja$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='UroÅ¡evac District|UroÅ¡evac\/Ferizaji District'>]^*Uro$Å^¡<lquest>$^*evac$ ^District<n><sg>$|^*Uro$Å^¡<lquest>$^*evac$\/^*Ferizaji$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Äakovica  District|Äakovica\/Gjakova District'>]^*Ä$^*akovica$[  ]^District<n><sg>$|^*Ä$^*akovica$\/^*Gjakova$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Kosovska Mitrovica District|Kosovska Mitrovica\/Mitrovica District'>]^*Kosovska$ ^*Mitrovica$ ^District<n><sg>$|^*Kosovska$ ^*Mitrovica$\/^*Mitrovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Gnjilane District|Gnjilane\/Gjilani District'>]^*Gnjilane$ ^District<n><sg>$|^*Gnjilane$\/^*Gjilani$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='PriÅ¡tina District|Prishtina District'>]^*Pri$Å^¡<lquest>$^*tina$ ^District<n><sg>$|^*Prishtina$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Prizren District|Prizreni District'>]^*Prizren$ ^District<n><sg>$|^*Prizreni$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='PeÄ District|Peja District'>]^*PeÄ$ ^District<n><sg>$|^*Peja$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='UroÅ¡evac District|Ferizaji District'>]^*Uro$Å^¡<lquest>$^*evac$ ^District<n><sg>$|^*Ferizaji$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Äakovica  District|Gjakova District'>]^*Ä$^*akovica$[  ]^District<n><sg>$|^*Gjakova$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Kosovska Mitrovica District|Mitrovica District'>]^*Kosovska$ ^*Mitrovica$ ^District<n><sg>$|^*Mitrovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Gnjilane District|Gjilani District'>]^*Gnjilane$ ^District<n><sg>$|^*Gjilani$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
-<a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$[<\/a> ]^maintain<vblex><pri><p3><sg>$ ^its<det><pos><sp>$ ^own<adj>$ ^government<n><sg>$^,<cm>$ ^infrastructure<n><sg>$ ^and<cnjcoo>$ ^institution<n><pl>$ ^by<pr>$ ^its<det><pos><sp>$ ^dominant<adj>$ ^ethnic<adj>$[ <a href='Serb'>]^*Serb$[<\/a> ]^population<n><sg>$ ^in<pr>$[ <a href='Mitrovica District'>]^the<det><def><sp>$ ^*Mitrovica$ ^District<n><sg>$[<\/a>]^,<cm>$ ^*viz$^.<sent>$ ^in<pr>$[ <a href='Leposavic'>]^the<det><def><sp>$ ^*Leposavic$[<\/a>]^,<cm>$[ <a href='Zvecan'>]^*Zvecan$[<\/a> ]^and<cnjcoo>$[ <a href='Zubin Potok'>]^*Zubin$ ^*Potok$[<\/a> ]^municipality<n><pl>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^northern<adj>$ ^part<n><sg>$ ^of<pr>$[ <a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a>]^.<sent>$^.<sent>$[][<\/p>
+<a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$[<\/a> ]^maintain<vblex><pri><p3><sg>$ ^its<det><pos><sp>$ ^own<adj>$ ^government<n><sg>$^,<cm>$ ^infrastructure<n><sg>$ ^and<cnjcoo>$ ^institution<n><pl>$ ^by<pr>$ ^its<det><pos><sp>$ ^dominant<adj>$ ^ethnic<adj>$[ <a href='Serb'>]^*Serb$[<\/a> ]^population<n><sg>$ ^in<pr>$[ <a href='Mitrovica District'>]^the<det><def><sp>$ ^*Mitrovica$ ^District<n><sg>$[<\/a>]^,<cm>$ ^*viz$^.<sent>$ ^in<pr>$[ <a href='Leposavic'>]^the<det><def><sp>$ ^*Leposavic$[<\/a>]^,<cm>$[ <a href='Zvecan'>]^*Zvecan$[<\/a> ]^and<cnjcoo>$[ <a href='Zubin Potok'>]^*Zubin$ ^*Potok$[<\/a> ]^municipality<n><pl>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^northern<adj>$ ^part<n><sg>$ ^of<pr>$[ <a href='Mitrovica'>]^*Mitrovica$[<\/a>]^.<sent>$^.<sent>$[][<\/p>
 <a name="Cities"><\/a><h2>]^City<n><pl>$^.<sent>$[][<\/h2><p><a href='Image:Prishtina maj 2005.jpg|thumb|200px|\[\[PriÅ¡tina'>]^Image<n><sg>$^:<sent>$^*Prishtina$ ^*maj$ ^2005<num>$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^\[<lpar>$^\[<lpar>$^*Pri$Å^¡<lquest>$^*tina$[<\/a>]\/[<a href='Prishtina'>]^*Prishtina$[<\/a>]^.<sent>$^\]<rpar>$^\]<rpar>$^.<sent>$[][<\/p>
 <p>]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^for<pr>$ ^2006<num>$^)<rpar>$^:<sent>$[&lt;]^*ref$[&gt;]^*http$^:<sent>$\/\/^www.world-gazetteer.com<num>$\/^*wg$^.<sent>$^*php$^?<sent>$^*x$=[&amp;]^man<n><pl>$=^*gcis$[&amp;]^*lng$=^*en$[&amp;]^*dat$=^32<num>$[&amp;]^*srt$=^*npan$[&amp;]^*col$=^*aohdq$[&amp;]^*geo$=^-<guio>$^244<num>$[&lt;]\/^*ref$^.<sent>$[][&gt;<\/p>
 <ul>
