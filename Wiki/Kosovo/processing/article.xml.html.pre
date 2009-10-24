@@ -241,8 +241,10 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^19<num>$[<\/a> ]"^,<cm>$[ 
 <li><a href='Unrest in Kosovo|Unrest in Kosovo during March 2004'>]^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^during<pr>$ ^March<n><sg>$ ^2004<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='Metohija'>]^*Metohija$^.<sent>$[][<\/a><\/li>
 <li><a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Flag of Kosovo'>]^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
-<p>]}}^.<sent>$[][<\/p>
+<p><br\/>
+]}}^.<sent>$[][<\/p>
 <a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><p>&lt;]^*div$ ^class<n><sg>$="^reference<n><pl>$^-<guio>$^small<adj><sint>$"[&gt;&lt;]^reference<n><pl>$\/[&gt;&lt;]\/^*div$[&gt;&lt;]^!<sent>$^-<guio>$^-<guio>$^Please<vblex><inf>$ ^keep<vblex><inf>$ ^as<preadv>$ ^single<adj>$ ^column<n><sg>$ ^as<pr>$ ^long<adj><sint>$ ^*URLs$ ^*otherwise$ ^cause<n><sg>$ ^display<n><sg>$ ^problem<n><pl>$ ^on<pr>$ ^small<adj><sint><comp>$ ^window<n><pl>$\/^screen<n><pl>$^;<sent>$ ^*thanks$^.<sent>$^-<guio>$^-<guio>$^.<sent>$[][&gt;<\/p>
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <ul>
