@@ -212,7 +212,7 @@
 <p><br\/>
 <\/p>
 <a name="Pro-Albanian"><\/a><h3>]^*Pro$^-<guio>$^Albanian<n><sg>$^.<sent>$[][<\/h3><ul>
-<li><a href='http:\/\/www.kosovapress.com\/?krye=home&amp;lang=en Agjenci e pavarur e lajmeve'>]^29<num>$[<\/a> ]^Albanian<adj>$ ^and<cnjcoo>$ ^English<adj>$ ^version<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovapress.com\/?krye=home&amp;lang=en Kosova Press - Agjenci e pavarur e lajmeve'>]^29<num>$[<\/a> ]^Albanian<adj>$ ^and<cnjcoo>$ ^English<adj>$ ^version<n><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.assembly-kosova.org\/ Kosovo Assembly (Kuvendi i KosovÃ«s)'>]^30<num>$[<\/a> ]^English<adj>$ ^version<n><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/visitkosova.org\/english\/ The Official Webportal of Tourism in Kosovo'>]^31<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.ks-gov.net\/pm\/?menuid=&amp;subid=&amp;lingo=2 The office of Prime Minister of Kosovo'>]^32<num>$[<\/a> ]^English<adj>$ ^version<n><sg>$^.<sent>$[][<\/li>
