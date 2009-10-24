@@ -8,56 +8,8 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>&lt;]^!<sent>$^-<guio>$^-<guio>$ ^*te$ ^*dhena$ ^per<pr>$ ^*kutizen$ ^-<guio>$^-<guio>$[&gt;
-]{{^*Kutiza$ ^*shteteve$|[
-]^*emri$_^*zyrtar$Ã«[                   ]= ^*Kosova$[ <a href='UNMIK'>]^*UNMIK$[<\/a> ]^Kosovo<np><loc><sg>$[&lt;]^*br$[&gt;<a href='OKB'>]^*OKB$[<\/a> <a href='Protektorat'>]^*Protektorat$[<\/a>]|[
-]^common<adj>$[                         ]= ^*Kosova$ |[
-]^*Flamuri$[                        ]= ^*Figura$^:<sent>$^-<guio>$|[
-]^*Emblema$[                        ]= ^*Figura$^:<sent>$^-<guio>$|[
-]^*Vendndodhja$[                    ]= ^*Figura$^:<sent>$^-<guio>$|^.<sent>$[][<\/p>
-<p>]^*motoja$[                         ]= ^*Rreth$ ^*Flamurit$ ^*t$Ã« ^*p$Ã«^*rbashkuar$|[
-]^*gjuh$Ã«_^*zyrtare$[                  ]= ^*shqipja$^,<cm>$ ^*serbishtja$^,<cm>$ ^*turqishtja$ |[
-]^*kryeqytet$Ã«[                     ]= ^*Prishtina$|[ 
-]^*kordinantat$_^*e$_^*kryeqytetit$[      ]= ^-<guio>$ |[
-]^*Qyteti$_^*m$Ã«_^*i$_^*madh$Ã«[              ]= ^*Prishtina$|^.<sent>$[][<\/p>
-<p>]^*sistemi$_^*qeveritar$Ã«[             ]= ^*Republik$[&lt;]^*sup$[&gt;]^1<num>$[&lt;]\/^*sup$[&gt;]|[
-]^*emri$_^*i$_^*funksionit$_^*udh$Ã«^*heq$Ã«^*s$[    ]= ^President<n><sg>$|[
-]^*emri$_^*i$_^*funksionarit$_^*tani$[       ]=[ <a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>]|[
-]^*kryesia$_^*e$_^*qeverisjes$[           ]= ^*Kryeminister$ |[
-]^*kryetarqeverie$_^*tani$[            ]=[ <a href='Bajram Kosumi'>]^*Bajram$ ^*Kosumi$[<\/a> ]|^.<sent>$[][<\/p>
-<p>]^*siperfaqja$_^*nr$[                  ]= ^-<guio>$|[
-]^*siperfaqja$_^*km$[                  ]= ^10,887<num>$|[
-]^*siperfaqja$_^*ujore$[               ]= ^-<guio>$|^.<sent>$[][<\/p>
-<p>]^*etnia$_^1<num>$ = | ^*etnia$_^1<num>$_^*nr$ = |[
-]^*etnia$_^2<num>$ = | ^*etnia$_^2<num>$_^*nr$ = |[
-]^*etnia$_^3<num>$ = | ^*etnia$_^3<num>$_^*nr$ = |^.<sent>$[][<\/p>
-<p>]^*popullsia$_^*nr$[                   ]= ^-<guio>$ |[
-]^*banor$Ã«[                         ]= ^2<num>$ ^100<num>$ ^000<num>$[ &lt;]^small<adj><sint>$[&gt;]^(<lpar>$[<a href='2004'>]^2004<num>$[<\/a>]^)<rpar>$[&lt;]\/^small<adj><sint>$[&gt;]|[
-]^*dend$Ã«^*sia$[                       ]= ^175<num>$ |^.<sent>$[][<\/p>
-<p>]^*BPV$_^*nr$[                         ]= ^*x$|[
-]^*BPVp$Ã«^*rbanor$Ã«_^*nr$[                ]= ^*x$|[
-]^*BVP$[                            ]= ^*xx$ \$|[
-]^*BVP$_^*p$Ã«^*rbanor$Ã«[                  ]= ^*xx$ \$|^.<sent>$[][<\/p>
-<p>]^*monedha$[                        ]= ^Euro<n><sg>$|[
-]^*kodi$_^*monetar$[                   ]= ^-<guio>$ |[
-]^*zonakohore$[                     ]= + ^1<num>$^:<sent>$^00<num>$^,<cm>$ ^*veres$ + ^2<num>$^:<sent>$^00<num>$ |^.<sent>$[][<\/p>
-<p>]^*nga$_^*X$[                          ]= ^*nga$ ^*Jugosllavia$|[
-]^*dita$_^*e$_^*shpalljes$Ã«[              ]=[ <a href='10 Qershor'>]^10<num>$ ^*Qershor$[<\/a> <a href='1999'>]^1999<num>$[<\/a>&lt;]^*sup$[&gt;]^2<num>$[&lt;]^*sup$[&gt; ]|[
-]^*pervjetori$_^*i$_^*pav$[               ]=[ <a href='28 NÃ«ntor'>]^28<num>$ ^*N$Ã«^*ntori$[<\/a> &lt;]^*sup$[&gt;]^3<num>$[&lt;]\/^*sup$[&gt; ]|[
-]^*pranimi$_^*n$Ã«_^*OKB$[                 ]=[ <a href='10 Qershor'>]^10<num>$ ^*Qershor$[<\/a> <a href='1999'>]^1999<num>$[<\/a> ]|^.<sent>$[][<\/p>
-<p>               
-]^*hymni$_^*nacional$[                 ]= ^*Himni$ ^*Komb$Ã«^*tar$ ^*Shqiptar$Ã« |[  
-]^*kodi$_^*tld$[                       ]= ^-<guio>$ |[
-]^*kodi$_^*telefonik$Ã«[                ]= ^00381<num>$|[
-]^*Sh$Ã«^*nim$[                         ]=[ &lt;]^*sup$[&gt;]^1<num>$[&lt;]\/^*sup$[&gt; ]^*si$ ^*rezulltat$ ^*i$ ^*Rezulutes$ ^1244<num>$ ^*shkohet$ ^*ne$ ^*ndertimin$ ^*e$ ^*sistemit$ ^*Republik$ ^*Parlamentar$[&lt;]^*br$[&gt;&lt;]^*sup$[&gt;]^2<num>$[&lt;]\/^*sup$[&gt;]^*pas$ ^*nd$Ã«^*rhyrjes$ ^*nd$Ã«^*rkomb$Ã«^*tare$ ^*Kosova$ ^*administrohet$ ^*nga$ ^*UNMIK$^-<guio>$^*u$ ^*por$ ^*qeveriset$ ^*deri$ ^*n$Ã« ^*nj$Ã« ^*mas$Ã« ^*nga$ ^*IPVQ$^-<guio>$^*t$Ã«^,<cm>$ ^*dhe$ ^*Kombet$ ^*e$ ^*Bashkuara$ ^*tash$ ^*i$ ^*kan$Ã« ^*inicuar$ ^*bisedimet$ ^*p$Ã«^*r$ ^*Statusin$ ^*p$Ã«^*rfundimtar$ ^*t$Ã« ^*Kosov$Ã«^*s$^.<sent>$|[
-]}}^.<sent>$[][<\/p>
-<p>&lt;]^!<sent>$^-<guio>$^-<guio>$ ^*Permbajtja$ ^*e$ ^*tekstit$ ^*te$ ^*fletes$ ^-<guio>$^-<guio>$^.<sent>$[][&gt;<\/p>
-<p><strong><em>]^*Para$ ^*se$ ^*te$ ^*redaktoni$ ^*shikoni$ ^*ju$ ^*lutem$[ <a href='Projekti i shteteve|Projektin e shteteve'>]^*Projekti$ ^*i$ ^*shteteve$|^*Projektin$ ^*e$ ^*shteteve$^.<sent>$[][<\/a><\/strong><\/em><\/p>
-<p>]^-<guio>$^-<guio>$^-<guio>$^-<guio>$^.<sent>$[][<\/p>
-<p><br\/>
-<em>]^*P$Ã«^*rshkrim$ ^*i$ ^*p$Ã«^*rgjithsh$Ã«^*m$ ^*i$ ^*protektoriatit$^.<sent>$^.<sent>$[][<\/em><\/p>
-<p><br\/>
-]^*Kosova$^,<cm>$[ <a href='rajoni|rajon'>]^*rajoni$|^*rajon$[<\/a> ]^*n$Ã« ^*Jug$^-<guio>$^Per<pr>$Ã«^*ndim$ ^*t$Ã«[ <a href='Ballkani'>]^*Ballkanit$[<\/a>]^,<cm>$ ^*kufizohet$ ^*n$Ã« ^*Veri$ ^prpers<prn><obj><p1><mf><sg>$[ <a href='Unionin Serbi Mali i Zi'>]^*Unionin$ ^*Serbi$ ^*Mali$ ^*i$ ^*Zi$[<\/a>]^,<cm>$ ^*n$Ã« ^*Jug$ ^prpers<prn><obj><p1><mf><sg>$[ <a href='Ish-RepublikÃ«n Jugosllave tÃ« MaqedonisÃ«'>]^*Ish$^-<guio>$^*Republik$Ã«^*n$ ^*Jugosllave$ ^*t$Ã« ^*Maqedonis$Ã«[<\/a> ]^*dhe$ ^*n$Ã« ^*P$Ã«^*rendim$ ^prpers<prn><obj><p1><mf><sg>$ ^*Republik$Ã«^*n$ ^*e$[ <a href='ShqipÃ«ri'>]^*Shqip$Ã«^*ris$[<\/a>]Ã«^,<cm>$ ^*ishte$ ^*nj$Ã« ^*krahin$Ã« ^*e$ ^*Republik$Ã«^*s$ ^*s$Ã« ^*Serbis$Ã« ^prpers<prn><obj><p1><mf><sg>$ ^*okupim$ ^(<lpar>$[<a href='1946'>]^1946<num>$[<\/a>]^-<guio>$[<a href='1968'>]^1968<num>$[<\/a>]^)<rpar>$^,<cm>$ ^*pastaj$ ^*nj$Ã« ^*krahin$Ã« ^*autonome$ ^*Republik$Ã«^*s$ ^*Federale$ ^*t$Ã« ^*Jugosllavis$Ã« ^(<lpar>$[<a href='1968'>]^1968<num>$[<\/a>]^-<guio>$[<a href='1989'>]^1989<num>$[<\/a>]^)<rpar>$^,<cm>$ ^*krahin$Ã« ^*e$ ^*okupuar$ ^*e$ ^*Republik$Ã«^*s$ ^*s$Ã« ^*Serbis$Ã« ^(<lpar>$[<a href='1989'>]^1989<num>$[<\/a>]^-<guio>$[<a href='1999'>]^1999<num>$[<\/a>]^)<rpar>$ ^*tani$ ^*e$ ^*vendosur$ ^*n$Ã«^*n$ ^*administrim$ ^*t$Ã« ^*Kombeve$ ^*t$Ã« ^*Bashkuara$ ^*gjegj$Ã«^*sisht$ ^*prej$ ^*Misionit$ ^*t$Ã« ^*Kombeve$ ^*t$Ã« ^*Bashkuara$ ^*n$Ã« ^*Kosov$Ã« ^(<lpar>$[<a href='UNMIK'>]^*UNMIK$[<\/a>]^)<rpar>$ ^*prej$ ^*qershorit$[ <a href='1999'>]^1999<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/p>
+<p><em>]^*P$Ã«^*rshkrim$ ^*i$ ^*p$Ã«^*rgjithsh$Ã«^*m$ ^*i$ ^*protektoriatit$^.<sent>$^.<sent>$[][<\/em><\/p>
+<p>]^*Kosova$^,<cm>$[ <a href='rajoni|rajon'>]^*rajoni$|^*rajon$[<\/a> ]^*n$Ã« ^*Jug$^-<guio>$^Per<pr>$Ã«^*ndim$ ^*t$Ã«[ <a href='Ballkani'>]^*Ballkanit$[<\/a>]^,<cm>$ ^*kufizohet$ ^*n$Ã« ^*Veri$ ^prpers<prn><obj><p1><mf><sg>$[ <a href='Unionin Serbi Mali i Zi'>]^*Unionin$ ^*Serbi$ ^*Mali$ ^*i$ ^*Zi$[<\/a>]^,<cm>$ ^*n$Ã« ^*Jug$ ^prpers<prn><obj><p1><mf><sg>$[ <a href='Ish-RepublikÃ«n Jugosllave tÃ« MaqedonisÃ«'>]^*Ish$^-<guio>$^*Republik$Ã«^*n$ ^*Jugosllave$ ^*t$Ã« ^*Maqedonis$Ã«[<\/a> ]^*dhe$ ^*n$Ã« ^*P$Ã«^*rendim$ ^prpers<prn><obj><p1><mf><sg>$ ^*Republik$Ã«^*n$ ^*e$[ <a href='ShqipÃ«ri'>]^*Shqip$Ã«^*ris$[<\/a>]Ã«^,<cm>$ ^*ishte$ ^*nj$Ã« ^*krahin$Ã« ^*e$ ^*Republik$Ã«^*s$ ^*s$Ã« ^*Serbis$Ã« ^prpers<prn><obj><p1><mf><sg>$ ^*okupim$ ^(<lpar>$[<a href='1946'>]^1946<num>$[<\/a>]^-<guio>$[<a href='1968'>]^1968<num>$[<\/a>]^)<rpar>$^,<cm>$ ^*pastaj$ ^*nj$Ã« ^*krahin$Ã« ^*autonome$ ^*Republik$Ã«^*s$ ^*Federale$ ^*t$Ã« ^*Jugosllavis$Ã« ^(<lpar>$[<a href='1968'>]^1968<num>$[<\/a>]^-<guio>$[<a href='1989'>]^1989<num>$[<\/a>]^)<rpar>$^,<cm>$ ^*krahin$Ã« ^*e$ ^*okupuar$ ^*e$ ^*Republik$Ã«^*s$ ^*s$Ã« ^*Serbis$Ã« ^(<lpar>$[<a href='1989'>]^1989<num>$[<\/a>]^-<guio>$[<a href='1999'>]^1999<num>$[<\/a>]^)<rpar>$ ^*tani$ ^*e$ ^*vendosur$ ^*n$Ã«^*n$ ^*administrim$ ^*t$Ã« ^*Kombeve$ ^*t$Ã« ^*Bashkuara$ ^*gjegj$Ã«^*sisht$ ^*prej$ ^*Misionit$ ^*t$Ã« ^*Kombeve$ ^*t$Ã« ^*Bashkuara$ ^*n$Ã« ^*Kosov$Ã« ^(<lpar>$[<a href='UNMIK'>]^*UNMIK$[<\/a>]^)<rpar>$ ^*prej$ ^*qershorit$[ <a href='1999'>]^1999<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/p>
 <p>]^*Kosova$ Ã«^*sht$Ã« ^*e$ ^*krijuar$ ^*n$Ã«^*p$Ã«^*r$ ^*fush$Ã« ^*malore$ ^*t$Ã« ^*Fush$Ã«^*s$ ^*s$Ã« ^*Kosov$Ã«^*s$^,<cm>$ ^*dhe$ ^*nga$ ^*grupe$ ^*malesh$ ^*molare$ ^*q$Ã« ^*e$ ^*rrethojn$Ã« ^:<sent>$ ^*rrethimi$[ <a href='BjeshkÃ«t e nemura'>]^*Bjeshk$Ã«^*t$ ^*e$ ^*nemura$[<\/a> ]^*dhe$ ^*t$Ã« ^*maleve$ ^*t$Ã«[ <a href='Sharri'>]^*Sharrit$[<\/a>]^,<cm>$ ^*q$Ã« ^*lart$Ã«^*sohen$ ^*deri$ ^*n$Ã« ^2<num>$ ^640<num>$[ <a href='metra|m'>]^*metra$|^*m$[<\/a>]^.<sent>$ ^*Shumica$ ^*e$ ^*partis$Ã« ^*s$Ã« ^*krahin$Ã«^*s$ Ã«^*sht$Ã« ^*e$ ^*vendosur$ ^*nga$ ^*m$Ã« ^*shum$Ã« ^*se$ ^500<num>$ ^*m$ ^*altitud$Ã«^;<sent>$ ^*ajo$ Ã«^*sht$Ã« ^*t$Ã«^*rthore$ ^*nga$ ^4<num>$ ^*lumenj$Ã«^:<sent>$[ <a href='Lumi Llapi|Llapi'>]^*Lumi$ ^*Llapi$|^*Llapi$[<\/a>]^,<cm>$[ <a href='Lumi Ibri|Ibri'>]^*Lumi$ ^*Ibri$|^*Ibri$[<\/a>]^,<cm>$[ <a href='Drini i bardhe'>]^*Drini$ ^*i$ ^*bardhe$[<\/a> ]^*dhe$[ <a href='Drini i zi'>]^*Drini$ ^*i$ ^*zi$[<\/a>]^.<sent>$ ^Prpers<prn><obj><p1><mf><sg>$ ^*gjith$Ã« ^*pasurin$Ã« ^*e$ ^*saj$ ^*n$Ã« ^*minerale$ ^(<lpar>$^*shtres$Ã« ^*e$ ^*r$Ã«^*nd$Ã«^*sishme$ ^prpers<prn><obj><p1><mf><sg>$[ <a href='plumb'>]^plumb<vblex><pres>$[<\/a>]^,<cm>$[ <a href='zink'>]^*zink$[<\/a>]^,<cm>$[ <a href='linjit'>]^*linjit$[<\/a>]^,<cm>$[ <a href='nikel'>]^*nikel$[<\/a> ]^*dhe$[ <a href='magnezit'>]^*magnezit$[<\/a>]^)<rpar>$^,<cm>$ ^*n$Ã« ^*nj$Ã« ^*koh$Ã« ^*t$Ã« ^*gjat$Ã« ^*Kosova$ ^*ishte$ ^*nj$Ã« ^*nd$Ã«^*r$ ^*rajonet$ ^*m$Ã« ^*t$Ã« ^*varf$Ã«^*ra$ ^*t$Ã« ^*Evrop$Ã«^*s$ ^.<sent>$^.<sent>$[][<\/p>
 <p> 
 ]^*Prodhimet$ ^*kryesore$[ <a href='bujqÃ«sore'>]^*bujq$Ã«^sore<n><sg>$[<\/a> ]^*jan$Ã«[ <a href='misri'>]^*misri$[<\/a>]^,<cm>$[ <a href='gruri'>]^*gruri$[<\/a> ]^*dhe$[ <a href='elbi'>]^*elbi$[<\/a>]^,<cm>$[ <a href='patatet'>]^*patatet$[<\/a>]^,<cm>$[ <a href='kumbulla'>]^*kumbullat$[<\/a> ]^*dhe$[ <a href='duhani'>]^*duhani$[<\/a> ]^;<sent>$[ <a href='druri'>]^*druri$[<\/a> ]Ã«^*sht$Ã« ^*prodhim$ ^prpers<prn><obj><p1><mf><sg>$ ^*shumic$Ã«^.<sent>$ ^*Sh$Ã«^*nojm$Ã« ^*gjithashtu$ ^*pranin$Ã« ^*e$[ <a href='hortikultura|hortikulturÃ«s'>]^*hortikultura$|^*hortikultur$Ã«^*s$[<\/a> ]^*dhe$ ^*t$Ã«[ <a href='vitikultura|vitikultures'>]^*vitikultura$|^*vitikultures$[<\/a>]^.<sent>$[ <a href='Blegtoria'>]^*Blegtoria$[<\/a> ]^*e$[ <a href='kau'>]^*kaut$[<\/a> ]^*dhe$[ <a href='ovini'>]^*ovinit$[<\/a> ]Ã«^*sht$Ã« ^*aktivitet$ ^*madh$Ã«^*shtor$ ^*n$Ã« ^*bjeshk$Ã«^*t$ ^*e$ ^*Kosov$Ã«^*s$^.<sent>$^.<sent>$[][<\/p>
