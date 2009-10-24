@@ -157,7 +157,8 @@
 <p><a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
 <a href='Category:Kosovo| '>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|[ <\/a>
 <a href='Category:United Nations'>]^Category<n><sg>$^:<sent>$^Unite<vblex><pp>$ ^Nation<n><pl>$^.<sent>$[][<\/a><\/p>
-<p><a href='ast:Kosovo'>]^*ast$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<p><a href='ar:ÙÙØ³ÙÙÙ'>]^*ar$^:<sent>$^*Ù$^*Ù$Ø³^*Ù$^*Ù$^*Ù$[<\/a>
+<a href='ast:Kosovo'>]^*ast$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='bg:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*bg$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='bs:Kosovo'>]^*bs$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ca:Kosovo'>]^*ca$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
@@ -167,11 +168,11 @@
 <a href='es:Kosovo'>]^*es$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='eo:Kosovo'>]^*eo$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='fr:Kosovo'>]^*fr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='he:×§××¡×××'>]^prpers<prn><subj><p3><m><sg>$^:<sent>$×§××^¡<lquest>$×××[<\/a>
-<a href='hr:Kosovo i Metohija'>]^*hr$^:<sent>$^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/a> 
 <a href='ko:ì½ìë³´'>]^*ko$^:<sent>$^*ì$½^*ì$^*ë$³´[<\/a>
+<a href='hr:Kosovo'>]^*hr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='id:Kosovo'>]^*id$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='it:Kosovo'>]^prpers<prn><obj><p3><nt><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='he:×§××¡××× ×××××××'>]^prpers<prn><subj><p3><m><sg>$^:<sent>$×§××^¡<lquest>$××× ×××××××[<\/a>
 <a href='lt:Kosovas'>]^*lt$^:<sent>$^*Kosovas$[<\/a>
 <a href='mk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*mk$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='nl:Kosovo'>]^*nl$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
