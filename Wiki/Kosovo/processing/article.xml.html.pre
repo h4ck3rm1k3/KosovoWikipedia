@@ -318,7 +318,7 @@
 <a href='ko:ì½ìë³´'>]^*ko$^:<sent>$^*ì$½^*ì$^*ë$³´[<\/a>
 <a href='hr:Kosovo'>]^*hr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='id:Kosovo'>]^*id$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='it:Kosovo'>]^prpers<prn><obj><p3><nt><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='it:Kosovo'>]^prpers<prn><obj><p3><nt><sg>$^:<sent>$^*Kosovoby$[<\/a> ]^*adnan$[
 <a href='he:×§××¡××× ×××××××'>]^prpers<prn><subj><p3><m><sg>$^:<sent>$×§××^¡<lquest>$××× ×××××××[<\/a>
 <a href='lt:Kosovas'>]^*lt$^:<sent>$^*Kosovas$[<\/a>
 <a href='hu:KoszovÃ³'>]^*hu$^:<sent>$^*Koszov$Ã³[<\/a>
