@@ -117,7 +117,6 @@
 [][<\/p>
 <a name="History"><\/a><h2>]^History<n><sg>$^.$
 [][<\/h2><p>]{{^main<adj>$|^History<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
-]{{^merge<vblex><pres>$|^History<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^date<n><sg>$=^February<n><sg>$ ^2008<num>$}}[
 ]{{^*Refimprove$|^section<n><sg>$|^date<n><sg>$=^February<n><sg>$ ^2008<num>$}}^.$
 [][
 <\/p>
@@ -180,9 +179,10 @@
 <a name="Modern_era"><\/a><h3>]^Modern<adj>$ ^era<n><sg>$^.$
 [][<\/h3><p>]{{^main<adj>$|^History<n><sg>$ ^of<pr>$ ^modern<adj>$ ^Kosovo<np><loc><sg>$}}[
 ]{{^*seealso$|^Kosovo<np><loc><sg>$ ^Province<n><sg>$^,<cm>$ ^*Ottoman$ ^Empire<n><sg>$}}[
-<a href='Image:Kosovo02.png|right|thumb|256px|Kosova Province in the Ottoman Empire 1875â1878'>]^Image<n><sg>$^:$
+]{{^*mergeto$|^History<n><sg>$ ^of<pr>$ ^modern<adj>$ ^Kosovo<np><loc><sg>$|^date<n><sg>$=^February<n><sg>$ ^2008<num>$}}[
+<a href='Image:Kosovo02.png|right|thumb|256px|Kosovo Province in the Ottoman Empire 1875â1878'>]^Image<n><sg>$^:$
 ^Kosovo<np><loc><sg>$^02<num>$^.$
-^*png$|^right<adj>$|^thumb<n><sg>$|^256<num>$^*px$|^*Kosova$ ^Province<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*Ottoman$ ^Empire<n><sg>$ ^1875<num>$^*â$^1878<num>$[<\/a>
+^*png$|^right<adj>$|^thumb<n><sg>$|^256<num>$^*px$|^Kosovo<np><loc><sg>$ ^Province<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*Ottoman$ ^Empire<n><sg>$ ^1875<num>$^*â$^1878<num>$[<\/a>
 <a href='Image:Balkan Wars Boundaries.jpg|thumb|230px|right|Boundaries on the Balkans after the First and the \[\[Second Balkan War'>]^Image<n><sg>$^:$
 ^Balkan<adj>$ ^War<n><pl>$ ^Boundary<n><pl>$^.$
 ^*jpg$|^thumb<n><sg>$|^230<num>$^*px$|^right<adj>$|^Boundary<n><pl>$ ^on<pr>$ ^the<det><def><sp>$ ^*Balkans$ ^after<pr>$ ^the<det><def><sp>$ ^First<det><ord><sp>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^\[<lpar>$^\[<lpar>$^Second<det><ord><sp>$ ^Balkan<adj>$ ^War<n><sg>$[<\/a>]^\]<rpar>$^\]<rpar>$^.$
