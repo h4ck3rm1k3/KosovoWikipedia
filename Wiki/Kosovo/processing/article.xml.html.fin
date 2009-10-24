@@ -99,6 +99,16 @@
 ]|^population<n><sg>$_^density<n><sg>$_^*km$^2<num>$[   ]= ^220<num>$[
 ]|^population<n><sg>$_^density<n><sg>$_^*sq$_^*mi$ = ^500<num>$[
 ]|^population<n><sg>$_^density<n><sg>$_^rank<n><sg>$[  ]= ^55<num>$[
+]| ^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^year<n><sg>$[             ]= ^2007<num>$[
+]| ^GDP<n><acr><sg>$_^PPP<n><acr><sg>$[                  ]= \$^4<num>$ ^*billion$ ^(<lpar>$^World<adj>$ ^Bank<n><sg>$^)<rpar>$[
+]| ^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^rank<n><sg>$[             ]=[ 
+]| ^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^per<pr>$_^*capita$[       ]= \$^1,900<num>$ \$[
+]| ^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^per<pr>$_^*capita$_^rank<n><sg>$[  ]=[ 
+]| ^GDP<n><acr><sg>$_^*Nominal$_^year<n><sg>$[         ]= ^2007<num>$[
+]| ^GDP<n><acr><sg>$_^*Nominal$[              ]=[ 
+]| ^GDP<n><acr><sg>$_^*Nominal$_^rank<n><sg>$[         ]=[ 
+]| ^GDP<n><acr><sg>$_^*Nominal$_^per<pr>$_^*capita$[   ]=[ 
+]| ^GDP<n><acr><sg>$_^*Nominal$_^per<pr>$_^*capita$_^rank<n><sg>$[  ]=[ 
 ]|^currency<n><sg>$[                 ]=[ <a href='Euro'>]^Euro<n><sg>$[<\/a> ]^(<lpar>$^*â$¬^)<rpar>$[
 ]|^currency<n><sg>$_^code<n><sg>$[            ]= ^*EUR$[
 ]|^time<n><sg>$_^zone<vblex><pres>$[                ]=[ <a href='Central European Time|CET'>]^Central<adj>$ ^European<adj>$ ^Time<n><sg>$|^CET<n><acr><sg>$[<\/a>
