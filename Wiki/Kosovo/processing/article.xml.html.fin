@@ -471,7 +471,8 @@
 [&lt;]^*ref$[&gt;<a href='http:\/\/www.kushtetutakosoves.info\/?cid=2,1 Constitution of Kosovo - Official Website'>]^22<num>$[<\/a>&lt;]\/^*ref$^.$
 [][&gt;<\/p>
 <a name="Foreign_relations"><\/a><h4>]^Foreign<adj>$ ^relation<n><pl>$^.$
-[][<\/h4><p><a href='Image:CountriesRecognizingKosovo.png|thumb|260px| {{legend|#007f00|States which formally recognise Kosovo as an independent state }}'>]^Image<n><sg>$^:$
+[][<\/h4><p>]{{^main<adj>$|^Foreign<adj>$ ^relation<n><pl>$ ^of<pr>$ ^the<det><def><sp>$ ^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
+<a href='Image:CountriesRecognizingKosovo.png|thumb|260px| {{legend|#007f00|States which formally recognise Kosovo as an independent state }}'>]^Image<n><sg>$^:$
 ^*CountriesRecognizingKosovo$^.$
 ^*png$|^thumb<n><sg>$|^260<num>$^*px$| {{^legend<n><sg>$|#^007<num>$^*f$^00<num>$|^State<n><pl>$ ^which<rel><an><mf><sp>$ ^formally<adv>$ ^*recognise$ ^Kosovo<np><loc><sg>$ ^as<cnjadv>$ ^a<det><ind><sg>$ ^independent<adj>$ ^state<n><sg>$ }}^.$
 [][<\/a><\/p>
