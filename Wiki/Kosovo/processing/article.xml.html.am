@@ -135,8 +135,9 @@
 <li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^24/24<num>$^./.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
-]{{^Serbia/*Serbia$ ^and/and<cnjcoo>$ ^Montenegro/Montenegro<np><loc><sg>$}}^./.<sent>$[][<\/p>
-<p><a href='Category:Disputed territories'>]^Category/Category<n><sg>$^:/:<sent>$^Disputed/*Disputed$ ^territories/territory<n><pl>$[<\/a>
+]{{^Serbia/*Serbia$ ^and/and<cnjcoo>$ ^Montenegro/Montenegro<np><loc><sg>$}}[ 
+]{{^Serbia/*Serbia$ ^and/and<cnjcoo>$ ^Montenegro/Montenegro<np><loc><sg>$}}[ 
+<a href='Category:Disputed territories'>]^Category/Category<n><sg>$^:/:<sent>$^Disputed/*Disputed$ ^territories/territory<n><pl>$[<\/a>
 <a href='Category:Kosovo| '>]^Category/Category<n><sg>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$|[ <\/a>
 <a href='Category:United Nations'>]^Category/Category<n><sg>$^:/:<sent>$^United/Unite<vblex><past>/Unite<vblex><pp>$ ^Nations/Nation<n><pl>$^./.<sent>$[][<\/a><\/p>
 <p><a href='ar:ÙÙØµÙØ©'>]^ar/*ar$^:/:<sent>$^Ù/*Ù$^Ù/*Ù$Øµ^Ù/*Ù$Ø©[<\/a>
