@@ -602,9 +602,9 @@
 [&lt;]^*ref$[&gt;<a href='http:\/\/news.bbc.co.uk\/2\/hi\/europe\/6386467.stm BBC NEWS Europe | Q&amp;A: Kosovo's future&lt;!-- Bot generated title --&gt;'>]^23<num>$[<\/a>&lt;]\/^*ref$^.$
 [][&gt;<\/p>
 <a name="2008_declaration_of_independence"><\/a><h4>]^2008<num>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$^.$
-[][<\/h4><p><a href='image:CountriesRecognizingKosovo.svg|thumb|right|States (green) that have recognised Kosovo.'>]^image<n><sg>$^:$
+[][<\/h4><p><a href='image:CountriesRecognizingKosovo.svg|thumb|right|States (green) that recognise Kosovo as an independent country.'>]^image<n><sg>$^:$
 ^*CountriesRecognizingKosovo$^.$
-^*svg$|^thumb<n><sg>$|^right<adj>$|^State<n><pl>$ ^(<lpar>$^green<n><sg>$^)<rpar>$ ^that<rel><an><mf><sp>$ ^have<vbhaver><inf>$ ^*recognised$ ^Kosovo<np><loc><sg>$^.$
+^*svg$|^thumb<n><sg>$|^right<adj>$|^State<n><pl>$ ^(<lpar>$^green<n><sg>$^)<rpar>$ ^that<cnjsub>$ ^*recognise$ ^Kosovo<np><loc><sg>$ ^as<cnjadv>$ ^a<det><ind><sg>$ ^independent<adj>$ ^country<n><sg>$^.$
 [<\/a>
 <a href='image:Newborn Obelisk.JPG|left|thumb|160px|The "NEWBORN" obelisk unveiled at the celebration of the 2008 Kosovo declaration of independence proclaimed earlier that day, 17 February 2008, \[\[Pristina'>]^image<n><sg>$^:$
 ^Newborn<n><sg>$ ^Obelisk<n><sg>$^.$
