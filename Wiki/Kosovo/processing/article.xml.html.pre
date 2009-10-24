@@ -35,7 +35,7 @@
 ]|[ &lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$^2.1<num>$ ^million<num><sp>$ ^(<lpar>$^*est$^.<sent>$^)<rpar>$[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$^220<num>$\/^*kmÂ$² ^(<lpar>$^*approx$^)<rpar>$[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$^570<num>$\/^*sq$^.<sent>$[&amp;]^*nbsp$^;<sent>$^*mi$[
 ]|^-<guio>$[
 ]| ^*valign$=^top<adj>$ |[ <a href='List of ethnic groups|Ethnic groups'>]^List<n><sg>$ ^of<pr>$ ^ethnic<adj>$ ^group<n><pl>$|^Ethnic<adj>$ ^group<n><pl>$[<\/a>&lt;]^*br$\/[&gt;]^(<lpar>$[<a href='2003'>]^2003<num>$[<\/a>]^)<rpar>$[
-]|[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>]^:<sent>$ ^88%<num><percent>$[&lt;]^*br$\/[&gt;<a href='Serbs'>]^*Serbs$[<\/a>]^:<sent>$ ^5%<num><percent>$[&lt;]^*br$\/[&gt;&lt;]^*br$[&gt;<a href='Montenegrins'>]^*Montenegrins$[<\/a>]^:<sent>$ ^2%<num><percent>$[ &lt;]^*br$[&gt;]^Others<prn><tn><mf><pl>$^:<sent>$ ^5%<num><percent>$[
+]|[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>]^:<sent>$ ^88%<num><percent>$[&lt;]^*br$\/[&gt;<a href='Serbs'>]^*Serbs$[<\/a>]^:<sent>$ ^5%<num><percent>$[&lt;]^*br$\/[&gt;<a href='Montenegrins'>]^*Montenegrins$[<\/a>]^:<sent>$ ^2%<num><percent>$[ &lt;]^*br$[&gt;]^Others<prn><tn><mf><pl>$^:<sent>$ ^5%<num><percent>$[
 ]|^-<guio>$[
 ]|[ <a href='Time zone'>]^Time<n><sg>$ ^zone<n><sg>$[<\/a>
 ]|[ <a href='Coordinated Universal Time|UTC'>]^Coordinate<vblex><pp>$ ^Universal<adj>$ ^Time<n><sg>$|^*UTC$[<\/a> ]+^1<num>$[
