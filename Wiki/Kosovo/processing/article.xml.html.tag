@@ -14,7 +14,7 @@
 &lt;]^*u$[&gt;]^'<apos>$^'<apos>$^'<apos>$[
 ]^Prior<adj>$ ^to<pr>$ ^a<det><ind><sg>$ ^change<n><sg>$ ^(<lpar>$^other<det><ind><sp>$ ^than<cnjcoo>$ ^minor<n><sg>$ ^edit<vblex><pri><p3><sg>$^)<rpar>$^,<cm>$ ^discussion<n><sg>$ ^NEED<n><pl>$ ^to<pr>$ ^take<vblex><inf># place$^.<sent>$ ^PRIOR<adj>$ ^TO<pr>$ ^not<adv>$ ^afterwards<adv>$^.<sent>$ ^Please<vblex><inf>$ ^address<vblex><inf>$ ^such<det><ind><sp>$ ^*controversial$ ^edit<vblex><pri><p3><sg>$ ^within<pr>$ ^the<det><def><sp>$ ^Talk<n><sg>$ ^Page<n><sg>$ ^first<adv>$^.<sent>$^'<apos>$^'<apos>$^'<apos>$[&lt;]\/^*u$[&gt;
 ]^-<guio>$^-<guio>$[&gt;
-]{{^redirect<vblex><inf>$^6<num>$|^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^the<det><def><sp>$ ^former<adj>$ ^entity<n><sg>$|^Republic<n><sg>$ ^of<pr>$ ^*Kosova$ ^(<lpar>$^1990<num>$^*â$^2000<num>$^)<rpar>$||^Kosovo<np><loc><sg>$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
+]{{^redirect<vblex><inf>$^6<num>$|^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^the<det><def><sp>$ ^former<adj>$ ^entity<n><sg>$|^Republic<n><sg>$ ^of<pr>$ ^*Kosova$||^Kosovo<np><loc><sg>$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
 ]{{^*Infobox$ ^Country<n><sg>$[
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$ = ^Kosovo<np><loc><sg>$[
 ]|^image<n><sg>$_^map<n><sg>$ = ^Kosovo<np><loc><sg>$^-<guio>$^map<n><sg>$^.<sent>$^*gif$[
