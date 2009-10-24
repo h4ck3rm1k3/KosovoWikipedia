@@ -85,7 +85,7 @@
 <li> 
 ]^7%<num><percent>$ ^*Serbs$ ^(<lpar>$^137,900<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
-]^1.9%<num><percent>$ ^Muslim<n><sg>$ ^*Slavs$ ^(<lpar>$^37,400<num>$^)<rpar>$^.<sent>$[][<\/li>
+]^1.9%<num><percent>$ ^*Bosniaks$ ^(<lpar>$^37,400<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
 ]^1.7%<num><percent>$ ^*Roma$ ^(<lpar>$^33,500<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
@@ -150,6 +150,7 @@
 <a href='Category:United Nations'>]^Category<n><sg>$^:<sent>$^Unite<vblex><pp>$ ^Nation<n><pl>$^.<sent>$[][<\/a><\/p>
 <p><a href='ast:Kosovo'>]^*ast$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='bg:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*bg$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
+<a href='bs:Kosovo'>]^*bs$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ca:Kosovo'>]^*ca$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='cs:Kosovo'>]^*cs$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='de:Kosovo'>]^*de$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
