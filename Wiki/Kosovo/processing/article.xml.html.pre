@@ -327,8 +327,8 @@
 ]}}^.<sent>$[][<\/p>
 <p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$[&gt;
 <a href='Category:Kosovo'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/p>
-<p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Other<det><ind><sp>$ ^language<n><pl>$^-<guio>$^-<guio>$[&gt;
-<a href='als:Kosovo'>]^*als$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Other<det><ind><sp>$ ^language<n><pl>$^-<guio>$^-<guio>$^.<sent>$[][&gt;<\/p>
+<p><a href='als:Kosovo'>]^*als$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ar:ÙÙØµÙÙ'>]^*ar$^:<sent>$^*Ù$^*Ù$Øµ^*Ù$^*Ù$[<\/a>
 <a href='roa-rup:Cosova'>]^*roa$^-<guio>$^*rup$^:<sent>$^*Cosova$[<\/a>
 <a href='frp:Kosovo'>]^*frp$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
@@ -336,7 +336,7 @@
 <a href='zh-min-nan:Kosovo'>]^*zh$^-<guio>$^*min$^-<guio>$^*nan$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='bs:Kosovo'>]^*bs$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='br:Kosovo'>]^*br$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='bg:ÐÐ¾ÑÐ¾Ð²Ð¾ (Ð¾Ð±Ð»Ð°ÑÑ)'>]^*bg$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ ^(<lpar>$Ð¾Ð±Ð»Ð°^*Ñ$^*Ñ$^)<rpar>$[<\/a>
+<a href='bg:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*bg$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='ca:Kosovo'>]^*ca$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='cs:Kosovo'>]^*cs$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='cy:Kosovo'>]^*cy$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
