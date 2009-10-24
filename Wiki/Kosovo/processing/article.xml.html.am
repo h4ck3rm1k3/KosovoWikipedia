@@ -274,15 +274,15 @@
 <p><br\/>
 ]{{^Geographic/Geographic<adj>$ ^Location/Location<n><sg>$ ^(/(<lpar>$^8/8<num>$^-/-<guio>$^way/way<n><sg>$^)/)<rpar>$^./.<sent>$[][<\/p>
 
-<pre>]| ^Northwest/Northwest<adv>/Northwest<n><sg>$ = {{^flag/flag<n><sg>$|^Serbia/*Serbia$}}[
-]| ^North/North<adv>/North<adj><sint>/North<n><sg>$ = {{^flag/flag<n><sg>$|^Serbia/*Serbia$}}[
-]| ^Northeast/Northeast<adv>/Northeast<n><sg>$ = {{^flag/flag<n><sg>$|^Serbia/*Serbia$}}[
-]| ^West/West<adj>/West<adv>/West<n><sg>$ = {{^flag/flag<n><sg>$|^Montenegro/Montenegro<np><loc><sg>$}}[
-]| ^Centre/Centre<n><sg>/Centre<vblex><inf>/Centre<vblex><pres>$ = {{^flagicon/*flagicon$|^Kosovo/Kosovo<np><loc><sg>$}}[ <a href='Outline of Kosovo|Kosovo'>]^Outline/Outline<n><sg>/Outline<vblex><inf>/Outline<vblex><pres>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$|^Kosovo/Kosovo<np><loc><sg>$[<\/a>
-]| ^East/East<adj>/East<n><sg>$ = {{^flag/flag<n><sg>$|^Serbia/*Serbia$}}[
-]| ^Southwest/Southwest<adv>/Southwest<n><sg>$ = {{^flag/flag<n><sg>$|^Albania/*Albania$}}[
-]| ^South/South<adv>/South<adj><sint>/South<n><sg>$ = {{^flag/flag<n><sg>$|^Macedonia/Macedonia<np><ant><f><sg>$}}[
-]| ^Southeast/Southeast<adv>$ = {{^flag/flag<n><sg>$|^Serbia/*Serbia$}}^./.<sent>$[][
+<pre>]| ^Northwest/Northwest<adv>/Northwest<n><sg>$ =[ <a href='Central Serbia'>]^Central/Central<adj>$ ^Serbia/*Serbia$[<\/a>
+]| ^North/North<adv>/North<adj><sint>/North<n><sg>$ =[ <a href='Central Serbia'>]^Central/Central<adj>$ ^Serbia/*Serbia$[<\/a>
+]| ^Northeast/Northeast<adv>/Northeast<n><sg>$ = {[<a href='Central Serbia'>]^Central/Central<adj>$ ^Serbia/*Serbia$[<\/a>
+]| ^West/West<adj>/West<adv>/West<n><sg>$ =[ <a href='Montenegro'>]^Montenegro/Montenegro<np><loc><sg>$[<\/a>
+]| ^Centre/Centre<n><sg>/Centre<vblex><inf>/Centre<vblex><pres>$ =[ <a href='Outline of Kosovo|Kosovo'>]^Outline/Outline<n><sg>/Outline<vblex><inf>/Outline<vblex><pres>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$|^Kosovo/Kosovo<np><loc><sg>$[<\/a>
+]| ^East/East<adj>/East<n><sg>$ =[ <a href='Central Serbia'>]^Central/Central<adj>$ ^Serbia/*Serbia$[<\/a>
+]| ^Southwest/Southwest<adv>/Southwest<n><sg>$ =[ <a href='Albania'>]^Albania/*Albania$[<\/a>
+]| ^South/South<adv>/South<adj><sint>/South<n><sg>$ =[ <a href='Republic of Macedonia'>]^Republic/Republic<n><sg>$ ^of/of<pr>$ ^Macedonia/Macedonia<np><ant><f><sg>$[<\/a>
+]| ^Southeast/Southeast<adv>$ =[ <a href='Central Serbia'>]^Central/Central<adj>$ ^Serbia/*Serbia$^./.<sent>$[][<\/a>
 <\/pre><p>]}}^./.<sent>$[][<\/p>
 <p>]{{^Kosovo/Kosovo<np><loc><sg>$ ^topics/topic<n><pl>$}}[
 ]{{^Template/Template<n><sg>$ ^group/group<n><sg>$[
