@@ -12,6 +12,7 @@
 ]^-<guio>$^-<guio>$[&gt;
 
 
+]{{^redirect<vblex><inf>$|^Republic<n><sg>$ ^of<pr>$ ^*Kosova$||^Republic<n><sg>$ ^of<pr>$ ^*Kosova$ ^(<lpar>$^1990<num>$^*â$^2000<num>$^)<rpar>$}}[
 ]{{^current<n><sg>$ ^relate<vblex><pp>$|^article<n><sg>$|^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$|^date<n><sg>$=^February<n><sg>$ ^2008<num>$}}[
 
 ]{{^*Infobox$ ^Country<n><sg>$[
