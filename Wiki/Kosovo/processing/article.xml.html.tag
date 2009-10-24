@@ -281,7 +281,12 @@
 ]|^title<n><sg>$ =[ &lt;]^!<sent>$^-<guio>$^-<guio>$[  <a href='Image:Crystal Clear app browser.png|23px'>]^Image<n><sg>$^:<sent>$^Crystal<np><ant><f><sg>$ ^Clear<adj><sint>$ ^*app$ ^browser<n><sg>$^.<sent>$^*png$|^23<num>$^*px$[<\/a> ]^-<guio>$^-<guio>$[&gt; ]^Geographic<adj>$ ^international<adj>$[
 ]|^list<n><sg>$[  ]=[
 ]{{^Country<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$}}[
-]{{^Non<adv>$^-<guio>$^sovereign<adj>$ ^territory<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$}}[
+]{{^Non<adv>$^-<guio>$^sovereign<adj>$ ^territory<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$ |^expand<vblex><past>$=^*Unrecognized$}}[
+]}}[
+]{{^Template<n><sg>$ ^group<n><sg>$[
+]|^title<vblex><pres>$ = ^International<adj>$ ^organization<n><pl>$[
+]|^list<vblex><pres>$[  ]=[
+]{{^European<adj>$ ^Union<n><sg>$ ^candidate<n><pl>$}}[
 ]{{^Central<adj>$ ^European<adj>$ ^Free<adj><sint>$ ^Trade<n><sg>$ ^Agreement<n><sg>$ ^(<lpar>$^*CEFTA$^)<rpar>$}}[
 ]}}^.<sent>$[][<\/p>
 <p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$[&gt;
