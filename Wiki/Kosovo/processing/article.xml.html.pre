@@ -366,7 +366,6 @@
 <a href='nov:Kosovo'>]^*nov$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='oc:Kosova'>]^*oc$^:<sent>$^*Kosova$[<\/a>
 <a href='uz:Kosovo'>]^*uz$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='km:áááááá áá¼áá¼ááá¼'>]^*km$^:<sent>$^*á$^*á$^*á$^*á$^*á$^*á$ ^*á$^*á$¼^*á$^*á$¼^*á$^*á$^*á$¼[<\/a>
 <a href='pms:Kosovo'>]^*pms$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='nds:Kosovo'>]^*nds$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='pl:Kosowo'>]^*pl$^:<sent>$^*Kosowo$[<\/a>
@@ -376,8 +375,8 @@
 <a href='ro:Kosovo'>]^*ro$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='qu:Kusuwu'>]^*qu$^:<sent>$^*Kusuwu$[<\/a>
 <a href='ru:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*ru$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
-<a href='sq:Kosova'>]^*sq$^:<sent>$^*Kosova$[<\/a>
 <a href='sco:Kosovo'>]^*sco$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='sq:Kosova'>]^*sq$^:<sent>$^*Kosova$[<\/a>
 <a href='scn:KÃ²ssuvu'>]^*scn$^:<sent>$^*K$Ã²^*ssuvu$[<\/a>
 <a href='simple:Kosovo'>]^simple<adj><sint>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='sk:Kosovo'>]^*sk$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
