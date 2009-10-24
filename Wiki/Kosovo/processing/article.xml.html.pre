@@ -378,6 +378,7 @@
 <a href='li:Kosovo'>]^*li$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='hu:KoszovÃ³'>]^*hu$^:<sent>$^*Koszov$Ã³[<\/a>
 <a href='mk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*mk$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
+<a href='mr:à¤à¥à¤¸à¥à¤µà¥à¤¹à¥'>]^*mr$^:<sent>$^*à$¤^*à$¥^*à$¤¸^*à$¥^*à$¤µ^*à$¥^*à$¤¹^*à$¥[<\/a>
 <a href='mt:Kosovo'>]^*mt$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='arz:ÙÙØ³ÙÙÙ'>]^*arz$^:<sent>$^*Ù$^*Ù$Ø³^*Ù$^*Ù$^*Ù$[<\/a>
 <a href='ms:Kosovo'>]^*ms$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
