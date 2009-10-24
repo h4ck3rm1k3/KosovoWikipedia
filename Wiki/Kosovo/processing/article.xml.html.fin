@@ -9,7 +9,13 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>]{|[ 
+<p>]{| ^class<n><sg>$="^*infobox$ ^*bordered$" ^style<n><sg>$="^width<n><sg>$^:$
+ ^250<num>$^*px$^;$
+ ^*font$^-<guio>$^size<n><sg>$^:$
+ ^95%<num><percent>$^;$
+ ^*float$^:$
+ ^right<adj>$^;$
+" ^*cellpadding$="^4<num>$" ^*cellspacing$="^0<num>$"[
 ]|^-<guio>$[
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:$
  ^centre<n><sg>$^;$
