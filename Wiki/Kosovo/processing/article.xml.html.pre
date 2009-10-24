@@ -31,8 +31,8 @@
 ]|^ethnic<adj>$_^group<n><pl>$_^year<n><sg>$[       ]= ^2007<num>$[
 ]|^capital<n><sg>$[                  ]= {{^*nowrap$|[<a href='Pristina'>]^*Pristina$[<\/a>]}}[&lt;]^!<sent>$^-<guio>$^-<guio>$^.<sent>$[][<\/p>
 <p>]^PLEASE<vblex><inf>$ ^DO<vbdo><pres>$ ^NOT<adv>$ ^CHANGE<vblex><inf>$ ^THE<det><def><sp>$ ^CAPITAL<n><sg>$^'s<gen>$ ^NAME<n><sg>$^!<sent>$ ^Per<pr>$ ^*talkpage$^,<cm>$ ^prpers<prn><subj><p1><mf><pl>$ ^currently<adv>$ ^use<vblex><inf>$ ^*Pristina$^,<cm>$ ^not<adv>$ ^*Prishtina$ ^or<cnjcoo>$ ^*Pri$Å^¡<lquest>$^*tina$^.<sent>$^.<sent>$[][<\/p>
-<p>]^-<guio>$^-<guio>$[&gt;&lt;]^*br$ \/[&gt;&lt;]^small<adj><sint>$[&gt;]{{^*coor$ ^*dm$|^42<num>$|^40<num>$|^*N$|^21<num>$|^10<num>$|^*E$|}}[&lt;]\/^small<adj><sint>$[&gt;
-]|^*latd$= |^*latm$= |^*latNS$= |^*longd$= |^*longm$= |^*longEW$=[
+<p>]^-<guio>$^-<guio>$[&gt;
+]|^*latd$=^42<num>$ |^*latm$=^40<num>$ |^*latNS$=^*N$ |^*longd$=^21<num>$ |^*longm$=^10<num>$ |^*longEW$=^*E$[
 ]|^large<adj><sint><sup>$_^city<n><sg>$[             ]= ^capital<n><sg>$[
 ]|^*demonym$[                  ]= ^*Kosovar$[
 ]|^government<n><sg>$_^type<vblex><pres>$[          ]=[ <a href='Parliamentary system|Parliamentary'>]^Parliamentary<adj>$ ^system<n><sg>$|^Parliamentary<adj>$[<\/a>  <a href='republic'>]^republic<n><sg>$[<\/a>

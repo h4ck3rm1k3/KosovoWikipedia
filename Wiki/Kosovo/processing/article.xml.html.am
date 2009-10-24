@@ -31,8 +31,8 @@
 ]|^ethnic/ethnic<adj>$_^groups/group<n><pl>$_^year/year<n><sg>$[       ]= ^2007/2007<num>$[
 ]|^capital/capital<adj>/capital<n><sg>$[                  ]= {{^nowrap/*nowrap$|[<a href='Pristina'>]^Pristina/*Pristina$[<\/a>]}}[&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^./.<sent>$[][<\/p>
 <p>]^PLEASE/PLEASE<adv>/PLEASE<vblex><inf>/PLEASE<vblex><pres>$ ^DO/DO<vbdo><pres>/DO<vblex><inf>/DO<vblex><pres>/DO<n><acr><sg>$ ^NOT/NOT<adv>$ ^CHANGE/CHANGE<n><sg>/CHANGE<vblex><inf>/CHANGE<vblex><pres>$ ^THE/THE<det><def><sp>$ ^CAPITAL/CAPITAL<adj>/CAPITAL<n><sg>$^'S/'s<gen>$ ^NAME/NAME<n><sg>/NAME<vblex><inf>/NAME<vblex><pres>$^!/!<sent>$ ^Per/Per<pr>$ ^talkpage/*talkpage$^,/,<cm>$ ^we/prpers<prn><subj><p1><mf><pl>$ ^currently/currently<adv>$ ^use/use<n><sg>/use<vblex><inf>/use<vblex><pres>$ ^Pristina/*Pristina$^,/,<cm>$ ^not/not<adv>$ ^Prishtina/*Prishtina$ ^or/or<cnjcoo>$ ^Pri/*Pri$Å^¡/¡<lquest>$^tina/*tina$^./.<sent>$^./.<sent>$[][<\/p>
-<p>]^-/-<guio>$^-/-<guio>$[&gt;&lt;]^br/*br$ \/[&gt;&lt;]^small/small<adj><sint>$[&gt;]{{^coor/*coor$ ^dm/*dm$|^42/42<num>$|^40/40<num>$|^N/*N$|^21/21<num>$|^10/10<num>$|^E/*E$|}}[&lt;]\/^small/small<adj><sint>$[&gt;
-]|^latd/*latd$= |^latm/*latm$= |^latNS/*latNS$= |^longd/*longd$= |^longm/*longm$= |^longEW/*longEW$=[
+<p>]^-/-<guio>$^-/-<guio>$[&gt;
+]|^latd/*latd$=^42/42<num>$ |^latm/*latm$=^40/40<num>$ |^latNS/*latNS$=^N/*N$ |^longd/*longd$=^21/21<num>$ |^longm/*longm$=^10/10<num>$ |^longEW/*longEW$=^E/*E$[
 ]|^largest/large<adj><sint><sup>$_^city/city<n><sg>$[             ]= ^capital/capital<adj>/capital<n><sg>$[
 ]|^demonym/*demonym$[                  ]= ^Kosovar/*Kosovar$[
 ]|^government/government<n><sg>$_^type/type<n><sg>/type<vblex><inf>/type<vblex><pres>$[          ]=[ <a href='Parliamentary system|Parliamentary'>]^Parliamentary/Parliamentary<adj>$ ^system/system<n><sg>$|^Parliamentary/Parliamentary<adj>$[<\/a>  <a href='republic'>]^republic/republic<n><sg>$[<\/a>
