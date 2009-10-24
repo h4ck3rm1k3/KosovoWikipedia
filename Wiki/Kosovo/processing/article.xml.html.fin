@@ -651,19 +651,15 @@
 [][<\/h2><p>&lt;]^gallery<n><sg>$[&gt;
 ]^Image<n><sg>$^:$
 ^Kosovo<np><loc><sg>$_^government<n><sg>$^.$
-^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^in<pr>$ ^*Pri$Å^¡<lquest>$^*tina$^.$
+^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^in<pr>$ ^*Prishtina$^.$
 [
 ]^Image<n><sg>$^:$
 ^*Prizen$ ^*kosovo$^.$
 ^*jpg$|^*Prizren$^.$
 [
 ]^Image<n><sg>$^:$
-^*Erzengelkloster$^2<num>$^.$
-^*jpg$|[<a href='Serbs in Kosovo|Serb'>]^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^*Serb$[<\/a> ]^*monastery$^,<cm>$ ^*St$ ^*Archangel$^,<cm>$ ^near<adj><sint>$ ^river<n><sg>$[ <a href='Bistrica'>]^*Bistrica$[<\/a>]^.$
-[
-]^Image<n><sg>$^:$
 ^*Gjakova$^.$
-^*jpg$|[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]^.$
+^*jpg$|[<a href='Äakovica|GjakovÃ«'>]^*Ä$^*akovica$|^*Gjakov$Ã«[<\/a>]^.$
 [
 ]^Image<n><sg>$^:$
 ^*VeshjeKombetare$^.$
@@ -678,12 +674,12 @@
 ^*jpg$|^*Serbian$ ^*monastery$ ^in<pr>$[ <a href='PeÄ'>]^*PeÄ$[<\/a>]^.$
 [
 ]^Image<n><sg>$^:$
-^*Prizren$ ^004<num>$^.$
-^*JPG$|^*Serbian$ ^*monastery$ ^in<pr>$ ^*Prizren$^.$
+^Kosovo<np><loc><sg>$ ^*Polje$ ^*sized$^.$
+^*jpg$|[<a href='Kosovo Polje|FushÃ« KosovÃ«'>]^Kosovo<np><loc><sg>$ ^*Polje$|^*Fush$Ã« ^*Kosov$Ã«[<\/a>]^.$
 [
 ]^Image<n><sg>$^:$
-^Kosovo<np><loc><sg>$ ^*Polje$ ^*sized$^.$
-^*jpg$|[<a href='Kosovo Polje'>]^Kosovo<np><loc><sg>$ ^*Polje$[<\/a>]^.$
+^*Erzengelkloster$^2<num>$^.$
+^*jpg$|[<a href='Serbs in Kosovo|Serb'>]^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^*Serb$[<\/a> ]^*monastery$^,<cm>$ ^*St$ ^*Archangel$^,<cm>$ ^near<adj><sint>$ ^river<n><sg>$[ <a href='Bistrica'>]^*Bistrica$[<\/a>]^.$
 [
 &lt;]\/^gallery<n><sg>$^.$
 [][&gt;<\/p>
