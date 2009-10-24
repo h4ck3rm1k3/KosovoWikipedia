@@ -27,8 +27,11 @@
 <p><br\/>
 <\/p>
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><ul>
-<li><a href='http:\/\/www.serbia.sr.gov.yu\/news\/kosovo News from the Serbian Government'>]^2<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovapress.com KLA Kosovapress News Agency'>]^3<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?order=priority&amp;nav_category=19 B92 Kosovo News'>]^2<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.serbia.sr.gov.yu\/news\/kosovo News from the Serbian Government'>]^3<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovo.com\/default4.html Kosovo News'>]^4<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovapress.com KLA Kosovapress News Agency'>]^5<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^6<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <\/body>
 <\/html>
