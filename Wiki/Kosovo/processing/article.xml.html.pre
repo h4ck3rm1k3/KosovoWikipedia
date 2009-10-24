@@ -285,7 +285,8 @@
 <li><\/li>
 <\/ul>
 <p><br\/>
-]{{^Template<n><sg>$ ^group<n><sg>$[
+&lt;]^*br$ ^style<n><sg>$="^clear<adj><sint>$^:<sent>$^both<prn><tn><mf><pl>$" \/^.<sent>$[][&gt;<\/p>
+<p>]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<n><sg>$ =[ <a href='Image:Nuvola_filesystems_www.png|23px'>]^Image<n><sg>$^:<sent>$^*Nuvola$_^*filesystems$_^*www$^.<sent>$^*png$|^23<num>$^*px$[<\/a> ]^Geographic<adj>$ ^national<adj>$[
 ]|^list<n><sg>$[  ]=[
 

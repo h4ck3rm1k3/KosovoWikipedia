@@ -950,7 +950,10 @@ _^Centralize<vblex><pp>$_^Yugoslav<adj>$_^Control<n><sg>$|^1991<num>$[<\/a>]^,<c
 <li><\/li>
 <\/ul>
 <p><br\/>
-]{{^Template<n><sg>$ ^group<n><sg>$[
+&lt;]^*br$ ^style<n><sg>$="^clear<adj><sint>$^:$
+^both<prn><tn><mf><pl>$" \/^.$
+[][&gt;<\/p>
+<p>]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<n><sg>$ =[ <a href='Image:Nuvola_filesystems_www.png|23px'>]^Image<n><sg>$^:$
 ^*Nuvola$_^*filesystems$_^*www$^.$
 ^*png$|^23<num>$^*px$[<\/a> ]^Geographic<adj>$ ^national<adj>$[
