@@ -163,9 +163,11 @@
 <li><a href='http:\/\/www.deltax.net\/bissett\/a-tragicblunder.htm The tragic blunder in Kosovo'>]^32<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/news.bbc.co.uk\/1\/hi\/world\/europe\/3551571.stm  BBC: Admiral Gregory Johnson said almost 1,000 Serbs had been driven from their homes after attacks by ethnic Albanians'>]^33<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.news.com.au\/common\/story_page\/0%2C4057%2C9022408%255E1702%2C00.html Agence France-Presse: Some Serbs said they had been given 10 minutes to leave their homes or die'>]^34<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovo.com\/erpkiminfo_feb04\/erpkiminfo14feb04.html#2 Dagens Nyheter, Stokholm: A naive trust in a U.S. created myth about genocide'>]^35<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovo.com\/erpkiminfo_feb04\/erpkiminfo14feb04.html#4 Scandal on 15kg of drugs in Rugova's office cause of the Special war'>]^36<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
-<p><br\/>
-]{{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$}}^.<sent>$[][<\/p>
+<p><br\/><\/p>
+<p>]{{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$}}^.<sent>$[][<\/p>
 <p><a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
 <a href='Category:Kosovo|*'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|*[<\/a>
 <a href='Category:United Nations'>]^Category<n><sg>$^:<sent>$^Unite<vblex><pp>$ ^Nation<n><pl>$^.<sent>$[][<\/a><\/p>
