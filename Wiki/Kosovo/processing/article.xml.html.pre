@@ -19,7 +19,7 @@
 ]{{^*Infobox$ ^Country<n><sg>$[
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$ = ^Kosovo<np><loc><sg>$^,<cm>$ ^UN<n><acr><sg>$ ^administration<n><sg>$[
 ]|^image<n><sg>$_^map<n><sg>$[          ]= ^Map<n><sg>$ ^of<pr>$ ^*Serbia$ ^(<lpar>$^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$^)<rpar>$^.<sent>$^*PNG$[
-]|^map<n><sg>$_^*caption$[        ]= ^Kosovo<np><loc><sg>$ ^within<pr>$ ^*Serbia$[
+]|^map<n><sg>$_^*caption$[        ]= ^Kosovo<np><loc><sg>$ ^as<cnjadv>$ ^define<vblex><pp>$ ^by<pr>$ ^*UNSCR$ ^1244<num>$[
 ]|^common<adj>$_^name<n><sg>$[        ]= ^Kosovo<np><loc><sg>$[
 ]|^continent<n><sg>$[          ]= ^Europe<np><loc><sg>$[
 ]|^region<n><sg>$[             ]= ^*Balkans$[

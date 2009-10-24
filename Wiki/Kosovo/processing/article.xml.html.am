@@ -19,7 +19,7 @@
 ]{{^Infobox/*Infobox$ ^Country/Country<n><sg>$[
 ]|^conventional/conventional<adj>$_^long/long<adv>/long<adj><sint>$_^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>$ = ^Kosovo/Kosovo<np><loc><sg>$^,/,<cm>$ ^UN/UN<n><acr><sg>$ ^administration/administration<n><sg>$[
 ]|^image/image<n><sg>$_^map/map<n><sg>$[          ]= ^Map/Map<n><sg>$ ^of/of<pr>$ ^Serbia/*Serbia$ ^(/(<lpar>$^Kosovo/Kosovo<np><loc><sg>$ ^and/and<cnjcoo>$ ^Metohija/*Metohija$^)/)<rpar>$^./.<sent>$^PNG/*PNG$[
-]|^map/map<n><sg>$_^caption/*caption$[        ]= ^Kosovo/Kosovo<np><loc><sg>$ ^within/within<adv>/within<pr>$ ^Serbia/*Serbia$[
+]|^map/map<n><sg>$_^caption/*caption$[        ]= ^Kosovo/Kosovo<np><loc><sg>$ ^as/as<preadv>/as<cnjadv>/as<pr>$ ^defined/define<vblex><past>/define<vblex><pp>$ ^by/by<pr>$ ^UNSCR/*UNSCR$ ^1244/1244<num>$[
 ]|^common/common<adj>$_^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>$[        ]= ^Kosovo/Kosovo<np><loc><sg>$[
 ]|^continent/continent<n><sg>$[          ]= ^Europe/Europe<np><loc><sg>$[
 ]|^region/region<n><sg>$[             ]= ^Balkans/*Balkans$[
