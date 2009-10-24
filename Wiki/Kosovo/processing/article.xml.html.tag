@@ -198,7 +198,7 @@
 ]^List<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^president<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^:<sent>$[&lt;]^*ref$[&gt;]^*http$^:<sent>$\/\/^www.worldstatesmen.org<num>$\/^Yugoslavia<np><loc><sg>$^.<sent>$^*html$#^Kosovo<np><loc><sg>$[&lt;]\/^*ref$^.<sent>$[][&gt;<\/p>
 <ul>
 <li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>]^,<cm>$[ <a href='4 March'>]^4<num>$ ^March<n><sg>$[<\/a> <a href='2002'>]^2002<num>$[<\/a> ]^-<guio>$[ <a href='21 January'>]^21<num>$ ^January<n><sg>$[<\/a> <a href='2006'>]^2006<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>]^,<cm>$[ <a href='10 February'>]^10<num>$ ^February<n><sg>$[<\/a> <a href='2006'>]^2006<num>$[<\/a> ]^-<guio>$ ^present<n><sg>$^.<sent>$[][<\/li>
+<li><a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>]^,<cm>$[ <a href='10 February'>]^10<num>$ ^February<n><sg>$[<\/a> <a href='2006'>]^2006<num>$[<\/a> ]^-<guio>$ ^present<n><sg>$ ^*im$ ^*sexy$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
