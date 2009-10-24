@@ -132,7 +132,7 @@
 <li>]^with<pr>$[ <a href='Albania'>]^*Albania$[<\/a> ]^-<guio>$^.<sent>$[][ <\/li>
 <li>]^with<pr>$ ^the<det><def><sp>$[ <a href='Republic of Macedonia'>]^Republic<n><sg>$ ^of<pr>$ ^Macedonia<np><ant><f><sg>$[<\/a> ]^-<guio>$^.<sent>$[][ <\/li>
 <li>]^with<pr>$[ <a href='Montenegro'>]^Montenegro<np><loc><sg>$[<\/a> ]^-<guio>$^.<sent>$[][ <\/li>
-<li>]^with<pr>$[ <a href='Central Serbia'>]^Central<adj>$ ^*Serbia$[<\/a> ]^-<guio>$^.<sent>$[][ <\/li>
+<li>]^with<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a> ]^-<guio>$^.<sent>$[][ <\/li>
 <\/ul>
 <p> 
 ]^A<det><ind><sg>$ ^total<n><sg>$ ^of<pr>$[  ]^of<pr>$ ^border<n><pl>$ ^and<cnjcoo>$[ &lt;]\/^*sup$[&gt; ]^of<pr>$ ^territorial<adj>$ ^area<n><sg>$^.<sent>$[&lt;]^*ref$ ^name<n><sg>$="^*SYSFRY$^1983<num>$"[&gt;]^Statistical<adj>$ ^Yearbook<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Socialist<adj>$ ^Federal<adj>$ ^Republic<n><sg>$ ^of<pr>$ ^Yugoslavia<np><loc><sg>$^,<cm>$ ^1983<num>$^.<sent>$[&lt;]\/^*ref$^.<sent>$[][&gt;<\/p>
