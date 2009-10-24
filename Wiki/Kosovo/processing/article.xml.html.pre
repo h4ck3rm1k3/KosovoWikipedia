@@ -21,9 +21,9 @@
 ]{{^*Infobox$ ^Country<n><sg>$[
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[      ]= ^Kosovo<np><loc><sg>$[
 ]|^common<adj>$_^name<n><sg>$[                 ]= ^Kosovo<np><loc><sg>$[
-]| ^image<n><sg>$_^map<n><sg>$ = ^Location<n><sg>$ ^*Serbia$ ^Europe<np><loc><sg>$^.<sent>$^*png$[ 
-]| ^map<n><sg>$_^*caption$ = ^Location<n><sg>$ ^of<pr>$ ^*Serbia$ ^(<lpar>$^green<n><sg>$^)<rpar>$ ^-<guio>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^light<adj><sint>$ ^green<n><sg>$^)<rpar>$[
-]^on<pr>$ ^the<det><def><sp>$ ^European<adj>$ ^continent<n><sg>$ ^(<lpar>$^green<adj><sint>$ + ^dark<adj><sint>$ ^grey<adj><sint>$^)<rpar>$[
+]| ^image<n><sg>$_^map<n><sg>$ = ^Location<n><sg>$ ^Kosovo<np><loc><sg>$ ^Europe<np><loc><sg>$^.<sent>$^*png$[ 
+]| ^map<n><sg>$_^*caption$ = ^Location<n><sg>$ ^of<pr>$[ <strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>$^dark<adj><sint>$ ^green<n><sg>$^)<rpar>$ ^-<guio>$[ <strong><a href='Serbia'>]^*Serbia$[<\/a><\/strong> ]^(<lpar>$^dark<adj><sint><comp>$ ^grey<adj><sint>$^)<rpar>$[&lt;]^*br$[&gt;
+]^on<pr>$[ <a href='Europe'>]^the<det><def><sp>$ ^European<adj>$[<\/a> ]^continent<n><sg>$[  ]^(<lpar>$^green<adj><sint>$ + ^dark<adj><sint>$ ^grey<adj><sint>$^)<rpar>$[
 ]|^ethnic<adj>$_^group<n><pl>$[               ]= ^92%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>&lt;]^*br$ \/[&gt;]^5.3%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a>&lt;]^*br$ \/[&gt;]^2.7%<num><percent>$ ^others<prn><tn><mf><pl>$[&lt;]^*ref$[&gt;]{{^*citation$ | ^*url$ = ^*http$^:<sent>$\/\/^www.ks-gov.net<num>$\/^ESK<n><acr><sg>$\/^*eng$\/ | ^title<vblex><pres>$ = ^Statistical<adj>$ ^Office<n><sg>$ | ^publisher<n><sg>$ = ^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[&lt;]\/^*ref$[&gt;
 ]|^ethnic<adj>$_^group<n><pl>$_^year<n><sg>$[          ]= ^2007<num>$[
 ]|^capital<n><sg>$[                     ]= {{^*nowrap$|[<a href='Pristina'>]^*Pristina$[<\/a> ]^(<lpar>$^*Prishtina$ ^or<cnjcoo>$ ^*Pri$Å^¡<lquest>$^*tina$^)<rpar>$}}[
