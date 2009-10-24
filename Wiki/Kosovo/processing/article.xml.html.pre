@@ -12,8 +12,9 @@
 ]^-<guio>$^-<guio>$[&gt;
 &lt;]^!<sent>$^-<guio>$^-<guio>$[
 ]^PLEASE<vblex><inf>$ ^DO<vbdo><pres>$ ^NOT<adv>$ ^CHANGE<vblex><inf>$ ^THE<det><def><sp>$ ^CAPITAL<n><sg>$^'s<gen>$ ^NAME<n><sg>$^!<sent>$ ^Per<pr>$ ^*talkpage$^,<cm>$ ^prpers<prn><subj><p1><mf><pl>$ ^currently<adv>$ ^use<vblex><inf>$ ^*Pristina$^,<cm>$ ^not<adv>$ ^*Prishtina$^.<sent>$[
-]^-<guio>$^-<guio>$[&gt;
-
+]^-<guio>$^-<guio>$^.<sent>$[][&gt;<\/p>
+<p>
+]{{^*mergefrom$|^Kosovo<np><loc><sg>$ ^(<lpar>$^*UNMIK$^)<rpar>$}}[
 
 ]{{^current<n><sg>$ ^relate<vblex><pp>$|^article<n><sg>$|^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$|^date<n><sg>$=^February<n><sg>$ ^2008<num>$}}[
 
