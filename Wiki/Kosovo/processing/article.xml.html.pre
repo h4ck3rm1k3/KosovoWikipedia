@@ -32,7 +32,7 @@
 ]|^*latd$= |^*latm$= |^*latNS$= |^*longd$= |^*longm$= |^*longEW$=[
 ]|^large<adj><sint><sup>$_^city<n><sg>$[             ]= ^capital<n><sg>$[
 ]|^*demonym$[                  ]= ^*Kosovar$^(<lpar>$^*s$^)<rpar>$[
-]|^government<n><sg>$_^type<vblex><pres>$[          ]= ^Interim<adj>$[
+]|^government<n><sg>$_^type<vblex><pres>$[          ]= ^Parliamentary<adj>$ ^republic<n><sg>$[
 ]|^leader<n><sg>$_^title<n><sg>$^1<num>$[            ]= {{^*nowrap$|^Special<adj>$ ^Representative<n><sg>$ ^of<pr>$}} {{^*nowrap$|^the<det><def><sp>$ ^Secretary<n><sg>$^-<guio>$^General<adj>$}}[
 ]|^leader<n><sg>$_^name<n><sg>$^1<num>$[             ]=[ &lt;]^*br$[&gt;<a href='Joachim RÃ¼cker'>]^*Joachim$ ^*R$Ã¼^*cker$[<\/a>
 ]|^leader<n><sg>$_^title<n><sg>$^2<num>$[            ]=[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
