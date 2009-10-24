@@ -57,17 +57,17 @@
 ]|^population<n><sg>$_^*census$_^year<n><sg>$ = ^1991<num>$[
 ]|^population<n><sg>$_^density<n><sg>$_^*km$^2<num>$ = ^220<num>$[
 ]|^population<n><sg>$_^density<n><sg>$_^*sq$_^*mi$ = ^500<num>$[
-]| ^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^year<n><sg>$ = ^2007<num>$[
-]| ^GDP<n><acr><sg>$_^PPP<n><acr><sg>$ = \$^4<num>$ ^*billion$[&lt;]^*ref$ ^name<n><sg>$="^*CIAKosovo$"[&gt;<a href='https:\/\/www.cia.gov\/library\/publications\/the-world-factbook\/geos\/kv.html CIA - The World Factbook - Kosovo'>]^4<num>$[<\/a>]^,<cm>$ ^update<vblex><pp>$ ^on<pr>$[ <a href='March 20'>]^March<n><sg>$ ^20<num>$[<\/a>]^,<cm>$[ <a href='2008'>]^2008<num>$[<\/a>]^,<cm>$ ^access<vblex><pp>$ ^on<pr>$[ <a href='April 5'>]^April<n><sg>$ ^5<num>$[<\/a>]^,<cm>$[ <a href='2008'>]^2008<num>$[<\/a>]^.$
+]|^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^year<n><sg>$ = ^2007<num>$[
+]|^GDP<n><acr><sg>$_^PPP<n><acr><sg>$ = \$^4<num>$ ^*billion$[&lt;]^*ref$ ^name<n><sg>$="^*CIAKosovo$"[&gt;<a href='https:\/\/www.cia.gov\/library\/publications\/the-world-factbook\/geos\/kv.html CIA - The World Factbook - Kosovo'>]^4<num>$[<\/a>]^,<cm>$ ^update<vblex><pp>$ ^on<pr>$[ <a href='March 20'>]^March<n><sg>$ ^20<num>$[<\/a>]^,<cm>$[ <a href='2008'>]^2008<num>$[<\/a>]^,<cm>$ ^access<vblex><pp>$ ^on<pr>$[ <a href='April 5'>]^April<n><sg>$ ^5<num>$[<\/a>]^,<cm>$[ <a href='2008'>]^2008<num>$[<\/a>]^.$
 [&lt;]\/^*ref$[&gt;
-]| ^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^rank<n><sg>$ = ^N\/A<n><acr><sg>$[
-]| ^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^per<pr>$_^*capita$ = \$^1,800<num>$[&lt;]^*ref$ ^name<n><sg>$="^*CIAKosovo$"\/[&gt;
-]| ^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^per<pr>$_^*capita$_^rank<n><sg>$ = ^151<num>$^*st$[
-]| ^GDP<n><acr><sg>$_^*nominal$_^year<n><sg>$ = ^2007<num>$[
-]| ^GDP<n><acr><sg>$_^*nominal$ = \$^3.237<num>$ ^*billion$[&lt;]^*ref$ ^name<n><sg>$="^*CIAKosovo$"\/[&gt;
-]| ^GDP<n><acr><sg>$_^*nominal$_^rank<n><sg>$ = ^N\/A<n><acr><sg>$[
-]| ^GDP<n><acr><sg>$_^*nominal$_^per<pr>$_^*capita$ = \$^1,500<num>$[&lt;]^*ref$ ^name<n><sg>$="^*CIAKosovo$"\/[&gt;
-]| ^GDP<n><acr><sg>$_^*nominal$_^per<pr>$_^*capita$_^rank<n><sg>$ = ^119<num>$^*th$[
+]|^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^rank<n><sg>$ = ^N\/A<n><acr><sg>$[
+]|^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^per<pr>$_^*capita$ = \$^1,800<num>$[&lt;]^*ref$ ^name<n><sg>$="^*CIAKosovo$"\/[&gt;
+]|^GDP<n><acr><sg>$_^PPP<n><acr><sg>$_^per<pr>$_^*capita$_^rank<n><sg>$ = ^151<num>$^*st$[
+]|^GDP<n><acr><sg>$_^*nominal$_^year<n><sg>$ = ^2007<num>$[
+]|^GDP<n><acr><sg>$_^*nominal$ = \$^3.237<num>$ ^*billion$[&lt;]^*ref$ ^name<n><sg>$="^*CIAKosovo$"\/[&gt;
+]|^GDP<n><acr><sg>$_^*nominal$_^rank<n><sg>$ = ^N\/A<n><acr><sg>$[
+]|^GDP<n><acr><sg>$_^*nominal$_^per<pr>$_^*capita$ = \$^1,500<num>$[&lt;]^*ref$ ^name<n><sg>$="^*CIAKosovo$"\/[&gt;
+]|^GDP<n><acr><sg>$_^*nominal$_^per<pr>$_^*capita$_^rank<n><sg>$ = ^119<num>$^*th$[
 ]|^currency<n><sg>$ =[ <a href='Euro'>]^Euro<n><sg>$[<\/a> ]^(<lpar>$[<a href='Euro sign|â¬'>]^Euro<n><sg>$ ^sign<n><sg>$|^*â$¬[<\/a>]^)<rpar>$[
 ]|^currency<n><sg>$_^code<n><sg>$ = ^*EUR$[
 ]|^time<n><sg>$_^zone<vblex><pres>$ =[ <a href='Central European Time|CET'>]^Central<adj>$ ^European<adj>$ ^Time<n><sg>$|^CET<n><acr><sg>$[<\/a>
@@ -390,7 +390,7 @@
 ^*pdf$|^title<n><sg>$=^NATO<n><acr><sg>$ ^and<cnjcoo>$ ^Humanitarian<adj>$ ^Action<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^Kosovo<np><loc><sg>$ ^Crisis<n><sg>$|^author<n><sg>$=^Larry<np><ant><m><sg>$ ^*Minear$^,<cm>$ ^*Ted$ ^van<n><sg>$ ^*Baarda$^,<cm>$ ^Marc<np><ant><m><sg>$ ^*Sommers$|^year<n><sg>$=^2000<num>$|^publisher<n><sg>$=[<a href='Brown University'>]^Brown<adj>$ ^University<adj>$[<\/a>]|^format<n><sg>$=^PDF<n><acr><sg>$}}[&lt;]\/^*ref$[&gt;
 ]^During<pr>$ ^the<det><def><sp>$ ^conflict<n><sg>$^,<cm>$ ^roughly<adv>$ ^a million<num><sp>$ ^ethnic<adj>$ ^Albanian<n><pl>$ ^flee<vblex><pp>$ ^or<cnjcoo>$ ^be<vbser><past>$ ^*forcefully$ ^drive<vblex><pp>$ ^from<pr>$ ^Kosovo<np><loc><sg>$^.$
  ^*Altogether$^,<cm>$ ^more<preadv>$ ^than<cnjcoo>$ ^11,000<num>$ ^death<n><pl>$ ^have<vbhaver><inf>$ ^be<vbser><pp>$ ^report<vblex><pp>$ ^to<pr>$[ <a href='Carla Del Ponte'>]^Carla<np><ant><f><sg>$ ^*Del$[<\/a> ]^*Ponte$ ^by<pr>$ ^her<det><pos><sp>$ ^*prosecutors$^.$
-[&lt;]^*ref$ ^name<n><sg>$="^BBC<n><acr><sg>$"[&gt;]{{^*citeweb$| ^*url$=^*http$^:$
+[&lt;]^*ref$ ^name<n><sg>$="^BBC<n><acr><sg>$"[&gt;]{{^*citeweb$|^*url$=^*http$^:$
 \/\/^news<n><sg>$^.$
 ^*bbc$^.$
 ^*co$^.$
@@ -415,12 +415,12 @@
 ^*jpg$|^thumb<n><sg>$|^National<adj>$ ^Public<adj>$ ^Library<n><sg>$ ^in<pr>$ ^*Pristina$[<\/a>
 ]^On<pr>$[ <a href='June 10'>]^June<n><sg>$ ^10<num>$[<\/a>]^,<cm>$[ <a href='1999'>]^1999<num>$[<\/a>]^,<cm>$ ^the<det><def><sp>$ ^UN<n><acr><sg>$ ^Security<n><sg>$ ^Council<n><sg>$ ^pass<vblex><pp>$[ <a href='UN Security Council Resolution 1244'>]^UN<n><acr><sg>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$[<\/a>]^,<cm>$ ^which<prn><itg><m><sp>$ ^place<vblex><past>$ ^Kosovo<np><loc><sg>$ ^under<pr>$ ^*transitional$ ^UN<n><acr><sg>$ ^administration<n><sg>$ ^(<lpar>$[<a href='UNMIK'>]^*UNMIK$[<\/a>]^)<rpar>$ ^and<cnjcoo>$ ^*authorised$[ <a href='Kosovo Force|KFOR'>]^Kosovo<np><loc><sg>$ ^Force<n><sg>$|^*KFOR$[<\/a>]^,<cm>$ ^a<det><ind><sg>$ ^NATO<n><acr><sg>$^-<guio>$^lead<vblex><pp>$ ^*peacekeeping$ ^force<n><sg>$^.$
  ^Resolution<n><sg>$ ^1244<num>$ ^provide<vblex><past>$ ^that<cnjsub>$ ^Kosovo<np><loc><sg>$ ^would<vaux><inf>$ ^have<vblex><inf>$ ^autonomy<n><sg>$ ^within<pr>$ ^the<det><def><sp>$ ^Federal<adj>$ ^Republic<n><sg>$ ^of<pr>$ ^Yugoslavia<np><loc><sg>$^,<cm>$ ^and<cnjcoo>$ ^affirm<vblex><pp>$ ^the<det><def><sp>$ ^territorial<adj>$ ^integrity<n><sg>$ ^of<pr>$ ^Yugoslavia<np><loc><sg>$^,<cm>$ ^which<prn><itg><m><sp>$ ^have<vbhaver><pri><p3><sg>$ ^be<vbser><pp>$ ^legally<adv>$ ^succeed<vblex><pp>$ ^by<pr>$ ^the<det><def><sp>$ ^Republic<n><sg>$ ^of<pr>$ ^*Serbia$^.$
-[&lt;]^*ref$[&gt;]{{^cite<vblex><pres>$ ^news<n><sg>$ | ^title<n><sg>$=^RESOLUTION<n><sg>$ ^1244<num>$ ^(<lpar>$^1999<num>$^)<rpar>$ | ^date<n><sg>$=[<a href='1999-06-17'>]^1999<num>$^-<guio>$^06<num>$^-<guio>$^17<num>$[<\/a> ]| ^publisher<n><sg>$=^BBC<n><acr><sg>$ ^News<n><sg>$ | ^*url$ =^*http$^:$
+[&lt;]^*ref$[&gt;]{{^cite<vblex><pres>$ ^news<n><sg>$ |^title<n><sg>$=^RESOLUTION<n><sg>$ ^1244<num>$ ^(<lpar>$^1999<num>$^)<rpar>$ |^date<n><sg>$=[<a href='1999-06-17'>]^1999<num>$^-<guio>$^06<num>$^-<guio>$^17<num>$[<\/a> ]|^publisher<n><sg>$=^BBC<n><acr><sg>$ ^News<n><sg>$ |^*url$=^*http$^:$
 \/\/^news<n><sg>$^.$
 ^*bbc$^.$
 ^*co$^.$
 ^*uk$\/^2<num>$\/^*hi$\/^*europe$\/^371562<num>$^.$
-^*stm$ | ^*accessdate$ = ^2008<num>$^-<guio>$^02<num>$^-<guio>$^19<num>$ | ^language<n><sg>$ = }}[&lt;]\/^*ref$^.$
+^*stm$ |^*accessdate$=^2008<num>$^-<guio>$^02<num>$^-<guio>$^19<num>$ |^language<n><sg>$=}}[&lt;]\/^*ref$^.$
 [][&gt;<\/p>
 <p>]^Some<prn><tn><mf><pl>$ ^200,000<num>$^-<guio>$^280,000<num>$^,<cm>$ ^represent<vblex><ger>$ ^the<det><def><sp>$ ^majority<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serb$ ^population<n><sg>$^,<cm>$ ^leave<vblex><pp>$ ^when<adv><itg>$ ^the<det><def><sp>$ ^*Serbian$ ^force<n><pl>$ ^leave<vblex><past>$^.$
  ^There<adv>$ ^be<vbser><past><p3><sg>$ ^also<adv>$ ^some<det><qnt><sp>$ ^*looting$ ^of<pr>$ ^*Serb$ ^property<n><pl>$ ^and<cnjcoo>$ ^even<adv>$ ^violence<n><sg>$ ^against<pr>$ ^some<prn><tn><mf><pl>$ ^of<pr>$ ^that<det><dem><pl>$ ^*Serbs$ ^and<cnjcoo>$ ^*Roma$ ^who<rel><an><mf><sp>$ ^remain<vblex><past>$^.$
@@ -476,7 +476,7 @@
 [&lt;]^*ref$[&gt;]{{^cite<vblex><pres>$ ^web<n><sg>$ |^*url$=^*http$^:$
 \/\/^www.ft.com<num>$\/^*cms$\/^*s$\/^0<num>$\/^985<num>$^*caa$^90<num>$^-<guio>$^*de$^5<num>$^a<det><ind><sg>$^-<guio>$^11<num>$^*db$^-<guio>$^*afa$^7<num>$^-<guio>$^000<num>$^*b$^5<num>$^*df$^10621<num>$^.$
 ^*html$^?$
-^*nclick$_^check<n><sg>$=^1<num>$ |^title<n><sg>$=^A<det><ind><sg>$ ^long<adj><sint>$ ^reconciliation<n><sg>$ ^process<n><sg>$ ^be<vbser><pri><p3><sg>$ ^require<vblex><pp>$ |^author<n><sg>$=^James<np><ant><m><sg>$ ^Dancer<n><sg>$ |^date<n><sg>$= ^2007<num>$^-<guio>$^03<num>$^-<guio>$^30<num>$ |^publisher<n><sg>$=^Financial<adj>$ ^Time<n><pl>$}}[&lt;]\/^*ref$^.$
+^*nclick$_^check<n><sg>$=^1<num>$ |^title<n><sg>$=^A<det><ind><sg>$ ^long<adj><sint>$ ^reconciliation<n><sg>$ ^process<n><sg>$ ^be<vbser><pri><p3><sg>$ ^require<vblex><pp>$ |^author<n><sg>$=^James<np><ant><m><sg>$ ^Dancer<n><sg>$ |^date<n><sg>$=^2007<num>$^-<guio>$^03<num>$^-<guio>$^30<num>$ |^publisher<n><sg>$=^Financial<adj>$ ^Time<n><pl>$}}[&lt;]\/^*ref$^.$
 [][&gt;<\/p>
 <p>]^After<cnjadv>$ ^many<det><qnt><pl>$ ^week<n><pl>$ ^of<pr>$ ^discussion<n><pl>$ ^at<pr>$ ^the<det><def><sp>$ ^UN<n><acr><sg>$^,<cm>$ ^the<det><def><sp>$[ <a href='United States'>]^United States<np><loc><sg>$[<\/a>]^,<cm>$[ <a href='United Kingdom'>]^United Kingdom<np><loc><sg>$[<\/a> ]^and<cnjcoo>$ ^other<det><ind><sp>$ ^European<adj>$ ^member<n><pl>$ ^of<pr>$ ^the<det><def><sp>$ ^Security<n><sg>$ ^Council<n><sg>$ ^formally<adv>$ ^'<apos>$^*discarded$^'<apos>$ ^a<det><ind><sg>$ ^draft<n><sg>$ ^resolution<n><sg>$ ^back<vblex><ger>$ ^*Ahtisaari$^'s<gen>$ ^proposal<n><sg>$ ^on<pr>$[ <a href='20 July'>]^20<num>$ ^July<n><sg>$[<\/a> <a href='2007'>]^2007<num>$[<\/a>]^,<cm>$ ^have<vbhaver><ger>$ ^fail<vblex><pp>$ ^to<pr>$ ^secure<vblex><inf>$ ^Russian<adj>$ ^back<vblex><ger>$^.$
  ^Beginning<n><sg>$ ^in<pr>$ ^August<n><sg>$^,<cm>$ ^a<det><ind><sg>$ "[<a href='Troika (triumvirate)|Troika'>]^Troika<n><sg>$ ^(<lpar>$^*triumvirate$^)<rpar>$|^Troika<n><sg>$[<\/a>]" ^consist<vblex><ger>$ ^of<pr>$ ^*negotiators$ ^from<pr>$[ <a href='European Union'>]^the<det><def><sp>$ ^European<adj>$ ^Union<n><sg>$[<\/a> ]^(<lpar>$[<a href='Wolfgang Ischinger'>]^*Wolfgang$ ^*Ischinger$[<\/a>]^)<rpar>$^,<cm>$ ^the<det><def><sp>$[ <a href='United States'>]^United States<np><loc><sg>$[<\/a> ]^(<lpar>$^Frank<np><ant><m><sg>$ ^*Wisner$^)<rpar>$ ^and<cnjcoo>$[ <a href='Russia'>]^Russia<np><loc><sg>$[<\/a> ]^(<lpar>$^Alexander<np><ant><m><sg>$ ^*Botsan$^-<guio>$^*Kharchenko$^)<rpar>$ ^launch<vblex><past>$ ^a<det><ind><sg>$ ^new<adj><sint>$ ^effort<n><sg>$ ^to<pr>$ ^reach<vblex><inf>$ ^a<det><ind><sg>$ ^status<n><sg>$ ^outcome<n><sg>$ ^acceptable<adj>$ ^to<pr>$ ^both<det><ind><pl>$ ^Belgrade<np><loc><sg>$ ^and<cnjcoo>$ ^*Pristina$^.$
@@ -484,7 +484,7 @@
 [&lt;]^*ref$[&gt;]{{^cite<vblex><pres>$ ^web<n><sg>$ |^*url$=^*http$^:$
 \/\/^www.guardian.co<num>$^.$
 ^*uk$\/^international<adj>$\/^story<n><sg>$\/^0<num>$^,<cm>$^,<cm>$^2209907,00<num>$^.$
-^*html$ |^title<n><sg>$=^*Bosnian$ ^nightmare<n><sg>$ ^return<n><pl>$ ^to<pr>$ ^*haunt$ ^EU<n><acr><sg>$ |^author<n><sg>$=^Simon<np><ant><m><sg>$ ^*Tisdall$ |^date<n><sg>$= ^2007<num>$^-<guio>$^11<num>$^-<guio>$^13<num>$ |^publisher<n><sg>$=^The<det><def><sp>$ ^*Guardian$}}[&lt;]\/^*ref$[&gt; ]^A<det><ind><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$ ^by<pr>$ ^*Kosovar$ ^Albanian<adj>$ ^leader<n><pl>$ ^be<vbser><past><p3><sg>$ ^postpone<vblex><pp>$ ^until<pr>$ ^the<det><def><sp>$ ^end<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Serbian presidential election, 2008|Serbian presidential elections'>]^*Serbian$ ^presidential<adj>$ ^election<n><sg>$^,<cm>$ ^2008<num>$|^*Serbian$ ^presidential<adj>$ ^election<n><pl>$[<\/a> ]^(<lpar>$[<a href='4 February'>]^4<num>$ ^February<n><sg>$[<\/a> <a href='2008'>]^2008<num>$[<\/a>]^)<rpar>$^.$
+^*html$ |^title<n><sg>$=^*Bosnian$ ^nightmare<n><sg>$ ^return<n><pl>$ ^to<pr>$ ^*haunt$ ^EU<n><acr><sg>$ |^author<n><sg>$=^Simon<np><ant><m><sg>$ ^*Tisdall$ |^date<n><sg>$=^2007<num>$^-<guio>$^11<num>$^-<guio>$^13<num>$ |^publisher<n><sg>$=^The<det><def><sp>$ ^*Guardian$}}[&lt;]\/^*ref$[&gt; ]^A<det><ind><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$ ^by<pr>$ ^*Kosovar$ ^Albanian<adj>$ ^leader<n><pl>$ ^be<vbser><past><p3><sg>$ ^postpone<vblex><pp>$ ^until<pr>$ ^the<det><def><sp>$ ^end<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Serbian presidential election, 2008|Serbian presidential elections'>]^*Serbian$ ^presidential<adj>$ ^election<n><sg>$^,<cm>$ ^2008<num>$|^*Serbian$ ^presidential<adj>$ ^election<n><pl>$[<\/a> ]^(<lpar>$[<a href='4 February'>]^4<num>$ ^February<n><sg>$[<\/a> <a href='2008'>]^2008<num>$[<\/a>]^)<rpar>$^.$
  ^Most<det><qnt><sp>$ ^EU<n><acr><sg>$ ^member<n><pl>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^US<np><loc><sg>$ ^have<vbhaver><past>$ ^fear<vblex><pp>$ ^that<cnjsub>$ ^a<det><ind><sg>$ ^premature<adj>$ ^*declaration$ ^can<vaux><past>$ ^boost<vblex><inf>$ ^support<n><sg>$ ^in<pr>$ ^*Serbia$ ^for<pr>$ ^the<det><def><sp>$ ^*ultra$^-<guio>$^nationalist<adj>$ ^candidate<n><sg>$^,<cm>$[ <a href='Tomislav NikoliÄ'>]^*Tomislav$ ^*NikoliÄ$[<\/a>]^.$
 [&lt;]^*ref$[&gt;<a href='http:\/\/news.bbc.co.uk\/2\/hi\/europe\/6386467.stm BBC NEWS Europe | Q&amp;A: Kosovo's future&lt;!-- Bot generated title --&gt;'>]^21<num>$[<\/a>&lt;]\/^*ref$^.$
 [][&gt;<\/p>
@@ -914,13 +914,13 @@
 ^*co$^.$
 ^*uk$\/^2<num>$\/^*hi$\/^*europe$\/^4385768<num>$^.$
 ^*stm$ |^title<n><sg>$=^Muslim<n><pl>$ ^in<pr>$ ^Europe<np><loc><sg>$^:$
- ^Country<n><sg>$ ^guide<n><sg>$ |^author<n><sg>$=^BBC<n><acr><sg>$ ^News<n><sg>$ |^date<n><sg>$= ^2005<num>$^-<guio>$^12<num>$^-<guio>$^23<num>$}}[&lt;]\/^*ref$[&gt;&lt;]^*ref$[&gt;]{{^cite<vblex><pres>$ ^web<n><sg>$ |^*url$=^*http$^:$
+ ^Country<n><sg>$ ^guide<n><sg>$ |^author<n><sg>$=^BBC<n><acr><sg>$ ^News<n><sg>$ |^date<n><sg>$=^2005<num>$^-<guio>$^12<num>$^-<guio>$^23<num>$}}[&lt;]\/^*ref$[&gt;&lt;]^*ref$[&gt;]{{^cite<vblex><pres>$ ^web<n><sg>$ |^*url$=^*http$^:$
 \/\/^news<n><sg>$^.$
 ^*bbc$^.$
 ^*co$^.$
 ^*uk$\/^2<num>$\/^*hi$\/^*europe$\/^country<n><sg>$_^profile<n><pl>$\/^3524092<num>$^.$
 ^*stm$ |^title<n><sg>$=^*churchesRegions$ ^and<cnjcoo>$ ^territory<n><pl>$^:$
- ^Kosovo<np><loc><sg>$ |^author<n><sg>$=^BBC<n><acr><sg>$ ^News<n><sg>$ |^date<n><sg>$= ^2007<num>$^-<guio>$^11<num>$^-<guio>$^20<num>$}}[&lt;]\/^*ref$[&gt; ]^Kosovo<np><loc><sg>$^'s<gen>$ ^total<adj>$ ^population<n><sg>$ ^be<vbser><pri><p3><sg>$ ^estimate<vblex><pp>$ ^between<pr>$ ^1.9<num>$ ^and<cnjcoo>$ ^2.2<num>$[&amp;]^*nbsp$^;$
+ ^Kosovo<np><loc><sg>$ |^author<n><sg>$=^BBC<n><acr><sg>$ ^News<n><sg>$ |^date<n><sg>$=^2007<num>$^-<guio>$^11<num>$^-<guio>$^20<num>$}}[&lt;]\/^*ref$[&gt; ]^Kosovo<np><loc><sg>$^'s<gen>$ ^total<adj>$ ^population<n><sg>$ ^be<vbser><pri><p3><sg>$ ^estimate<vblex><pp>$ ^between<pr>$ ^1.9<num>$ ^and<cnjcoo>$ ^2.2<num>$[&amp;]^*nbsp$^;$
 ^million<num><sp>$ ^with<pr>$ ^the<det><def><sp>$ ^follow<vblex><ger>$ ^ethnic<adj>$ ^composition<n><sg>$^:$
 [ <a href='Albanians'>]^Albanian<n><pl>$[<\/a> ]^92%<num><percent>$^,<cm>$[ <a href='Serbs'>]^*Serbs$[<\/a> ]^4%<num><percent>$^,<cm>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^and<cnjcoo>$[ <a href='Gorani (ethnic group)|Gorans'>]^*Gorani$ ^(<lpar>$^ethnic<adj>$ ^group<n><sg>$^)<rpar>$|^*Gorans$[<\/a> ]^2%<num><percent>$^,<cm>$[ <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$[<\/a> ]^1%<num><percent>$^,<cm>$[ <a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$[<\/a> ]^1%<num><percent>$^.$
 ^.$
@@ -957,7 +957,7 @@
 [&lt;]^*ref$[&gt;]{{^cite<vblex><pres>$ ^web<n><sg>$ |^*url$=^*http$^:$
 \/\/^www.crisisgroup.org<num>$\/^home<n><sg>$\/^index<n><sg>$^.$
 ^*cfm$^?$
-^*id$=^1591<num>$[&amp;]^*l$=^1<num>$ |^title<n><sg>$=^Religion<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ |^author<n><sg>$=^International<adj>$ ^Crisis<n><sg>$ ^Group<n><sg>$ |^date<n><sg>$= ^2001<num>$^-<guio>$^01<num>$^-<guio>$^31<num>$}}[&lt;]\/^*ref$[&gt;&lt;]^*ref$[&gt;<a href='http:\/\/www.state.gov\/g\/drl\/rls\/irf\/2007\/90198.htm#kosovo International Religious Freedom Report 2007 (U.S. Department of States) - Serbia (includes Kosovo)'>]^60<num>$[<\/a>&lt;]\/^*ref$[&gt;&lt;]^*ref$[&gt;<a href='http:\/\/www.state.gov\/g\/drl\/rls\/irf\/2006\/71405.htm#kosovo International Religious Freedom Report 2006 (U.S. Department of States) - Serbia and Montenegro (includes Kosovo)'>]^61<num>$[<\/a>&lt;]\/^*ref$[&gt; ]^Some<det><qnt><sp>$ ^80%<num><percent>$ ^of<pr>$ ^the<det><def><sp>$ ^former<adj>$ ^150,000<num>$ ^member<n><pl>$ ^of<pr>$ ^the<det><def><sp>$ ^*Roma$ ^and<cnjcoo>$ ^*Ashkali$ ^minority<n><sg>$ ^be<vbser><past>$ ^drive<vblex><pp>$ ^out of<pr>$ ^the<det><def><sp>$ ^country<n><sg>$^.$
+^*id$=^1591<num>$[&amp;]^*l$=^1<num>$ |^title<n><sg>$=^Religion<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ |^author<n><sg>$=^International<adj>$ ^Crisis<n><sg>$ ^Group<n><sg>$ |^date<n><sg>$=^2001<num>$^-<guio>$^01<num>$^-<guio>$^31<num>$}}[&lt;]\/^*ref$[&gt;&lt;]^*ref$[&gt;<a href='http:\/\/www.state.gov\/g\/drl\/rls\/irf\/2007\/90198.htm#kosovo International Religious Freedom Report 2007 (U.S. Department of States) - Serbia (includes Kosovo)'>]^60<num>$[<\/a>&lt;]\/^*ref$[&gt;&lt;]^*ref$[&gt;<a href='http:\/\/www.state.gov\/g\/drl\/rls\/irf\/2006\/71405.htm#kosovo International Religious Freedom Report 2006 (U.S. Department of States) - Serbia and Montenegro (includes Kosovo)'>]^61<num>$[<\/a>&lt;]\/^*ref$[&gt; ]^Some<det><qnt><sp>$ ^80%<num><percent>$ ^of<pr>$ ^the<det><def><sp>$ ^former<adj>$ ^150,000<num>$ ^member<n><pl>$ ^of<pr>$ ^the<det><def><sp>$ ^*Roma$ ^and<cnjcoo>$ ^*Ashkali$ ^minority<n><sg>$ ^be<vbser><past>$ ^drive<vblex><pp>$ ^out of<pr>$ ^the<det><def><sp>$ ^country<n><sg>$^.$
 [&lt;]^*ref$[&gt;<a href='http:\/\/www.gfbv.de\/inhaltsDok.php?id=612 Society for Threatened Peoples'>]^62<num>$[<\/a>&lt;]\/^*ref$^.$
 [][&gt;<\/p>
 <p>]^At<pr>$ ^1.3%<num><percent>$ ^per<pr>$ ^year<n><sg>$^,<cm>$ ^ethnic<adj>$ ^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^have<vblex><pres>$ ^the<det><def><sp>$ ^fast<adj><sint><sup>$ ^rate<n><sg>$ ^of<pr>$ ^growth<n><sg>$ ^in<pr>$ ^population<n><sg>$ ^in<pr>$ ^Europe<np><loc><sg>$^.$
@@ -968,8 +968,7 @@
 [][&gt;<\/p>
 <p>]^By<pr>$ ^contrast<n><sg>$^,<cm>$ ^from<pr>$[ <a href='Demographics of Kosovo#World War II-1968|1948'>]^*Demographics$ ^of<pr>$ ^Kosovo<np><loc><sg>$#^World<adj>$ ^War<n><sg>$ ^II<n><acr><sg>$^-<guio>$^1968<num>$|^1948<num>$[<\/a> ]^to<pr>$[ <a href='Demographics of Kosovo#1989-1999: Centralized Yugoslav Control|1991'>]^*Demographics$ ^of<pr>$ ^Kosovo<np><loc><sg>$#^1989<num>$^-<guio>$^1999<num>$^:$
  ^Centralize<vblex><pp>$ ^Yugoslav<adj>$ ^Control<n><sg>$|^1991<num>$[<\/a>]^,<cm>$ ^the<det><def><sp>$ ^*Serb$ ^population<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^increase<vblex><past>$ ^by<pr>$ ^but<cnjcoo>$ ^twelve<num><sp>$ ^percent<n><sg>$ ^(<lpar>$^one<num><sg>$ ^third<det><ord><sp>$ ^the<det><def><sp>$ ^growth<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^population<n><sg>$ ^in<pr>$ ^Central<adj>$ ^*Serbia$^)<rpar>$^.$
- ^The<det><def><sp>$ ^population<n><sg>$ ^of<pr>$ ^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^increase<vblex><past>$ ^by<pr>$ ^three hundred<num><sp>$ ^percent<n><sg>$ ^in<pr>$ ^the same<det><ind><sp>$ ^period<n><sg>$[ &amp;]^*ndash$^;$
- ^a<det><ind><sg>$ ^rate<n><sg>$ ^of<pr>$ ^growth<n><sg>$ ^twenty-five<num><sp>$ ^time<n><pl>$ ^that<cnjsub>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.$
+ ^The<det><def><sp>$ ^population<n><sg>$ ^of<pr>$ ^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^increase<vblex><past>$ ^by<pr>$ ^three hundred<num><sp>$ ^percent<n><sg>$ ^in<pr>$ ^the same<det><ind><sp>$ ^period<n><sg>$ ^a<det><ind><sg>$ ^rate<n><sg>$ ^of<pr>$ ^growth<n><sg>$ ^twenty-five<num><sp>$ ^time<n><pl>$ ^that<cnjsub>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.$
 ^.$
 [][<\/p>
 <a name="Society"><\/a><h2>]^Society<n><sg>$^.$
@@ -1052,27 +1051,27 @@
 [][<\/li>
 <\/ul>
 
-<pre>]| ^last<det><ord><sp>$ = ^Malcolm<np><ant><m><sg>$[
-]| ^first<det><ord><sp>$ = ^Noel<np><ant><m><sg>$[
-]| ^*authorlink$ = ^Noel<np><ant><m><sg>$ ^Malcolm<np><ant><m><sg>$[
-]| ^title<vblex><pres>$ = ^Kosovo<np><loc><sg>$^:$
+<pre>]|^last<det><ord><sp>$=^Malcolm<np><ant><m><sg>$[
+]|^first<det><ord><sp>$=^Noel<np><ant><m><sg>$[
+]|^*authorlink$=^Noel<np><ant><m><sg>$ ^Malcolm<np><ant><m><sg>$[
+]|^title<vblex><pres>$=^Kosovo<np><loc><sg>$^:$
  ^A<det><ind><sg>$ ^Short<adj><sint>$ ^History<n><sg>$[
-]| ^publisher<n><sg>$ =[ <a href='Macmillan Publishers|Macmillan'>]^*Macmillan$ ^Publisher<n><pl>$|^*Macmillan$[<\/a>
-]| ^year<n><sg>$ = ^1998<num>$[
-]| ^*isbn$ = ^0333666127<num>$}}^.$
+]|^publisher<n><sg>$=[<a href='Macmillan Publishers|Macmillan'>]^*Macmillan$ ^Publisher<n><pl>$|^*Macmillan$[<\/a>
+]|^year<n><sg>$=^1998<num>$[
+]|^*isbn$=^0333666127<num>$}}^.$
 [][
 <\/pre><ul>
 <li>]{{^cite<vblex><pres>$ ^book<n><sg>$^.$
 [][<\/li>
 <\/ul>
 
-<pre>]| ^last<det><ord><sp>$ = ^*Elsie$[
-]| ^first<det><ord><sp>$ = ^Robert<np><ant><m><sg>$[
-]| ^*authorlink$ = ^Robert<np><ant><m><sg>$ ^*Elsie$[
-]| ^title<vblex><pres>$ = ^Historical<adj>$ ^Dictionary<n><sg>$ ^of<pr>$ ^*Kosova$[
-]| ^publisher<n><sg>$ = ^*Scarecrow$ ^Press<n><sg>$[
-]| ^year<n><sg>$ = ^2004<num>$[
-]| ^*isbn$ = ^0810853094<num>$}}^.$
+<pre>]|^last<det><ord><sp>$=^*Elsie$[
+]|^first<det><ord><sp>$=^Robert<np><ant><m><sg>$[
+]|^*authorlink$=^Robert<np><ant><m><sg>$ ^*Elsie$[
+]|^title<vblex><pres>$=^Historical<adj>$ ^Dictionary<n><sg>$ ^of<pr>$ ^*Kosova$[
+]|^publisher<n><sg>$=^*Scarecrow$ ^Press<n><sg>$[
+]|^year<n><sg>$=^2004<num>$[
+]|^*isbn$=^0810853094<num>$}}^.$
 [][
 <\/pre><a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.$
 [][<\/h2><p>]{{^portal<n><sg>$|^Kosovo<np><loc><sg>$|^Kosovo<np><loc><sg>$ ^blue<adj>$ ^map<n><sg>$^.$
@@ -1099,23 +1098,20 @@
 <li><\/li>
 <\/ul>
 <p><br\/>
-&lt;]^*br$ ^style<n><sg>$="^clear<adj><sint>$^:$
-^both<prn><tn><mf><pl>$" \/^.$
-[][&gt;<\/p>
-<p>]{{^Template<n><sg>$ ^group<n><sg>$[
+]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<n><sg>$ =[ <a href='Image:Nuvola filesystems www.png|23px'>]^Image<n><sg>$^:$
 ^*Nuvola$ ^*filesystems$ ^*www$^.$
 ^*png$|^23<num>$^*px$[<\/a> ]^Geographic<adj>$ ^national<adj>$[
-]|^list<n><sg>$ =[
+]|^list<n><sg>$[  ]=[
 
 ]{{^Kosovo<np><loc><sg>$ ^municipality<n><pl>$}}[
-]{{^Autonomous<adj>$ ^Province<n><pl>$ ^of<pr>$ ^*Serbia$}}[
+]{{^Autonomous<adj>$ ^province<n><pl>$ ^of<pr>$ ^*Serbia$}}[
 ]}}[
 ]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<n><sg>$ =[ <a href='Image:Crystal Clear app browser.png|23px'>]^Image<n><sg>$^:$
 ^Crystal<np><ant><f><sg>$ ^Clear<adj><sint>$ ^*app$ ^browser<n><sg>$^.$
 ^*png$|^23<num>$^*px$[<\/a> ]^Geographic<adj>$ ^international<adj>$[
-]|^list<n><sg>$ =[
+]|^list<n><sg>$[  ]=[
 ]{{^Country<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$}}[
 ]{{^Non<adv>$^-<guio>$^sovereign<adj>$ ^territory<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$}}[
 ]{{^Central<adj>$ ^European<adj>$ ^Free<adj><sint>$ ^Trade<n><sg>$ ^Agreement<n><sg>$ ^(<lpar>$^*CEFTA$^)<rpar>$}}[
