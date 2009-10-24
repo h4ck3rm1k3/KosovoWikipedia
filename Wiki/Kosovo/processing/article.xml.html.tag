@@ -385,6 +385,7 @@
 ]|^list<n><sg>$[  ]=[
 
 ]}}[
+]{{^Municipality<n><pl>$ ^of<pr>$ ^the<det><def><sp>$ ^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<vblex><pres>$ = ^International<adj>$ ^membership<n><sg>$ ^and<cnjcoo>$ ^history<n><sg>$[
 ]|^list<vblex><pres>$[  ]=[
