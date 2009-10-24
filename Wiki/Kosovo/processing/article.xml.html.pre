@@ -164,31 +164,31 @@
 ]{{^see<vblex><pres>$ ^also<adv>$|^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^divide<vblex><pp>$ ^into<pr>$ ^seven<num><sp>$ ^district<n><pl>$^:<sent>$^.<sent>$[][<\/p>
 <ul>
-<li><a href='Äakovica District|Äakovica\/Gjakova District'>]^*Ä$^*akovica$ ^District<n><sg>$|^*Ä$^*akovica$\/^*Gjakova$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Gnjilane District|Gnjilane\/Gjilani District'>]^*Gnjilane$ ^District<n><sg>$|^*Gnjilane$\/^*Gjilani$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='District of Kosovska Mitrovica|Kosovska Mitrovica\/Mitrovica District'>]^District<n><sg>$ ^of<pr>$ ^*Kosovska$ ^*Mitrovica$|^*Kosovska$ ^*Mitrovica$\/^*Mitrovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='District of PeÄ|PeÄ\/Peja District'>]^District<n><sg>$ ^of<pr>$ ^*PeÄ$|^*PeÄ$\/^*Peja$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='PriÅ¡tina District|PriÅ¡tina\/Prishtina District'>]^*Pri$Å^¡<lquest>$^*tina$ ^District<n><sg>$|^*Pri$Å^¡<lquest>$^*tina$\/^*Prishtina$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='District of Prizren|Prizren\/Prizreni District'>]^District<n><sg>$ ^of<pr>$ ^*Prizren$|^*Prizren$\/^*Prizreni$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='UroÅ¡evac District|UroÅ¡evac\/Ferizaji District'>]^*Uro$Å^¡<lquest>$^*evac$ ^District<n><sg>$|^*Uro$Å^¡<lquest>$^*evac$\/^*Ferizaji$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Gjakova District'>]^*Gjakova$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Gjilani District'>]^*Gjilani$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Mitrovica District'>]^*Mitrovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Peja District'>]^*Peja$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Prishtina District'>]^*Prishtina$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Prizreni District'>]^*Prizreni$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Ferizaji District'>]^*Ferizaji$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <\/p>
 <a name="Municipalities"><\/a><h3>]^Municipality<n><pl>$^.<sent>$[][<\/h3><p>]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^also<adv>$ ^divide<vblex><pp>$ ^into<pr>$ ^30<num>$ ^municipality<n><pl>$ ^:<sent>$^.<sent>$[][<\/p>
 <p>]{{^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <p><a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$[<\/a> ]^maintain<vblex><pri><p3><sg>$ ^its<det><pos><sp>$ ^own<adj>$ ^government<n><sg>$^,<cm>$ ^infrastructure<n><sg>$ ^and<cnjcoo>$ ^institution<n><pl>$ ^by<pr>$ ^its<det><pos><sp>$ ^dominant<adj>$ ^ethnic<adj>$[ <a href='Serb'>]^*Serb$[<\/a> ]^population<n><sg>$ ^in<pr>$[ <a href='Mitrovica District'>]^the<det><def><sp>$ ^*Mitrovica$ ^District<n><sg>$[<\/a>]^,<cm>$ ^*viz$^.<sent>$ ^in<pr>$[ <a href='Leposavic'>]^the<det><def><sp>$ ^*Leposavic$[<\/a>]^,<cm>$[ <a href='Zvecan'>]^*Zvecan$[<\/a> ]^and<cnjcoo>$[ <a href='Zubin Potok'>]^*Zubin$ ^*Potok$[<\/a> ]^municipality<n><pl>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^northern<adj>$ ^part<n><sg>$ ^of<pr>$[ <a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a>]^.<sent>$^.<sent>$[][<\/p>
-<a name="Cities"><\/a><h2>]^City<n><pl>$^.<sent>$[][<\/h2><p><a href='Image:Prishtina maj 2005.jpg|thumb|200px|PriÅ¡tina.'>]^Image<n><sg>$^:<sent>$^*Prishtina$ ^*maj$ ^2005<num>$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^*Pri$Å^¡<lquest>$^*tina$^.<sent>$[<\/a>
-<a href='Image:BoroRamizi.jpg|thumb|200px|\[\[PriÅ¡tina'>]^Image<n><sg>$^:<sent>$^*BoroRamizi$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^\[<lpar>$^\[<lpar>$^*Pri$Å^¡<lquest>$^*tina$[<\/a>]^\]<rpar>$^\]<rpar>$^.<sent>$[][<\/p>
+<a name="Cities"><\/a><h2>]^City<n><pl>$^.<sent>$[][<\/h2><p><a href='Image:Prishtina maj 2005.jpg|thumb|200px|Prishtina.'>]^Image<n><sg>$^:<sent>$^*Prishtina$ ^*maj$ ^2005<num>$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^*Prishtina$^.<sent>$[<\/a>
+<a href='Image:BoroRamizi.jpg|thumb|200px|\[\[Prishtina'>]^Image<n><sg>$^:<sent>$^*BoroRamizi$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^\[<lpar>$^\[<lpar>$^*Prishtina$[<\/a>]^\]<rpar>$^\]<rpar>$^.<sent>$[][<\/p>
 <p>]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^for<pr>$ ^2006<num>$^)<rpar>$^:<sent>$[&lt;]^*ref$[&gt;]{{^cite<vblex><pres>$ ^web<n><sg>$ |^*url$=^*http$^:<sent>$\/\/^www.world-gazetteer.com<num>$\/^*wg$^.<sent>$^*php$^?<sent>$^*x$=[&amp;]^man<n><pl>$=^*gcis$[&amp;]^*lng$=^*en$[&amp;]^*dat$=^32<num>$[&amp;]^*srt$=^*npan$[&amp;]^*col$=^*aohdq$[&amp;]^*geo$=^-<guio>$^244<num>$ |^title<n><sg>$=^*Serbia$^:<sent>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^and<cnjcoo>$ ^town<n><pl>$ ^and<cnjcoo>$ ^*statistics$ ^of<pr>$ ^their<det><pos><sp>$ ^population<n><sg>$ |^author<n><sg>$=^World<n><sg>$ ^*Gazetteer$}}[&lt;]\/^*ref$^.<sent>$[][&gt;<\/p>
 <ul>
-<li><a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^:<sent>$ ^571,532<num>$^.<sent>$[][<\/li>
-<li><a href='Prizren'>]^*Prizren$[<\/a> ]^:<sent>$ ^165,229<num>$^.<sent>$[][<\/li>
-<li><a href='UroÅ¡evac'>]^*Uro$Å^¡<lquest>$^*evac$[<\/a> ]^:<sent>$ ^197,741<num>$^.<sent>$[][<\/li>
-<li><a href='Äakovica'>]^*Ä$^*akovica$[<\/a> ]^:<sent>$ ^127,156<num>$^.<sent>$[][<\/li>
-<li><a href='PeÄ'>]^*PeÄ$[<\/a> ]^:<sent>$ ^195,190<num>$^.<sent>$[][<\/li>
-<li><a href='Gnjilane'>]^*Gnjilane$[<\/a> ]^:<sent>$ ^191,595<num>$^.<sent>$[][<\/li>
-<li><a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a> ]^:<sent>$ ^186,359<num>$^.<sent>$[][<\/li>
-<li><a href='Podujevo'>]^*Podujevo$[<\/a> ]^:<sent>$ ^48,526<num>$^.<sent>$[][<\/li>
+<li><a href='Prishtina'>]^*Prishtina$[<\/a> ]^:<sent>$ ^571,532<num>$^.<sent>$[][<\/li>
+<li><a href='Prizreni'>]^*Prizreni$[<\/a> ]^:<sent>$ ^165,229<num>$^.<sent>$[][<\/li>
+<li><a href='Ferizaj'>]^*Ferizaj$[<\/a> ]^:<sent>$ ^197,741<num>$^.<sent>$[][<\/li>
+<li><a href='Gjakova'>]^*Gjakova$[<\/a> ]^:<sent>$ ^127,156<num>$^.<sent>$[][<\/li>
+<li><a href='Peja'>]^*Peja$[<\/a> ]^:<sent>$ ^195,190<num>$^.<sent>$[][<\/li>
+<li><a href='Gjilani'>]^*Gjilani$[<\/a> ]^:<sent>$ ^191,595<num>$^.<sent>$[][<\/li>
+<li><a href='Mitrovica'>]^*Mitrovica$[<\/a> ]^:<sent>$ ^186,359<num>$^.<sent>$[][<\/li>
+<li><a href='Podujeva'>]^*Podujeva$[<\/a> ]^:<sent>$ ^48,526<num>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
