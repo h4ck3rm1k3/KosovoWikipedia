@@ -211,14 +211,7 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^21<num>$[<\/a> ]"^,<cm>$[ 
 <li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>]^,<cm>$[ <a href='4 March'>]^4<num>$ ^March<n><sg>$[<\/a> <a href='2002'>]^2002<num>$[<\/a> ]^-<guio>$[ <a href='21 January'>]^21<num>$ ^January<n><sg>$[<\/a> <a href='2006'>]^2006<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>]^,<cm>$[ <a href='10 February'>]^10<num>$ ^February<n><sg>$[<\/a> <a href='2006'>]^2006<num>$[<\/a> ]^-<guio>$ ^present<n><sg>$^.<sent>$[][<\/li>
 <\/ul>
-<p><br\/>
-<\/p>
-<a name="List_of_Prime_Ministers"><\/a><h2>]^List<n><sg>$ ^of<pr>$ ^Prime<adj>$ ^Minister<n><pl>$^.<sent>$[][<\/h2><ul>
-<li><a href='Bajram Rexhepi'>]^*Bajram$ ^*Rexhepi$[<\/a>]^,<cm>$[ <a href='4 March'>]^4<num>$ ^March<n><sg>$[<\/a> <a href='2002'>]^2002<num>$[<\/a> ]^-<guio>$[ <a href='3 December'>]^3<num>$ ^December<n><sg>$[<\/a> <a href='2004'>]^2004<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='Ramush Haradinaj'>]^*Ramush$ ^*Haradinaj$[<\/a>]^,<cm>$[ <a href='3 December'>]^3<num>$ ^December<n><sg>$[<\/a> <a href='2004'>]^2004<num>$[<\/a> ]^-<guio>$[ <a href='8 March'>]^8<num>$ ^March<n><sg>$[<\/a> <a href='2005'>]^2005<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='Bajram Kosumi'>]^*Bajram$ ^*Kosumi$[<\/a>]^,<cm>$[ <a href='23 March'>]^23<num>$ ^March<n><sg>$[<\/a> <a href='2005'>]^2005<num>$[<\/a> ]^-<guio>$[ <a href='10 March'>]^10<num>$ ^March<n><sg>$[<\/a> <a href='2006'>]^2006<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='Agim Ãeku'>]^*Agim$ Ã^*eku$[<\/a>]^,<cm>$[ <a href='10 March'>]^10<num>$ ^March<n><sg>$[<\/a> <a href='2006'>]^2006<num>$[<\/a>]^-<guio>$^present<n><sg>$^.<sent>$[][<\/li>
-<\/ul>
+<p><br\/><\/p>
 <p><br\/>
 <\/p>
 <a name="Gallery"><\/a><h2>]^Gallery<n><sg>$^.<sent>$[][<\/h2><p>&lt;]^gallery<n><sg>$[&gt;
