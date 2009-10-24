@@ -292,7 +292,7 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^20<num>$[<\/a> ]"^,<cm>$[ 
 <li> 
 <a href='http:\/\/www.eparhija-prizren.com\/defaultE.asp Diocese Kosovo of Serbian Orthodox Church'>]^73<num>$^.<sent>$[][<\/a><\/li>
 <li> 
-<a href='http:\/\/www.rs-icty.org\/frontpage.htm\/ Republic Secretariat for Relations with International Criminal Tribunal in The Hague and War Crimes Research'>]^74<num>$^.<sent>$[][<\/a><\/li>
+<a href='http:\/\/rs-icty.org\/frontpage.htm\/ Republic Secretariat for Relations with International Criminal Tribunal in The Hague and War Crimes Research'>]^74<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 ]{{^Template<n><sg>$ ^group<n><sg>$[
