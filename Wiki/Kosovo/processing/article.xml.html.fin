@@ -26,9 +26,8 @@
  ^*Thank$ ^prpers<prn><obj><p2><mf><sp>$^.$
 ^.$
 [][<\/p>
-<p>]^-<guio>$^-<guio>$^.$
-[][&gt;<\/p>
-<p>]{{^other<det><ind><sp>$ ^use<n><pl>$|^Kosovo<np><loc><sg>$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
+<p>]^-<guio>$^-<guio>$[&gt;
+]{{^other<det><ind><sp>$ ^use<n><pl>$|^Kosovo<np><loc><sg>$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
 ]{{^redirect<vblex><pres>$|^*Kosova$||^*Kosova$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
 ]^:$
 [<em>]"^Republic<n><sg>$ ^of<pr>$ ^*Kosova$" ^redirect<vblex><pri><p3><sg>$ ^here<adv>$^.$
