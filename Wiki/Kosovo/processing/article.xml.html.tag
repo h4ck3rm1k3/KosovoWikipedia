@@ -262,7 +262,7 @@
 <\/p>
 <a name="Pro-Albanian"><\/a><h3>]^*Pro$^-<guio>$^Albanian<n><sg>$^.<sent>$[][<\/h3><ul>
 <li><a href='http:\/\/www.savekosova.org\/ Save Kosova'>]^25<num>$[<\/a> ]^American<adj>$ ^Council<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^increase<vblex><ger>$ ^the<det><def><sp>$ ^awareness<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^American<adj>$ ^society<n><sg>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovaevidence.com'>]^26<num>$[<\/a> ]^*KosovoEvidence$^.<sent>$^*com$ ^-<guio>$^movie<n><sg>$ ^about<pr>$ ^what<rel><nn><mf><sg>$ ^*happend$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^during<pr>$ ^the<det><def><sp>$ ^war<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovaevidence.com KosovoEvidence.com'>]^26<num>$[<\/a> ]^-<guio>$^movie<n><sg>$ ^about<pr>$ ^what<rel><nn><mf><sg>$ ^*happend$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^during<pr>$ ^the<det><def><sp>$ ^war<n><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/BalkanUpdate.com Balkan Update'>]^27<num>$[<\/a>]^-<guio>$ ^A<det><ind><sg>$ ^*blog$ ^with<pr>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*lates$ ^update<vblex><pri><p3><sg>$ ^from<pr>$ ^*Balkans$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.eciks.org Economic Initiative for Kosovo'>]^28<num>$[<\/a> ]^-<guio>$ "^.<sent>$^.<sent>$^.<sent>$^late<adj><sint><sup>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^publication<n><pl>$ ^from<pr>$ ^the<det><def><sp>$ ^*Kosovar$ ^economy<n><sg>$"^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.albanian.com\/main\/countries\/kosova Albanian.com'>]^29<num>$[<\/a> ]^-<guio>$ ^general<adj>$ ^information<n><sg>$^.<sent>$[][<\/li>
