@@ -134,6 +134,7 @@
 <\/ul>
 <p><br\/>
 ]{{^*Serbia$_^and<cnjcoo>$_^Montenegro<np><loc><sg>$}}^.<sent>$[][<\/p>
+<p><a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$^.<sent>$[][<\/a><\/p>
 <p><a href='de:Kosovo'>]^*de$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='et:Kosovo'>]^*et$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='fr:Kosovo'>]^*fr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
