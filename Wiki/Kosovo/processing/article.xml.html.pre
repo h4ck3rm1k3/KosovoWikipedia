@@ -136,7 +136,7 @@
 <\/ul>
 <p><br\/>
 <\/p>
-<a name="References"><\/a><h3>]^Reference<n><pl>$^.<sent>$[][<\/h3><p>&lt;]^reference<n><pl>$\/^.<sent>$[][&gt;<\/p>
+<a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><p>&lt;]^reference<n><pl>$\/^.<sent>$[][&gt;<\/p>
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <ul>
 <li><a href='http:\/\/www.balkanforums.com Kosovo and the Balkans'>]^5<num>$[<\/a> ]^-<guio>$ ^Discussion<n><sg>$ ^Forum<n><sg>$^.<sent>$[][<\/li>
