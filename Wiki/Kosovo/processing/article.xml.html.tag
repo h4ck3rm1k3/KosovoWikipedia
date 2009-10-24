@@ -184,7 +184,7 @@
 <li><a href='2008 Kosovo declaration of independence'>]^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p>&lt;]\/^*div$^.<sent>$[][&gt;<\/p>
-<a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^portal<n><sg>$|^Kosovo<np><loc><sg>$|^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^*svg$}}^.<sent>$[][
+<a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^portal<n><sg>$|^Kosovo<np><loc><sg>$|^Kosovo<np><loc><sg>$ ^blue<adj>$ ^map<n><sg>$^.<sent>$^*png$}}^.<sent>$[][
 <\/p>
 <ul>
 <li>]{{^*wikiatlas$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/li>
