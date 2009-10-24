@@ -134,13 +134,13 @@
 <a href='Image:Kosovo ethnic 2005.png|right|thumb|270px|Ethnic composition of Kosovo in \[\[2005'>]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^ethnic<adj>$ ^2005<num>$^.<sent>$^*png$|^right<adj>$|^thumb<n><sg>$|^270<num>$^*px$|^Ethnic<adj>$ ^composition<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^in<pr>$ ^\[<lpar>$^\[<lpar>$^2005<num>$[<\/a> ]^according to<pr>$ ^the<det><def><sp>$[ <a href='OSCE'>]^*OSCE$[<\/a>]^\]<rpar>$^\]<rpar>$[
 ]^According to<pr>$ ^the<det><def><sp>$ ^Kosovo<np><loc><sg>$ ^in<pr>$ ^Figure<n><pl>$ ^2005<num>$ ^Survey<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Statistical<adj>$ ^Office<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$[&lt;]^*ref$[&gt;]^*http$^:<sent>$\/\/^www.ks-gov.net<num>$\/^*esk$\/^*esk$\/^*pdf$\/^*english$\/^general<adj>$\/^*kosovo$_^figure<n><pl>$_^05<num>$^.<sent>$^*pdf$[  &lt;]\/^*ref$[&gt; ]^Kosovo<np><loc><sg>$^'s<gen>$ ^total<adj>$ ^population<n><sg>$ ^be<vbser><pri><p3><sg>$ ^estimate<vblex><pp>$ ^between<pr>$ ^1.9<num>$ ^and<cnjcoo>$ ^2.2<num>$ ^million<num><sp>$ ^in<pr>$ ^the<det><def><sp>$ ^follow<vblex><ger>$ ^ethnic<adj>$ ^proportion<n><pl>$^:<sent>$^.<sent>$[][<\/p>
 <ul>
-<li><em>]^88%<num><percent>$[<\/em> <a href='Albanians'>]^Albanian<n><pl>$[<\/a> ]^(<lpar>$^between<pr>$ ^1,972<num>$^,<cm>$^000<num>$ ^and<cnjcoo>$ ^2,100<num>$^,<cm>$^000<num>$^)<rpar>$^.<sent>$[][<\/li>
+<li><em>]^90%<num><percent>$[<\/em> <a href='Albanians'>]^Albanian<n><pl>$[<\/a> ]^(<lpar>$^between<pr>$ ^1,980<num>$^,<cm>$^000<num>$ ^and<cnjcoo>$ ^2,100<num>$^,<cm>$^000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
-<em>]^7%<num><percent>$[<\/em> <a href='Serbs'>]^*Serbs$[<\/a> ]^(<lpar>$^between<pr>$ ^126,000<num>$ ^and<cnjcoo>$ ^140,000<num>$^)<rpar>$^.<sent>$[][<\/li>
+<em>]^6%<num><percent>$[<\/em> <a href='Serbs'>]^*Serbs$[<\/a> ]^(<lpar>$^between<pr>$ ^100,000<num>$ ^and<cnjcoo>$ ^130,000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
-<em>]^1.9%<num><percent>$[<\/em> <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^(<lpar>$^between<pr>$ ^34,200<num>$ ^and<cnjcoo>$ ^38,000<num>$^)<rpar>$^.<sent>$[][<\/li>
+<em>]^1.6%<num><percent>$[<\/em> <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^(<lpar>$^between<pr>$ ^30,200<num>$ ^and<cnjcoo>$ ^35,000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
-<em>]^1.7%<num><percent>$[<\/em> <a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$[<\/a> ]^(<lpar>$^between<pr>$ ^30,600<num>$ ^and<cnjcoo>$ ^34,000<num>$^)<rpar>$ ^(<lpar>$^see<vblex><pres>$ ^also<adv>$[ <a href='Roma in Mitrovica Camps'>]^*Roma$ ^in<pr>$ ^*Mitrovica$ ^Camp<n><pl>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
+<em>]^1.6%<num><percent>$[<\/em> <a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$[<\/a> ]^(<lpar>$^between<pr>$ ^30,000<num>$ ^and<cnjcoo>$ ^35,000<num>$^)<rpar>$ ^(<lpar>$^see<vblex><pres>$ ^also<adv>$[ <a href='Roma in Mitrovica Camps'>]^*Roma$ ^in<pr>$ ^*Mitrovica$ ^Camp<n><pl>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li><em>]^1%<num><percent>$[<\/em> <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$[<\/a> ]^(<lpar>$^between<pr>$ ^18,000<num>$ ^and<cnjcoo>$ ^20,000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li><em>]^0,5%<num><percent>$[<\/em> <a href='Gorani (Kosovo)|Gorani'>]^*Gorani$ ^(<lpar>$^Kosovo<np><loc><sg>$^)<rpar>$|^*Gorani$[<\/a> ]^(<lpar>$^*approx$^.<sent>$ ^10,000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
