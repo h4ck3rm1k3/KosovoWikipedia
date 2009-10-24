@@ -311,6 +311,7 @@
 <a href='az:Kosovo'>]^*az$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='bn:à¦à¦¸à§à¦­à§'>]^*bn$^:<sent>$^*à$¦^*à$¦¸^*à$§^*à$¦­^*à$§[<\/a>
 <a href='zh-min-nan:Kosovo'>]^*zh$^-<guio>$^*min$^-<guio>$^*nan$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='be:ÐÐ¾ÑÐ°Ð²Ð°'>]^be<vbser><inf>$^:<sent>$ÐÐ¾^*Ñ$Ð°Ð²Ð°[<\/a>
 <a href='be-x-old:ÐÐ¾ÑÐ°Ð²Ð°'>]^be<vbser><inf>$^-<guio>$^*x$^-<guio>$^old<adj><sint>$^:<sent>$ÐÐ¾^*Ñ$Ð°Ð²Ð°[<\/a>
 <a href='bs:Kosovo'>]^*bs$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='br:Kosovo'>]^*br$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
