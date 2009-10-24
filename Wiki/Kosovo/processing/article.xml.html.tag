@@ -89,6 +89,9 @@
 <\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><ul>
 <li><a href='Assembly of Kosovo'>]^Assembly<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Kosovo Government'>]^Kosovo<np><loc><sg>$ ^Government<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Prime Minister of Kosovo'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='President of Kosovo'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Battle of Kosovo|Battle of Kosovo (1389)'>]^Battle<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Battle<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^1389<num>$^)<rpar>$^.<sent>$[][<\/a><\/li>
 <li>   
 <a href='National awakening and the birth of Albania'>]^National<adj>$ ^awaken<vblex><ger>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^birth<n><sg>$ ^of<pr>$ ^*Albania$^.<sent>$[][<\/a><\/li>
