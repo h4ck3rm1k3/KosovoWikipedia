@@ -80,7 +80,7 @@
 ]^appear<vblex><pres>$ ^as<preadv>$ ^the most<det><qnt><sp>$ ^stable<n><sg>$ ^and<cnjcoo>$ ^the most<det><qnt><sp>$ ^conservative<adj>$ ^ethnic<adj>$ ^element<n><sg>$ ^in<pr>$[
 ]^the<det><def><sp>$ ^area<n><sg>$ ^where<rel><adv>$ ^everything<prn><tn><m><sg>$ ^be<vbser><past><p3><sg>$ ^expose<vblex><pp>$ ^to<pr>$ ^constant<adj>$ ^change<n><sg>$^,<cm>$ ^and<cnjcoo>$ ^also<adv>$[
 ]^because<cnjadv>$ ^prpers<prn><subj><p3><mf><pl>$^,<cm>$ ^with<pr>$ ^their<det><pos><sp>$ ^root<n><pl>$ ^in<pr>$ ^the<det><def><sp>$ ^distant<adj>$ ^*prehomeric$ ^age<n><sg>$^,<cm>$ ^and<cnjcoo>$[
-]^live<vblex><ger>$ ^in<pr>$ ^the<det><def><sp>$ ^frontier<n><pl>$ ^of<pr>$ ^the<det><def><sp>$[ &lt;]^*b$[&gt;]^*Illyrian$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*Thracian$[&lt;]\/^*b$[&gt; ]^world<n><pl>$[
+]^live<vblex><ger>$ ^in<pr>$ ^the<det><def><sp>$ ^frontier<n><pl>$ ^of<pr>$[ &lt;]^*b$[&gt;]^the<det><def><sp>$ ^*Illyrian$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*Thracian$[&lt;]\/^*b$[&gt; ]^world<n><pl>$[
 ]^retain<vblex><past>$ ^their<det><pos><sp>$ ^individuality<n><sg>$ ^and<cnjcoo>$^,<cm>$ ^alone<adv>$ ^among<pr>$ ^the<det><def><sp>$ ^*peoples$ ^of<pr>$ ^that<det><dem><sg>$[
 ]^region<n><sg>$ ^succeed<vblex><pp>$ ^in<pr>$ ^maintain<vblex><ger>$ ^themselves<prn><ref><p3><mf><pl>$ ^as<pr>$ ^a<det><ind><sg>$ ^ethnic<adj>$ ^unity<n><sg>$ ^even<adv>$[
 ]^when<adv><itg>$ ^prpers<prn><subj><p3><mf><pl>$ ^be<vbser><past>$ ^militarily<adv>$ ^and<cnjcoo>$ ^politically<adv>$ ^subject<vblex><pp>$ ^by<pr>$ ^the<det><def><sp>$ ^Roman<np><ant><m><sg>$[
