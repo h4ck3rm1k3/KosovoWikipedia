@@ -277,9 +277,8 @@
 <li><a href='http:\/\/www.csdbalkans.org\/roma Kosovo Roma Oral History Project'>]^30<num>$[<\/a> ]^A<det><ind><sg>$ ^*advocacy$ ^*website$ ^for<pr>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^*Roma$\/ ^*Gypsies$^,<cm>$ ^with<pr>$ ^significant<adj>$ ^detail<n><pl>$ ^on<pr>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^contest<vblex><pp>$ ^history<n><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.eciks.org\/english\/index.php ECIKS'>]^31<num>$[<\/a> ]^Economic<adj>$ ^Initiative<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^information<n><sg>$ ^on<pr>$ ^investment<n><sg>$ ^opportunity<n><pl>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.state.gov\/www\/regions\/eur\/rpt_990604_ksvo_ethnic.html US State Dept. fact sheet "The Ethnic Cleansing of Kosovo"'>]^32<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/kosovonosevende.wordpress.com\/ Kosovo No Se Vende.'>]^33<num>$^.<sent>$[][<\/a><\/li>
-<li> 
-<a href='http:\/\/www.xhakli.com\/2004\/05\/25\/kosovo-search-challenge-helping-people-find-information-from-kosovo.php Kosovo Blog Online"'>]^34<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Search<n><sg>$ ^Challenge<n><sg>$^:<sent>$ ^Help<vblex><ger>$ ^person<n><pl>$ ^find<vblex><inf>$ ^information<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^the<det><def><sp>$ ^positive<adj>$ ^side<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/kosovonosevende.wordpress.com\/ Kosovo No Se Vende.'>]^33<num>$[<\/a> ]^Independent<adj>$ ^analysis<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><pl>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.xhakli.com\/2004\/05\/25\/kosovo-search-challenge-helping-people-find-information-from-kosovo.php Kosovo Blog Online"'>]^34<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Search<n><sg>$ ^Challenge<n><sg>$^:<sent>$ ^Help<vblex><ger>$ ^person<n><pl>$ ^find<vblex><inf>$ ^information<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^the<det><def><sp>$ ^positive<adj>$ ^side<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.nato.int\/kfor\/ KFOR'>]^35<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Force<n><pl>$ ^(<lpar>$^*KFOR$^)<rpar>$ ^NATO<n><acr><sg>$ ^*peacekeeping$ ^force<n><pl>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
