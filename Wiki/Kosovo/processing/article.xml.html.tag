@@ -92,7 +92,7 @@
 <\/ul>
 <p><br\/>
 <\/p>
-<a name="Pro-Serb"><\/a><h3>]^*Pro$^-<guio>$^*Serb$^.<sent>$[][<\/h3><ul>
+<a name="Serbian_Sources"><\/a><h3>]^*Serbian$ ^Source<n><pl>$^.<sent>$[][<\/h3><ul>
 <li><a href='http:\/\/www.kosovo.com\/ Kosovo.com'>]^15<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohia'>]^16<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.b92.net\/english\/news\/index.php?order=priority&amp;nav_category=19 News from B92 Belgrade'>]^17<num>$^.<sent>$[][<\/a><\/li>
