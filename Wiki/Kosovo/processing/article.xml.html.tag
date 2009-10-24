@@ -379,7 +379,7 @@
 <a href='fi:Kosovo'>]^*fi$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='sv:Kosovo'>]^*sv$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ta:à®à¯à®à¯à®µà¯'>]^*ta$^:<sent>$^*à$®^*à$¯^*à$®^*à$¯^*à$®µ^*à$¯[<\/a>
-<a href='th:Kosovo'>]^*th$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='th:à¸à¸­à¸à¸­à¸§à¸­'>]^*th$^:<sent>$^*à$¸^*à$¸­^*à$¸^*à$¸­^*à$¸§^*à$¸­[<\/a>
 <a href='vi:Kosovo'>]^*vi$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='tr:Kosova'>]^*tr$^:<sent>$^*Kosova$[<\/a>
 <a href='uk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*uk$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
