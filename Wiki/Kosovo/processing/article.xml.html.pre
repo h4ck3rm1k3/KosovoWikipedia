@@ -12,8 +12,8 @@
 ]{|[ 
 ]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong>]^*Kosova$[<\/strong>&lt;]^*br$\/[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt;]^'<apos>$^'<apos>$^'<apos>$^Kosovo<np><loc><sg>$[&lt;]\/^big<adj><sint>$[&gt;&lt;]\/^big<adj><sint>$[&gt;
 ]|^-<guio>$[
-]| ^*align$=^centre<n><sg>$ ^width<n><sg>$=^142<num>$ | {{^border<n><sg>$|[<a href='Image:Kosovo.gif|140px|Flag of Kosovo'>]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$^.<sent>$^*gif$|^140<num>$^*px$|^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>]}}[&lt;]^*br$\/[&gt;<a href='Flag of Kosovo'>]^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
-]|}[
+]| ^*align$=^centre<n><sg>$ |[ <a href='Image:Kosovo.gif|140px|Flag of Kosovo'>]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$^.<sent>$^*gif$|^140<num>$^*px$|^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> <a href='Flag of Kosovo'>]^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
+]|^-<guio>$[
 ]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-Kosovo2.png'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^2<num>$^.<sent>$^*png$[<\/a>
 ]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
