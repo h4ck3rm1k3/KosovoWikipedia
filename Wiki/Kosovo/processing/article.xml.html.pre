@@ -198,7 +198,7 @@
 <li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^31<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^32<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.axisglobe.com\/article.asp?article=689 Southern Serbia: The second Kosovo?'>]^33<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/serbo.blogspot.com Kosovo News blog'>]^34<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/serbo.blogspot.com Serbo News and opinions about Serbia and Balkans.'>]^34<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^35<num>$[<\/a> ]^*Serbian$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovo.net\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^36<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
 <\/ul>
