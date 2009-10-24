@@ -41,7 +41,7 @@
 ]|^establish<vblex><pp>$_^date<n><sg>$^2<num>$[           ]=[ <a href='Circa|c.'>]^*Circa$|^*c$^.<sent>$[<\/a><a href='1208'>]^1208<num>$[<\/a>
 ]|^establish<vblex><pp>$_^event<n><sg>$^3<num>$[          ]= ^*Feudal$[ <a href='demesne'>]^*demesne$[<\/a>
 ]|^establish<vblex><pp>$_^date<n><sg>$^3<num>$[           ]= ^late<adj><sint>$ ^14<num>$^*th$ ^century<n><sg>$[
-]|^establish<vblex><pp>$_^event<n><sg>$^4<num>$[          ]= ^*Ottoman$ ^Empire<n><sg>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^4<num>$[          ]=[ <a href='Ottoman Empire'>]^*Ottoman$ ^Empire<n><sg>$[<\/a>
 ]|^establish<vblex><pp>$_^date<n><sg>$^4<num>$[           ]= ^15<num>$^*th$ ^century<n><sg>$[
 ]|^establish<vblex><pp>$_^event<n><sg>$^5<num>$[          ]=[ <a href='Kosovo Province, Ottoman Empire|Vilayet of Kosovo'>]^Kosovo<np><loc><sg>$ ^Province<n><sg>$^,<cm>$ ^*Ottoman$ ^Empire<n><sg>$|^*Vilayet$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
 ]|^establish<vblex><past>$_^date<n><sg>$^5<num>$[           ]=[ <a href='1864'>]^1864<num>$[<\/a>
