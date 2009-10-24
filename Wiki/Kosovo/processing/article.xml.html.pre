@@ -448,6 +448,7 @@
 <a href='sh:Kosovo i Metohija'>]^*sh$^:<sent>$^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/a>
 <a href='fi:Kosovo'>]^*fi$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='sv:Kosovo'>]^*sv$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='ta:à®à¯à®à¯à®µà¯'>]^*ta$^:<sent>$^*à$®^*à$¯^*à$®^*à$¯^*à$®µ^*à$¯[<\/a>
 <a href='th:à¸à¸­à¹à¸à¹à¸§'>]^*th$^:<sent>$^*à$¸^*à$¸­^*à$¹^*à$¸^*à$¹^*à$¸§[<\/a>
 <a href='vi:Kosovo'>]^*vi$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='tr:Kosova'>]^*tr$^:<sent>$^*Kosova$[<\/a>
