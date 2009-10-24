@@ -185,6 +185,7 @@
 <a href='nl:Kosovo'>]^*nl$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='nds:Kosovo'>]^*nds$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ja:ã³ã½ã'>]^*ja$^:<sent>$ã³ã½ã[<\/a>
+<a href='nn:Kosovo'>]^*nn$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='no:Kosovo'>]^no<adv>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='pl:Kosowo i Metohija'>]^*pl$^:<sent>$^*Kosowo$ ^*i$ ^*Metohija$[<\/a>
 <a href='pt:Kosovo'>]^*pt$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
