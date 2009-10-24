@@ -9,6 +9,7 @@
 <body>
     <h1><\/h1>
 <p>]{{^POV<n><acr><sg>$^-<guio>$^check<n><sg>$}}[
+
 ]{|[ 
 ]|^-<guio>$[
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[
