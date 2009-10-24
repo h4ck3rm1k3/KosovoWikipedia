@@ -24,7 +24,7 @@
 ]|^Acting<adj>$ ^President<n><sg>$[ <a href='Nexhat Daci'>]^*Nexhat$ ^*Daci$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Prime Minister of Kosovo|Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Prime<adj>$ ^Minister<n><sg>$[<\/a>
-]|[ <a href='Bajram Kusumi'>]^*Bajram$ ^*Kusumi$[<\/a>
+]|[ <a href='Bajram Kosumi'>]^*Bajram$ ^*Kosumi$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Area'>]^Area<n><sg>$[<\/a>&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[&amp;]^*ndash$^;<sent>$ ^Total<n><sg>$[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[&amp;]^*ndash$^;<sent>$ % ^water<n><sg>$[
 ]|[ &lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[<a href='1 E10 mÂ²|10,887'>]^1<num>$ ^*E$^10<num>$ ^*mÂ$²|^10,887<num>$[<\/a> ]^*kmÂ$²[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$^*n$\/^a<det><ind><sg>$[
@@ -75,9 +75,7 @@
 <\/ul>
 <a name="Prime_Ministers"><\/a><h2>]^Prime<adj>$ ^Minister<n><pl>$^.<sent>$[][<\/h2><ul>
 <li><a href='Bajram Rexhepi'>]^*Bajram$ ^*Rexhepi$^.<sent>$[][<\/a><\/li>
-<\/ul>
-<p><a href=''><\/a><\/p>
-<ul>
+<li><a href=''><\/a><\/li>
 <li><a href='Bajram Kosumi'>]^*Bajram$ ^*Kosumi$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><ul>
