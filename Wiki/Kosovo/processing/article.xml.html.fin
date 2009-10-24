@@ -505,8 +505,7 @@
 ^*bbc$^.$
 ^*co$^.$
 ^*uk$\/^1<num>$\/^*hi$\/^world<adj>$\/^*europe$\/^country<n><sg>$_^profile<n><pl>$\/^3524092<num>$^.$
-^*stm$[&lt;]\/^*ref$[&gt;&lt;]^*ref$[&gt;]^*http$^:$
-\/\/^www.britannica.com<num>$\/^*ebc$\/^article<n><sg>$^-<guio>$^9369404<num>$[&lt;]\/^*ref$[&gt; ]^Kosovo<np><loc><sg>$^'s<gen>$ ^total<adj>$ ^population<n><sg>$ ^be<vbser><pri><p3><sg>$ ^estimate<vblex><pp>$ ^between<pr>$ ^1.9<num>$ ^and<cnjcoo>$ ^2.3<num>$ ^million<num><sp>$ ^in<pr>$ ^the<det><def><sp>$ ^follow<vblex><ger>$ ^ethnic<adj>$ ^proportion<n><pl>$ ^(<lpar>$^but<cnjcoo>$ ^many<prn><tn><mf><pl>$ ^*pre$^-<guio>$^1999<num>$ ^*Kosovar$ ^*Serbs$ ^and<cnjcoo>$ ^individual<n><pl>$ ^from<pr>$ ^other<det><ind><sp>$ ^ethnic<adj>$ ^group<n><pl>$ ^originally<adv>$ ^from<pr>$ ^Kosovo<np><loc><sg>$ ^now<adv>$ ^live<vblex><inf>$ ^in<pr>$[ <a href='Central Serbia'>]^Central<adj>$ ^*Serbia$[<\/a>]^,<cm>$ ^about<pr>$ ^250.000<num>$^-<guio>$^350.000<num>$^)<rpar>$^.$
+^*stm$[&lt;]\/^*ref$[&gt; ]^Kosovo<np><loc><sg>$^'s<gen>$ ^total<adj>$ ^population<n><sg>$ ^be<vbser><pri><p3><sg>$ ^estimate<vblex><pp>$ ^between<pr>$ ^1.9<num>$ ^and<cnjcoo>$ ^2.2<num>$ ^million<num><sp>$ ^in<pr>$ ^the<det><def><sp>$ ^follow<vblex><ger>$ ^ethnic<adj>$ ^proportion<n><pl>$ ^(<lpar>$^but<cnjcoo>$ ^many<prn><tn><mf><pl>$ ^*pre$^-<guio>$^1999<num>$ ^*Kosovar$ ^*Serbs$ ^and<cnjcoo>$ ^individual<n><pl>$ ^from<pr>$ ^other<det><ind><sp>$ ^ethnic<adj>$ ^group<n><pl>$ ^originally<adv>$ ^from<pr>$ ^Kosovo<np><loc><sg>$ ^now<adv>$ ^live<vblex><inf>$ ^in<pr>$[ <a href='Central Serbia'>]^Central<adj>$ ^*Serbia$[<\/a>]^,<cm>$ ^about<pr>$ ^250.000<num>$^-<guio>$^350.000<num>$^)<rpar>$^.$
  ^The<det><def><sp>$ ^estimate<n><sg>$ ^from<pr>$ ^2000<num>$^-<guio>$^2002<num>$^-<guio>$^2003<num>$ ^go<vblex><pri><p3><sg>$ ^(<lpar>$^a<det><ind><sg>$ ^1,900<num>$^,<cm>$^000<num>$ ^strong<adj><sint>$ ^population<n><sg>$^)<rpar>$^:$
 ^.$
 [][<\/p>
@@ -524,7 +523,7 @@
 [][<\/a><\/li>
 <\/ul>
 <p><br\/>
-]^Muslim<n><pl>$ ^account<n><sg>$ ^for<pr>$ ^more<preadv>$ ^than<cnjcoo>$ ^94%<num><percent>$ ^of<pr>$ ^the<det><def><sp>$ ^population<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[&lt;]^*ref$[&gt;]^*http$^:$
+]^Muslim<n><pl>$ ^account<n><sg>$ ^for<pr>$ ^more<preadv>$ ^than<cnjcoo>$ ^90%<num><percent>$ ^of<pr>$ ^the<det><def><sp>$ ^population<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[&lt;]^*ref$[&gt;]^*http$^:$
 \/\/^www.crisisgroup.org<num>$\/^home<n><sg>$\/^index<n><sg>$^.$
 ^*cfm$^?$
 ^*id$=^1591<num>$[&amp;]^*l$=^1<num>$[&lt;]\/^*ref$[&gt; ]^*Catholicism$ ^and<cnjcoo>$ ^*Orthodoxy$ ^be<vbser><pres>$ ^also<adv>$ ^practice<vblex><pp>$ ^by<pr>$ ^the<det><def><sp>$ ^person<n><pl>$^.$
@@ -564,9 +563,9 @@
 ^.$
 [][<\/p>
 <a name="Cities"><\/a><h2>]^City<n><pl>$^.$
-[][<\/h2><p><a href='Image:Prishtina maj 2005.jpg|thumb|200px|Prishtina.'>]^Image<n><sg>$^:$
+[][<\/h2><p><a href='Image:Prishtina maj 2005.jpg|thumb|200px|PriÅ¡tina.'>]^Image<n><sg>$^:$
 ^*Prishtina$ ^*maj$ ^2005<num>$^.$
-^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^*Prishtina$^.$
+^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^*Pri$Å^¡<lquest>$^*tina$^.$
 ^.$
 [][<\/a><\/p>
 <p>]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^for<pr>$ ^2006<num>$^)<rpar>$^:$
@@ -576,31 +575,28 @@
 ^*x$=[&amp;]^man<n><pl>$=^*gcis$[&amp;]^*lng$=^*en$[&amp;]^*dat$=^32<num>$[&amp;]^*srt$=^*npan$[&amp;]^*col$=^*aohdq$[&amp;]^*geo$=^-<guio>$^244<num>$[&lt;]\/^*ref$^.$
 [][&gt;<\/p>
 <ul>
-<li><a href='PrishtinÃ«'>]^*Prishtin$Ã«[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*Pri$Å^¡<lquest>$^*tina$}}^)<rpar>$^:$
+<li><a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Prishtin$Ã«}}^)<rpar>$^:$
  ^571,532<num>$^.$
 [][<\/li>
-<li><a href='MitrovicÃ«'>]^*Mitrovic$Ã«[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*Kosovska$ ^*Mitrovica$}}^)<rpar>$^:$
- ^198,659<num>$^.$
-[][<\/li>
-<li><a href='Vushtrri '>]^*Vushtrri$[ <\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*VuÄ$^*itrn$}}^)<rpar>$^:$
- ^102,662<num>$^.$
-[][<\/li>
-<li><a href='Prizren'>]^*Prizren$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*Prizren$}}^)<rpar>$^:$
+<li><a href='Prizren'>]^*Prizren$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Prizreni$}}^)<rpar>$^:$
  ^165,229<num>$^.$
 [][<\/li>
-<li><a href='Ferizaj'>]^*Ferizaj$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*Uro$Å^¡<lquest>$^*evacj$}}^)<rpar>$^:$
+<li><a href='UroÅ¡evac'>]^*Uro$Å^¡<lquest>$^*evac$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Ferizaji$}}^)<rpar>$^:$
  ^197,741<num>$^.$
 [][<\/li>
-<li><a href='GjakovÃ«'>]^*Gjakov$Ã«[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^\[<lpar>$^*Ä$^*akovica$}}^)<rpar>$^:$
+<li><a href='Äakovica'>]^*Ä$^*akovica$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Gjakova$}}^)<rpar>$^:$
  ^127,156<num>$^.$
 [][<\/li>
-<li><a href='PeÄ|PejÃ«'>]^*PeÄ$|^*Pej$Ã«[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*PeÄ$}}^)<rpar>$^:$
+<li><a href='PeÄ'>]^*PeÄ$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Peja$}}^)<rpar>$^:$
  ^195,190<num>$^.$
 [][<\/li>
-<li><a href='Gjilan'>]^*Gjilan$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*Gnjilane$}}^)<rpar>$^:$
+<li><a href='Gnjilane'>]^*Gnjilane$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Gjilani$}}^)<rpar>$^:$
  ^191,595<num>$^.$
 [][<\/li>
-<li><a href='PodujevÃ«'>]^*Podujev$Ã«[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*Podujevo$}}^)<rpar>$^:$
+<li><a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Mitrovic$Ã«}}^)<rpar>$^:$
+ ^186,359<num>$^.$
+[][<\/li>
+<li><a href='Podujevo'>]^*Podujevo$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Podujeva$}}^)<rpar>$^:$
  ^48,526<num>$^.$
 [][<\/li>
 <\/ul>
@@ -655,15 +651,19 @@
 [][<\/h2><p>&lt;]^gallery<n><sg>$[&gt;
 ]^Image<n><sg>$^:$
 ^Kosovo<np><loc><sg>$_^government<n><sg>$^.$
-^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^in<pr>$ ^*Prishtina$^.$
+^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^in<pr>$ ^*Pri$Å^¡<lquest>$^*tina$^.$
 [
 ]^Image<n><sg>$^:$
 ^*Prizen$ ^*kosovo$^.$
 ^*jpg$|^*Prizren$^.$
 [
 ]^Image<n><sg>$^:$
+^*Erzengelkloster$^2<num>$^.$
+^*jpg$|[<a href='Serbs in Kosovo|Serb'>]^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^*Serb$[<\/a> ]^*monastery$^,<cm>$ ^*St$ ^*Archangel$^,<cm>$ ^near<adj><sint>$ ^river<n><sg>$[ <a href='Bistrica'>]^*Bistrica$[<\/a>]^.$
+[
+]^Image<n><sg>$^:$
 ^*Gjakova$^.$
-^*jpg$|[<a href='Äakovica|GjakovÃ«'>]^*Ä$^*akovica$|^*Gjakov$Ã«[<\/a>]^.$
+^*jpg$|[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]^.$
 [
 ]^Image<n><sg>$^:$
 ^*VeshjeKombetare$^.$
@@ -678,12 +678,12 @@
 ^*jpg$|^*Serbian$ ^*monastery$ ^in<pr>$[ <a href='PeÄ'>]^*PeÄ$[<\/a>]^.$
 [
 ]^Image<n><sg>$^:$
-^Kosovo<np><loc><sg>$ ^*Polje$ ^*sized$^.$
-^*jpg$|[<a href='Kosovo Polje|FushÃ« KosovÃ«'>]^Kosovo<np><loc><sg>$ ^*Polje$|^*Fush$Ã« ^*Kosov$Ã«[<\/a>]^.$
+^*Prizren$ ^004<num>$^.$
+^*JPG$|^*Serbian$ ^*monastery$ ^in<pr>$ ^*Prizren$^.$
 [
 ]^Image<n><sg>$^:$
-^*Erzengelkloster$^2<num>$^.$
-^*jpg$|[<a href='Serbs in Kosovo|Serb'>]^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^*Serb$[<\/a> ]^*monastery$^,<cm>$ ^*St$ ^*Archangel$^,<cm>$ ^near<adj><sint>$ ^river<n><sg>$[ <a href='Bistrica'>]^*Bistrica$[<\/a>]^.$
+^Kosovo<np><loc><sg>$ ^*Polje$ ^*sized$^.$
+^*jpg$|[<a href='Kosovo Polje'>]^Kosovo<np><loc><sg>$ ^*Polje$[<\/a>]^.$
 [
 &lt;]\/^gallery<n><sg>$^.$
 [][&gt;<\/p>
