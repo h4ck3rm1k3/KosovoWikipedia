@@ -324,7 +324,7 @@
 <a href='Category:Balkans'>]^Category<n><sg>$^:<sent>$^*Balkans$[<\/a>
 <a href='Category:Subdivisions of Serbia'>]^Category<n><sg>$^:<sent>$^*Subdivisions$ ^of<pr>$ ^*Serbia$[<\/a>
 <a href='Category:Unrecognized or largely-unrecognized states'>]^Category<n><sg>$^:<sent>$^*Unrecognized$ ^or<cnjcoo>$ ^largely<adv>$^-<guio>$^*unrecognized$ ^state<n><pl>$[<\/a>
-<a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$^.<sent>$[][<\/a><\/p>
+<a href='Category:Disputed territories in Europe'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$ ^in<pr>$ ^Europe<np><loc><sg>$^.<sent>$[][<\/a><\/p>
 <p><a href='af:Kosovo'>]^*af$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='als:Kosovo'>]^*als$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ang:Kosovo'>]^*ang$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
