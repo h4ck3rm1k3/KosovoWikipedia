@@ -193,7 +193,7 @@
 <li><a href='Prishtina District'>]^*Prishtina$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Gjilane District'>]^*Gjilane$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='PeÄ District'>]^*PeÄ$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Gjakovica District'>]^*Gjakovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Äakovica District'>]^*Ä$^*akovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Prizren District'>]^*Prizren$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='UroÅ¡evac District'>]^*Uro$Å^¡<lquest>$^*evac$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
