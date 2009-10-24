@@ -219,6 +219,14 @@
 <\/p>
 <a name="List_of_Presidents"><\/a><h2>]^List<n><sg>$ ^of<pr>$ ^President<n><pl>$^.<sent>$[][<\/h2><p>]^List<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^president<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<a href='http:\/\/www.worldstatesmen.org\/Yugoslavia.html#Kosovo'>]^11<num>$[<\/a>]^:<sent>$^.<sent>$[][<\/p>
 <ul>
+<li><a href='Xhavit Nimani'>]^*Xhavit$ ^*Nimani$[<\/a>]^,<cm>$[ <a href='1974'>]^1974<num>$[<\/a>]^-<guio>$[<a href='1981'>]^1981<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='Ali Shukriu'>]^Ali<np><ant><m><sg>$ ^*Shukriu$[<\/a>]^,<cm>$[ <a href='1981'>]^1981<num>$[<\/a>]^-<guio>$[<a href='1982'>]^1982<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='KolÃ« Shiroka'>]^*Kol$Ã« ^*Shiroka$[<\/a>]^,<cm>$[ <a href='1982'>]^1982<num>$[<\/a>]^-<guio>$[<a href='1983'>]^1983<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='Shefqet Nebih Gashi'>]^*Shefqet$ ^*Nebih$ ^*Gashi$[<\/a>]^,<cm>$[ <a href='1983'>]^1983<num>$[<\/a>]^-<guio>$[<a href='1985'>]^1985<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='Branislav Skembarevic'>]^*Branislav$ ^*Skembarevic$[<\/a>]^,<cm>$[ <a href='1985'>]^1985<num>$[<\/a>]^-<guio>$[<a href='1986'>]^1986<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='Bajram Selani'>]^*Bajram$ ^*Selani$[<\/a>]^,<cm>$[ <a href='1986'>]^1986<num>$[<\/a>]^-<guio>$[<a href='1988'>]^1988<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='Remzi Kolgeci'>]^*Remzi$ ^*Kolgeci$[<\/a>]^,<cm>$[ <a href='1988'>]^1988<num>$[<\/a>]^-<guio>$[<a href='1989'>]^1989<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='Hysen KajdomÃ§aj'>]^*Hysen$ ^*Kajdom$Ã§^*aj$[<\/a>]^,<cm>$[ <a href='1989'>]^1989<num>$[<\/a>]^-<guio>$[<a href='1990'>]^1990<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>]^,<cm>$[ <a href='1992'>]^1992<num>$[<\/a>]^-<guio>$[<a href='2006'>]^2006<num>$[<\/a> ]^(<lpar>$^*deceased$^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>]^,<cm>$[ <a href='2006'>]^2006<num>$[<\/a>]^-<guio>$^present<n><sg>$^.<sent>$[][<\/li>
 <\/ul>
