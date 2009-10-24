@@ -630,10 +630,12 @@
 ^*Erzengelkloster$^2<num>$^.$
 ^*jpg$|[<a href='Serbs in Kosovo|Serb'>]^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^*Serb$[<\/a> ]^*monastery$^,<cm>$ ^*St$ ^*Archangel$^,<cm>$ ^near<adj><sint>$ ^river<n><sg>$[ <a href='Bistrica'>]^*Bistrica$[<\/a>]^.$
 [
-]^Image<n><sg>$^:$
+&lt;]^!$
+^-<guio>$^-<guio>$ ^Delete<vblex><pp>$ ^image<n><sg>$ ^remove<vblex><past>$^:$
+ ^Image<n><sg>$^:$
 ^*Pamje$_^*kacaniku$^.$
 ^*JPG$|[<a href='KaÄanik'>]^*KaÄ$^*anik$[<\/a>]^.$
-[
+ ^-<guio>$^-<guio>$[&gt;
 ]^Image<n><sg>$^:$
 ^*Gjakova$^.$
 ^*jpg$|[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]^.$
