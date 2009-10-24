@@ -301,6 +301,7 @@
 ]|^list<n><sg>$[  ]=[
 ]{{^Country<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$}}[
 ]{{^Non<adv>$^-<guio>$^sovereign<adj>$ ^territory<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$ |^expand<vblex><past>$=^*Unrecognized$}}[
+]{{^Balkan<adj>$ ^country<n><pl>$}}[
 ]}}[
 ]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<vblex><pres>$ = ^International<adj>$ ^organization<n><pl>$[

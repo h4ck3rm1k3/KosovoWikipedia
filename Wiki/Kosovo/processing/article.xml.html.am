@@ -301,6 +301,7 @@
 ]|^list/list<n><sg>/list<vblex><inf>/list<vblex><pres>$[  ]=[
 ]{{^Countries/Country<n><pl>$ ^of/of<pr>$ ^Europe/Europe<np><loc><sg>$}}[
 ]{{^Non/Non<adv>$^-/-<guio>$^sovereign/sovereign<adj>/sovereign<n><sg>$ ^territories/territory<n><pl>$ ^of/of<pr>$ ^Europe/Europe<np><loc><sg>$ |^expanded/expand<vblex><past>/expand<vblex><pp>$=^Unrecognized/*Unrecognized$}}[
+]{{^Balkan/Balkan<adj>$ ^countries/country<n><pl>$}}[
 ]}}[
 ]{{^Template/Template<n><sg>$ ^group/group<n><sg>$[
 ]|^title/title<n><sg>/title<vblex><inf>/title<vblex><pres>$ = ^International/International<adj>$ ^organizations/organization<n><pl>$[
