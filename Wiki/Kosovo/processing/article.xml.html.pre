@@ -269,9 +269,8 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^19<num>$[<\/a> ]"^,<cm>$[ 
 <li><a href='http:\/\/www.nato.int\/kfor\/ KFOR'>]^48<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Force<n><pl>$ ^(<lpar>$^*KFOR$^)<rpar>$ ^NATO<n><acr><sg>$ ^*peacekeeping$ ^force<n><pl>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/><\/p>
-<p><br\/>
-<\/p>
-<a name="Pro-Serbian"><\/a><h3>]^*Pro$^-<guio>$^*Serbian$^.<sent>$[][<\/h3><ul>
+<p><br\/><\/p>
+<ul>
 <li><a href='http:\/\/www.kosovocompromise.com\/ Kosovo Compromise'>]^49<num>$[<\/a> ]^Presentation<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><sg>$ ^of<pr>$[ <a href='4S Institute'>]^4<num>$^*S$[<\/a>]^Institute<n><sg>$ ^,<cm>$ ^Brussels<np><loc><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.rastko.org.yu\/kosovo\/ Rastko'>]^50<num>$[<\/a> ]^Project<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^*Serb$ ^and<cnjcoo>$ ^*Serb$^-<guio>$^relate<vblex><pp>$ ^art<n><pl>$ ^and<cnjcoo>$ ^*humanities$^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.mfa.gov.yu\/Policy\/CI\/kosovo-slike\/index.html Terror in Kosovo'>]^51<num>$[<\/a> ]^Terror<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
