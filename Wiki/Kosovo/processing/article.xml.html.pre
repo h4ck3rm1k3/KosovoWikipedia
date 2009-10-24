@@ -68,7 +68,7 @@
 ]|^time<n><sg>$_^zone<n><sg>$_^DST<n><acr><sg>$[            ]=[ <a href='Central European Summer Time|CEST'>]^Central<adj>$ ^European<adj>$ ^Summer<n><sg>$ ^Time<n><sg>$|^*CEST$[<\/a>
 ]|^*utc$_^*offset$_^DST<n><acr><sg>$[           ]= +^2<num>$[
 ]|^*cctld$[                    ]=[  <em>]^None<prn><tn><nt><sg>$ ^assign<vblex><past>$[<\/em>
-]|^call<vblex><ger>$_^code<n><sg>$[             ]= ^381<num>$[
+]|^call<vblex><ger>$_^code<n><sg>$[             ]= ^381<num>$[ 
 ]|^*footnote$^1<num>$[                ]=[ <a href='International reaction to the 2008 Kosovo declaration of independence|Independence has only been partially recognised internationally.'>]^International<adj>$ ^reaction<n><sg>$ ^to<pr>$ ^the<det><def><sp>$ ^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$|^Independence<n><sg>$ ^have<vbhaver><pri><p3><sg>$ ^only<adv>$ ^be<vbser><pp>$ ^partially<adv>$ ^*recognised$ ^*internationally$^.<sent>$[<\/a>
 ]|^*footnote$^2<num>$[                ]= ^The<det><def><sp>$ ^*census$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^reconstruction<n><sg>$^;<sent>$ ^most of<det><qnt><sp>$ ^the<det><def><sp>$ ^ethnic<adj>$ ^Albanian<adj>$ ^majority<n><sg>$ ^boycott<vblex><past>$^.<sent>$[
 ]|^*footnote$^3<num>$[                ]= ^Unilaterally<adv>$ ^adopt<vblex><pp>$^.<sent>$ ^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^not<adv>$ ^a<det><ind><sg>$ ^member<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='European Monetary Union|EMU'>]^European<adj>$ ^Monetary<adj>$ ^Union<n><sg>$|^EMU<n><acr><sg>$[<\/a>]^.<sent>$[
