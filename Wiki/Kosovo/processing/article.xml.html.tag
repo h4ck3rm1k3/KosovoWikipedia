@@ -220,18 +220,16 @@
 <p><br\/>
 <\/p>
 <a name="Pro-Serbian"><\/a><h3>]^*Pro$^-<guio>$^*Serbian$^.<sent>$[][<\/h3><ul>
-<li><a href='http:\/\/www.kosovocompromise.com\/ Kosovo Compromise'>]^42<num>$[<\/a> ]^Presentation<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><sg>$ ^of<pr>$[ <a href='4S Institute'>]^4<num>$^*S$[<\/a>]^Institute<n><sg>$ ^,<cm>$ ^Brussels<np><loc><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/ Rastko'>]^43<num>$[<\/a> ]^Project<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^*Serb$ ^and<cnjcoo>$ ^*Serb$^-<guio>$^relate<vblex><pp>$ ^art<n><pl>$ ^and<cnjcoo>$ ^*humanities$^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovocompromise.com\/ Kosovo Compromise'>]^42<num>$[<\/a> ]^Presentation<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><sg>$ ^of<pr>$[ <em>]^4<num>$^*S$[<\/em>]^Institute<n><sg>$ ^,<cm>$ ^Brussels<np><loc><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/ Rastko Project'>]^43<num>$[<\/a> ]^-<guio>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^*Serbia$ ^and<cnjcoo>$ ^*Serb$^-<guio>$^relate<vblex><pp>$ ^art<n><pl>$^,<cm>$ ^*humanities$ ^and<cnjcoo>$ ^*Orthodix$ ^religion<n><sg>$ ^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.mfa.gov.yu\/Policy\/CI\/kosovo-slike\/index.html Terror in Kosovo'>]^44<num>$[<\/a> ]^Terror<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^45<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='http:\/\/www.kc.gov.yu\/D-ENGLISH\/index-eng.html English'>]^46<num>$[<\/a>]^,<cm>$[ <a href='http:\/\/www.kc.gov.yu\/A-CIRILICA\/index-cir.html Serbian'>]^47<num>$[<\/a> ]^and<cnjcoo>$[ <a href='http:\/\/www.kc.gov.yu\/C-ALBANSKI\/index-alb.html Albanian'>]^48<num>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovo.net\/ Kosovo-The Land of the Living past'>]^49<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.savekosovo.org Save Kosovo'>]^50<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^promote<vblex><ger>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^American<adj>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^and<cnjcoo>$ ^of<pr>$ ^the<det><def><sp>$ ^critical<adj>$ ^American<adj>$ ^stake<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*provinceâ$^*s$ ^future<n><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li> 
-<a href='http:\/\/www.kosovocompromise.com\/ Kosovo 2006 Making of a Compromise'>]^51<num>$^.<sent>$[][<\/a><\/li>
+<a href='http:\/\/www.eparhija-prizren.com\/defaultE.asp Diocese Kosovo of Serbian Orthodox Church'>]^51<num>$^.<sent>$[][<\/a><\/li>
 <li> 
-<a href='http:\/\/www.eparhija-prizren.com\/defaultE.asp Diocese Kosovo of Serbian Orthodox Church'>]^52<num>$^.<sent>$[][<\/a><\/li>
-<li> 
-<a href='http:\/\/rs-icty.org\/frontpage.htm Republic Secretariat for Relations with International Criminal Tribunal in The Hague and War Crimes Research'>]^53<num>$^.<sent>$[][<\/a><\/li>
+<a href='http:\/\/rs-icty.org\/frontpage.htm Republic Secretariat for Relations with International Criminal Tribunal in The Hague and War Crimes Research'>]^52<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 ]{{^Template<n><sg>$ ^group<n><sg>$[
