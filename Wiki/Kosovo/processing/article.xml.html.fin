@@ -964,37 +964,38 @@
 ^*BoroRamizi$^.$
 ^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^*Pristina$^.$
 [][<\/a><\/p>
-<p>]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^for<pr>$ ^2006<num>$^)<rpar>$^:$
+<p>]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^for<pr>$ ^2003<num>$^)<rpar>$^:$
 [&lt;]^*ref$[&gt;]{{^cite<vblex><pres>$ ^web<n><sg>$ |^*url$=^*http$^:$
-\/\/^www.world-gazetteer.com<num>$\/^*wg$^.$
-^*php$^?$
-^*x$=[&amp;]^man<n><pl>$=^*gcis$[&amp;]^*lng$=^*en$[&amp;]^*dat$=^32<num>$[&amp;]^*srt$=^*npan$[&amp;]^*col$=^*aohdq$[&amp;]^*geo$=^-<guio>$^244<num>$ |^title<n><sg>$=^*Serbia$^:$
- ^large<adj><sint><sup>$ ^city<n><pl>$ ^and<cnjcoo>$ ^town<n><pl>$ ^and<cnjcoo>$ ^*statistics$ ^of<pr>$ ^their<det><pos><sp>$ ^population<n><sg>$ |^author<n><sg>$=^World<n><sg>$ ^*Gazetteer$}}[&lt;]\/^*ref$^.$
+\/\/^www.citypopulation.de<num>$\/^Kosovo<np><loc><sg>$^.$
+^*html$ |^title<vblex><pres>$=^Kosovo<np><loc><sg>$ |^author<n><sg>$=^City<n><sg>$ ^Population<n><sg>$}}[&lt;]\/^*ref$^.$
 [][&gt;<\/p>
 <ul>
 <li><a href='Pristina'>]^*Pristina$[<\/a> ]^:$
- ^571,532<num>$^.$
+ ^165,844<num>$^.$
 [][<\/li>
 <li><a href='Prizren'>]^*Prizren$[<\/a> ]^:$
- ^165,229<num>$^.$
+ ^107,614<num>$^.$
 [][<\/li>
-<li><a href='Ferizaj'>]^*Ferizaj$[<\/a> ]^:$
- ^197,741<num>$^.$
+<li><a href='Ferizaj'>]^*Ferizaj$[<\/a> ]^(<lpar>$^*Uro$Å^¡<lquest>$^*evac$^)<rpar>$ ^:$
+ ^71,758<num>$^.$
 [][<\/li>
-<li><a href='Gjakova'>]^*Gjakova$[<\/a> ]^:$
- ^127,156<num>$^.$
+<li><a href='Gjakova'>]^*Gjakova$[<\/a> ]^(<lpar>$Ã^*akovica$^)<rpar>$ ^:$
+ ^68,645<num>$^.$
 [][<\/li>
-<li><a href='Peja'>]^*Peja$[<\/a> ]^:$
- ^195,190<num>$^.$
+<li><a href='Peja'>]^*Peja$[<\/a> ]^(<lpar>$^*PeÄ$^)<rpar>$ ^:$
+ ^68,551<num>$^.$
 [][<\/li>
 <li><a href='Gjilani'>]^*Gjilani$[<\/a> ]^:$
- ^191,595<num>$^.$
+ ^55,781<num>$^.$
 [][<\/li>
 <li><a href='Kosovska Mitrovica|Mitrovica'>]^*Kosovska$ ^*Mitrovica$|^*Mitrovica$[<\/a> ]^:$
- ^186,359<num>$^.$
+ ^68,929<num>$^.$
+[][<\/li>
+<li><a href='Vushtrri'>]^*Vushtrri$[<\/a> ]^(<lpar>$^*VuÄ$^*itrn$^)<rpar>$ ^:$
+ ^39,642<num>$^.$
 [][<\/li>
 <li><a href='Podujeva'>]^*Podujeva$[<\/a> ]^:$
- ^48,526<num>$^.$
+ ^37,203<num>$^.$
 [][<\/li>
 <\/ul>
 <p><br\/>
