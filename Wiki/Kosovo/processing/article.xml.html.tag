@@ -10,13 +10,13 @@
     <h1><\/h1>
 <p>
 ]{|[ 
-]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosova$[<\/strong>&lt;]^*br$\/[&gt;]^'<apos>$^'<apos>$^'<apos>$^Kosovo<np><loc><sg>$[&lt;]\/^big<adj><sint>$[&gt;&lt;]\/^big<adj><sint>$[&gt;
+]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong>]^'<apos>$^'<apos>$^'<apos>$[&lt;]^*br$\/[&gt;<\/strong>]^*Kosova$[<strong>&lt;]^*br$\/[&gt;<\/strong>]^Kosovo<np><loc><sg>$[&lt;]\/^big<adj><sint>$[&gt;&lt;]\/^big<adj><sint>$[&gt;
 ]|^-<guio>$[
 ]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-Kosovo2.png'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^2<num>$^.<sent>$^*png$[<\/a>
 ]| {{^Europe<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
-]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
+]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href=' language|'> ]^language<n><sg>$|[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Capital'>]^Capital<n><sg>$[<\/a>
 ]|[ <a href='Prishtina'>]^*Prishtina$[<\/a>
