@@ -267,6 +267,7 @@
 <li>]{{^*dmoz$|^Regional<adj>$\/^Europe<np><loc><sg>$\/^*Serbia$\/^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.visitkosova.org\/english\/index.htm Visit Kosovo - Tourism Website'>]^76<num>$^.<sent>$[][<\/a><\/li>
 <li><\/li>
+<li><a href='http:\/\/www.scribd.com\/doc\/11444724\/Books-about-Albania-and-the-Albanian-people Books about Albania and the Albanian people'>]^77<num>$[<\/a> <em>]^(<lpar>$^*scribd$^.<sent>$^*com$^)<rpar>$[<\/em> ]^Reference<n><sg>$ ^of<pr>$ ^book<n><pl>$ ^(<lpar>$^and<cnjcoo>$ ^some<det><qnt><sp>$ ^journal<n><sg>$ ^article<n><pl>$^)<rpar>$ ^about<pr>$ ^*Albania$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^Albanian<adj>$ ^person<n><pl>$^;<sent>$ ^their<det><pos><sp>$ ^history<n><sg>$^,<cm>$ ^language<n><sg>$^,<cm>$ ^origin<n><sg>$^,<cm>$ ^culture<n><sg>$^,<cm>$ ^literature<n><sg>$^,<cm>$ ^*etc$^.<sent>$ ^Public<adj>$ ^domain<n><sg>$ ^book<n><pl>$^,<cm>$ ^fully<adv>$ ^accessible<adj>$ ^*online$^.<sent>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 ]{{^Kosovo<np><loc><sg>$ ^topic<n><pl>$}}[
