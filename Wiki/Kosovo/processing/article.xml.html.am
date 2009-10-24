@@ -163,8 +163,7 @@
 ]^Image/Image<n><sg>$^:/:<sent>$^Pec/*Pec$ ^001/001<num>$^./.<sent>$^jpg/*jpg$|^Serbian/*Serbian$ ^monastery/*monastery$ ^in/in<adv>/in<pr>$[ <a href='PeÄ'>]^PeÄ/*PeÄ$[<\/a>]^./.<sent>$[
 ]^Image/Image<n><sg>$^:/:<sent>$^Prizren/*Prizren$ ^004/004<num>$^./.<sent>$^JPG/*JPG$|^Serbian/*Serbian$ ^monastery/*monastery$ ^in/in<adv>/in<pr>$ ^Prizren/*Prizren$^./.<sent>$[
 ]^Image/Image<n><sg>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$ ^Polje/*Polje$ ^sized/*sized$^./.<sent>$^jpg/*jpg$|[<a href='Kosovo Polje'>]^Kosovo/Kosovo<np><loc><sg>$ ^Polje/*Polje$[<\/a>]^./.<sent>$[
-&lt;]\/^gallery/gallery<n><sg>$[&gt;
-<a href='Image:kosovo.png'>]^Image/Image<n><sg>$^:/:<sent>$^kosovo/*kosovo$^./.<sent>$^png/*png$^./.<sent>$[][<\/a><\/p>
+&lt;]\/^gallery/gallery<n><sg>$^./.<sent>$[][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See/See<vblex><inf>/See<vblex><pres>$ ^also/also<adv>$^./.<sent>$[][<\/h2><p>]{{^columns/column<n><pl>$ |^width/width<n><sg>$=^280/280<num>$^px/*px$[
 ]|^col/*col$^1/1<num>$ =^./.<sent>$[][<\/p>
 <ul>
