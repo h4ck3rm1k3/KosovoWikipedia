@@ -17,7 +17,7 @@
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[ <a href='Image:Kosovo_in_the_region.png|160px'>]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$_^in<pr>$_^the<det><def><sp>$_^region<n><sg>$^.<sent>$^*png$|^160<num>$^*px$[<\/a> 
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
-]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
+]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbo-Croatian language'>]^*Serbo$^-<guio>$^*Croatian$ ^language<n><sg>$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Capital'>]^Capital<n><sg>$[<\/a>
 ]|[ <a href='PrishtinÃ«'>]^*Prishtin$Ã«[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
