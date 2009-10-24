@@ -220,8 +220,7 @@
 ]^Image<n><sg>$^:<sent>$^*Prizren$ ^004<num>$^.<sent>$^*JPG$|^*Serbian$ ^*monastery$ ^in<pr>$ ^*Prizren$^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^*Polje$ ^*sized$^.<sent>$^*jpg$|[<a href='Kosovo Polje'>]^Kosovo<np><loc><sg>$ ^*Polje$[<\/a>]^.<sent>$[
 &lt;]\/^gallery<n><sg>$[&gt;&lt;]\/^centre<n><sg>$^.<sent>$[][&gt;<\/p>
-<a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><p>]{{^column<n><pl>$ |^width<n><sg>$=^280<num>$^*px$[
-]|^*col$^1<num>$ =^.<sent>$[][<\/p>
+<a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><p>&lt;]^*div$ ^style<n><sg>$="^-<guio>$^*moz$^-<guio>$^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^4<num>$^;<sent>$ ^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^4<num>$^;<sent>$"^.<sent>$[][&gt;<\/p>
 <ul>
 <li><a href='Assembly of Kosovo'>]^Assembly<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
@@ -230,9 +229,6 @@
 <li><a href='Serbs in Kosovo'>]^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Albanians in Kosovo'>]^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Post and Telecom of Kosovo'>]^Post<n><sg>$ ^and<cnjcoo>$ ^*Telecom$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<\/ul>
-<p>]|^*col$^2<num>$ =^.<sent>$[][<\/p>
-<ul>
 <li><a href='National awakening and the birth of Albania'>]^National<adj>$ ^awaken<vblex><ger>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^birth<n><sg>$ ^of<pr>$ ^*Albania$^.<sent>$[][<\/a><\/li>
 <li><a href='Demographic history of Kosovo'>]^*Demographic$ ^history<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Unrest in Kosovo|Unrest in Kosovo during March 2004'>]^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^during<pr>$ ^March<n><sg>$ ^2004<num>$^.<sent>$[][<\/a><\/li>
@@ -241,8 +237,7 @@
 <li><a href='Flag of Kosovo'>]^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Vidovdan'>]^*Vidovdan$^.<sent>$[][<\/a><\/li>
 <\/ul>
-<p><br\/>
-]}}^.<sent>$[][<\/p>
+<p>&lt;]\/^*div$^.<sent>$[][&gt;<\/p>
 <a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Please<vblex><inf>$ ^keep<vblex><inf>$ ^as<preadv>$ ^single<adj>$ ^column<n><sg>$ ^as<pr>$ ^long<adj><sint>$ ^*URLs$ ^*otherwise$ ^cause<n><sg>$ ^display<n><sg>$ ^problem<n><pl>$ ^on<pr>$ ^small<adj><sint><comp>$ ^window<n><pl>$\/^screen<n><pl>$^;<sent>$ ^*thanks$^.<sent>$^-<guio>$^-<guio>$^.<sent>$[][&gt;<\/p>
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <ul>
