@@ -8,9 +8,8 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p><a href='Category:Countries'>]^Category<n><sg>$^:<sent>$^Country<n><pl>$[<\/a><a href='Category:Disputed Territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^Territory<n><pl>$^.<sent>$[][<\/a>
-<\/p>
-<p>]{|[ 
+<p>
+]{|[ 
 ]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosova$[<\/strong>&lt;]^*br$\/[&gt;]^'<apos>$^'<apos>$^'<apos>$^Kosovo<np><loc><sg>$[&lt;]\/^big<adj><sint>$[&gt;&lt;]\/^big<adj><sint>$[&gt;
 ]|^-<guio>$[
 ]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-Kosovo2.png'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^2<num>$^.<sent>$^*png$[<\/a>
@@ -153,7 +152,8 @@
 <\/ul>
 <p><br\/>
 ]{{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$}}^.<sent>$[][<\/p>
-<p><a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
+<p><a href='Category:Countries'>]^Category<n><sg>$^:<sent>$^Country<n><pl>$[<\/a>
+<a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
 <a href='Category:Kosovo| '>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|[ <\/a>
 <a href='Category:United Nations'>]^Category<n><sg>$^:<sent>$^Unite<vblex><pp>$ ^Nation<n><pl>$^.<sent>$[][<\/a><\/p>
 <p><a href='ast:Kosovo'>]^*ast$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>

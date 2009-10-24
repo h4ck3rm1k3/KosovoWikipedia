@@ -8,9 +8,8 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p><a href='Category:Countries'>]^Category/Category<n><sg>$^:/:<sent>$^Countries/Country<n><pl>$[<\/a><a href='Category:Disputed Territories'>]^Category/Category<n><sg>$^:/:<sent>$^Disputed/*Disputed$ ^Territories/Territory<n><pl>$^./.<sent>$[][<\/a>
-<\/p>
-<p>]{|[ 
+<p>
+]{|[ 
 ]|+[&lt;]^big/big<adj><sint>$[&gt;&lt;]^big/big<adj><sint>$[&gt;<strong>]ÐÐ¾^Ñ/*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^Ñ/*Ñ$Ð¾^Ñ/*Ñ$Ð¸^Ñ/*Ñ$Ð°[<\/strong>&lt;]^br/*br$\/[&gt;<strong>]^Kosova/*Kosova$[<\/strong>&lt;]^br/*br$\/[&gt;]^'/'<apos>$^'/'<apos>$^'/'<apos>$^Kosovo/Kosovo<np><loc><sg>$[&lt;]\/^big/big<adj><sint>$[&gt;&lt;]\/^big/big<adj><sint>$[&gt;
 ]|^-/-<guio>$[
 ]| ^align/*align$=^center/center<vblex><inf>/center<vblex><pres>/centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-Kosovo2.png'>]^Image/Image<n><sg>$^:/:<sent>$^SerbiaMontenegro/*SerbiaMontenegro$^-/-<guio>$^Kosovo/Kosovo<np><loc><sg>$^2/2<num>$^./.<sent>$^png/*png$[<\/a>
@@ -153,7 +152,8 @@
 <\/ul>
 <p><br\/>
 ]{{^Serbia/*Serbia$ ^and/and<cnjcoo>$ ^Montenegro/Montenegro<np><loc><sg>$}}^./.<sent>$[][<\/p>
-<p><a href='Category:Disputed territories'>]^Category/Category<n><sg>$^:/:<sent>$^Disputed/*Disputed$ ^territories/territory<n><pl>$[<\/a>
+<p><a href='Category:Countries'>]^Category/Category<n><sg>$^:/:<sent>$^Countries/Country<n><pl>$[<\/a>
+<a href='Category:Disputed territories'>]^Category/Category<n><sg>$^:/:<sent>$^Disputed/*Disputed$ ^territories/territory<n><pl>$[<\/a>
 <a href='Category:Kosovo| '>]^Category/Category<n><sg>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$|[ <\/a>
 <a href='Category:United Nations'>]^Category/Category<n><sg>$^:/:<sent>$^United/Unite<vblex><past>/Unite<vblex><pp>$ ^Nations/Nation<n><pl>$^./.<sent>$[][<\/a><\/p>
 <p><a href='ast:Kosovo'>]^ast/*ast$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
