@@ -210,6 +210,8 @@
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^*Polje$ ^*sized$^.<sent>$^*jpg$|[<a href='Kosovo Polje'>]^Kosovo<np><loc><sg>$ ^*Polje$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Bd$ ^shopping<n><sg>$^.<sent>$^*JPG$|"[<a href='Bregu i Diellit'>]^*Bregu$ ^*i$ ^*Diellit$[<\/a>]" ^shopping<n><sg>$ ^*mall$ ^in<pr>$[ <a href='Pristina'>]^*Pristina$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Banesat$ ^*e$ ^*bardha$^.<sent>$^*JPG$|[<a href='Bregu i Diellit'>]^*Bregu$ ^*i$ ^*Diellit$[<\/a> ]^2<num>$ ^in<pr>$[ <a href='Pristina'>]^*Pristina$[<\/a>
+]^Image<n><sg>$^:<sent>$^*Nenatereze$^1<num>$^.<sent>$^*jpg$|^Mother<n><sg>$ ^*Tereza$ ^*boulevard$[
+]^Image<n><sg>$^:<sent>$^*Grand$ ^Hotel<n><sg>$^.<sent>$^*jpg$|^the<det><def><sp>$ ^*Grand$ ^Hotel<n><sg>$ ^in<pr>$[ <a href='Pristina'>]^*Pristina$[<\/a>
 &lt;]\/^gallery<n><sg>$[&gt;&lt;]\/^centre<n><sg>$^.<sent>$[][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><p>&lt;]^*div$ ^style<n><sg>$="^-<guio>$^*moz$^-<guio>$^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^4<num>$^;<sent>$ ^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^4<num>$^;<sent>$"^.<sent>$[][&gt;<\/p>
 <ul>
