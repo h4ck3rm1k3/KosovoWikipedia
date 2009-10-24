@@ -277,7 +277,7 @@
 <a name="Pro-Serbian"><\/a><h3>]^*Pro$^-<guio>$^*Serbian$^.<sent>$[][<\/h3><ul>
 <li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government Kosovo-Metohija site'>]^35<num>$[<\/a> ]^*focusses$ ^on<pr>$ ^the<det><def><sp>$ ^human<adj>$ ^right<n><pl>$ ^situation<n><sg>$ ^of<pr>$ ^*Serbian$ ^and<cnjcoo>$ ^other<det><ind><sp>$ ^non<adv>$^-<guio>$^Albanian<adj>$ ^population<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovo.net\/ Kosovo.net'>]^36<num>$[<\/a> ]^*Serbian$ ^Orthodox<adj>$ ^Church<n><sg>$^'s<gen>$ ^official<adj>$ ^*website$ ^on<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Crucified Kosovo'>]^37<num>$[<\/a>]^*Overview$ ^of<pr>$ ^destroy<vblex><pp>$ ^*Serbian$ ^Orthodox<adj>$ ^church<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Crucified Kosovo'>]^37<num>$[<\/a> ]^*Overview$ ^of<pr>$ ^destroy<vblex><pp>$ ^*Serbian$ ^Orthodox<adj>$ ^church<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/groups.yahoo.com\/group\/decani\/ Kosovo Newsgroup archive'>]^38<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^39<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^40<num>$^.<sent>$[][<\/a><\/li>
