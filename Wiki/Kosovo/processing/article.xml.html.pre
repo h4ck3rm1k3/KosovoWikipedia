@@ -10,7 +10,7 @@
     <h1><\/h1>
 <p>
 ]{|[ 
-]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong> ]^*Kosova$[ <\/strong>&lt;]^*br$\/[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt;]^'<apos>$^'<apos>$^'<apos>$^Kosovo<np><loc><sg>$[ &lt;]\/^big<adj><sint>$[&gt;&lt;]\/^big<adj><sint>$[&gt;
+]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong> ]^Kosovo<np><loc><sg>$[ <\/strong>&lt;]^*br$\/[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt;]^'<apos>$^'<apos>$^'<apos>$^*Kosova$[ &lt;]\/^big<adj><sint>$[&gt;&lt;]\/^big<adj><sint>$[&gt;
 ]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-Kosovo3.png'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^3<num>$^.<sent>$^*png$[<\/a>
 ]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
