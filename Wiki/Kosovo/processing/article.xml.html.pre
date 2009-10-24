@@ -68,7 +68,8 @@
 <li> 
 ]^1%<num><percent>$[ <a href='Turks'>]^*Turks$[<\/a> ]^(<lpar>$^19,700<num>$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
-<p>]^*Intercommunal$ ^violence<n><sg>$ ^have<vbhaver><pri><p3><sg>$ ^further<adv>$ ^reduce<vblex><pp>$ ^the<det><def><sp>$ ^number<n><sg>$ ^of<pr>$ ^non<adv>$^-<guio>$^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^since<pr>$ ^this<det><dem><sg>$ ^survey<n><sg>$^,<cm>$ ^and<cnjcoo>$ ^many<prn><tn><mf><pl>$ ^of<pr>$ ^those who<rel><nn><mf><pl>$ ^do<vbdo><pres>$ ^remain<vblex><inf>$ ^now<adv>$ ^live<vblex><inf>$ ^in<pr>$ ^heavily<adv>$ ^*guarded$ ^village<n><pl>$^.<sent>$^.<sent>$[][<\/p>
+<p><br\/>
+<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><ul>
 <li><a href='Assembly of Kosovo'>]^Assembly<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
