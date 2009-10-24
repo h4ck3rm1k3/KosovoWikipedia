@@ -187,9 +187,11 @@
 <\/p>
 <a name="Presidents"><\/a><h2>]^President<n><pl>$^.$
 [][<\/h2><ul>
-<li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$^.$
-[][<\/a><\/li>
+<li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a> ]^(<lpar>$^*deceased$^)<rpar>$^.$
+[][<\/li>
 <\/ul>
+<p><br\/>
+<\/p>
 <a name="Prime_Ministers"><\/a><h2>]^Prime<adj>$ ^Minister<n><pl>$^.$
 [][<\/h2><ul>
 <li><a href='Bajram Rexhepi'>]^*Bajram$ ^*Rexhepi$^.$
