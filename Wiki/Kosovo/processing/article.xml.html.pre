@@ -403,7 +403,6 @@
 <a href='cy:Kosovo'>]^*cy$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='da:Kosovo'>]^*da$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='de:Kosovo'>]^*de$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='diq:Kosova'>]^*diq$^:<sent>$^*Kosova$[<\/a>
 <a href='et:Kosovo'>]^*et$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='el:ÎÎ¿ÏÏÏÏÎ¿ÏÎ­Î´Î¹Î¿'>]^*el$^:<sent>$^*Î$^*Î$^¿<lquest>$^*Ï$^*Ï$^*Ï$^*Ï$^*Î$^¿<lquest>$^*Ï$^*Î$­^*Î$´^*Î$¹^*Î$^¿<lquest>$[<\/a>
 <a href='es:Kosovo'>]^*es$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
@@ -414,13 +413,14 @@
 <a href='ga:An Chosaiv'>]^*ga$^:<sent>$^A<det><ind><sg>$ ^*Chosaiv$[<\/a>
 <a href='gl:Kosovo'>]^*gl$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ko:ì½ìë³´'>]^*ko$^:<sent>$^*ì$½^*ì$^*ë$³´[<\/a>
+<a href='hi:à¤à¥à¤¸à¥à¤µà¥'>]^*hi$^:<sent>$^*à$¤^*à$¥^*à$¤¸^*à$¥^*à$¤µ^*à$¥[<\/a>
 <a href='hsb:Kosovo'>]^*hsb$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='hr:Kosovo'>]^*hr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='io:Kosovo'>]^*io$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='id:Kosovo'>]^*id$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='is:KosÃ³vÃ³'>]^be<vbser><pri><p3><sg>$^:<sent>$^*Kos$Ã³^*v$Ã³[<\/a>
 <a href='it:Kosovo'>]^prpers<prn><obj><p3><nt><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='he:×§××¡××× ×××××××'>]^prpers<prn><subj><p3><m><sg>$^:<sent>$×§××^¡<lquest>$××× ×××××××[<\/a>
+<a href='he:×§××¡×××'>]^prpers<prn><subj><p3><m><sg>$^:<sent>$×§××^¡<lquest>$×××[<\/a>
 <a href='kw:Kosova'>]^*kw$^:<sent>$^*Kosova$[<\/a>
 <a href='la:Ager Merulensis'>]^*la$^:<sent>$^*Ager$ ^*Merulensis$[<\/a>
 <a href='lv:Kosova'>]^*lv$^:<sent>$^*Kosova$[<\/a>
@@ -453,7 +453,9 @@
 <a href='tr:Kosova'>]^*tr$^:<sent>$^*Kosova$[<\/a>
 <a href='uk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*uk$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='ur:Ú©ÙØ³ÙÙÛ'>]^*ur$^:<sent>$^*Ú$©^*Ù$Ø³^*Ù$^*Ù$^*Û$[<\/a>
-<a href='bat-smg:Kosuovs'>]^bat<n><sg>$^-<guio>$^*smg$^:<sent>$^*Kosuovs$^.<sent>$[][<\/a><\/p>
+<a href='diq:Kosova'>]^*diq$^:<sent>$^*Kosova$[<\/a>
+<a href='zea:Kosovo'>]^*zea$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='bat-smg:Kuosuovs'>]^bat<n><sg>$^-<guio>$^*smg$^:<sent>$^*Kuosuovs$^.<sent>$[][<\/a><\/p>
 <\/body>
 <\/html>
 ]
