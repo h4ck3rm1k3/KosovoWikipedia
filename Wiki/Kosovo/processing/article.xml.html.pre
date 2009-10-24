@@ -216,7 +216,9 @@
 ]^Image<n><sg>$^:<sent>$^*Gjerovica$ ^new<adj><sint>$^.<sent>$^*JPG$|[<a href='Gjerovica'>]^*Gjerovica$[<\/a>]\/[<a href='Äeravica'>]^*Ä$^*eravica$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Bjeshket$ ^*Junikut$^.<sent>$^*JPG$|[<a href='Juniku Mountains'>]^*Juniku$ ^Mountain<n><pl>$[<\/a>]\/[<a href='Junik Mountains'>]^*Junik$ ^Mountain<n><pl>$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*VeshjeKombetare$^.<sent>$^*JPG$|^Kosovo<np><loc><sg>$ ^Albanian<adj>$ ^ethnic<adj>$ ^costume<n><sg>$\/^dance<n><sg>$[ 	
-]^Image<n><sg>$^:<sent>$^*Erzengelkloster$ ^*serbischer$ ^Altar<n><sg>$^.<sent>$^*jpg$|^*Serbian$ ^church<n><sg>$ ^in<pr>$ ^*Bistrica$[
+]^Image<n><sg>$^:<sent>$^*Erzengelkloster$^2<num>$^.<sent>$^*jpg$|^*Serbian$ ^*monastery$ ^in<pr>$ ^*Bistrica$[
+]^Image<n><sg>$^:<sent>$^*Bibloteka$ ^*Komb$Ã«^*tare$ ^*e$ ^*Kosov$Ã«^*s$^.<sent>$^*jpg$|^National<adj>$ ^Public<adj>$ ^Library<n><sg>$ ^in<pr>$ ^*Prishtina$\/^*Pri$Å^¡<lquest>$^*tina$[
+]^Image<n><sg>$^:<sent>$^League<n><sg>$ ^of<pr>$ ^*Prizren$ ^building<n><sg>$^.<sent>$^*jpg$|^League<n><sg>$ ^of<pr>$ ^*Prizren$ ^building<n><sg>$ ^in<pr>$ ^*Prizren$[
 &lt;]\/^gallery<n><sg>$^.<sent>$[][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><ul>
 <li><a href='History of Kosovo'>]^History<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
