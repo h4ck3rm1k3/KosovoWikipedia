@@ -10,7 +10,6 @@
     <h1><\/h1>
 <p>]{{^POV<n><acr><sg>$^-<guio>$^check<n><sg>$}}[
 ]{|[ 
-]|^-<guio>$[
 ]{| ^border<n><sg>$=^1<num>$ ^*cellpadding$=^4<num>$ ^*cellspacing$=^0<num>$ ^class<n><sg>$="^*toccolours$" ^style<n><sg>$="^*float$^:<sent>$ ^right<adj>$^;<sent>$ ^width<n><sg>$^:<sent>$ ^300<num>$^*px$^;<sent>$ ^clear<adj><sint>$^:<sent>$ ^both<prn><tn><mf><pl>$^;<sent>$ ^margin<n><sg>$^:<sent>$ ^0.5<num>$^*em$ ^0<num>$ ^1<num>$^*em$ ^1<num>$^*em$^;<sent>$ ^border<n><sg>$^-<guio>$^style<n><sg>$^:<sent>$ ^solid<n><sg>$^;<sent>$ ^border<n><sg>$^:<sent>$^1<num>$^*px$ ^solid<n><sg>$ #^7<num>$^*f$^7<num>$^*f$^7<num>$^*f$^;<sent>$ ^border<n><sg>$^-<guio>$^right<adj>$^-<guio>$^width<n><sg>$^:<sent>$ ^2<num>$^*px$^;<sent>$ ^border<n><sg>$^-<guio>$^bottom<adj>$^-<guio>$^width<n><sg>$^:<sent>$ ^2<num>$^*px$^;<sent>$ ^border<n><sg>$^-<guio>$^collapse<n><sg>$^:<sent>$ ^collapse<n><sg>$^;<sent>$ ^*font$^-<guio>$^size<n><sg>$^:<sent>$ ^95%<num><percent>$^;<sent>$"[
 ]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosov$Ã«[<\/strong>&lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$\/[&gt;]^Kosovo<np><loc><sg>$[&lt;]\/^big<adj><sint>$[&gt;
 ]|^-<guio>$[

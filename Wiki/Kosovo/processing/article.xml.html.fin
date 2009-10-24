@@ -11,7 +11,6 @@
     <h1><\/h1>
 <p>]{{^POV<n><acr><sg>$^-<guio>$^check<n><sg>$}}[
 ]{|[ 
-]|^-<guio>$[
 ]{| ^border<n><sg>$=^1<num>$ ^*cellpadding$=^4<num>$ ^*cellspacing$=^0<num>$ ^class<n><sg>$="^*toccolours$" ^style<n><sg>$="^*float$^:$
  ^right<adj>$^;$
  ^width<n><sg>$^:$
