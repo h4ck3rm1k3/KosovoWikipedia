@@ -104,7 +104,8 @@
 ]{{^*msg$^:<sent>$^*SFRY$}}^.<sent>$[][<\/p>
 <p><a href='de:Kosovo'>]^*de$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='et:Kosovo'>]^*et$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='fr:Kosovo'>]^*fr$^:<sent>$^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/p>
+<a href='fr:Kosovo'>]^*fr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='nl:Kosovo'>]^*nl$^:<sent>$^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/p>
 <\/body>
 <\/html>
 ]
