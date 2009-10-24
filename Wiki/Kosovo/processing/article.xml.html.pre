@@ -256,10 +256,9 @@
 <li>]{{^cite<vblex><pres>$ ^book<n><sg>$ |^last<det><ord><sp>$=^*Elsie$ |^first<det><ord><sp>$=^Robert<np><ant><m><sg>$ |^*authorlink$=^Robert<np><ant><m><sg>$ ^*Elsie$ |^title<vblex><pres>$=^Historical<adj>$ ^Dictionary<n><sg>$ ^of<pr>$ ^*Kosova$ |^publisher<n><sg>$=^*Scarecrow$ ^Press<n><sg>$ |^year<n><sg>$=^2004<num>$ |^*isbn$=^0810853094<num>$}}^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
+]{{^portal<n><sg>$|^Kosovo<np><loc><sg>$|^Kosovo<np><loc><sg>$ ^blue<adj>$ ^map<n><sg>$^.<sent>$^*png$}}^.<sent>$[][
 <\/p>
-<a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^portal<n><sg>$|^Kosovo<np><loc><sg>$|^Kosovo<np><loc><sg>$ ^blue<adj>$ ^map<n><sg>$^.<sent>$^*png$}}^.<sent>$[][
-<\/p>
-<ul>
+<a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><ul>
 <li>]{{^*wikiatlas$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.unmikonline.org\/ United Nations Interim Administration in Kosovo'>]^69<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.ks-gov.net\/pm\/Fillimi\/tabid\/36\/menuid\/+\/subid\/+\/lingo\/2\/language\/en-US\/Default.aspx The Government of Kosovo and Prime minister's office'>]^70<num>$^.<sent>$[][<\/a><\/li>
