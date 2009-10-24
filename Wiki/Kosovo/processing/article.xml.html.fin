@@ -109,8 +109,10 @@
 ]|^currency<n><sg>$_^code<n><sg>$ = ^*EUR$[
 ]}}[
 ]{{^History<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$}}[
-<strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Kosova$}}^)<rpar>$^;$
- ^be<vbser><pri><p3><sg>$ ^currently<adv>$ ^a<det><ind><sg>$ ^partially<adv>$ ^*recognised$ ^country<n><sg>$ ^in<pr>$[ <a href='Balkans'>]^the<det><def><sp>$ ^*Balkans$[<\/a>]^.$
+<strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Kosova$}}^;$
+ {{^*lang$^-<guio>$^*sr$|ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ }}^;$
+ {{^*lang$|^*sr$^-<guio>$^*Latn$|[<em>]^Kosovo<np><loc><sg>$[ <\/em>]}}^)<rpar>$[ <strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Kosova$}}^;$
+[  ]{{^*lang$|^*sr$^-<guio>$^*Latn$|[<em>]^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/em>]}}^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^currently<adv>$ ^a<det><ind><sg>$[ <a href='disputed territory'>]^*disputed$ ^territory<n><sg>$[<\/a> ]^in<pr>$[ <a href='Balkans'>]^the<det><def><sp>$ ^*Balkans$[<\/a>]^.$
 [  ]^A<det><ind><sg>$[ <a href='2008'>]^2008<num>$[<\/a> <a href='declaration of independence'>]^*declaration$ ^of<pr>$ ^independence<n><sg>$[<\/a> ]^have<vbhaver><pri><p3><sg>$ ^be<vbser><pp>$ ^recognize<vblex><pp>$ ^by<pr>$ ^some<det><qnt><sp>$ ^country<n><pl>$^,<cm>$ ^but<cnjcoo>$ ^not<adv>$ ^by<pr>$ ^others<prn><tn><mf><pl>$^.$
 ^.$
 [][<\/p>
@@ -137,7 +139,7 @@
  ^-<guio>$^-<guio>$^.$
 [][&gt;
 <\/pre><p>]^Kosovo<np><loc><sg>$ ^border<n><pl>$[ <a href='Albania'>]^*Albania$[<\/a> ]^to<pr>$ ^the<det><def><sp>$ ^west<adj>$^,<cm>$[ <a href='Central Serbia'>]^Central<adj>$ ^*Serbia$[<\/a> ]^to<pr>$ ^the<det><def><sp>$ ^north<adj><sint>$ ^and<cnjcoo>$ ^east<n><sg>$^,<cm>$ ^the<det><def><sp>$[ <a href='Republic of Macedonia'>]^Republic<n><sg>$ ^of<pr>$ ^Macedonia<np><ant><f><sg>$[<\/a> ]^to<pr>$ ^the<det><def><sp>$ ^south<adj><sint>$^,<cm>$ ^and<cnjcoo>$[ <a href='Montenegro'>]^Montenegro<np><loc><sg>$[<\/a> ]^to<pr>$ ^the<det><def><sp>$ ^northwest<n><sg>$^.$
- ^The<det><def><sp>$ ^large<adj><sint><sup>$ ^city<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^capital<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$[ <a href='Pristina'>]^*Pristina$[<\/a> ]^(<lpar>$^also<adv>$ ^*Prishtina$^,<cm>$ ^*Pri$Å^¡<lquest>$^*tina$^)<rpar>$^,<cm>$ ^while<cnjadv>$ ^other<det><ind><sp>$ ^city<n><pl>$ ^include<vblex><inf>$ ^*Peja$^,<cm>$ ^*Prizren$^,<cm>$ ^and<cnjcoo>$ ^*Mitrovica$^.$
+ ^The<det><def><sp>$ ^large<adj><sint><sup>$ ^city<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^capital<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$[ <a href='Pristina'>]^*Pristina$[<\/a> ]^(<lpar>$^also<adv>$ ^*Prishtina$^,<cm>$ ^*Pri$Å^¡<lquest>$^*tina$^)<rpar>$^,<cm>$ ^while<cnjadv>$ ^other<det><ind><sp>$ ^city<n><pl>$ ^include<vblex><inf>$[ <a href='PeÄ'>]^*PeÄ$[<\/a> ]^(<lpar>$^*Peja$^)<rpar>$^,<cm>$[ <a href='Prizren'>]^*Prizren$[<\/a>]^,<cm>$ ^and<cnjcoo>$[ <a href='Kosovska Mitrovica|Mitrovica'>]^*Kosovska$ ^*Mitrovica$|^*Mitrovica$[<\/a>]^.$
 ^.$
 [][<\/p>
 <a name="Name"><\/a><h2>]^Name<n><sg>$^.$
