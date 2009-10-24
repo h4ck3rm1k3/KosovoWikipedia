@@ -228,92 +228,6 @@
 <li><a href='http:\/\/www.kosovalive.com\/?cid=2 KosovaLive'>]^39<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Albanian<adj>$ ^independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$ ^(<lpar>$^this<det><dem><sg>$ ^section<n><sg>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.savekosova.org\/ American Council for Kosova'>]^40<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^issue<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^by<pr>$ ^the<det><def><sp>$ ^American<adj>$ ^public<n><sg>$^.<sent>$[][<\/li>
 <\/ul>
-<p><br\/>
-<\/p>
-<a name="Pro-Serbian"><\/a><h3>]^*Pro$^-<guio>$^*Serbian$^.<sent>$[][<\/h3><ul>
-<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/?change_lang=en Kosovo and Metohija'>]^41<num>$[<\/a> ]^-<guio>$ ^*Serbian$ ^Government<n><sg>$ ^*Website$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovo-metohija.com\/ News from Kosovo'>]^42<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovocompromise.com\/ Kosovo Compromise'>]^43<num>$[<\/a> ]^Presentation<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><sg>$ ^of<pr>$[ <em>]^4<num>$^*S$[<\/em>]^Institute<n><sg>$ ^,<cm>$ ^Brussels<np><loc><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/ Rastko Project'>]^44<num>$[<\/a> ]^-<guio>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^*Serbia$ ^and<cnjcoo>$ ^*Serb$^-<guio>$^relate<vblex><pp>$ ^art<n><pl>$^,<cm>$ ^*humanities$ ^and<cnjcoo>$ ^Orthodox<adj>$ ^religion<n><sg>$ ^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.mfa.gov.yu\/Policy\/CI\/kosovo-slike\/index.html Terror in Kosovo'>]^45<num>$[<\/a> ]^Terror<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^46<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='http:\/\/www.kc.gov.yu\/D-ENGLISH\/index-eng.html English'>]^47<num>$[<\/a>]^,<cm>$[ <a href='http:\/\/www.kc.gov.yu\/A-CIRILICA\/index-cir.html Serbian'>]^48<num>$[<\/a> ]^and<cnjcoo>$[ <a href='http:\/\/www.kc.gov.yu\/C-ALBANSKI\/index-alb.html Albanian'>]^49<num>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovo.net\/ Kosovo-The Land of the Living past'>]^50<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.savekosovo.org American Council for Kosovo'>]^51<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^promote<vblex><ger>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^American<adj>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^and<cnjcoo>$ ^of<pr>$ ^the<det><def><sp>$ ^critical<adj>$ ^American<adj>$ ^stake<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*provinceâ$^*s$ ^future<n><sg>$^.<sent>$^.<sent>$[][<\/li>
-<li> 
-<a href='http:\/\/www.eparhija-prizren.com\/defaultE.asp Diocese Kosovo of Serbian Orthodox Church'>]^52<num>$^.<sent>$[][<\/a><\/li>
-<li> 
-<a href='http:\/\/rs-icty.org\/frontpage.htm Republic Secretariat for Relations with International Criminal Tribunal in The Hague and War Crimes Research'>]^53<num>$^.<sent>$[][<\/a><\/li>
-<\/ul>
-<p><br\/>
-]{{^Template<n><sg>$ ^group<n><sg>$[
-]|^title<vblex><pres>$ = ^Geographic<adj>$ ^*locale$[
-]|^list<n><sg>$[  ]=[
-
-]{{^Autonomous<adj>$ ^Province<n><pl>$ ^of<pr>$ ^*Serbia$}}[
-]}}[
-]{{^Template<n><sg>$ ^group<n><sg>$[
-]|^title<vblex><pres>$ = ^International<adj>$ ^membership<n><sg>$ ^and<cnjcoo>$ ^history<n><sg>$[
-]|^list<n><sg>$[  ]=[
-]{{^Non<adv>$^-<guio>$^sovereign<adj>$ ^territory<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$}}[
-]{{^Central<adj>$ ^European<adj>$ ^Free<adj><sint>$ ^Trade<n><sg>$ ^Agreement<n><sg>$ ^(<lpar>$^*CEFTA$^)<rpar>$}}[
-]{{^Republic<n><pl>$ ^and<cnjcoo>$ ^autonomous<adj>$ ^province<n><pl>$ ^of<pr>$ ^the<det><def><sp>$ ^former<adj>$ ^Yugoslavia<np><loc><sg>$}}[
-]}}^.<sent>$[][<\/p>
-<p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$[&gt;
-<a href='Category:Kosovo'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/p>
-<p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Other<det><ind><sp>$ ^language<n><pl>$^-<guio>$^-<guio>$^.<sent>$[][&gt;<\/p>
-<p><a href='als:Kosovo'>]^*als$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='ar:ÙÙØµÙÙ'>]^*ar$^:<sent>$^*Ù$^*Ù$Øµ^*Ù$^*Ù$[<\/a>
-<a href='frp:Kosovo'>]^*frp$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='ast:Kosovo'>]^*ast$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='zh-min-nan:Kosovo'>]^*zh$^-<guio>$^*min$^-<guio>$^*nan$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='bs:Kosovo'>]^*bs$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='br:Kosovo'>]^*br$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='bg:ÐÐ¾ÑÐ¾Ð²Ð¾ (Ð¾Ð±Ð»Ð°ÑÑ)'>]^*bg$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ ^(<lpar>$Ð¾Ð±Ð»Ð°^*Ñ$^*Ñ$^)<rpar>$[<\/a>
-<a href='ca:Kosovo'>]^*ca$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='cs:Kosovo'>]^*cs$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='cy:Kosovo'>]^*cy$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='da:Kosovo'>]^*da$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='de:Kosovo'>]^*de$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='et:Kosovo'>]^*et$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='es:Kosovo'>]^*es$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='eo:Kosovo'>]^*eo$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='eu:Kosovo'>]^*eu$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='fr:Kosovo'>]^*fr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='gl:Kosovo'>]^*gl$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='ko:ì½ìë³´'>]^*ko$^:<sent>$^*ì$½^*ì$^*ë$³´[<\/a>
-<a href='hsb:Kosovo'>]^*hsb$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='hr:Kosovo'>]^*hr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='io:Kosovo'>]^*io$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='id:Kosovo'>]^*id$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='it:Kosovo'>]^prpers<prn><obj><p3><nt><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='he:×§××¡××× ×××××××'>]^prpers<prn><subj><p3><m><sg>$^:<sent>$×§××^¡<lquest>$××× ×××××××[<\/a>
-<a href='la:Ager merulensis'>]^*la$^:<sent>$^*Ager$ ^*merulensis$[<\/a>
-<a href='lv:Kosova un Metohija'>]^*lv$^:<sent>$^*Kosova$ ^*un$ ^*Metohija$[<\/a>
-<a href='lt:Kosovas'>]^*lt$^:<sent>$^*Kosovas$[<\/a>
-<a href='li:Kosovo'>]^*li$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='hu:KoszovÃ³'>]^*hu$^:<sent>$^*Koszov$Ã³[<\/a>
-<a href='mk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*mk$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
-<a href='nl:Kosovo'>]^*nl$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='ja:ã³ã½ã'>]^*ja$^:<sent>$ã³ã½ã[<\/a>
-<a href='no:Kosovo'>]^no<adv>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='nn:Kosovo'>]^*nn$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='oc:KosovÃ«'>]^*oc$^:<sent>$^*Kosov$Ã«[<\/a>
-<a href='nds:Kosovo'>]^*nds$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='pl:Kosowo'>]^*pl$^:<sent>$^*Kosowo$[<\/a>
-<a href='pt:Kosovo'>]^*pt$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='ro:Kosovo'>]^*ro$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='ru:ÐÐ¾ÑÐ¾Ð²Ð¾ Ð¸ ÐÐµÑÐ¾ÑÐ¸Ñ'>]^*ru$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$[<\/a>
-<a href='sq:Kosova'>]^*sq$^:<sent>$^*Kosova$[<\/a>
-<a href='simple:Kosovo'>]^simple<adj><sint>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='sk:Kosovo'>]^*sk$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='sl:Kosovo'>]^*sl$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='sr:ÐÐ¾ÑÐ¾Ð²Ð¾ Ð¸ ÐÐµÑÐ¾ÑÐ¸ÑÐ°'>]^*sr$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/a>
-<a href='sh:Kosovo i Metohija'>]^*sh$^:<sent>$^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/a>
-<a href='fi:Kosovo'>]^*fi$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='sv:Kosovo'>]^*sv$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='th:à¸à¸­à¹à¸à¹à¸§'>]^*th$^:<sent>$^*à$¸^*à$¸­^*à$¹^*à$¸^*à$¹^*à$¸§[<\/a>
-<a href='tr:Kosova'>]^*tr$^:<sent>$^*Kosova$[<\/a>
-<a href='uk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*uk$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾^.<sent>$[][<\/a><\/p>
 <\/body>
 <\/html>
 ]
