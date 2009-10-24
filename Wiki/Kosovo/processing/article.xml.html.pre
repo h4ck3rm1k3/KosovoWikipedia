@@ -248,7 +248,7 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^19<num>$[<\/a> ]"^,<cm>$[ 
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <ul>
 <li><a href='http:\/\/www.ks-gov.net\/pm\/?menuid=&amp;subid=&amp;lingo=2 The office of Prime Minister of Kosovo'>]^32<num>$[<\/a> ]^English<adj>$ ^version<n><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/?change_lang=en Kosovo and Metohija'>]^33<num>$[<\/a> ]^-<guio>$[ <a href='Serbia'>]^*Serbian$[<\/a> ]^Government<n><sg>$ ^*Website$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/?change_lang=en Kosovo and Metohija'>]^33<num>$[<\/a> ]^-<guio>$ ^*Serbian$ ^Government<n><sg>$ ^*Website$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.assembly-kosova.org\/?krye=home&amp;lang=en Kosovo Assembly (Kuvendi i KosovÃ«s)'>]^34<num>$[<\/a> ]^English<adj>$ ^version<n><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/visitkosova.org\/english\/ The Official Webportal of Tourism in Kosovo'>]^35<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/ec.europa.eu\/economy_finance\/publications\/enlargement_papers\/2005\/elp26en.pdf EU Commission report on economic development in Accession countries, including Kosovo'>]^36<num>$^.<sent>$[][<\/a><\/li>
