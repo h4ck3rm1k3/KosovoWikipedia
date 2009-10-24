@@ -9,8 +9,9 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p> 
-]{{^*pp$^-<guio>$^*semi$|^small<adj><sint>$=^yes<adv>$}}[
+<p>]{{^*pp$^-<guio>$^dispute<n><sg>$}}[ 
+]{{^*pp$^-<guio>$^dispute<n><sg>$|^small<adj><sint>$=^yes<adv>$}}[
+
 ]{{^*Infobox$ ^Kosovo<np><loc><sg>$}}[ &lt;]^!$
 ^-<guio>$^-<guio>$ ^Please<vblex><inf>$ ^do<vbdo><pres>$ ^not<adv>$ ^remove<vblex><inf>$ ^this<det><dem><sg>$ ^*infobox$^,<cm>$ ^prpers<prn><subj><p3><nt><sg>$ ^have<vbhaver><pri><p3><sg>$ ^be<vbser><pp>$ ^develop<vblex><pp>$ ^to<pr>$ ^be<vbser><inf>$ ^neutral<adj>$ ^as<pr>$ ^possible<adj>$[  ]^-<guio>$^-<guio>$[&gt;
 &lt;]^!$
