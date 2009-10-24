@@ -202,11 +202,19 @@
 <li><em>]^North<adj><sint>$ ^City<n><sg>$ ^Jazz<n><sg>$[ &amp; ]^*Blues$ ^festival<n><sg>$[<\/em>]^,<cm>$ ^a<det><ind><sg>$ ^international<adj>$[ <a href='music festival'>]^music<n><sg>$ ^festival<n><sg>$[<\/a> ]^hold<vblex><past>$ ^annually<adv>$ ^in<pr>$[ <a href='ZveÄan'>]^*ZveÄ$^a<det><ind><sg>$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Zve$Ã§^*ani$}}^)<rpar>$^,<cm>$ ^near<pr>$ ^*Kosovska$ ^*Mitrovica$^,<cm>$^.<sent>$[][<\/li>
 <\/ul>
 <p>]^Kosovo<np><loc><sg>$ ^*Radiotelevisions$ ^like<pr>$[ <em>]^*RTK$[<\/em>]^,<cm>$[ <em>]^21<num>$[<\/em> ]^and<cnjcoo>$[ <em>]^*KTV$[<\/em> ]^have<vblex><pres>$ ^their<det><pos><sp>$ ^musical<adj>$ ^chart<n><pl>$^.<sent>$^.<sent>$[][<\/p>
-<a name="Sport"><\/a><h3>]^Sport<n><sg>$^.<sent>$[][<\/h3><p>]^The<det><def><sp>$[ <strong>]^Kosovo<np><loc><sg>$ ^Handball<n><sg>$ ^federation<n><sg>$[<\/strong> ]^and<cnjcoo>$[ <strong>]^Kosovo<np><loc><sg>$ ^*Ping$ ^*Pong$ ^Federation<n><sg>$[<\/strong> ]^be<vbser><pres>$ ^the<det><def><sp>$ ^only<adj>$ ^sport<n><sg>$ ^*fedarations$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^that<rel><an><mf><sp>$ ^be<vbser><pres>$ ^*internationally$ ^*recongnized$^.<sent>$[][<\/p>
+<a name="Sport"><\/a><h3>]^Sport<n><sg>$^.<sent>$[][<\/h3><p>]^Several<det><ind><pl>$ ^sport<n><pl>$ ^federation<n><pl>$ ^have<vbhaver><inf>$ ^be<vbser><pp>$ ^form<vblex><pp>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^within<pr>$ ^the<det><def><sp>$ ^framework<n><sg>$ ^of<pr>$ ^Law<n><sg>$ ^No<adv>$^.<sent>$ ^2003<num>$\/^24<num>$ "^Law<n><sg>$ ^on<pr>$ ^Sport<n><sg>$" ^pass<vblex><pp>$ ^by<pr>$ ^the<det><def><sp>$ ^Assembly<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^in<pr>$ ^2003<num>$^.<sent>$ ^The<det><def><sp>$ ^law<n><sg>$ ^formally<adv>$ ^establish<vblex><pp>$ ^a<det><ind><sg>$ ^national<adj>$ ^Olympic<adj>$ ^Committee<n><sg>$^,<cm>$ ^regulate<vblex><past>$ ^the<det><def><sp>$ ^establishment<n><sg>$ ^of<pr>$ ^sport<n><pl>$ ^federation<n><pl>$ ^and<cnjcoo>$ ^establish<vblex><pp>$ ^guideline<n><pl>$ ^for<pr>$ ^sport<n><pl>$ ^club<n><pl>$^.<sent>$ ^At present<adv>$ ^only<adv>$ ^some<prn><tn><mf><pl>$ ^of<pr>$ ^the<det><def><sp>$ ^sport<n><pl>$ ^federation<n><pl>$ ^establish<vblex><pp>$ ^have<vbhaver><inf>$ ^gain<vblex><pp>$ ^international<adj>$ ^recognition<n><sg>$^.<sent>$^.<sent>$[][<\/p>
+<p>]^Federation<n><pl>$ ^that<rel><an><mf><sp>$ ^have<vblex><pres>$ ^so<preadv>$ ^far<adv>$ ^gain<vblex><pp>$ ^membership<n><sg>$ ^or<cnjcoo>$ ^recognition<n><sg>$ ^by<pr>$ ^their<det><pos><sp>$ ^international<adj>$ ^govern<vblex><ger>$ ^body<n><sg>$^:<sent>$^.<sent>$[][<\/p>
 <ul>
-<li><a href='Kosovo national football team'>]^Kosovo<np><loc><sg>$ ^national<adj>$ ^football<n><sg>$ ^team<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Handball Federation of Kosovo'>]^Handball<n><sg>$ ^Federation<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Table Tennis Federation of Kosovo'>]^Table<n><sg>$ ^Tennis<n><sg>$ ^Federation<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<\/ul>
+<p><br\/>
+]^Federation<n><pl>$ ^that<rel><an><mf><sp>$ ^have<vbhaver><pres>$ ^not<adv>$ ^yet<adv>$ ^gain<vblex><pp>$ ^international<adj>$ ^recognition<n><sg>$^:<sent>$^.<sent>$[][<\/p>
+<ul>
 <li><a href='Basketball Federation of Kosovo'>]^Basketball<n><sg>$ ^Federation<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Football Federation of Kosovo'>]^Football<n><sg>$ ^Federation<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^ant<n><sg>$ ^the<det><def><sp>$[ <a href='Kosovo national football team'>]^Kosovo<np><loc><sg>$ ^national<adj>$ ^football<n><sg>$ ^team<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Olympic Committee of Kosovo'>]^Olympic<adj>$ ^Committee<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Tennis Federation of Kosovo'>]^Tennis<n><sg>$ ^Federation<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <\/p>
