@@ -215,8 +215,8 @@
 ]^Image<n><sg>$^:<sent>$^*Decani$^.<sent>$^*jpg$|^A<det><ind><sg>$ ^14<num>$^*th$^-<guio>$^century<n><sg>$ ^fresco<n><sg>$ ^in<pr>$[ <a href='Visoki DeÄani monastery'>]^*Visoki$ ^*DeÄ$^*ani$ ^*monastery$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Gjerovica$ ^new<adj><sint>$^.<sent>$^*JPG$|[<a href='Gjerovica'>]^*Gjerovica$[<\/a>]\/[<a href='Äeravica'>]^*Ä$^*eravica$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Bjeshket$ ^*Junikut$^.<sent>$^*JPG$|[<a href='Juniku Mountains'>]^*Juniku$ ^Mountain<n><pl>$[<\/a>]\/[<a href='Junik Mountains'>]^*Junik$ ^Mountain<n><pl>$[<\/a>
-]^Image<n><sg>$^:<sent>$^*Dardania$^2<num>$^.<sent>$^*jpg$|[<a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='Pristina'>]^*Pristina$[<\/a>	 	
-]^Image<n><sg>$^:<sent>$^*Dardania$^1<num>$^.<sent>$^*jpg$|[<a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='Pristina'>]^*Pristina$[<\/a>
+]^Image<n><sg>$^:<sent>$^*VeshjeKombetare$^.<sent>$^*JPG$|^Kosovo<np><loc><sg>$ ^Albanian<adj>$ ^ethnic<adj>$ ^costume<n><sg>$\/^dance<n><sg>$[ 	
+]^Image<n><sg>$^:<sent>$^*Erzengelkloster$ ^*serbischer$ ^Altar<n><sg>$^.<sent>$^*jpg$|^*Serbian$ ^church<n><sg>$ ^in<pr>$ ^*Bistrica$[
 &lt;]\/^gallery<n><sg>$^.<sent>$[][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><ul>
 <li><a href='History of Kosovo'>]^History<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
