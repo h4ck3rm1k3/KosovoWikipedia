@@ -130,18 +130,18 @@
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <ul>
 <li><\/li>
-<li><a href='http:\/\/www.xixonline.com  Restaurant in Kosovo'>]^4<num>$[<\/a> ]^-<guio>$ ^Restaurant<n><sg>$ ^in<pr>$ ^*Kosova$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.rtklive.com  RTK'>]^4<num>$[<\/a> ]^-<guio>$ ^*Kosova$^'s<gen>$ ^public<adj>$ ^television<n><sg>$ ^(<lpar>$^news<n><sg>$ ^in<pr>$ ^Albanian<n><sg>$^,<cm>$ ^*Serbian$^,<cm>$ ^Turkish<adj>$ ^and<cnjcoo>$ ^*Roma$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.xixonline.com  Restaurant in Kosovo'>]^5<num>$[<\/a> ]^-<guio>$ ^Restaurant<n><sg>$ ^in<pr>$ ^*Kosova$^.<sent>$[][<\/li>
 <li> 
-<a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^5<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ A collection of photos from Kosovo'>]^6<num>$^.<sent>$[][<\/a><\/li>
+<a href='https:\/\/www.osce.org\/documents\/mik\/1999\/11\/1620_en.pdf Human Rights in Kosovo: As Seen, As Told. Volume I, October 1998 - June 1999'>]^6<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^7<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ A collection of photos from Kosovo'>]^8<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <\/p>
 <a name="Pro-Albanian"><\/a><h3>]^*Pro$^-<guio>$^Albanian<n><sg>$^.<sent>$[][<\/h3><ul>
-<li><a href='https:\/\/www.osce.org\/documents\/mik\/1999\/11\/1620_en.pdf Human Rights in Kosovo: As Seen, As Told. Volume I, October 1998 - June 1999'>]^7<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/BalkanUpdate.blogspot.com Balkan Update'>]^8<num>$[<\/a>]^-<guio>$ ^A<det><ind><sg>$ ^*blog$ ^with<pr>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*lates$ ^update<vblex><pri><p3><sg>$ ^from<pr>$ ^*Balkans$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.eciks.org Economic Initiative for Kosovo'>]^9<num>$[<\/a> ]^-<guio>$ "^.<sent>$^.<sent>$^.<sent>$^late<adj><sint><sup>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^publication<n><pl>$ ^from<pr>$ ^the<det><def><sp>$ ^*Kosovar$ ^economy<n><sg>$"^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.rtklive.com  RTK'>]^10<num>$[<\/a> ]^-<guio>$ ^*Kosova$^'s<gen>$ ^public<adj>$ ^television<n><sg>$ ^(<lpar>$^news<n><sg>$ ^in<pr>$ ^Albanian<n><sg>$^,<cm>$ ^*Serbian$^,<cm>$ ^Turkish<adj>$ ^and<cnjcoo>$ ^*Roma$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/BalkanUpdate.blogspot.com Balkan Update'>]^9<num>$[<\/a>]^-<guio>$ ^A<det><ind><sg>$ ^*blog$ ^with<pr>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*lates$ ^update<vblex><pri><p3><sg>$ ^from<pr>$ ^*Balkans$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.eciks.org Economic Initiative for Kosovo'>]^10<num>$[<\/a> ]^-<guio>$ "^.<sent>$^.<sent>$^.<sent>$^late<adj><sint><sup>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^publication<n><pl>$ ^from<pr>$ ^the<det><def><sp>$ ^*Kosovar$ ^economy<n><sg>$"^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.albanian.com\/main\/countries\/kosova Albanian.com'>]^11<num>$[<\/a> ]^-<guio>$ ^general<adj>$ ^information<n><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovaelire.com\/ Kosova e lirÃ«'>]^12<num>$[<\/a> ]^(<lpar>$^Free<adj><sint>$ ^*Kosova$^)<rpar>$ ^-<guio>$^-<guio>$ ^Material<n><sg>$ ^about<pr>$ ^*Kosovars$ ^and<cnjcoo>$ ^Albanian<n><pl>$ ^in<pr>$ ^Albanian<adj>$ ^language<n><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li> 
@@ -159,8 +159,7 @@
 <li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^20<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government Kosovo-Metohija site'>]^21<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^22<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.balkanpeace.org\/hed\/archive\/nov01\/hed4304.shtml Al Qaeda involvement in Kosovo'>]^23<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.axisglobe.com\/article.asp?article=689 Southern Serbia: The second Kosovo?'>]^24<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.axisglobe.com\/article.asp?article=689 Southern Serbia: The second Kosovo?'>]^23<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p> 
 <br\/>
