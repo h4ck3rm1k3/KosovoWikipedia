@@ -18,18 +18,18 @@
 " ^*colspan$="^2<num>$" |[
 &lt;]^big<adj><sint>$[&gt;<strong> ]^Kosovo<np><loc><sg>$[ <\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosov$Ã«[<\/strong>&lt;]^*br$\/[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt; &lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$[&gt;
 ]|^-<guio>$[
-]| ^*align$=^centre<n><sg>$ |[ <a href='Image:Kosovmapofmunicipalities2.GIF'>]^Image<n><sg>$^:$
-^*Kosovmapofmunicipalities$^2<num>$^.$
-^GIF<n><acr><sg>$[<\/a>
+]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-KosovoMetohija.png'>]^Image<n><sg>$^:$
+^*SerbiaMontenegro$^-<guio>$^*KosovoMetohija$^.$
+^*png$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
 ]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Capital'>]^Capital<n><sg>$[<\/a>
-]|[ <a href='PrishtinÃ«'>]^*Prishtin$Ã«[<\/a>
+]|[ <a href='PrishtinÃ«'>]^*Prishtin$Ã«[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
-]|[<a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>
+]|[ <a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Prime Minister of Kosovo|Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Prime<adj>$ ^Minister<n><sg>$[<\/a>
 ]|[ <a href='Bajram Kosumi'>]^*Bajram$ ^*Kosumi$[<\/a>
