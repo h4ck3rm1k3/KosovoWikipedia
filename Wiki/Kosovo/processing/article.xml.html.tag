@@ -143,7 +143,7 @@
 ]| ^*align$="^right<adj>$" |^5<num>$[&amp;]^*nbsp$^;<sent>$%[
 ]|^-<guio>$[
 ]|^-<guio>$ ^*bgcolor$="#^*f$^5<num>$^*f$^5<num>$^*f$^5<num>$"[
-]|[<strong>]^2000<num>$[&lt;]^small<adj><sint>$[&gt;&lt;]^*sup$[&gt;]^2<num>$[&lt;]\/^*sup$[&gt;&lt;]\/^small<adj><sint>$[&gt;<\/strong> 
+]|[<strong>]^2000<num>$[&lt;]^small<adj><sint>$[&gt;&lt;]^*sup$[&gt;]^(<lpar>$^2<num>$^.<sent>$^)<rpar>$[&lt;]\/^*sup$[&gt;&lt;]\/^small<adj><sint>$[&gt;<\/strong> 
 ]| ^*align$="^right<n><sg>$" |^88<num>$[&amp;]^*nbsp$^;<sent>$%[
 ]| ^*align$="^right<adj>$" |^7<num>$[&amp;]^*nbsp$^;<sent>$%[
 ]| ^*align$="^right<adj>$" |^5<num>$[&amp;]^*nbsp$^;<sent>$%[

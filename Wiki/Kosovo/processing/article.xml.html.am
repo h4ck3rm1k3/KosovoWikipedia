@@ -143,7 +143,7 @@
 ]| ^align/*align$="^right/right<adj>/right<adv>/right<n><sg>$" |^5/5<num>$[&amp;]^nbsp/*nbsp$^;/;<sent>$%[
 ]|^-/-<guio>$[
 ]|^-/-<guio>$ ^bgcolor/*bgcolor$="#^f/*f$^5/5<num>$^f/*f$^5/5<num>$^f/*f$^5/5<num>$"[
-]|[<strong>]^2000/2000<num>$[&lt;]^small/small<adj><sint>$[&gt;&lt;]^sup/*sup$[&gt;]^2/2<num>$[&lt;]\/^sup/*sup$[&gt;&lt;]\/^small/small<adj><sint>$[&gt;<\/strong> 
+]|[<strong>]^2000/2000<num>$[&lt;]^small/small<adj><sint>$[&gt;&lt;]^sup/*sup$[&gt;]^(/(<lpar>$^2/2<num>$^./.<sent>$^)/)<rpar>$[&lt;]\/^sup/*sup$[&gt;&lt;]\/^small/small<adj><sint>$[&gt;<\/strong> 
 ]| ^align/*align$="^right/right<adj>/right<adv>/right<n><sg>$" |^88/88<num>$[&amp;]^nbsp/*nbsp$^;/;<sent>$%[
 ]| ^align/*align$="^right/right<adj>/right<adv>/right<n><sg>$" |^7/7<num>$[&amp;]^nbsp/*nbsp$^;/;<sent>$%[
 ]| ^align/*align$="^right/right<adj>/right<adv>/right<n><sg>$" |^5/5<num>$[&amp;]^nbsp/*nbsp$^;/;<sent>$%[
