@@ -14,7 +14,7 @@
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[
 &lt;]^big<adj><sint>$[&gt;<strong> ]^Kosovo<np><loc><sg>$[ <\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosov$Ã«[<\/strong>&lt;]^*br$\/[&gt;]^'<apos>$^'<apos>$^'<apos>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[ &lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$[&gt;
 ]|^-<guio>$[
-]| ^*align$=^centre<n><sg>$ |[ <a href='Image:Kosovmapofmunicipalities1.gif'>]^Image<n><sg>$^:<sent>$^*Kosovmapofmunicipalities$^1<num>$^.<sent>$^*gif$[<\/a>
+]| ^*align$=^centre<n><sg>$ |[ <a href='Image:Kosovmapofmunicipalities1.GIF'>]^Image<n><sg>$^:<sent>$^*Kosovmapofmunicipalities$^1<num>$^.<sent>$^GIF<n><acr><sg>$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
 ]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
