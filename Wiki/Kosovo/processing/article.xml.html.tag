@@ -296,6 +296,10 @@
 ]{{^Central<adj>$ ^European<adj>$ ^Free<adj><sint>$ ^Trade<n><sg>$ ^Agreement<n><sg>$ ^(<lpar>$^*CEFTA$^)<rpar>$}}[
 ]}}^.<sent>$[][<\/p>
 <p><a href='Category:Kosovo| '>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|[ <\/a>
+<a href='Category:European countries'>]^Category<n><sg>$^:<sent>$^European<adj>$ ^country<n><pl>$[<\/a>
+<a href='Category:Balkans'>]^Category<n><sg>$^:<sent>$^*Balkans$[<\/a>
+<a href='Category:Subdivisions of Serbia'>]^Category<n><sg>$^:<sent>$^*Subdivisions$ ^of<pr>$ ^*Serbia$[<\/a>
+<a href='Category:Unrecognized or largely-unrecognized states'>]^Category<n><sg>$^:<sent>$^*Unrecognized$ ^or<cnjcoo>$ ^largely<adv>$^-<guio>$^*unrecognized$ ^state<n><pl>$[<\/a>
 <a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$^.<sent>$[][<\/a><\/p>
 <p><a href='af:Kosovo'>]^*af$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='als:Kosovo'>]^*als$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
