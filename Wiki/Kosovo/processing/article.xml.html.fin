@@ -73,7 +73,7 @@
 ]|[ <a href='UTC+1'>]^*UTC$+^1<num>$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Currency'>]^Currency<n><sg>$[<\/a>
-]|[ <a href='Euro'>]^Euro<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian Dinar'>]^*Serbian$ ^*Dinar$[<\/a>
+]|[ <a href='Euro'>]^Euro<n><sg>$[<\/a>]^,<cm>$^(<lpar>$^official<n><sg>$^)<rpar>$ ^and<cnjcoo>$[ <a href='Serbian Dinar'>]^*Serbian$ ^*Dinar$[<\/a> ]^(<lpar>$^the<det><def><sp>$ ^latter<adj>$ ^be<vbser><pri><p3><sg>$ ^use<vblex><pp>$ ^exclusively<adv>$ ^in<pr>$ ^*Serbian$^-<guio>$^populate<vblex><pp>$ ^area<n><pl>$^)<rpar>$[
 ]|^-<guio>$[
 ]|}^.$
 [][<\/p>
