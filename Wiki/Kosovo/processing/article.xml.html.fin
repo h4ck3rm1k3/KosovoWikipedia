@@ -593,9 +593,9 @@
 ^*font$^-<guio>$^size<n><sg>$^:$
 ^170%<num><percent>$^;$
 ^left<adv>$^:$
-^220<num>$^*px$^;$
+^195<num>$^*px$^;$
 ^top<adj>$^:$
-^45<num>$^*px$"[&gt;<strong><a href='Kosovska_Mitrovica|MitrovicÑ'>]^*Kosovska$_^*Mitrovica$|^*MitrovicÑ$[<\/a><\/strong>&lt;]\/^*div$[&gt;
+^170<num>$^*px$"[&gt;<strong><a href='Kosovska_Mitrovica|MitrovicÑ'>]^*Kosovska$_^*Mitrovica$|^*MitrovicÑ$[<\/a><\/strong>&lt;]\/^*div$[&gt;
 ]|^-<guio>$[
 ]|[&lt;]^centre<n><sg>$[&gt;]^Large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^the<det><def><sp>$ ^Kosovo<np><loc><sg>$[&lt;]\/^centre<n><sg>$[&gt;
 &lt;]\/^*div$[&gt;
