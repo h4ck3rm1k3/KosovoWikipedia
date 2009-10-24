@@ -19,8 +19,14 @@
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
 ]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
 ]|^-<guio>$[
-]|[ <a href='Capital'>]^Capital<adj>$[<\/a>
-]|[ <a href='Pri&amp;#353;tina'>]^*Pri$[&amp;]#^353<num>$^;<sent>$^*tina$[<\/a>
+]|[ <a href='Capital'>]^Capital<n><sg>$[<\/a>
+]|[ <a href='Pristina'>]^*Pristina$[<\/a>
+]|^-<guio>$[
+]|[ <a href='President'>]^President<n><sg>$[<\/a>
+]|[ <a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>
+]|^-<guio>$[
+]|[ <a href='Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$[<\/a>
+]|[ <a href='Bajram Kosumi'>]^*Bajram$ ^*Kosumi$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Area'>]^Area<n><sg>$[<\/a>&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[&amp;]^*ndash$^;<sent>$ ^Total<n><sg>$[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[&amp;]^*ndash$^;<sent>$ % ^water<n><sg>$[
 ]|[ &lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[<a href='1 E10 m2|10,887'>]^1<num>$ ^*E$^10<num>$ ^*m$^2<num>$|^10,887<num>$[<\/a> ]^*km$[&amp;]^*sup$^2<num>$^;<sent>$[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$^*n$\/^a<det><ind><sg>$[
