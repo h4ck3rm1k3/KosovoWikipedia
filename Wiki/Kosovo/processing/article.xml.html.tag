@@ -15,13 +15,13 @@
 ]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
-]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>
+]|[ <a href='Serbian'>]^*Serbian$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Capital'>]^Capital<n><sg>$[<\/a>
 ]|[ <a href='Prishtina'>]^*Prishtina$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='President'>]^President<n><sg>$[<\/a>
-]|[ <a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>
+]|[ <a href='Boris Tadic'>]^Boris<np><ant><m><sg>$ ^*Tadic$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$[<\/a>
 ]|[ <a href='Bajram Kusumi'>]^*Bajram$ ^*Kusumi$[<\/a>
@@ -33,14 +33,15 @@
 ]|[ &lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$^2.5<num>$ ^-<guio>$ ^3.0<num>$ ^million<num><sp>$ ^(<lpar>$^*est$^.<sent>$^)<rpar>$[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$^185<num>$\/^*kmÂ$² ^(<lpar>$^*approx$^)<rpar>$[
 ]|^-<guio>$[
 ]| ^*valign$=^top<adj>$ |[ <a href='List of ethnic groups|Ethnic groups'>]^List<n><sg>$ ^of<pr>$ ^ethnic<adj>$ ^group<n><pl>$|^Ethnic<adj>$ ^group<n><pl>$[<\/a>&lt;]^*br$\/[&gt;]^(<lpar>$[<a href='2003'>]^2003<num>$[<\/a>]^)<rpar>$[
-]|[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>]^:<sent>$ ^88%<num><percent>$[&lt;]^*br$\/[&gt;<a href='Serbs'>]^*Serbs$[<\/a>]^:<sent>$ ^7%<num><percent>$[&lt;]^*br$\/[&gt;]^Others<prn><tn><mf><pl>$^:<sent>$ ^5%<num><percent>$[
+]|[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>]^:<sent>$ ^86%<num><percent>$[&lt;]^*br$\/[&gt;<a href='Serbs'>]^*Serbs$[<\/a>]^:<sent>$ ^9%<num><percent>$[&lt;]^*br$\/[&gt;]^Others<prn><tn><mf><pl>$^:<sent>$ ^5%<num><percent>$[
 ]|^-<guio>$[
 ]|[ <a href='Time zone'>]^Time<n><sg>$ ^zone<n><sg>$[<\/a>
 ]|[ <a href='UTC'>]^*UTC$[<\/a> ]+^1<num>$[
 ]|^-<guio>$^.<sent>$[][<\/p>
 <p>]|^*colspan$=^2<num>$|[ <a href='Turkish language|Turkish'>]^Turkish<adj>$ ^language<n><sg>$|^Turkish<adj>$[<\/a> ]^at<pr>$ ^local<adj>$ ^level<n><pl>$[
 ]|}^.<sent>$[][<\/p>
-<p><strong>]^Kosovo<np><loc><sg>$[<\/strong>]^A<det><ind><sg>$ ^*atonomous$ ^province<n><sg>$ ^in<pr>$ ^*Serbia$^,<cm>$ ^*wich$ ^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$ ^cradle<n><sg>$ ^of<pr>$ ^*Serb$ ^civilization<n><sg>$^.<sent>$ ^Kosovo<np><loc><sg>$ ^have<vblex><pri><p3><sg>$ ^a<det><ind><sg>$ ^rich<adj><sint>$ ^history<n><sg>$ ^and<cnjcoo>$ ^contain<vblex><pri><p3><sg>$ ^many<det><qnt><pl>$ ^*Ortodox$ ^church<n><pl>$ ^*wich$ ^most of<det><qnt><sp>$ ^prpers<prn><obj><p3><mf><pl>$ ^have<vbhaver><pres>$ ^be<vbser><pp>$ ^burn<vblex><pp>$ ^down<adv>$ ^by<pr>$ ^Albanian<adj>$ ^terrorist<n><pl>$^.<sent>$^.<sent>$[][<\/p>
+<p><strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^A<det><ind><sg>$ ^*atonomous$ ^province<n><sg>$ ^in<pr>$ ^*Serbia$^.<sent>$ ^Also<adv>$ ^know<vblex><pp>$ ^as<pr>$ ^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$^.<sent>$[
+]^Cradle<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serb$ ^civilization<n><sg>$^.<sent>$ ^Kosovo<np><loc><sg>$ ^have<vblex><pri><p3><sg>$ ^a<det><ind><sg>$ ^rich<adj><sint>$ ^history<n><sg>$ ^and<cnjcoo>$ ^contain<vblex><pri><p3><sg>$ ^many<det><qnt><pl>$ ^Orthodox<adj>$ ^church<n><pl>$ ^*wich$ ^most of<det><qnt><sp>$ ^prpers<prn><obj><p3><mf><pl>$ ^have<vbhaver><pres>$ ^be<vbser><pp>$ ^burn<vblex><pp>$ ^down<adv>$ ^by<pr>$ ^Albanian<adj>$ ^terrorist<n><pl>$^.<sent>$^.<sent>$[][<\/p>
 <p><br\/>
 <\/p>
 <a name="Geography"><\/a><h2>]^Geography<n><sg>$^.<sent>$[][<\/h2><p><a href='image:UTkosovo rel small 92.jpg|thumb|left|275px|Physical map of Kosovo'>]^image<n><sg>$^:<sent>$^*UTkosovo$ ^*rel$ ^small<adj><sint>$ ^92<num>$^.<sent>$^*jpg$|^thumb<n><sg>$|^leave<vblex><past>$|^275<num>$^*px$|^Physical<adj>$ ^map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/p>
