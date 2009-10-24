@@ -693,11 +693,10 @@ _^*r$=^2<num>$[&amp;]^*oref$=^*slogin$[&amp;]^*oref$=^*slogin$ |^title<n><sg>$=^
 [][<\/h3><ul>
 <li>]^with<pr>$[ <a href='Albania'>]^*Albania$[<\/a> ]^-<guio>$ ^111,7<num>$ ^*km$^.$
 [][<\/li>
-<li> 
-]^with<pr>$[ <a href='Montenegro'>]^Montenegro<np><loc><sg>$[<\/a> ]^-<guio>$ ^78,6<num>$ ^*km$^.$
+<li>]^with<pr>$[ <a href='Macedonia'>]^Macedonia<np><ant><f><sg>$[<\/a> ]^-<guio>$ ^158,7<num>$ ^*km$^.$
 [][<\/li>
-<li> 
-]^with<pr>$[ <a href='Macedonia'>]^Macedonia<np><ant><f><sg>$[<\/a> ]^-<guio>$ ^158,7<num>$ ^*km$^.$
+<li>  
+]^with<pr>$[ <a href='Montenegro'>]^Montenegro<np><loc><sg>$[<\/a> ]^-<guio>$ ^78,6<num>$ ^*km$^.$
 [][<\/li>
 <li> 
 ]^with<pr>$[ <a href='Central Serbia'>]^Central<adj>$ ^*Serbia$[<\/a> ]^-<guio>$ ^351,6<num>$ ^*km$^.$
@@ -705,8 +704,9 @@ _^*r$=^2<num>$[&amp;]^*oref$=^*slogin$[&amp;]^*oref$=^*slogin$ |^title<n><sg>$=^
 <\/ul>
 <p> 
 ]^What<det><itg><sp>$ ^account<n><pl>$ ^with<pr>$ ^a<det><ind><sg>$ ^total<n><sg>$ ^of<pr>$ ^700,7<num>$ ^*km$ ^of<pr>$ ^border<n><pl>$^.$
-^.$
-[][<\/p>
+[&lt;]^*ref$ ^name<n><sg>$="^*SYSFRY$^1983<num>$"[&gt;]^Statistical<adj>$ ^Yearbook<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Socialist<adj>$ ^Federal<adj>$ ^Republic<n><sg>$ ^of<pr>$ ^Yugoslavia<np><loc><sg>$^,<cm>$ ^1983<num>$^.$
+[&lt;]\/^*ref$^.$
+[][&gt;<\/p>
 <a name="Area_of_Kosovo"><\/a><h3>]^Area<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.$
 [][<\/h3><p>]^The<det><def><sp>$ ^surface<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^area<n><sg>$ ^of<pr>$ ^10.887<num>$ ^*km$[&lt;]^*sup$[&gt;]^2<num>$[&lt;]\/^*sup$^.$
 [][&gt;<\/p>
