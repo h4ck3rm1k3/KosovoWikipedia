@@ -209,6 +209,7 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^18<num>$[<\/a> ]"^,<cm>$[ 
 <a name="Gallery"><\/a><h2>]^Gallery<n><sg>$^.<sent>$[][<\/h2><p>&lt;]^gallery<n><sg>$[&gt;
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$_^government<n><sg>$^.<sent>$^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^in<pr>$[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Prizen$ ^*kosovo$^.<sent>$^*jpg$|[<a href='Prizren'>]^*Prizren$[<\/a>]^.<sent>$[
+]^Image<n><sg>$^:<sent>$^*Pamje$_^*kacaniku$^.<sent>$^*JPG$|[<a href='KaÃ§aniku'>]^*Ka$Ã§^*aniku$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Gjakova$^.<sent>$^*jpg$|[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Decani$^.<sent>$^*jpg$|[<em>]^*Christ$ ^Carry<vblex><ger>$ ^the<det><def><sp>$ ^Cross<n><sg>$[<\/em>]^,<cm>$ ^a<det><ind><sg>$ ^fresco<n><sg>$ ^from<pr>$[ <a href='Visoki DeÄani'>]^*Visoki$ ^*DeÄ$^*ani$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Erzengelkloster$^2<num>$^.<sent>$^*jpg$|[<a href='Serbs in Kosovo|Serb'>]^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^*Serb$[<\/a> ]^*monastery$^,<cm>$ ^*St$ ^*Archangel$^,<cm>$ ^near<adj><sint>$ ^river<n><sg>$[ <a href='Bistrica'>]^*Bistrica$[<\/a>]^.<sent>$[
