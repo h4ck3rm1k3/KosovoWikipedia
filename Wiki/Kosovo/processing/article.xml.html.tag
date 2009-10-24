@@ -260,14 +260,15 @@
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><ul>
 <li>]{{^*wikiatlas$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.unmikonline.org\/ United Nations Interim Administration in Kosovo'>]^59<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kryeministri-ks.net\/?page=2,1 The Government of Kosovo and Prime minister's office'>]^60<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.assembly-kosova.org\/ Assembly of Kosovo'>]^61<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.president-ksgov.net\/?id=1,67,67,67,e\/ President of Kosovo'>]^62<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.srbija.gov.rs\/kosovo-metohija\/?change_lang=en Serbian Government for Kosovo and Metohija'>]^63<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='https:\/\/www.cia.gov\/library\/publications\/world-leaders-1\/world-leaders-k\/kosovo.html Chief of State and Cabinet Members'>]^64<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovo.net\/ Kosovo.net'>]^60<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kryeministri-ks.net\/?page=2,1 The Government of Kosovo and Prime minister's office'>]^61<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.assembly-kosova.org\/ Assembly of Kosovo'>]^62<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.president-ksgov.net\/?id=1,67,67,67,e\/ President of Kosovo'>]^63<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.srbija.gov.rs\/kosovo-metohija\/?change_lang=en Serbian Government for Kosovo and Metohija'>]^64<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='https:\/\/www.cia.gov\/library\/publications\/world-leaders-1\/world-leaders-k\/kosovo.html Chief of State and Cabinet Members'>]^65<num>$^.<sent>$[][<\/a><\/li>
 <li>]{{^CIA<n><acr><sg>$ ^World<adj>$ ^*Factbook$ ^link<n><sg>$|^*kv$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/li>
 <li>]{{^*dmoz$|^Regional<adj>$\/^Europe<np><loc><sg>$\/^*Serbia$\/^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/li>
-<li><a href='http:\/\/web.archive.org\/web\/20071018054247\/http:\/\/www.visitkosova.org\/english\/index.htm Visit Kosovo - Tourism Website'>]^65<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/web.archive.org\/web\/20071018054247\/http:\/\/www.visitkosova.org\/english\/index.htm Visit Kosovo - Tourism Website'>]^66<num>$^.<sent>$[][<\/a><\/li>
 <li><\/li>
 <\/ul>
 <p><br\/>
