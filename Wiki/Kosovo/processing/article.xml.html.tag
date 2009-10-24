@@ -266,8 +266,7 @@
 <li><a href='http:\/\/www.president-ksgov.net\/?id=1,67,67,67,e\/ President of Kosovo'>]^67<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/?change_lang=en Serbian Government for Kosovo and Metohija'>]^68<num>$^.<sent>$[][<\/a><\/li>
 <li>]{{^CIA<n><acr><sg>$ ^World<adj>$ ^*Factbook$ ^link<n><sg>$|^*kv$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovo.net\/ Crimes against Christians in Kosovo'>]^69<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.visitkosova.org\/english\/index.htm Visit Kosovo - Tourism Website'>]^70<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.visitkosova.org\/english\/index.htm Visit Kosovo - Tourism Website'>]^69<num>$^.<sent>$[][<\/a><\/li>
 <li><\/li>
 <\/ul>
 <p><br\/>
