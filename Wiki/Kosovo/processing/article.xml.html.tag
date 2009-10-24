@@ -377,6 +377,7 @@
 <a href='nov:Kosovo'>]^*nov$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='oc:Kosova'>]^*oc$^:<sent>$^*Kosova$[<\/a>
 <a href='uz:Kosovo'>]^*uz$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='pap:Kosovo'>]^*pap$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='pms:Kosovo'>]^*pms$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='nds:Kosovo'>]^*nds$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='pl:Kosowo'>]^*pl$^:<sent>$^*Kosowo$[<\/a>
