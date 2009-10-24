@@ -216,8 +216,6 @@ UN Resolution on Kosovo Circulated'>]^27<num>$[<\/a>]"^,<cm>$[ <em>]^AP<n><acr><
 ]^Image<n><sg>$^:<sent>$^*Prizen$ ^*kosovo$^.<sent>$^*jpg$|[<a href='Prizren'>]^*Prizren$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Pamje$_^*kacaniku$^.<sent>$^*JPG$|[<a href='KaÃ§aniku'>]^*Ka$Ã§^*aniku$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Gjakova$^.<sent>$^*jpg$|[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]^.<sent>$[
-]^Image<n><sg>$^:<sent>$^*Decani$^.<sent>$^*jpg$|[<em>]^*Christ$ ^Carry<vblex><ger>$ ^the<det><def><sp>$ ^Cross<n><sg>$[<\/em>]^,<cm>$ ^a<det><ind><sg>$ ^fresco<n><sg>$ ^from<pr>$[ <a href='Visoki DeÄani'>]^*Visoki$ ^*DeÄ$^*ani$[<\/a>]^.<sent>$[
-]^Image<n><sg>$^:<sent>$^*Erzengelkloster$^2<num>$^.<sent>$^*jpg$|[<a href='Serbs in Kosovo|Serb'>]^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^*Serb$[<\/a> ]^*monastery$^,<cm>$ ^*St$ ^*Archangel$^,<cm>$ ^near<adj><sint>$ ^river<n><sg>$[ <a href='Bistrica'>]^*Bistrica$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*VeshjeKombetare$^.<sent>$^*JPG$|[<a href='Albanians in Kosovo|Kosovo Albanian'>]^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^Kosovo<np><loc><sg>$ ^Albanian<adj>$[<\/a> ]^ethnic<adj>$ ^costume<n><sg>$\/^dance<n><sg>$^.<sent>$[  
 ]^Image<n><sg>$^:<sent>$^*Bibloteka$ ^*Komb$Ã«^*tare$ ^*e$ ^*Kosov$Ã«^*s$^.<sent>$^*jpg$|^National<adj>$ ^Public<adj>$ ^Library<n><sg>$ ^in<pr>$[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]^.<sent>$[
 &lt;]\/^gallery<n><sg>$^.<sent>$[][&gt;<\/p>
