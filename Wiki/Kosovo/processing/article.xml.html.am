@@ -22,9 +22,9 @@
 ]|^common/common<adj>$_^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>$[              ]= ^Kosovo/Kosovo<np><loc><sg>$[
 ]|^image/image<n><sg>$_^flag/flag<n><sg>$[               ]= ^Flag/Flag<n><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$^./.<sent>$^svg/*svg$[
 ]|^image/image<n><sg>$_^coat/coat<n><sg>$[               ]= ^Coat/Coat<n><sg>$_^of/of<pr>$_^arms/arm<n><pl>/arm<vblex><pri><p3><sg>$_^of/of<pr>$_^Kosovo/Kosovo<np><loc><sg>$^./.<sent>$^svg/*svg$[
-]|^image/image<n><sg>$_^map/map<n><sg>$[                ]= ^Europe/Europe<np><loc><sg>$ ^location/location<n><sg>$ ^KOS/*KOS$^./.<sent>$^png/*png$[
-]|^map/map<n><sg>$_^caption/*caption$[              ]= ^Location/Location<n><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$ ^in/in<adv>/in<pr>$[ <a href='Europe'>]^Europe/Europe<np><loc><sg>$^./.<sent>$[][<\/a><\/p>
-<p>]|^national/national<adj>$_^motto/*motto$[           ]=[
+]|^image/image<n><sg>$_^map/map<n><sg>$ = ^Kosovo/Kosovo<np><loc><sg>$^-/-<guio>$^in/in<adv>/in<pr>$^-/-<guio>$^Europe/Europe<np><loc><sg>$^./.<sent>$^jpg/*jpg$[
+]|^map/map<n><sg>$_^caption/*caption$ = {{^map/map<n><sg>$_^caption/*caption$|^location/location<n><sg>$_^color/*color$=^dark/dark<adj><sint>/dark<n><sg>$ ^green/green<adj><sint>/green<n><sg>$|^region/region<n><sg>$=[<a href='Europe'>]^Europe/Europe<np><loc><sg>$[<\/a>]|^region/region<n><sg>$_^color/*color$=^dark/dark<adj><sint>/dark<n><sg>$ ^grey/grey<adj><sint>$}}[
+]|^national/national<adj>$_^motto/*motto$[           ]=[
 ]|^national/national<adj>$_^anthem/*anthem$[          ]=[
 ]|^official/official<adj>/official<n><sg>$_^languages/language<n><pl>$[       ]=[ <a href='Albanian language|Albanian'>]^Albanian/Albanian<adj>/Albanian<n><sg>$ ^language/language<n><sg>$|^Albanian/Albanian<adj>/Albanian<n><sg>$[<\/a>]^,/,<cm>$[ <a href='Serbian language|Serbian'>]^Serbian/*Serbian$ ^language/language<n><sg>$|^Serbian/*Serbian$[<\/a>
 ]|^regional/regional<adj>$_^languages/language<n><pl>$[       ]=[ <a href='Turkish language|Turkish'>]^Turkish/Turkish<adj>/Turkish<n><sg>/Turkish<n><pl>$ ^language/language<n><sg>$|^Turkish/Turkish<adj>/Turkish<n><sg>/Turkish<n><pl>$[<\/a>]^,/,<cm>$[ <a href='NaÅ¡inski|Gorani'>]^Na/*Na$Å^¡/¡<lquest>$^inski/*inski$|^Gorani/*Gorani$[<\/a>]^,/,<cm>$[ <a href='Romani language|Romani'>]^Romani/*Romani$ ^language/language<n><sg>$|^Romani/*Romani$[<\/a>]^,/,<cm>$[ <a href='Bosnian language|Bosnian'>]^Bosnian/*Bosnian$ ^language/language<n><sg>$|^Bosnian/*Bosnian$[<\/a>
