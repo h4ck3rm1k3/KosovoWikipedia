@@ -50,6 +50,8 @@
 ]| ^GDP<n><acr><sg>$_^*nominal$_^rank<n><sg>$[         ]= ^N\/A<n><acr><sg>$[
 ]| ^GDP<n><acr><sg>$_^*nominal$_^per<pr>$_^*capita$[   ]= \$^1,500<num>$[&lt;]^*ref$ ^name<n><sg>$="^*CIAKosovo$"\/[&gt;
 ]| ^GDP<n><acr><sg>$_^*nominal$_^per<pr>$_^*capita$_^rank<n><sg>$[  ]= ^119<num>$^*th$[
+]|^currency<n><sg>$[                 ]=[ <a href='Euro'>]^Euro<n><sg>$[<\/a> ]^(<lpar>$[<a href='Euro sign|â¬'>]^Euro<n><sg>$ ^sign<n><sg>$|^*â$¬[<\/a>]^)<rpar>$[
+]|^currency<n><sg>$_^code<n><sg>$[            ]= ^*EUR$[
 ]|^time<n><sg>$_^zone<vblex><pres>$[                ]=[ <a href='Central European Time|CET'>]^Central<adj>$ ^European<adj>$ ^Time<n><sg>$|^CET<n><acr><sg>$[<\/a>
 ]|^*utc$_^*offset$[               ]= +^1<num>$[
 ]|^time<n><sg>$_^zone<n><sg>$_^DST<n><acr><sg>$[            ]=[ <a href='Central European Summer Time|CEST'>]^Central<adj>$ ^European<adj>$ ^Summer<n><sg>$ ^Time<n><sg>$|^*CEST$[<\/a>
