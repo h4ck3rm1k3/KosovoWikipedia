@@ -18,8 +18,7 @@
 " ^*colspan$="^2<num>$" |[
 &lt;]^big<adj><sint>$[&gt;<strong> ]^Kosovo<np><loc><sg>$[ <\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosov$Ã«[<\/strong>&lt;]^*br$\/[&gt; &lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$[&gt;
 ]|^-<guio>$[
-]^image<n><sg>$_^map<n><sg>$ = ^Image<n><sg>$^:$
-^*Kosovmapofmunicipalities$^2<num>$^.$
+]^image<n><sg>$_^map<n><sg>$ = ^*Kosovmapofmunicipalities$^2<num>$^.$
 ^GIF<n><acr><sg>$[
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
