@@ -136,9 +136,9 @@
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <ul>
 <li><a href='http:\/\/www.balkanforums.com Kosovo and the Balkans'>]^5<num>$[<\/a> ]^-<guio>$ ^Discussion<n><sg>$ ^Forum<n><sg>$^.<sent>$[][<\/li>
-<li>]^\[<lpar>$^*http$^:<sent>$\/\/^www.antiwar.com<num>$\/^*malic$\/^?<sent>$^*articleid$=^8511<num>$ ^-<guio>$ ^Kosovo<np><loc><sg>$ ^as<cnjadv>$ ^the<det><def><sp>$ ^price<n><sg>$ ^of<pr>$^.<sent>$[][<\/li>
+<li>]^*http$^:<sent>$\/\/^www.antiwar.com<num>$\/^*malic$\/^?<sent>$^*articleid$=^8511<num>$ ^-<guio>$ ^Kosovo<np><loc><sg>$ ^as<cnjadv>$ ^the<det><def><sp>$ ^price<n><sg>$ ^of<pr>$^.<sent>$[][<\/li>
 <\/ul>
-<p>]^Euro<n><sg>$^-<guio>$^Atlantic<adj>$ ^integration<n><pl>$^\]<rpar>$^.<sent>$[][<\/p>
+<p>]^Euro<n><sg>$^-<guio>$^Atlantic<adj>$ ^integration<n><pl>$^.<sent>$[][<\/p>
 <ul>
 <li><\/li>
 <li><a href='http:\/\/www.rtklive.com  RTK - Kosova's public television - news in Albanian, Serbian, Turkish and Roma'>]^6<num>$^.<sent>$[][<\/a><\/li>
