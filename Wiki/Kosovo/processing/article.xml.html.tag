@@ -128,38 +128,23 @@
 <li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ A collection of photos from Kosovo'>]^7<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.kosovo.com\/sk\/history\/kosovo_origins\/default.htm  Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^8<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ "^objective<adj>$" ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
 <\/ul>
-<p><br\/>
-]===^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$===^.<sent>$[][<\/p>
-<ul>
-<li>  
-<a href='http:\/\/www.assembly-kosova.org\/ Assembly of Kosovo'>]^9<num>$^.<sent>$[][<\/a><\/li>
-<li>  
-<a href='http:\/\/www.pm-ksgov.net\/ Kosovo Prime Minister'>]^10<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.mtpt.org\/ Ministry of Transport and Communications'>]^11<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.mfe-ks.org\/ Ministry of Economy and Finance'>]^12<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.mti-ks.org\/ Ministry of Trade and Industry'>]^13<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.mashtgov.net\/ Ministry of Education, Science and Technology'>]^14<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.mmph.org\/ Ministry of Environment and Spatial Planning'>]^15<num>$^.<sent>$[][<\/a><\/li>
-<li> 
-<a href='http:\/\/www.sok-kosovo.org Statistical Office of Kosovo'>]^16<num>$[<\/a> ]^-<guio>$ ^governmental<adj>$ ^agency<n><sg>$ ^of<pr>$ ^*statistics$^.<sent>$[][<\/li>
-<\/ul>
 <p><br\/><\/p>
 <p><br\/>
 <\/p>
 <a name="Pro-Serb"><\/a><h3>]^*Pro$^-<guio>$^*Serb$^.<sent>$[][<\/h3><ul>
-<li><a href='http:\/\/www.kosovo.com\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^17<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^Jewish<adj>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovo.com\/ Kosovo.com'>]^18<num>$[<\/a> ]^*Serbian$ ^Orthodox<adj>$ ^Church<n><sg>$^'s<gen>$ ^official<adj>$ ^*website$ ^on<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/BalkanUpdate.blogspot.com Balkan Update'>]^19<num>$[<\/a>]^-<guio>$ ^A<det><ind><sg>$ ^*blog$ ^with<pr>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*lates$ ^update<vblex><pri><p3><sg>$ ^from<pr>$ ^*Balkans$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohia'>]^20<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.serbia.sr.gov.yu\/news\/kosovo News from the Serbian Government'>]^21<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovo.net\/ News from the Serbian Orthodox Church'>]^22<num>$^.<sent>$[][<\/a><ul>
+<li><a href='http:\/\/www.kosovo.com\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^9<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^Jewish<adj>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovo.com\/ Kosovo.com'>]^10<num>$[<\/a> ]^*Serbian$ ^Orthodox<adj>$ ^Church<n><sg>$^'s<gen>$ ^official<adj>$ ^*website$ ^on<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/BalkanUpdate.blogspot.com Balkan Update'>]^11<num>$[<\/a>]^-<guio>$ ^A<det><ind><sg>$ ^*blog$ ^with<pr>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*lates$ ^update<vblex><pri><p3><sg>$ ^from<pr>$ ^*Balkans$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohia'>]^12<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.serbia.sr.gov.yu\/news\/kosovo News from the Serbian Government'>]^13<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovo.net\/ News from the Serbian Orthodox Church'>]^14<num>$^.<sent>$[][<\/a><ul>
 <li> 
-<a href='http:\/\/groups.yahoo.com\/group\/decani\/ News archive'>]^23<num>$^.<sent>$[][<\/a><\/li>
+<a href='http:\/\/groups.yahoo.com\/group\/decani\/ News archive'>]^15<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <\/li>
-<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^24<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government Kosovo-Metohija site'>]^25<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.tserkovnost.org\/srbjia\/kosmet.html The Crisis in Kosovo and Metohia'>]^26<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^16<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government Kosovo-Metohija site'>]^17<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.tserkovnost.org\/srbjia\/kosmet.html The Crisis in Kosovo and Metohia'>]^18<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 ]{{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$}}^.<sent>$[][<\/p>
