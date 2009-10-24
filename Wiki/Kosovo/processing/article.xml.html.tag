@@ -271,6 +271,7 @@
 <li><\/li>
 <\/ul>
 <p><br\/>
+]{{^Kosovo<np><loc><sg>$ ^topic<n><pl>$}}[
 ]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<n><sg>$ =[ <a href='Image:Nuvola filesystems www.png|23px'>]^Image<n><sg>$^:<sent>$^*Nuvola$ ^*filesystems$ ^*www$^.<sent>$^*png$|^23<num>$^*px$[<\/a> ]^Geographic<adj>$ ^national<adj>$[
 ]|^list<n><sg>$[  ]=[
