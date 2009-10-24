@@ -70,12 +70,8 @@
 <a href='National awakening and the birth of Albania'>]^National<adj>$ ^awaken<vblex><ger>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^birth<n><sg>$ ^of<pr>$ ^*Albania$^.<sent>$[][<\/a><\/li>
 <li><a href='Unrest in Kosovo'>]^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^(<lpar>$^about<pr>$ ^the<det><def><sp>$ ^March<n><sg>$ ^2004<num>$ ^unrest<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
-<p>]^Population<n><sg>$ ^growth<n><sg>$ ^Population<n><sg>$ ^structure<n><sg>$^.<sent>$[][<\/p>
-
-<pre>
-<\/pre><p> 
- 
-]^Legend<n><sg>$^:<sent>$ ^*Serbs$^,<cm>$ ^Albanian<n><pl>$^,<cm>$ ^Others<prn><tn><mf><pl>$^,<cm>$ ^Total<n><sg>$^.<sent>$[][<\/p>
+<p><br\/>
+<\/p>
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><ul>
 <li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^3<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ A collection of photos from Kosovo'>]^4<num>$^.<sent>$[][<\/a><\/li>
