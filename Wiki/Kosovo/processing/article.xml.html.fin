@@ -31,8 +31,8 @@
 ]{{^*otheruses$^1<num>$|^the<det><def><sp>$ ^territory<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*Balkans$}}[
 ]{{^redirect<vblex><pres>$|^Republic<n><sg>$ ^of<pr>$ ^*Kosova$||^Republic<n><sg>$ ^of<pr>$ ^*Kosova$ ^(<lpar>$^1990<num>$^*â$^2000<num>$^)<rpar>$}}[
 ]{{^*Infobox$ ^Country<n><sg>$[
-]|^native<adj>$_^name<n><sg>$ = {{^*nowrap$|{{^*lang$|^*sq$|[<strong><em>]^*Republika$ ^*e$ ^*Kosov$Ã«^*s$[<\/strong><\/em>]}}[&lt;]^*br$[&gt;]{{^*lang$|^*sr$^-<guio>$^*Cyrl$|Ð ÐµÐ^¿<lquest>$^*Ñ$Ð±Ð»Ð¸ÐºÐ° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾}} \/ {{^*lang$|^*sr$^-<guio>$^*Latn$|[<em>]^*Republika$ ^Kosovo<np><loc><sg>$[<\/em>]}}}}[
-]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[   ]= ^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[
+]|^native<adj>$_^name<n><sg>$ = {{^*nowrap$|{{^*lang$|^*sq$|[<strong><em>]^*Republika$ ^*e$ ^*Kosov$Ã«^*s$[<\/strong><\/em>]}}[&lt;]^*br$[&gt;]{{^*lang$|^*sr$^-<guio>$^*Cyrl$|Ð ÐµÐ^¿<lquest>$^*Ñ$Ð±Ð»Ð¸ÐºÐ° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾}} \/ {{^*lang$|^*sr$^-<guio>$^*Latn$|[<em>]^*Republika$ ^Kosovo<np><loc><sg>$[<\/em>]}} \/[&lt;]^*br$[&gt; ]{{^*lang$|^*sr$^-<guio>$^*Cyrl$|Ð^*Ñ$^*Ñ$Ð¾Ð½Ð¾Ð¼Ð½Ð° Ð^¿<lquest>$Ð¾Ðº^*Ñ$Ð°^*Ñ$Ð¸Ð½Ð° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°}}}}[
+]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[   ]= ^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$\/[&lt;]^*br$[&gt;]^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$[
 ]|^common<adj>$_^name<n><sg>$[              ]= ^Kosovo<np><loc><sg>$[
 ]|^image<n><sg>$_^flag<n><sg>$[               ]= ^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.$
 ^*svg$[
