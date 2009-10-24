@@ -368,7 +368,7 @@
 <a href='ru:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^ru/*ru$^:/:<sent>$ÐÐ¾^Ñ/*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='sq:Kosova'>]^sq/*sq$^:/:<sent>$^Kosova/*Kosova$[<\/a>
 <a href='simple:Kosovo'>]^simple/simple<adj><sint>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
-<a href='sk:Kosovo'>]^sk/*sk$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
+<a href='sk:Kosovo (AutonÃ³mna oblasÅ¥ Kosovo)'>]^sk/*sk$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$ ^(/(<lpar>$^Auton/*Auton$Ã³^mna/*mna$ ^oblas/*oblas$Å¥ ^Kosovo/Kosovo<np><loc><sg>$^)/)<rpar>$[<\/a>
 <a href='sl:Kosovo'>]^sl/*sl$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='sr:ÐÐ¾ÑÐ¾Ð²Ð¾ Ð¸ ÐÐµÑÐ¾ÑÐ¸ÑÐ°'>]^sr/*sr$^:/:<sent>$ÐÐ¾^Ñ/*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^Ñ/*Ñ$Ð¾^Ñ/*Ñ$Ð¸^Ñ/*Ñ$Ð°[<\/a>
 <a href='sh:Kosovo i Metohija'>]^sh/*sh$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$ ^i/*i$ ^Metohija/*Metohija$[<\/a>

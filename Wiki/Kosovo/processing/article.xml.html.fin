@@ -1118,8 +1118,8 @@
 ^*Kosova$[<\/a>
 <a href='simple:Kosovo'>]^simple<adj><sint>$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
-<a href='sk:Kosovo'>]^*sk$^:$
-^Kosovo<np><loc><sg>$[<\/a>
+<a href='sk:Kosovo (AutonÃ³mna oblasÅ¥ Kosovo)'>]^*sk$^:$
+^Kosovo<np><loc><sg>$ ^(<lpar>$^*Auton$Ã³^*mna$ ^*oblas$Å¥ ^Kosovo<np><loc><sg>$^)<rpar>$[<\/a>
 <a href='sl:Kosovo'>]^*sl$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='sr:ÐÐ¾ÑÐ¾Ð²Ð¾ Ð¸ ÐÐµÑÐ¾ÑÐ¸ÑÐ°'>]^*sr$^:$
