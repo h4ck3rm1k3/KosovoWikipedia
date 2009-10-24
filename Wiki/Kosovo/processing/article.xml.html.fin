@@ -227,7 +227,10 @@
 ^.$
 [][<\/p>
 <a name="Demographics"><\/a><h2>]^*Demographics$^.$
-[][<\/h2><p><em>]^Main<adj>$ ^article<n><sg>$^:$
+[][<\/h2><p><a href='Image:Kosovo ethnic.png|thumb|right|Ethnic map of Kosovo'>]^Image<n><sg>$^:$
+^Kosovo<np><loc><sg>$ ^ethnic<adj>$^.$
+^*png$|^thumb<n><sg>$|^right<adj>$|^Ethnic<adj>$ ^map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
+<em>]^Main<adj>$ ^article<n><sg>$^:$
 [ <a href='Demographic history of Kosovo'>]^*Demographic$ ^history<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.$
 [][<\/a><\/em><\/p>
 <p><a href='Albanians'>]^Albanian<n><pl>$[<\/a> ]^now<adv>$ ^comprise<vblex><inf>$ ^a<det><ind><sg>$ ^almost<adv>$ ^90%<num><percent>$ ^majority<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^population<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^province<n><sg>$^.$
