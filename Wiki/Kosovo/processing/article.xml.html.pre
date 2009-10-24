@@ -215,15 +215,13 @@
 <p>]^Ethnic<adj>$ ^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^have<vblex><pres>$ ^the<det><def><sp>$ ^large<adj><sint><sup>$ ^population<n><sg>$ ^growth<n><sg>$ ^in<pr>$ ^Europe<np><loc><sg>$^.<sent>$[&lt;]^*ref$[&gt;<a href='http:\/\/files.osa.ceu.hu\/holdings\/300\/8\/3\/text\/3-13-10.shtml Albanian Population Growth'>]^26<num>$[<\/a>&lt;]\/^*ref$[&gt;&lt;]^*ref$[&gt;<a href='http:\/\/www.srpska-mreza.com\/Kosovo\/demographic-explosion.html Demographic explosion in Kosovo'>]^27<num>$[<\/a>&lt;]\/^*ref$[&gt; ]^The<det><def><sp>$ ^*peopleâ$^*s$ ^growth<n><sg>$ ^rate<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^1.3%<num><percent>$^.<sent>$ ^Over<pr>$ ^a<det><ind><sg>$ ^82<num>$^-<guio>$^year<n><sg>$ ^period<n><sg>$ ^(<lpar>$^1921<num>$^-<guio>$^2003<num>$^)<rpar>$ ^the<det><def><sp>$ ^population<n><sg>$ ^grow<vblex><past>$ ^4.6<num>$ ^time<n><pl>$^.<sent>$ ^If<cnjadv>$ ^growth<n><sg>$ ^continue<vblex><pri><p3><sg>$ ^at<pr>$ ^such a<det><ind><sg>$ ^pace<n><sg>$^,<cm>$ ^base<vblex><pp>$ ^on<pr>$ ^some<det><qnt><sp>$ ^*estimations$^,<cm>$ ^the<det><def><sp>$ ^population<n><sg>$ ^will<vaux><inf>$ ^be<vbser><inf>$ ^4.5<num>$ ^million<num><sp>$ ^by<pr>$ ^2050<num>$^.<sent>$[&lt;]^*ref$[&gt;<a href='http:\/\/kosovo-hotels.com\/index.php?mod=kos_profile Kosovo-Hotels, Prishtina - Kosova-Hotels, PrishtinÃ«'>]^28<num>$[<\/a>&lt;]\/^*ref$^.<sent>$[][&gt;<\/p>
 <a name="Administrative_divisions"><\/a><h2>]^Administrative<adj>$ ^division<n><pl>$^.<sent>$[][<\/h2><a name="Districts"><\/a><h3>]^District<n><pl>$^.<sent>$[][<\/h3><p>]{{^main<adj>$|^*Subdivisions$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]{{^see<vblex><pres>$ ^also<adv>$|^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
-]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^divide<vblex><pp>$ ^into<pr>$ ^seven<num><sp>$ ^district<n><pl>$^:<sent>$^.<sent>$[][<\/p>
+]^Kosovo<np><loc><sg>$^,<cm>$ ^for<pr>$ ^administrative<adj>$ ^reason<n><pl>$^,<cm>$ ^be<vbser><pri><p3><sg>$ ^consider<vblex><pp>$ ^as<pr>$ ^consist<vblex><ger>$ ^of<pr>$ ^five<num><sp>$ ^region<n><pl>$^:<sent>$^.<sent>$[][<\/p>
 <ul>
-<li><a href='Äakovica District|Äakovica\/Gjakova District'>]^*Ä$^*akovica$ ^District<n><sg>$|^*Ä$^*akovica$\/^*Gjakova$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Gnjilane District|Gnjilane\/Gjilani District'>]^*Gnjilane$ ^District<n><sg>$|^*Gnjilane$\/^*Gjilani$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='District of Kosovska Mitrovica|Kosovska Mitrovica\/Mitrovica District'>]^District<n><sg>$ ^of<pr>$ ^*Kosovska$ ^*Mitrovica$|^*Kosovska$ ^*Mitrovica$\/^*Mitrovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='District of PeÄ|PeÄ\/Peja District'>]^District<n><sg>$ ^of<pr>$ ^*PeÄ$|^*PeÄ$\/^*Peja$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Prishtina District|PriÅ¡tina\/Prishtina District'>]^*Prishtina$ ^District<n><sg>$|^*Pri$Å^¡<lquest>$^*tina$\/^*Prishtina$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='District of Prizren|Prizren\/Prizreni District'>]^District<n><sg>$ ^of<pr>$ ^*Prizren$|^*Prizren$\/^*Prizreni$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='UroÅ¡evac District|UroÅ¡evac\/Ferizaji District'>]^*Uro$Å^¡<lquest>$^*evac$ ^District<n><sg>$|^*Uro$Å^¡<lquest>$^*evac$\/^*Ferizaji$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Region of Ferizaj'>]^Region<n><sg>$ ^of<pr>$ ^*Ferizaj$^.<sent>$[][<\/a><\/li>
+<li><a href='Region of Mitrovica'>]^Region<n><sg>$ ^of<pr>$ ^*Mitrovica$^.<sent>$[][<\/a><\/li>
+<li><a href='Region of Peja'>]^Region<n><sg>$ ^of<pr>$ ^*Peja$^.<sent>$[][<\/a><\/li>
+<li><a href='Region of Pristina'>]^Region<n><sg>$ ^of<pr>$ ^*Pristina$^.<sent>$[][<\/a><\/li>
+<li><a href='Region of Prizren'>]^Region<n><sg>$ ^of<pr>$ ^*Prizren$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <\/p>
