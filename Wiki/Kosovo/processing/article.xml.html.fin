@@ -998,12 +998,12 @@ _^Centralize<vblex><pp>$_^Yugoslav<adj>$_^Control<n><sg>$|^1991<num>$[<\/a>]^,<c
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='ka:ááá¡ááá'>]^*ka$^:$
 ^*á$^*á$^*á$^¡<lquest>$^*á$^*á$^*á$[<\/a>
-<a href='sw:Kosovo'>]^*sw$^:$
-^Kosovo<np><loc><sg>$[<\/a>
 <a href='kk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*kk$^:$
 ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='kw:Kosova'>]^*kw$^:$
 ^*Kosova$[<\/a>
+<a href='sw:Kosovo'>]^*sw$^:$
+^Kosovo<np><loc><sg>$[<\/a>
 <a href='lad:Kosovo'>]^lad<n><sg>$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='la:Ager Merulensis'>]^*la$^:$
@@ -1084,6 +1084,8 @@ _^Centralize<vblex><pp>$_^Yugoslav<adj>$_^Control<n><sg>$|^1991<num>$[<\/a>]^,<c
 ^*Ú$©^*Ù$Ø³^*Ù$^*Ù$^*Û$[<\/a>
 <a href='vec:Kosovo'>]^*vec$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
+<a href='wuu:èæ²å'>]^*wuu$^:$
+^*è$æ²å[<\/a>
 <a href='zh-yue:ç§ç´¢æ²'>]^*zh$^-<guio>$^*yue$^:$
 ^*ç$§^*ç$´¢æ²[<\/a>
 <a href='diq:Kosova'>]^*diq$^:$
