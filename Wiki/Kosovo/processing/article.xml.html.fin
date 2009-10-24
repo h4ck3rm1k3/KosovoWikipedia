@@ -1115,7 +1115,8 @@
 [][&gt;<\/p>
 <p>
 ]{{^Autonomous<adj>$ ^Province<n><pl>$ ^of<pr>$ ^*Serbia$}}[
-]{{^Republic<n><pl>$ ^and<cnjcoo>$ ^autonomous<adj>$ ^province<n><pl>$ ^of<pr>$ ^the<det><def><sp>$ ^former<adj>$ ^Yugoslavia<np><loc><sg>$}}^.$
+]{{^Republic<n><pl>$ ^and<cnjcoo>$ ^autonomous<adj>$ ^province<n><pl>$ ^of<pr>$ ^the<det><def><sp>$ ^former<adj>$ ^Yugoslavia<np><loc><sg>$}}[
+]{{^*Dependent$ ^and<cnjcoo>$ ^other<det><ind><sp>$ ^territory<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$}}^.$
 [][<\/p>
 <p><a href='Category:Kosovo|*'>]^Category<n><sg>$^:$
 ^Kosovo<np><loc><sg>$|*[<\/a>
