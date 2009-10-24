@@ -888,9 +888,9 @@ _^Centralize<vblex><pp>$_^Yugoslav<adj>$_^Control<n><sg>$|^1991<num>$[<\/a> ]^pe
 [][<\/a><\/li>
 <li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/?change_lang=en Serbian Government for Kosovo and Metohija'>]^33<num>$^.$
 [][<\/a><\/li>
-<li><a href='https:\/\/www.cia.gov\/library\/publications\/the-world-factbook\/geos\/kv.html The CIA World Factbook'>]^34<num>$^.$
-[][<\/a><\/li>
-<li><a href='http:\/\/www.visitkosova.org\/english\/index.htm Visit Kosovo - Tourism Website'>]^35<num>$^.$
+<li>]{{^CIA<n><acr><sg>$ ^World<adj>$ ^*Factbook$ ^link<n><sg>$|^*kv$|^Kosovo<np><loc><sg>$}}^.$
+[][<\/li>
+<li><a href='http:\/\/www.visitkosova.org\/english\/index.htm Visit Kosovo - Tourism Website'>]^34<num>$^.$
 [][<\/a><\/li>
 <li><\/li>
 <\/ul>
