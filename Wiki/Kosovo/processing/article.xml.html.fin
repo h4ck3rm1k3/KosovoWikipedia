@@ -9,11 +9,15 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>&lt;]^*div$ ^style<n><sg>$="^*float$^:$
+
+<pre>]== ^*Headline$ ^text<n><sg>$ ==^.$
+[][
+<\/pre><p>&lt;]^*div$ ^style<n><sg>$="^*float$^:$
 ^right<adj>$^;$
  ^margin<n><sg>$^-<guio>$^leave<vblex><pp>$^:$
 ^1<num>$^*em$^;$
-[]^text<n><sg>$^-<guio>$^*align$^:$
+[
+]^text<n><sg>$^-<guio>$^*align$^:$
 ^centre<n><sg>$^;$
 "[&gt;<a href='Image:UTkosovo rel smaller 92.jpg|Map of Kosovo'>]^Image<n><sg>$^:$
 ^*UTkosovo$ ^*rel$ ^small<adj><sint><comp>$ ^92<num>$^.$
@@ -58,7 +62,8 @@
 ^.$
 [][<\/p>
 <a name="Geographical_regions"><\/a><h3>]^*Geographical$ ^region<n><pl>$^.$
-[][<\/h3><p><strong>]^*Metohia$[<\/strong> ]^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$ ^large<adj><sint>$ ^valley<n><sg>$ ^at<pr>$ ^the<det><def><sp>$ ^west<adj>$ ^of<pr>$ ^the<det><def><sp>$ ^province<n><sg>$^;$
+[][<\/h3><a name="Headline_text"><\/a><h2>]^*Headline$ ^text<n><sg>$^.$
+[][<\/h2><p><strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$ ^large<adj><sint>$ ^valley<n><sg>$ ^at<pr>$ ^the<det><def><sp>$ ^west<adj>$ ^of<pr>$ ^the<det><def><sp>$ ^province<n><sg>$^;$
  ^include<vblex><ger>$ ^the<det><def><sp>$ ^town<n><pl>$ ^of<pr>$ ^*Pe$[&amp;]#^263<num>$^;$
 ^,<cm>$[ &amp;]#^272<num>$^;$
 ^*akovica$^,<cm>$ ^*Istok$ ^and<cnjcoo>$ ^*De$[&amp;]#^269<num>$^;$
@@ -107,7 +112,7 @@
 ^.$
 [][<\/p>
 <p> 
-<strong>]^*Metohia$[<\/strong> ]^(<lpar>$^*alternatively$ ^spell<vblex><pp>$[ <em>]^*Metohija$[<\/em>]^)<rpar>$ ^derive<vblex><pri><p3><sg>$ ^from<pr>$[ <a href='Greek language|Greek'>]^the<det><def><sp>$ ^Greek<adj>$ ^language<n><sg>$|^Greek<adj>$[<\/a> ]^word<n><sg>$[ <em>&amp;]#^956<num>$^;$
+<strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>$^*alternatively$ ^spell<vblex><pp>$[ <em>]^*Metohija$[<\/em>]^)<rpar>$ ^derive<vblex><pri><p3><sg>$ ^from<pr>$[ <a href='Greek language|Greek'>]^the<det><def><sp>$ ^Greek<adj>$ ^language<n><sg>$|^Greek<adj>$[<\/a> ]^word<n><sg>$[ <em>&amp;]#^956<num>$^;$
 [&amp;]#^949<num>$^;$
 [&amp;]#^964<num>$^;$
 [&amp;]#^972<num>$^;$
@@ -120,13 +125,13 @@
  ^Albanian<n><pl>$ ^tend<vblex><pres>$ ^not<adv>$ ^to<pr>$ ^use<vblex><inf>$ ^this<det><dem><sg>$ ^name<n><sg>$^,<cm>$ ^regarding<pr>$ ^prpers<prn><obj><p3><nt><sg>$ ^as a<pr>$ ^statement<n><sg>$ ^of<pr>$ ^*Serbian$ ^territorial<adj>$ ^ownership<n><sg>$ ^(<lpar>$^which<prn><itg><m><sp>$ ^prpers<prn><subj><p3><mf><pl>$ ^reject<vblex><pres>$ ^for<pr>$ ^political<adj>$ ^reason<n><pl>$^)<rpar>$^,<cm>$ ^and<cnjcoo>$ ^instead<adv>$ ^prefer<vblex><inf>$ ^to<pr>$ ^call<vblex><inf>$ ^prpers<prn><obj><p3><nt><sg>$[ <em>]^*Rrafsh$ ^*i$ ^*Dukagjinit$[<\/em>]^,<cm>$ ^the<det><def><sp>$ "^*Dukagjin$ ^*plateau$"^.$
 ^.$
 [][<\/p>
-<p>]^The<det><def><sp>$ ^province<n><sg>$ ^be<vbser><pri><p3><sg>$ ^occasionally<adv>$ ^*referred$ ^to<pr>$ ^as<preadv>$[ <strong>]^*Kosmet$[<\/strong>]^,<cm>$ ^a<det><ind><sg>$ ^*contraction$ ^of<pr>$[ <em>]^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohia$[<\/em> ]^which<rel><an><mf><sp>$ ^have<vbhaver><pri><p3><sg>$ ^tend<vblex><pp>$ ^to<pr>$ ^be<vbser><inf>$ ^use<vblex><pp>$ ^by<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^government<n><sg>$^.$
+<p>]^The<det><def><sp>$ ^province<n><sg>$ ^be<vbser><pri><p3><sg>$ ^occasionally<adv>$ ^*referred$ ^to<pr>$ ^as<preadv>$[ <strong>]^*Kosmet$[<\/strong>]^,<cm>$ ^a<det><ind><sg>$ ^*contraction$ ^of<pr>$[ <em>]^Kosovo<np><loc><sg>$[ <\/em> ]^which<prn><itg><m><sp>$ ^have<vbhaver><pri><p3><sg>$ ^tend<vblex><pp>$ ^to<pr>$ ^be<vbser><inf>$ ^use<vblex><pp>$ ^by<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^government<n><sg>$^.$
 ^.$
 [][<\/p>
 <a name="Kosovar,_Kosovan,_Kosovian?"><\/a><h3>]^*Kosovar$^,<cm>$ ^*Kosovan$^,<cm>$ ^*Kosovian$^?$
 ^.$
-[][<\/h3><p><a href='Image:SerbiaMontenegro-Kosovo.png|right|'>]^Image<n><sg>$^:$
-^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^.$
+[][<\/h3><p><a href='Image:Albania-Kosovo.png|right|'>]^Image<n><sg>$^:$
+^*Albania$^-<guio>$^Kosovo<np><loc><sg>$^.$
 ^*png$|^right<n><sg>$|^.$
 [][<\/a><\/p>
 <p>]^The<det><def><sp>$ ^question<n><sg>$ ^of<pr>$ ^what<prn><itg><m><sp>$ ^to<pr>$ ^call<vblex><inf>$ ^the<det><def><sp>$ ^inhabitant<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^*collectively$ ^have<vbhaver><pri><p3><sg>$ ^also<adv>$ ^arouse<vblex><pp>$ ^some<det><qnt><sp>$ ^debate<n><sg>$^.$
@@ -154,7 +159,7 @@
 <a name="Flag"><\/a><h2>]^Flag<n><sg>$^.$
 [][<\/h2><p>]^Kosovo<np><loc><sg>$ ^have<vblex><past>$ ^no<adv>$ ^official<adj>$ ^flag<n><sg>$ ^of<pr>$ ^its<det><pos><sp>$ ^own<adj>$ ^under<pr>$ ^*Serbian$ ^rule<n><sg>$^.$
  ^The<det><def><sp>$[ <a href='Flag of Albania|Albanian flag'>]^Flag<n><sg>$ ^of<pr>$ ^*Albania$|^Albanian<adj>$ ^flag<n><sg>$[<\/a> ]^be<vbser><pri><p3><sg>$ ^use<vblex><pp>$ ^by<pr>$ ^the<det><def><sp>$ ^Albanian<adj>$^-<guio>$^dominate<vblex><pp>$ ^administration<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^vast<adj><sint>$ ^majority<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^Albanian<n><pl>$^.$
- ^The<det><def><sp>$ ^*Serb$^-<guio>$^*inhabited$ ^area<n><sg>$ ^of<pr>$ ^north<adj><sint>$ ^Kosovo<np><loc><sg>$ ^use<vblex><pri><p3><sg>$ ^only<adv>$ ^the<det><def><sp>$[ <a href='flag of Serbia and Montenegro'>]^flag<n><sg>$ ^of<pr>$ ^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$[<\/a>]^,<cm>$ ^which<prn><itg><m><sp>$ ^be<vbser><pri><p3><sg>$ ^formally<adv>$ ^the<det><def><sp>$ ^flag<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^whole<n><sg>$ ^of<pr>$ ^*Serbia$ ^include<vblex><ger>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^although<cnjadv>$ ^this<det><dem><sg>$ ^usage<n><sg>$ ^be<vbser><pri><p3><sg>$ ^reject<vblex><pp>$ ^by<pr>$ ^virtually<adv>$ ^all<prn><tn><mf><sp>$ ^Kosovo<np><loc><sg>$ ^Albanian<n><pl>$^.$
+ ^The<det><def><sp>$ ^*Serb$^-<guio>$^*inhabited$ ^area<n><sg>$ ^of<pr>$ ^north<adj><sint>$ ^Kosovo<np><loc><sg>$ ^use<vblex><pri><p3><sg>$ ^only<adv>$ ^the<det><def><sp>$ ^*Albania$^,<cm>$^which<prn><itg><m><sp>$ ^be<vbser><pri><p3><sg>$ ^formally<adv>$ ^the<det><def><sp>$ ^flag<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^whole<n><sg>$ ^of<pr>$ ^*Serbia$ ^include<vblex><ger>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^although<cnjadv>$ ^this<det><dem><sg>$ ^usage<n><sg>$ ^be<vbser><pri><p3><sg>$ ^reject<vblex><pp>$ ^by<pr>$ ^virtually<adv>$ ^all<prn><tn><mf><sp>$ ^Kosovo<np><loc><sg>$ ^Albanian<n><pl>$^.$
  ^The<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$ ^administration<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^intend<vblex><pri><p3><sg>$ ^to<pr>$ ^establish<vblex><inf>$ ^a<det><ind><sg>$ ^new<adj><sint>$ ^flag<n><sg>$ ^for<pr>$ ^the<det><def><sp>$ ^province<n><sg>$^,<cm>$ ^which<prn><itg><m><sp>$ ^will<vaux><inf>$ ^undoubtedly<adv>$ ^be<vbser><inf>$ ^very<preadv>$ ^different<adj>$ ^from<pr>$ ^the<det><def><sp>$ ^two<num><sp>$ ^national<adj>$ ^community<n><pl>$^'<apos>$ ^exist<vblex><ger>$ ^flag<n><pl>$^.$
  ^The<det><def><sp>$ ^current<adj>$[ <a href='flag of Bosnia and Herzegovina'>]^flag<n><sg>$ ^of<pr>$ ^Bosnia<np><loc><sg>$ ^and<cnjcoo>$ ^*Herzegovina$[<\/a> ]^emerge<vblex><pp>$ ^from<pr>$ ^a<det><ind><sg>$ ^similar<adj>$ ^process<n><sg>$ ^of<pr>$ ^national<adj>$ ^reconciliation<n><sg>$^.$
 ^.$
@@ -170,7 +175,7 @@
 <a name="Kosovo_from_prehistory_to_1455"><\/a><h3>]^Kosovo<np><loc><sg>$ ^from<pr>$ ^prehistory<n><sg>$ ^to<pr>$ ^1455<num>$^.$
 [][<\/h3><p>]^Little<adv>$ ^be<vbser><pri><p3><sg>$ ^know<vblex><pp>$ ^about<pr>$ ^Kosovo<np><loc><sg>$ ^before<cnjadv>$ ^about<pr>$ ^the<det><def><sp>$[ <a href='11th century'>]^11<num>$^*th$ ^century<n><sg>$[<\/a> ]^AD<n><sg>$^.$
  ^The<det><def><sp>$ ^region<n><sg>$ ^be<vbser><past><p3><sg>$ ^certainly<adv>$ ^*inhabited$ ^in<pr>$[ <a href='prehistory|prehistoric'>]^prehistory<n><sg>$|^prehistoric<adj>$[<\/a> ]^time<n><pl>$^:$
- ^in<pr>$ ^particular<adj>$^,<cm>$[ <a href='bronze age|Bronze'>]^bronze<n><sg>$ ^age<n><sg>$|^Bronze<n><sg>$[<\/a> ]^and<cnjcoo>$[ <a href='Iron Age'>]^Iron<n><sg>$ ^Age<n><sg>$[<\/a> <a href='tomb'>]^*tombs$[<\/a> ]^have<vbhaver><inf>$ ^be<vbser><pp>$ ^find<vblex><pp>$ ^only<adv>$ ^in<pr>$ ^*Metohia$^,<cm>$ ^and<cnjcoo>$ ^not<adv>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.$
+ ^in<pr>$ ^particular<adj>$^,<cm>$[ <a href='bronze age|Bronze'>]^bronze<n><sg>$ ^age<n><sg>$|^Bronze<n><sg>$[<\/a> ]^and<cnjcoo>$[ <a href='Iron Age'>]^Iron<n><sg>$ ^Age<n><sg>$[<\/a> <a href='tomb'>]^*tombs$[<\/a> ]^have<vbhaver><inf>$ ^be<vbser><pp>$ ^find<vblex><pp>$ ^only<adv>$ ^in<adv>$ ^,<cm>$ ^and<cnjcoo>$ ^not<adv>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.$
  ^Later<adv>$^,<cm>$ ^the<det><def><sp>$ ^whole<adj>$ ^territory<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^become<vblex><past>$ ^part<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Roman Empire'>]^Roman<np><ant><m><sg>$ ^Empire<n><sg>$[<\/a>]^,<cm>$ ^although<cnjadv>$ ^prpers<prn><subj><p3><nt><sg>$ ^be<vbser><pri><p3><sg>$ ^not<adv>$ ^clear<vblex><inf>$ ^whether<cnjadv>$ ^prpers<prn><subj><p3><nt><sg>$ ^be<vbser><past><p3><sg>$ ^part<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^province<n><sg>$ ^of<pr>$[ <a href='Moesia'>]^*Moesia$[<\/a> ]^or<cnjcoo>$ ^be<vbser><past><p3><sg>$ ^divide<vblex><pp>$ ^between<pr>$ ^*Dalmatia$ ^and<cnjcoo>$ ^*Moesia$ ^(<lpar>$^a<det><ind><sg>$ ^view<n><sg>$ ^which<rel><an><mf><sp>$ ^be<vbser><pri><p3><sg>$ ^support<vblex><pp>$ ^by<pr>$ ^some<det><qnt><sp>$ ^*archaeological$ ^evidence<n><sg>$^)<rpar>$^.$
 [ <a href='http:\/\/www.rastko.org.yu\/kosovo\/istorija\/malkolm\/djankovic-facts.html'>]^2<num>$^.$
 [][<\/a><\/p>
