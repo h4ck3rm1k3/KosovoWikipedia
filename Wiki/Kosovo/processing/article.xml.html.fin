@@ -342,7 +342,13 @@
 <\/ul>
 <p> 
 <br\/>
-<a href='de:Kosovo'>]^*de$^:$
+]{{^*Serbia$_^and<cnjcoo>$_^Montenegro<np><loc><sg>$}}[
+<a href='Category:Disputed territories'>]^Category<n><sg>$^:$
+^*Disputed$ ^territory<n><pl>$[<\/a>
+<a href='Category:Kosovo'>]^Category<n><sg>$^:$
+^Kosovo<np><loc><sg>$^.$
+[][<\/a><\/p>
+<p><a href='de:Kosovo'>]^*de$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='et:Kosovo'>]^*et$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
@@ -352,8 +358,6 @@
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='fr:Kosovo'>]^*fr$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
-<a href='nds:Kosovo'>]^*nds$^:$
-^Kosovo<np><loc><sg>$[<\/a>
 <a href='nl:Kosovo'>]^*nl$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='ja:&amp;#12467;&amp;#12477;&amp;#12532;&amp;#12457;'>]^*ja$^:$
@@ -362,16 +366,20 @@
 [&amp;]#^12532<num>$^;$
 [&amp;]#^12457<num>$^;$
 [<\/a>
+<a href='nds:Kosovo'>]^*nds$^:$
+^Kosovo<np><loc><sg>$[<\/a>
 <a href='pt:Kosovo'>]^*pt$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
+<a href='ru:&amp;#1050;&amp;#1086;&amp;#1089;&amp;#1086;&amp;#1074;&amp;#1086;'>]^*ru$^:$
+[&amp;]#^1050<num>$^;$
+[&amp;]#^1086<num>$^;$
+[&amp;]#^1089<num>$^;$
+[&amp;]#^1086<num>$^;$
+[&amp;]#^1074<num>$^;$
+[&amp;]#^1086<num>$^;$
+[<\/a>
 <a href='fi:Kosovo'>]^*fi$^:$
-^Kosovo<np><loc><sg>$[<\/a>
-<a href='sv:Kosovo'>]^*sv$^:$
 ^Kosovo<np><loc><sg>$^.$
-[][<\/a><\/p>
-<p>]{{^*Serbia$_^and<cnjcoo>$_^Montenegro<np><loc><sg>$}}[
-<a href='Category:Disputed territories'>]^Category<n><sg>$^:$
-^*Disputed$ ^territory<n><pl>$^.$
 [][<\/a><\/p>
 <\/body>
 <\/html>
