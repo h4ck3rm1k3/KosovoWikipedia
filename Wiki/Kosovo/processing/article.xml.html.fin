@@ -701,7 +701,7 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^25<num>$[<\/a> ]"^,<cm>$[ 
 ^*uk$\/^opinion<n><sg>$\/^main<adj>$^.$
 ^*jhtml$^?$
 ^*xml$=\/^opinion<n><sg>$\/^2007<num>$\/^03<num>$\/^30<num>$\/^*nosplit$\/^*dt$^3001<num>$^.$
-^*xml$ ^*http$^:$
+^*xml$[&lt;]\/^*ref$[&gt; &lt;]^*ref$[&gt;]^*http$^:$
 \/\/^www.crisisgroup.org<num>$\/^library<n><sg>$\/^document<n><pl>$\/^*europe$\/^*balkans$\/^177<num>$_^*kosovo$_^status<n><sg>$___^delay<n><sg>$_^be<vbser><pri><p3><sg>$_^*risky$^.$
 ^*pdf$[&lt;]\/^*ref$^.$
 [][&gt;<\/p>
