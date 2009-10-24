@@ -135,8 +135,12 @@
 <li><a href='Kosovska Mitrovica District|Kosovska Mitrovica\/Mitrovica District'>]^*Kosovska$ ^*Mitrovica$ ^District<n><sg>$|^*Kosovska$ ^*Mitrovica$\/^*Mitrovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Gnjilane District|Gnjilane\/Gjilani District'>]^*Gnjilane$ ^District<n><sg>$|^*Gnjilane$\/^*Gjilani$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
-<p><br\/>
-<\/p>
+<p><br\/><\/p>
+<p><br\/><\/p>
+<p><br\/><\/p>
+<p><br\/><\/p>
+<p><br\/><\/p>
+<p><br\/><\/p>
 <a name="Cities"><\/a><h2>]^City<n><pl>$^.<sent>$[][<\/h2><p><a href='Image:Prishtina maj 2005.jpg|thumb|200px|PriÅ¡tina.'>]^Image<n><sg>$^:<sent>$^*Prishtina$ ^*maj$ ^2005<num>$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^*Pri$Å^¡<lquest>$^*tina$^.<sent>$^.<sent>$[][<\/a><\/p>
 <p>]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^for<pr>$ ^2006<num>$^)<rpar>$^:<sent>$[&lt;]^*ref$[&gt;]^*http$^:<sent>$\/\/^www.world-gazetteer.com<num>$\/^*wg$^.<sent>$^*php$^?<sent>$^*x$=[&amp;]^man<n><pl>$=^*gcis$[&amp;]^*lng$=^*en$[&amp;]^*dat$=^32<num>$[&amp;]^*srt$=^*npan$[&amp;]^*col$=^*aohdq$[&amp;]^*geo$=^-<guio>$^244<num>$[&lt;]\/^*ref$^.<sent>$[][&gt;<\/p>
 <ul>
