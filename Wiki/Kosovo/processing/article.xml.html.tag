@@ -111,7 +111,7 @@
 <a href='http:\/\/beqiraj.com\/kosova\/de\/ General information from Beqiraj.com'>]^19<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^German<adj>$^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/beqiraj.com\/kosova\/al\/ General information from Beqiraj.com'>]^20<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^Albanian<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.forumi.zeriyt.com Discussion Forum for Albanians from Albania, Macedonia, Kosovo, Montenegro'>]^21<num>$[<\/a> ]^(<lpar>$^English<adj>$\/^Albanian<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.alb-shkenca.org\/images\/stories\/Why%20Independence.pdf Why Independence for Kosovo?'>]^22<num>$[<\/a> ]^A<det><ind><sg>$ ^summary<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^case<n><sg>$ ^for<pr>$ ^a<det><ind><sg>$ ^independent<adj>$ ^*Kosova$ ^by<pr>$ ^two<num><sp>$ ^*Prishtina$ ^intellectual<n><pl>$^.<sent>$[][<\/li>
+<li>]^*http$^:<sent>$\/\/^www.compuserb.com<num>$[  ]^*website$ ^about<pr>$ ^atrocity<n><pl>$ ^do<vblex><pp>$ ^to<pr>$ ^the<det><def><sp>$ ^*serb$ ^person<n><pl>$^,<cm>$ ^by<pr>$ ^*albanian$ ^terrorist<n><pl>$ ^and<cnjcoo>$ ^supporter<n><pl>$ ^of<pr>$ ^this<det><dem><sg>$ ^extremist<n><pl>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/><\/p>
 <p><a href='ar:ÙÙØ³ÙÙÙ'>]^*ar$^:<sent>$^*Ù$^*Ù$Ø³^*Ù$^*Ù$^*Ù$[<\/a>
