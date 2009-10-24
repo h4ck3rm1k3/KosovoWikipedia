@@ -37,7 +37,7 @@
 ]|^*latd$=^42<num>$ |^*latm$=^40<num>$ |^*latNS$=^*N$ |^*longd$=^21<num>$ |^*longm$=^10<num>$ |^*longEW$=^*E$[
 ]|^large<adj><sint><sup>$_^city<n><sg>$[             ]= ^capital<n><sg>$[
 ]|^*demonym$[                  ]=[ <a href='Demographics of Kosovo|Kosovar'>]^*Demographics$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^*Kosovar$[<\/a>
-]|^government<n><sg>$_^type<n><sg>$[          ]=[ <a href='UNMIK|international protectorate'>]^*UNMIK$|^international<adj>$ ^protectorate<n><sg>$[<\/a>
+]|^government<n><sg>$_^type<n><sg>$[          ]=[ <a href='UNMIK|UN administration'>]^*UNMIK$|^UN<n><acr><sg>$ ^administration<n><sg>$[<\/a>
 ]|^leader<n><sg>$_^title<n><sg>$^1<num>$[            ]= ^Special<adj>$ ^Representative<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Secretary<n><sg>$^-<guio>$^General<adj>$[
 ]|^leader<n><sg>$_^name<n><sg>$^1<num>$[             ]=[ <a href='Joachim RÃ¼cker'>]^*Joachim$ ^*R$Ã¼^*cker$[<\/a>
 ]|^leader<n><sg>$_^title<n><sg>$^2<num>$[            ]=[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
