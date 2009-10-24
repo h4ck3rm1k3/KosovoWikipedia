@@ -16,9 +16,12 @@
 ]^-<guio>$^-<guio>$^-<guio>$^-<guio>$^-<guio>$^-<guio>$[&gt;
 ]{{^redirect<vblex><inf>$^6<num>$|^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^the<det><def><sp>$ ^former<adj>$ ^entity<n><sg>$|^Republic<n><sg>$ ^of<pr>$ ^*Kosova$||^Kosovo<np><loc><sg>$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
 ]{{^*Infobox$ ^Country<n><sg>$[
-]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$ = ^Kosovo<np><loc><sg>$[
+]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$ = ^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[
+]|^common<adj>$_^name<n><sg>$[        ]= ^Kosovo<np><loc><sg>$[
 ]|^image<n><sg>$_^map<n><sg>$[          ]= ^Europe<np><loc><sg>$ ^location<n><sg>$ ^SRB<n><acr><sg>$ ^with<pr>$ ^*KOS$^.<sent>$^*png$[
 ]|^map<n><sg>$_^*caption$[        ]= ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^in<pr>$ ^Europe<np><loc><sg>$[
+]|^image<n><sg>$_^flag<n><sg>$[                  ]= ^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^*svg$[
+]|^image<n><sg>$_^coat<n><sg>$[                  ]= ^Coat<n><sg>$ ^of<pr>$ ^arm<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^*svg$[
 ]|^ethnic<adj>$_^group<n><pl>$[      ]= ^92%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>&lt;]^*br$ \/[&gt;]^5.3%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a>&lt;]^*br$ \/[&gt;]^2.7%<num><percent>$ ^others<prn><tn><mf><pl>$[&lt;]^*ref$[&gt;<a href='http:\/\/www.ks-gov.net\/ESK\/esk\/english\/english.htm Enti i StatistikÃ«s sÃ« KosovÃ«s'>]^1<num>$[<\/a>&lt;]\/^*ref$[&gt;
 ]|^ethnic<adj>$_^group<n><pl>$_^year<n><sg>$ = ^2007<num>$[
 ]|^capital<n><sg>$[            ]= {{^*nowrap$|[<a href='Pristina'>]^*Pristina$[<\/a>]}}[
