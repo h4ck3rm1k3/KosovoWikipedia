@@ -229,8 +229,8 @@
 <a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><p>&lt;]^small<adj><sint>$[&gt;&lt;]^reference<n><pl>$\/[&gt;&lt;]\/^small<adj><sint>$^.<sent>$[][&gt;<\/p>
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <ul>
-<li><a href='http:\/\/www.t-ticketgame.com\/pm\/?menuid=&amp;subid=&amp;lingo=2 The office of Prime Minister of Kosovo'>]^3<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.assembly-kosova.org\/?krye=home&amp;lang=en Kosovo Assembly'>]^4<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/ks-gov.net\/pm\/?menuid=&amp;subid=&amp;lingo=2 The office of Prime Minister of Kosovo'>]^3<num>$[<\/a> ]^English<adj>$ ^version<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.assembly-kosova.org\/?krye=home&amp;lang=en Kosovo Assembly (Kuvendi i KosovÃ«s)'>]^4<num>$[<\/a> ]^English<adj>$ ^version<n><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/ec.europa.eu\/economy_finance\/publications\/enlargement_papers\/2005\/elp26en.pdf EU Commission report on economic development in Accession countries, including Kosovo'>]^5<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.balkanforums.com Kosovo and the Balkans'>]^6<num>$[<\/a> ]^-<guio>$ ^Discussion<n><sg>$ ^Forum<n><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/ec.europa.eu\/comm\/enlargement\/serbia_montenegro\/kosovo_economical_profile.htm European Commission information on Kosovo'>]^7<num>$^.<sent>$[][<\/a><\/li>
