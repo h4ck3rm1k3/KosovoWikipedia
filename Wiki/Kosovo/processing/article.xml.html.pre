@@ -133,6 +133,7 @@
 <li><a href='Municipalities of Kosovo'>]^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='National awakening and the birth of Albania'>]^National<adj>$ ^awaken<vblex><ger>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^birth<n><sg>$ ^of<pr>$ ^*Albania$^.<sent>$[][<\/a><\/li>
 <li><a href='Subdivisions of Kosovo'>]^*Subdivisions$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Metohija'>]^*Metohija$^.<sent>$[][<\/a><\/li>
 <li><a href='Unrest in Kosovo'>]^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^(<lpar>$^about<pr>$ ^the<det><def><sp>$ ^March<n><sg>$ ^2004<num>$ ^unrest<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
 <p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Prpers<prn><subj><p3><nt><sg>$ ^appear<vblex><pri><p3><sg>$ ^that<cnjsub>$ ^this<prn><tn><mf><sg>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^actual<adj>$ ^article<n><sg>$^,<cm>$ ^but<cnjcoo>$ ^prpers<prn><subj><p3><nt><sg>$ ^be<vbser><past><p3><sg>$ ^remove<vblex><pp>$ *[ <a href='Sexual trafficking in Kosovo'>]^Sexual<adj>$ ^trafficking<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^-<guio>$^-<guio>$^.<sent>$[][&gt;<\/p>
