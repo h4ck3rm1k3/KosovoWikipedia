@@ -73,7 +73,7 @@
 <\/ul>
 <p>]^*Intercommunal$ ^violence<n><sg>$ ^have<vbhaver><pri><p3><sg>$ ^further<adv>$ ^reduce<vblex><pp>$ ^the<det><def><sp>$ ^number<n><sg>$ ^of<pr>$ ^non<adv>$^-<guio>$^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^since<pr>$ ^this<det><dem><sg>$ ^survey<n><sg>$^,<cm>$ ^and<cnjcoo>$ ^many<prn><tn><mf><pl>$ ^of<pr>$ ^those who<rel><nn><mf><pl>$ ^do<vbdo><pres>$ ^remain<vblex><inf>$ ^now<adv>$ ^live<vblex><inf>$ ^in<pr>$ ^heavily<adv>$ ^*guarded$ ^*enclaves$^.<sent>$^.<sent>$[][<\/p>
 <a name="Presidents"><\/a><h2>]^President<n><pl>$^.<sent>$[][<\/h2><ul>
-<li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a> ]^(<lpar>$^*deceased$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a> <a href='1992'>]^1992<num>$[<\/a>]^-<guio>$[<a href='2006'>]^2006<num>$[<\/a>]^(<lpar>$^*deceased$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
