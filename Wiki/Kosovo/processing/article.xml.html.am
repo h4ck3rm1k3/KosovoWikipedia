@@ -13,7 +13,7 @@
 ]| ^style/style<n><sg>$="^text/text<n><sg>$^-/-<guio>$^align/*align$^:/:<sent>$ ^center/center<vblex><inf>/center<vblex><pres>/centre<n><sg>$^;/;<sent>$" ^colspan/*colspan$="^2/2<num>$" |[
 &lt;]^big/big<adj><sint>$[&gt;<strong> ]^Kosovo/Kosovo<np><loc><sg>$[ <\/strong>&lt;]^br/*br$\/[&gt;&lt;]\/^big/big<adj><sint>$[&gt;&lt;]^br/*br$[&gt;
 ]|^-/-<guio>$[
-]| ^style/style<n><sg>$="^text/text<n><sg>$^-/-<guio>$^align/*align$^:/:<sent>$ ^center/center<vblex><inf>/center<vblex><pres>/centre<n><sg>$^;/;<sent>$" ^colspan/*colspan$="^2/2<num>$" |[ <a href='Image:Citys of Kosova.PNG|160px'>]^Image/Image<n><sg>$^:/:<sent>$^Citys/City<n><pl>$ ^of/of<pr>$ ^Kosova/*Kosova$^./.<sent>$^PNG/*PNG$|^160/160<num>$^px/*px$[<\/a> 
+]| ^style/style<n><sg>$="^text/text<n><sg>$^-/-<guio>$^align/*align$^:/:<sent>$ ^center/center<vblex><inf>/center<vblex><pres>/centre<n><sg>$^;/;<sent>$" ^colspan/*colspan$="^2/2<num>$" |[ <a href='Image:Kosovo_independent.pngâ|160px'>]^Image/Image<n><sg>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$_^independent/independent<adj>$^./.<sent>$^pngâ/*pngâ$|^160/160<num>$^px/*px$[<\/a> 
 ]|^-/-<guio>$[
 ]|^-/-<guio>$^./.<sent>$[][<\/p>
 <p>]|[ <a href='Official language'>]^Official/Official<adj>/Official<n><sg>$ ^languages/language<n><pl>$[<\/a>

@@ -18,9 +18,9 @@
 ]|^-<guio>$[
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:$
  ^centre<n><sg>$^;$
-" ^*colspan$="^2<num>$" |[ <a href='Image:Citys of Kosova.PNG|160px'>]^Image<n><sg>$^:$
-^City<n><pl>$ ^of<pr>$ ^*Kosova$^.$
-^*PNG$|^160<num>$^*px$[<\/a> 
+" ^*colspan$="^2<num>$" |[ <a href='Image:Kosovo_independent.pngâ|160px'>]^Image<n><sg>$^:$
+^Kosovo<np><loc><sg>$_^independent<adj>$^.$
+^*pngâ$|^160<num>$^*px$[<\/a> 
 ]|^-<guio>$[
 ]|^-<guio>$^.$
 [][<\/p>
