@@ -204,15 +204,15 @@
 <\/ul>
 <p>]^Kosovo<np><loc><sg>$ ^*Radiotelevisions$ ^like<pr>$[ <em>]^*RTK$[<\/em>]^,<cm>$[ <em>]^21<num>$[<\/em> ]^and<cnjcoo>$[ <em>]^*KTV$[<\/em> ]^have<vblex><pres>$ ^their<det><pos><sp>$ ^musical<adj>$ ^chart<n><pl>$^.<sent>$^.<sent>$[][<\/p>
 <a name="Gallery"><\/a><h2>]^Gallery<n><sg>$^.<sent>$[][<\/h2><p>&lt;]^centre<n><sg>$[&gt;&lt;]^gallery<n><sg>$[&gt;
-]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$_^government<n><sg>$^.<sent>$^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^in<pr>$ ^*Prishtina$^.<sent>$[
-]^Image<n><sg>$^:<sent>$^*Prizen$ ^*kosovo$^.<sent>$^*jpg$|^*Prizren$^.<sent>$[
-]^Image<n><sg>$^:<sent>$^*Erzengelkloster$^2<num>$^.<sent>$^*jpg$|[<a href='Serbs in Kosovo|Serb'>]^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^*Serb$[<\/a> ]^*monastery$^,<cm>$ ^*St$ ^*Archangel$^,<cm>$ ^near<adj><sint>$ ^river<n><sg>$[ <a href='Bistrica'>]^*Bistrica$[<\/a>]^.<sent>$[
+]^Image<n><sg>$^:<sent>$^*Kosova$_^government<n><sg>$^.<sent>$^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosova'>]^Government<n><sg>$ ^of<pr>$ ^*Kosova$[<\/a> ]^in<pr>$ ^*Prishtina$^.<sent>$[
+]^Image<n><sg>$^:<sent>$^*Prizen$ ^*kosova$^.<sent>$^*jpg$|^*Prizren$^.<sent>$[
+]^Image<n><sg>$^:<sent>$^*Erzengelkloster$^2<num>$^.<sent>$^*jpg$|[<a href='Serbs in Kosova|Serb'>]^*Serbs$ ^in<pr>$ ^*Kosova$|^*Serb$[<\/a> ]^*monastery$^,<cm>$ ^*St$ ^*Archangel$^,<cm>$ ^near<adj><sint>$ ^river<n><sg>$[ <a href='Bistrica'>]^*Bistrica$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Gjakova$^.<sent>$^*jpg$|[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]^.<sent>$[
-]^Image<n><sg>$^:<sent>$^*VeshjeKombetare$^.<sent>$^*JPG$|[<a href='Albanians in Kosovo|Kosovo Albanian'>]^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^Kosovo<np><loc><sg>$ ^Albanian<adj>$[<\/a> ]^ethnic<adj>$ ^costume<n><sg>$\/^dance<n><sg>$^.<sent>$[  
+]^Image<n><sg>$^:<sent>$^*VeshjeKombetare$^.<sent>$^*JPG$|[<a href='Albanians in Kosova|Kosova Albanian'>]^Albanian<n><pl>$ ^in<pr>$ ^*Kosova$|^*Kosova$ ^Albanian<adj>$[<\/a> ]^ethnic<adj>$ ^costume<n><sg>$\/^dance<n><sg>$^.<sent>$[  
 ]^Image<n><sg>$^:<sent>$^*Bibloteka$ ^*Komb$Ã«^*tare$ ^*e$ ^*Kosov$Ã«^*s$^.<sent>$^*jpg$|^National<adj>$ ^Public<adj>$ ^Library<n><sg>$ ^in<pr>$ ^*Pri$Å^¡<lquest>$^*tina$^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Pec$ ^001<num>$^.<sent>$^*jpg$|^*Serbian$ ^*monastery$ ^in<pr>$[ <a href='PeÄ'>]^*PeÄ$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Prizren$ ^004<num>$^.<sent>$^*JPG$|^*Serbian$ ^*monastery$ ^in<pr>$[ <a href='Prizren'>]^*Prizren$[<\/a>]^.<sent>$[
-]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^*Polje$ ^*sized$^.<sent>$^*jpg$|[<a href='Kosovo Polje'>]^Kosovo<np><loc><sg>$ ^*Polje$[<\/a>]^.<sent>$[
+]^Image<n><sg>$^:<sent>$^*Kosova$ ^*Polje$ ^*sized$^.<sent>$^*jpg$|[<a href='Kosovo Polje'>]^Kosovo<np><loc><sg>$ ^*Polje$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Bd$ ^shopping<n><sg>$^.<sent>$^*JPG$|"[<a href='Bregu i Diellit'>]^*Bregu$ ^*i$ ^*Diellit$[<\/a>]" ^shopping<n><sg>$ ^*mall$ ^in<pr>$[ <a href='Prishtina'>]^*Prishtina$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Banesat$ ^*e$ ^*bardha$^.<sent>$^*JPG$|[<a href='Bregu i Diellit'>]^*Bregu$ ^*i$ ^*Diellit$[<\/a> ]^2<num>$ ^in<pr>$[ <a href='Pristina'>]^*Pristina$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Nenatereze$^1<num>$^.<sent>$^*jpg$|^Mother<n><sg>$ ^*Tereza$ ^*boulevard$[
