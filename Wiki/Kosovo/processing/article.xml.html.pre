@@ -296,8 +296,8 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^20<num>$[<\/a> ]"^,<cm>$[ 
 <li><a href='http:\/\/www.kosovocompromise.com\/ Kosovo 2006 Making of a Compromise'>]^68<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.eparhija-prizren.com\/defaultE.asp Diocese Kosovo of Serbian Orthodox Church'>]^69<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='http:\/\/www.eparhija-prizren.com\/defaultE.asp English'>]^70<num>$[<\/a>]^,<cm>$[ <a href='http:\/\/www.eparhija-prizren.com\/default.asp Serbian'>]^71<num>$[<\/a> ]^and<cnjcoo>$[ <a href='http:\/\/www.eparhija-prizren.com\/defaultR.asp Russian'>]^72<num>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
-<p><br\/>
-]{{^Template<n><sg>$ ^group<n><sg>$[
+<p>]^\[<lpar>$^*http$^:<sent>$\/\/^www.kosovo-metohija.com<num>$^.<sent>$[][<\/p>
+<p>]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<vblex><pres>$ = ^Geographic<adj>$ ^*locale$[
 ]|^list<n><sg>$[  ]=[
 
