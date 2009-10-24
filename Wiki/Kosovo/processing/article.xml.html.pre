@@ -134,7 +134,7 @@
 <a href='http:\/\/groups.yahoo.com\/group\/decani\/ News archive'>]^19<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <\/li>
-<li><a href='http:\/\/www.serbia.sr.gov.yu\/coordination_centre\/index.html Serb Kosovo Coordination Center'>]^20<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^20<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.tserkovnost.org\/srbjia\/kosmet.html The Crisis in Kosovo and Metohia'>]^21<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/emperors-clothes.com The Emperor's New Clothes: The Serbs Were Not Oppressing the Kosovo Albanians...'>]^22<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.deltax.net\/bissett\/a-tragicblunder.htm The tragic blunder in Kosovo'>]^23<num>$^.<sent>$[][<\/a><\/li>
