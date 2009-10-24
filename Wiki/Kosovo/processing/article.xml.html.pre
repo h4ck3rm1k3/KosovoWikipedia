@@ -55,7 +55,6 @@
 ]|^call<vblex><ger>$_^code<n><sg>$[             ]= ^381<num>$[
 ]|^*footnote$^1<num>$[                ]= ^The<det><def><sp>$ ^*census$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^reconstruction<n><sg>$^;<sent>$ ^most of<det><qnt><sp>$ ^the<det><def><sp>$ ^ethnic<adj>$ ^Albanian<adj>$ ^majority<n><sg>$ ^boycott<vblex><past>$^.<sent>$[
 ]|^*footnote$^2<num>$[                ]= ^Officially<adv>$[ <a href='+381'>]+^381<num>$[<\/a>]^;<sent>$ ^some<prn><tn><mf><pl>$ ^mobile<adj>$ ^phone<n><sg>$ ^provider<n><pl>$ ^use<n><sg>$[ <a href='+377'>]+^377<num>$[<\/a> ]^(<lpar>$^Monaco<np><loc><sg>$^)<rpar>$ ^or<cnjcoo>$[ <a href='+386'>]+^386<num>$[<\/a> ]^(<lpar>$^Slovenia<np><loc><sg>$^)<rpar>$ ^instead<adv>$^.<sent>$[
-]|^*footnote$^3<num>$[                ]=^The<det><def><sp>$ ^*anthem$ ^*Â$«^*EuropeÂ$» ^have<vblex><pri><p3><sg>$ ^no<det><ind><sg>$ ^lyric<n><pl>$[
 ]}}[
 ]{{^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]{{^*Infobox$ ^Country<n><sg>$[
