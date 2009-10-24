@@ -270,7 +270,19 @@
 <li><\/li>
 <\/ul>
 <p><br\/>
-]{{^Kosovo<np><loc><sg>$ ^topic<n><pl>$}}[
+]{{^Geographic<adj>$ ^Location<n><sg>$ ^(<lpar>$^8<num>$^-<guio>$^way<n><sg>$^)<rpar>$^.<sent>$[][<\/p>
+
+<pre>]| ^Northwest<n><sg>$ = {{^flag<n><sg>$|^*Serbia$}}[
+]| ^North<adj><sint>$ = {{^flag<n><sg>$|^*Serbia$}}[
+]| ^Northeast<n><sg>$ = {{^flag<n><sg>$|^*Serbia$}}[
+]| ^West<adj>$ = {{^flag<n><sg>$|^Montenegro<np><loc><sg>$}}[
+]| ^Centre<n><sg>$ = {{^*flagicon$|^Kosovo<np><loc><sg>$}}[ <a href='Outline of Kosovo|Kosovo'>]^Outline<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Kosovo<np><loc><sg>$[<\/a>
+]| ^East<adj>$ = {{^flag<n><sg>$|^*Serbia$}}[
+]| ^Southwest<n><sg>$ = {{^flag<n><sg>$|^*Albania$}}[
+]| ^South<adj><sint>$ = {{^flag<n><sg>$|^Republic<n><sg>$ ^of<pr>$ ^Macedonia<np><ant><f><sg>$}}[
+]| ^Southeast<adv>$ = {{^flag<n><sg>$|^*Serbia$}}^.<sent>$[][
+<\/pre><p>]}}^.<sent>$[][<\/p>
+<p>]{{^Kosovo<np><loc><sg>$ ^topic<n><pl>$}}[
 ]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<n><sg>$ =[ &lt;]^!<sent>$^-<guio>$^-<guio>$[ <a href='File:Nuvola filesystems www.png|23px'>]^File<n><sg>$^:<sent>$^*Nuvola$ ^*filesystems$ ^*www$^.<sent>$^*png$|^23<num>$^*px$[<\/a> ]^-<guio>$^-<guio>$[&gt; ]^Geographic<adj>$ ^national<adj>$[
 ]|^list<n><sg>$ =[
