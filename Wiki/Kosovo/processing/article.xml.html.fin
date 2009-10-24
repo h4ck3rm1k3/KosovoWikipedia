@@ -45,9 +45,9 @@
  ^*http$^:$
 \/\/^www.kosovapress.com<num>$\/^*ks$\/^*repository$\/^image<n><pl>$\/^*stema$_^*kosoves$_^*thmb$^.$
 ^*jpg$ ^-<guio>$^-<guio>$[&gt;
-]|^image<n><sg>$_^map<n><sg>$[                ]= ^Europe<np><loc><sg>$ ^location<n><sg>$ ^*KOS$^.$
+]|^image<n><sg>$_^map<n><sg>$[                ]= ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^part<n><sg>$ ^of<pr>$ ^*Serbia$^.$
 ^*png$[
-]|^map<n><sg>$_^*caption$[              ]= ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^in<pr>$[ <a href='Europe'>]^Europe<np><loc><sg>$^.$
+]|^map<n><sg>$_^*caption$[              ]= ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^in<pr>$[ <a href='Serbia'>]^*Serbia$^.$
 [][<\/a><\/p>
 <p>]|^national<adj>$_^*motto$[           ]=[ 
 ]|^national<adj>$_^*anthem$[          ]=[  &lt;]^!$
