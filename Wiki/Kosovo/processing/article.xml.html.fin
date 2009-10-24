@@ -90,6 +90,8 @@
 \/\/^www.nytimes.com<num>$\/^2008<num>$\/^02<num>$\/^19<num>$\/^world<adj>$\/^*europe$\/^19<num>$^*kosovo$^.$
 ^*html$^?$
 ^*ref$=^world<adj>$|^date<n><sg>$=[<a href='2008-02-18'>]^2008<num>$^-<guio>$^02<num>$^-<guio>$^18<num>$[<\/a>]|^*accessdate$=^2008<num>$^-<guio>$^02<num>$^-<guio>$^18<num>$}}[&lt;]\/^*ref$[&gt;
+]|^establish<vblex><pp>$_^event<n><sg>$^3<num>$[       ]=[ <a href='International reaction to the 2008 Kosovo declaration of independence|Not Recognized'>]^International<adj>$ ^reaction<n><sg>$ ^to<pr>$ ^the<det><def><sp>$ ^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$|^Not<adv>$ ^Recognize<vblex><pp>$[<\/a>
+]|^establish<vblex><pp>$_^date<n><sg>$^3<num>$[        ]= ^by<pr>$ ^20<num>$ ^country<n><pl>$ ^\[<lpar>$^International<adj>$_^reaction<n><sg>$_^to<pr>$_^the<det><def><sp>$_^2008<num>$_^Kosovo<np><loc><sg>$_^*declaration$_^of<pr>$_^independence<n><sg>$^\]<rpar>$[
 ]|^area<n><sg>$_^rank<n><sg>$[                ]= ^166<num>$[
 ]|^area<n><sg>$_^magnitude<n><sg>$[           ]= ^1<num>$ ^*E$^10<num>$[
 ]|^area<n><sg>$_^*km$^2<num>$[                 ]= ^10,887<num>$[
