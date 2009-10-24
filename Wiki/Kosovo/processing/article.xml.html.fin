@@ -1110,9 +1110,9 @@
 ^*ì$½^*ì$^*ë$³´[<\/a>
 <a href='hr:Kosovo'>]^*hr$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
-<a href='id:Kosovo'>]^*id$^:$
-^Kosovo<np><loc><sg>$[<\/a>
 <a href='io:Kosovo'>]^*io$^:$
+^Kosovo<np><loc><sg>$[<\/a>
+<a href='id:Kosovo'>]^*id$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='it:Kosovo'>]^prpers<prn><obj><p3><nt><sg>$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
@@ -1130,13 +1130,13 @@
 ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='nl:Kosovo'>]^*nl$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
-<a href='oc:Kosovo'>]^*oc$^:$
-^Kosovo<np><loc><sg>$[<\/a>
 <a href='ja:ã³ã½ã'>]^*ja$^:$
 ã³ã½ã[<\/a>
 <a href='no:Kosovo'>]^no<adv>$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='nn:Kosovo'>]^*nn$^:$
+^Kosovo<np><loc><sg>$[<\/a>
+<a href='oc:Kosovo'>]^*oc$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='nds:Kosovo'>]^*nds$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
@@ -1154,8 +1154,8 @@
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='sr:ÐÐ¾ÑÐ¾Ð²Ð¾ Ð¸ ÐÐµÑÐ¾ÑÐ¸ÑÐ°'>]^*sr$^:$
 ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/a>
-<a href='sh:Kosovo i Metohija'>]^*sh$^:$
-^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/a>
+<a href='sh:Kosovo'>]^*sh$^:$
+^Kosovo<np><loc><sg>$[<\/a>
 <a href='fi:Kosovo'>]^*fi$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='sv:Kosovo'>]^*sv$^:$

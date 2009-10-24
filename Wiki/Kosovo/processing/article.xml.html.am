@@ -318,8 +318,8 @@
 <a href='fr:Kosovo'>]^fr/*fr$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='ko:ì½ìë³´'>]^ko/*ko$^:/:<sent>$^ì/*ì$½^ì/*ì$^ë/*ë$³´[<\/a>
 <a href='hr:Kosovo'>]^hr/*hr$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
-<a href='id:Kosovo'>]^id/*id$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='io:Kosovo'>]^io/*io$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
+<a href='id:Kosovo'>]^id/*id$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='it:Kosovo'>]^it/prpers<prn><subj><p3><nt><sg>/prpers<prn><obj><p3><nt><sg>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='he:×§××¡××× ×××××××'>]^he/prpers<prn><subj><p3><m><sg>$^:/:<sent>$×§××^¡/¡<lquest>$××× ×××××××[<\/a>
 <a href='la:Cosovum'>]^la/*la$^:/:<sent>$^Cosovum/*Cosovum$[<\/a>
@@ -328,10 +328,10 @@
 <a href='hu:KoszovÃ³'>]^hu/*hu$^:/:<sent>$^Koszov/*Koszov$Ã³[<\/a>
 <a href='mk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^mk/*mk$^:/:<sent>$ÐÐ¾^Ñ/*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='nl:Kosovo'>]^nl/*nl$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
-<a href='oc:Kosovo'>]^oc/*oc$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='ja:ã³ã½ã'>]^ja/*ja$^:/:<sent>$ã³ã½ã[<\/a>
 <a href='no:Kosovo'>]^no/no<adv>/no<det><ind><sg>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='nn:Kosovo'>]^nn/*nn$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
+<a href='oc:Kosovo'>]^oc/*oc$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='nds:Kosovo'>]^nds/*nds$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='pl:Kosowo i Metohija'>]^pl/*pl$^:/:<sent>$^Kosowo/*Kosowo$ ^i/*i$ ^Metohija/*Metohija$[<\/a>
 <a href='pt:Kosovo'>]^pt/*pt$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
@@ -340,7 +340,7 @@
 <a href='sq:Kosova'>]^sq/*sq$^:/:<sent>$^Kosova/*Kosova$[<\/a>
 <a href='sl:Kosovo'>]^sl/*sl$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='sr:ÐÐ¾ÑÐ¾Ð²Ð¾ Ð¸ ÐÐµÑÐ¾ÑÐ¸ÑÐ°'>]^sr/*sr$^:/:<sent>$ÐÐ¾^Ñ/*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^Ñ/*Ñ$Ð¾^Ñ/*Ñ$Ð¸^Ñ/*Ñ$Ð°[<\/a>
-<a href='sh:Kosovo i Metohija'>]^sh/*sh$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$ ^i/*i$ ^Metohija/*Metohija$[<\/a>
+<a href='sh:Kosovo'>]^sh/*sh$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='fi:Kosovo'>]^fi/*fi$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='sv:Kosovo'>]^sv/*sv$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='tr:Kosova'>]^tr/*tr$^:/:<sent>$^Kosova/*Kosova$[<\/a>
