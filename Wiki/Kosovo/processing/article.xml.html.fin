@@ -51,7 +51,7 @@
 ]|^capital<n><sg>$[                  ]= {{^*nowrap$|[<a href='Prishtina'>]^*Prishtina$[<\/a>]}}[&lt;]^*br$ \/[&gt;&lt;]^small<adj><sint>$[&gt;]{{^*coor$ ^*dm$|^42<num>$|^40<num>$|^*N$|^21<num>$|^10<num>$|^*E$|}}[&lt;]\/^small<adj><sint>$[&gt;
 ]|^*latd$= |^*latm$= |^*latNS$= |^*longd$= |^*longm$= |^*longEW$=[
 ]|^large<adj><sint><sup>$_^city<n><sg>$[             ]= ^capital<n><sg>$[
-]|^*demonym$[                  ]= ^*Kosovar$^(<lpar>$^*s$^)<rpar>$[
+]|^*demonym$[                  ]= ^*Kosovar$[
 ]|^government<n><sg>$_^type<vblex><pres>$[          ]= ^Parliamentary<adj>$ ^republic<n><sg>$[
 ]|^leader<n><sg>$_^title<n><sg>$^1<num>$[            ]=[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
 ]|^leader<n><sg>$_^name<n><sg>$^1<num>$[             ]=[ <a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>
