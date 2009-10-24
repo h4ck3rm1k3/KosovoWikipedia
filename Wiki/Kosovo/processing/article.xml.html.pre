@@ -121,6 +121,7 @@
 <li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^8<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ A collection of photos from Kosovo'>]^9<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.kosovo.com\/sk\/history\/kosovo_origins\/default.htm  Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^10<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
+<li>&lt;]^*nowiki$[&gt;]^Alliance<n><sg>$ ^for<pr>$ ^a<det><ind><sg>$ ^New<adj><sint>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^Washington<np><loc><sg>$ ^*D$^.<sent>$^*C$^.<sent>$ ^www.newkosovo.org<num>$[&lt;]\/^*nowiki$^.<sent>$[][&gt;<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
