@@ -128,9 +128,9 @@
 <p><br\/>
 <a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
 <a href='Category:Kosovo'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='Category:United Nations'>]^Category<n><sg>$^:<sent>$^Unite<vblex><pp>$ ^Nation<n><pl>$[<\/a>
-<a href='Category:Subdivisions of Serbia and Montenegro'>]^Category<n><sg>$^:<sent>$^*Subdivisions$ ^of<pr>$ ^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$^.<sent>$[][<\/a><\/p>
-<p><a href='ar:ÙÙØµÙØ©'>]^*ar$^:<sent>$^*Ù$^*Ù$Øµ^*Ù$Ø©[<\/a>
+<a href='Category:United Nations'>]^Category<n><sg>$^:<sent>$^Unite<vblex><pp>$ ^Nation<n><pl>$^.<sent>$[][<\/a><\/p>
+<p><br\/>
+<a href='ar:ÙÙØµÙØ©'>]^*ar$^:<sent>$^*Ù$^*Ù$Øµ^*Ù$Ø©[<\/a>
 <a href='ast:Kosovo'>]^*ast$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='bg:ØªÃ®ÙÃ®Ã¢Ã®'>]^*bg$^:<sent>$ØªÃ®^*Ù$Ã®Ã¢Ã®[<\/a>
 <a href='zh-min-nan:Kosovo'>]^*zh$^-<guio>$^*min$^-<guio>$^*nan$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
