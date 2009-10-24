@@ -435,7 +435,8 @@
 ]^!$
 ^Albanian<n><pl>$[
 ]^!$
-^*Serbs$[&lt;]^small<adj><sint>$[&gt;&lt;]^*sup$[&gt;]^1<num>$[&lt;]\/^*sup$[&gt;&lt;]\/^small<adj><sint>$[&gt;
+^*Serbs$[&lt;]^small<adj><sint>$[&gt;&lt;]^*sup$[&gt;]^(<lpar>$^1<num>$^.$
+^)<rpar>$[&lt;]\/^*sup$[&gt;&lt;]\/^small<adj><sint>$[&gt;
 ]^!$
 ^Others<prn><tn><mf><pl>$[
 ]|^-<guio>$[
@@ -485,7 +486,8 @@
 %[
 ]|^-<guio>$[
 ]|^-<guio>$ ^*bgcolor$="#^*fffaf$^0<num>$"[ 
-]|[<strong>]^2005<num>$[&lt;]^small<adj><sint>$[&gt;&lt;]^*sup$[&gt;]^2<num>$[&lt;]\/^*sup$[&gt;&lt;]\/^small<adj><sint>$[&gt;<\/strong> 
+]|[<strong>]^2005<num>$[&lt;]^small<adj><sint>$[&gt;&lt;]^*sup$[&gt;]^(<lpar>$^2<num>$^.$
+^)<rpar>$[&lt;]\/^*sup$[&gt;&lt;]\/^small<adj><sint>$[&gt;<\/strong> 
 ]| ^*align$="^right<n><sg>$" |^92<num>$[&amp;]^*nbsp$^;$
 %[
 ]| ^*align$="^right<adj>$" |^4<num>$[&amp;]^*nbsp$^;$
@@ -494,9 +496,9 @@
 %[
 ]|^-<guio>$[
 ]|^-<guio>$ ^*bgcolor$=#^*dcdcdc$[
-]|^*colspan$="^4<num>$"|[&lt;]^small<adj><sint>$[&gt;]^1<num>$^.$
- ^include<vblex><ger>$[  <a href='Montenegrins'>]^*Montenegrins$[<\/a> &lt;]^*br$[&gt;]^2<num>$^.$
-[ <em>]^estimate<vblex><pp>$ ^data<n><sg>$[<\/em> <em>]^*Ref$^:$
+]|^*colspan$="^4<num>$"|[&lt;]^small<adj><sint>$[&gt;]^(<lpar>$^1<num>$^.$
+^)<rpar>$ ^include<vblex><ger>$[  <a href='Montenegrins'>]^*Montenegrins$[<\/a> &lt;]^*br$[&gt;]^(<lpar>$^2<num>$^.$
+^)<rpar>$[ <em>]^estimate<vblex><pp>$ ^data<n><sg>$[<\/em> <em>]^*Ref$^:$
  ^Statistical<adj>$ ^Office<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/em>]^,<cm>$[&lt;]^*br$[&gt;<em>]^Word<n><sg>$ ^Bank<n><sg>$ ^(<lpar>$^2000<num>$^)<rpar>$[<\/em>]^,<cm>$ ^'<apos>$^'<apos>$^*OSCE$ ^(<lpar>$^2005<num>$^)<rpar>$[&lt;]\/^small<adj><sint>$[&gt;  
 ]|^-<guio>$[
 ]|}[

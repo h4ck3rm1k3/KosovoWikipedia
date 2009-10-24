@@ -115,7 +115,7 @@
 ]|^-<guio>$ ^*bgcolor$="#^*FFEBCD$"[
 ]^!<sent>$^Year<n><sg>$[
 ]^!<sent>$^Albanian<n><pl>$[
-]^!<sent>$^*Serbs$[&lt;]^small<adj><sint>$[&gt;&lt;]^*sup$[&gt;]^1<num>$[&lt;]\/^*sup$[&gt;&lt;]\/^small<adj><sint>$[&gt;
+]^!<sent>$^*Serbs$[&lt;]^small<adj><sint>$[&gt;&lt;]^*sup$[&gt;]^(<lpar>$^1<num>$^.<sent>$^)<rpar>$[&lt;]\/^*sup$[&gt;&lt;]\/^small<adj><sint>$[&gt;
 ]^!<sent>$^Others<prn><tn><mf><pl>$[
 ]|^-<guio>$[
 ]|^-<guio>$ ^*bgcolor$="#^*f$^5<num>$^*f$^5<num>$^*f$^5<num>$"[
@@ -149,13 +149,13 @@
 ]| ^*align$="^right<adj>$" |^5<num>$[&amp;]^*nbsp$^;<sent>$%[
 ]|^-<guio>$[
 ]|^-<guio>$ ^*bgcolor$="#^*fffaf$^0<num>$"[ 
-]|[<strong>]^2005<num>$[&lt;]^small<adj><sint>$[&gt;&lt;]^*sup$[&gt;]^2<num>$[&lt;]\/^*sup$[&gt;&lt;]\/^small<adj><sint>$[&gt;<\/strong> 
+]|[<strong>]^2005<num>$[&lt;]^small<adj><sint>$[&gt;&lt;]^*sup$[&gt;]^(<lpar>$^2<num>$^.<sent>$^)<rpar>$[&lt;]\/^*sup$[&gt;&lt;]\/^small<adj><sint>$[&gt;<\/strong> 
 ]| ^*align$="^right<n><sg>$" |^92<num>$[&amp;]^*nbsp$^;<sent>$%[
 ]| ^*align$="^right<adj>$" |^4<num>$[&amp;]^*nbsp$^;<sent>$%[
 ]| ^*align$="^right<adj>$" |^4<num>$[&amp;]^*nbsp$^;<sent>$%[
 ]|^-<guio>$[
 ]|^-<guio>$ ^*bgcolor$=#^*dcdcdc$[
-]|^*colspan$="^4<num>$"|[&lt;]^small<adj><sint>$[&gt;]^1<num>$^.<sent>$ ^include<vblex><ger>$[  <a href='Montenegrins'>]^*Montenegrins$[<\/a> &lt;]^*br$[&gt;]^2<num>$^.<sent>$[ <em>]^estimate<vblex><pp>$ ^data<n><sg>$[<\/em> <em>]^*Ref$^:<sent>$ ^Statistical<adj>$ ^Office<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/em>]^,<cm>$[&lt;]^*br$[&gt;<em>]^Word<n><sg>$ ^Bank<n><sg>$ ^(<lpar>$^2000<num>$^)<rpar>$[<\/em>]^,<cm>$ ^'<apos>$^'<apos>$^*OSCE$ ^(<lpar>$^2005<num>$^)<rpar>$[&lt;]\/^small<adj><sint>$[&gt;  
+]|^*colspan$="^4<num>$"|[&lt;]^small<adj><sint>$[&gt;]^(<lpar>$^1<num>$^.<sent>$^)<rpar>$ ^include<vblex><ger>$[  <a href='Montenegrins'>]^*Montenegrins$[<\/a> &lt;]^*br$[&gt;]^(<lpar>$^2<num>$^.<sent>$^)<rpar>$[ <em>]^estimate<vblex><pp>$ ^data<n><sg>$[<\/em> <em>]^*Ref$^:<sent>$ ^Statistical<adj>$ ^Office<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/em>]^,<cm>$[&lt;]^*br$[&gt;<em>]^Word<n><sg>$ ^Bank<n><sg>$ ^(<lpar>$^2000<num>$^)<rpar>$[<\/em>]^,<cm>$ ^'<apos>$^'<apos>$^*OSCE$ ^(<lpar>$^2005<num>$^)<rpar>$[&lt;]\/^small<adj><sint>$[&gt;  
 ]|^-<guio>$[
 ]|}[
 ]^According to<pr>$ ^the<det><def><sp>$ ^2000<num>$ ^Living<adj>$ ^Standard<adj>$ ^Measurement<n><sg>$ ^Survey<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Statistical<adj>$ ^Office<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<a href='http:\/\/www.sok-kosovo.org\/pdf\/population\/Kosovo_population.pdf'>]^1<num>$[<\/a>]^,<cm>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^total<adj>$ ^population<n><sg>$ ^be<vbser><pri><p3><sg>$ ^estimate<vblex><pp>$ ^between<pr>$ ^1,8<num>$ ^and<cnjcoo>$ ^2,0<num>$ ^million<num><sp>$ ^in<pr>$ ^the<det><def><sp>$ ^follow<vblex><ger>$ ^ethnic<adj>$ ^proportion<n><pl>$^:<sent>$^.<sent>$[][<\/p>
