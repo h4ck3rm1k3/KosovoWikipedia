@@ -16,14 +16,14 @@
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:$
  ^centre<n><sg>$^;$
 " ^*colspan$="^2<num>$" |[
-&lt;]^big<adj><sint>$[&gt;<strong> ]^Kosovo<np><loc><sg>$[ <\/strong>&lt;]^*br$\/[&gt;&lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$[&gt;
-]|^-<guio>$[
-]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:$
- ^centre<n><sg>$^;$
-" ^*colspan$="^2<num>$" |[ <a href='Image:Citys of Kosova.PNG|160px'>]^Image<n><sg>$^:$
-^City<n><pl>$ ^of<pr>$ ^*Kosova$^.$
-^*PNG$|^160<num>$^*px$[<\/a> 
-]|^-<guio>$[
+&lt;]^big<adj><sint>$[&gt;<strong> ]^Kosovo<np><loc><sg>$[ <\/strong>&lt;]^*br$\/[&gt;&lt;]\/^big<adj><sint>$[&gt;
+]|^-<guio>$ ^style<n><sg>$="^border<n><sg>$^-<guio>$^top<n><sg>$^:$
+ ^2<num>$^*px$ ^solid<adj><sint>$ ^gray<adj><sint>$^;$
+"[
+]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-KosovoMetohija.png|100px|Map showing Kosovo within the state union'>]^Image<n><sg>$^:$
+^*SerbiaMontenegro$^-<guio>$^*KosovoMetohija$^.$
+^*png$|^100<num>$^*px$|^Map<n><sg>$ ^show<vblex><ger>$ ^Kosovo<np><loc><sg>$ ^within<pr>$ ^the<det><def><sp>$ ^state<adj>$ ^union<n><sg>$[<\/a>
+]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
 ]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a> ]^(<lpar>$^in<pr>$ ^*alphabetical$ ^order<n><sg>$^)<rpar>$[
@@ -80,16 +80,16 @@
 [][<\/p>
 <p><strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>$[<a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^:$
 [ <em>]^*Kosov$Ã«[<\/em>]\/[<em>]^*Kosova$[<\/em>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^:$
- ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°\/[<em>]^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/em>]^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$[ <a href='UN'>]^UN<n><acr><sg>$[<\/a>]^-<guio>$^administer<vblex><pp>$ ^province<n><sg>$^.$
- ^By<pr>$ ^the<det><def><sp>$ ^UN<n><acr><sg>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$ ^(<lpar>$^adopt<vblex><pp>$ ^in<pr>$ ^1999<num>$^)<rpar>$^,<cm>$ ^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^define<vblex><pp>$ ^as<pr>$ ^autonomous<adj>$ ^province<n><sg>$ ^within<pr>$ ^former<adj>$[ <a href='Federal Republic of Yugoslavia'>]^Federal<adj>$ ^Republic<n><sg>$ ^of<pr>$ ^Yugoslavia<np><loc><sg>$[<\/a> ]^under<pr>$ ^UN<n><acr><sg>$ ^administration<n><sg>$^.$
- ^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^*presently$ ^run<vblex><pp>$ ^by<pr>$[ <a href='Provisional Institutions of Selfgovernment'>]^the<det><def><sp>$ ^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Selfgovernment$[<\/a> ]^and<cnjcoo>$ ^the<det><def><sp>$[ <a href='UN'>]^UN<n><acr><sg>$[<\/a> ]^and<cnjcoo>$ ^the<det><def><sp>$[ <a href='EU'>]^EU<n><acr><sg>$[<\/a>]^,<cm>$ ^while<cnjadv>$ ^the<det><def><sp>$ ^security<n><sg>$ ^be<vbser><pri><p3><sg>$ ^maintain<vblex><pp>$ ^by<pr>$[ <a href='NATO'>]^the<det><def><sp>$ ^NATO<n><acr><sg>$[<\/a>]^-<guio>$^lead<vblex><pp>$[ <a href='KFOR'>]^*KFOR$[<\/a>]^.$
- ^The<det><def><sp>$ ^talk<n><pl>$ ^on<pr>$ ^the<det><def><sp>$ ^future<adj>$ ^status<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^have<vbhaver><pres>$ ^start<vblex><pp>$ ^in<pr>$ ^Vienna<np><loc><sg>$^,<cm>$ ^on<pr>$ ^February<n><sg>$ ^20<num>$^,<cm>$[ <a href='2006'>]^2006<num>$[<\/a>]^,<cm>$ ^with<pr>$ ^the<det><def><sp>$ ^*likelihood$ ^of<pr>$ ^the<det><def><sp>$ ^province<n><sg>$ ^become<vblex><ger>$ ^a<det><ind><sg>$ ^independent<adj>$ ^country<n><sg>$ ^by<pr>$ ^the<det><def><sp>$ ^end<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^year<n><sg>$^.$
+ ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°\/[<em>]^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/em>]^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$[ <a href='UN'>]^UN<n><acr><sg>$[<\/a>]^-<guio>$^administer<vblex><pp>$ ^province<n><sg>$ ^in<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>]^.$
+ ^As for<pr>$ ^the<det><def><sp>$[ <a href='United Nations Security Council'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$[<\/a> <a href='Resolution 1244'>]^Resolution<n><sg>$ ^1244<num>$[<\/a> ]^(<lpar>$^adopt<vblex><pp>$ ^in<pr>$ ^1999<num>$^)<rpar>$^,<cm>$ ^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^define<vblex><pp>$ ^as<pr>$ ^a<det><ind><sg>$ ^autonomous<adj>$ ^province<n><sg>$ ^within<pr>$ ^the<det><def><sp>$[ <a href='Federal Republic of Yugoslavia'>]^Federal<adj>$ ^Republic<n><sg>$ ^of<pr>$ ^Yugoslavia<np><loc><sg>$[<\/a> ]^(<lpar>$^now<adv>$ ^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$^)<rpar>$ ^under<pr>$ ^UN<n><acr><sg>$ ^interim<adj>$ ^administration<n><sg>$^.$
+ ^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^*presently$ ^run<vblex><pp>$ ^by<pr>$ ^the<det><def><sp>$ ^*transitional$[ <a href='Provisional Institutions of Selfgovernment (Kosovo)|Provisional Institutions of Selfgovernment'>]^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Selfgovernment$ ^(<lpar>$^Kosovo<np><loc><sg>$^)<rpar>$|^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Selfgovernment$[<\/a>]^,<cm>$ ^civil<adj>$ ^servant<n><pl>$ ^from<pr>$[ <a href='UN'>]^the<det><def><sp>$ ^UN<n><acr><sg>$[<\/a> ]^and<cnjcoo>$ ^the<det><def><sp>$[ <a href='European Union'>]^European<adj>$ ^Union<n><sg>$[<\/a>]^,<cm>$ ^while<cnjadv>$ ^the<det><def><sp>$ ^security<n><sg>$ ^task<n><pl>$ ^be<vbser><pres>$ ^take# care<vblex><pp>$ ^of<pr>$ ^by<pr>$[ <a href='NATO'>]^the<det><def><sp>$ ^NATO<n><acr><sg>$[<\/a>]^-<guio>$^lead<vblex><pp>$[ <a href='KFOR|Kosovo Force'>]^*KFOR$|^Kosovo<np><loc><sg>$ ^Force<n><sg>$[<\/a> ]^(<lpar>$^*KFOR$^)<rpar>$^.$
+ ^The<det><def><sp>$ ^talk<n><pl>$ ^on<pr>$ ^the<det><def><sp>$ ^status<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^start<vblex><past>$ ^in<pr>$ ^Vienna<np><loc><sg>$^,<cm>$ ^on<pr>$ ^20<num>$^*th$ ^February<n><sg>$[ <a href='2006'>]^2006<num>$[<\/a>]^,<cm>$ ^with<pr>$ ^the<det><def><sp>$ ^future<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^province<n><sg>$ ^to<pr>$ ^be<vbser><inf>$ ^determine<vblex><pp>$ ^by<pr>$ ^the<det><def><sp>$ ^end<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^year<n><sg>$^.$
 ^.$
 [][<\/p>
 <a name="Geography"><\/a><h2>]^Geography<n><sg>$^.$
-[][<\/h2><p><a href='image:UTkosovo rel small 92.jpg|thumb|right|275px|Physical map of Kosovo'>]^image<n><sg>$^:$
+[][<\/h2><p><a href='image:UTkosovo rel small 92.jpg|thumb|left|275px|Physical map of Kosovo'>]^image<n><sg>$^:$
 ^*UTkosovo$ ^*rel$ ^small<adj><sint>$ ^92<num>$^.$
-^*jpg$|^thumb<n><sg>$|^right<n><sg>$|^275<num>$^*px$|^Physical<adj>$ ^map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
+^*jpg$|^thumb<n><sg>$|^leave<vblex><past>$|^275<num>$^*px$|^Physical<adj>$ ^map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
 ]^With<pr>$ ^a<det><ind><sg>$ ^area<n><sg>$ ^of<pr>$[ <a href='1 E10 mÂ²|10,912'>]^1<num>$ ^*E$^10<num>$ ^*mÂ$²|^10,912<num>$[<\/a> <a href='square kilometre'>]^square<adj>$ ^kilometre<n><pl>$[<\/a> ]^(<lpar>$^4,213<num>$[ <a href='square mile|sq.&amp;nbsp;mi'>]^square<adj>$ ^mile<n><sg>$|^*sq$^.$
 [&amp;]^*nbsp$^;$
 ^*mi$[<\/a>]^)<rpar>$ ^and<cnjcoo>$ ^a<det><ind><sg>$ ^population<n><sg>$ ^of<pr>$ ^over<pr>$ ^two<num><sp>$ ^million<num><sp>$ ^of<pr>$ ^the<det><def><sp>$ ^*eve$ ^of<pr>$ ^the<det><def><sp>$ ^1999<num>$ ^crisis<n><sg>$^,<cm>$ ^Kosovo<np><loc><sg>$ ^border<n><pl>$[ <a href='Montenegro'>]^Montenegro<np><loc><sg>$[<\/a> ]^to<pr>$ ^the<det><def><sp>$ ^northwest<n><sg>$^,<cm>$[ <a href='Central Serbia'>]^Central<adj>$ ^*Serbia$[<\/a> ]^to<pr>$ ^the<det><def><sp>$ ^North<adj><sint>$ ^and<cnjcoo>$ ^East<n><sg>$^;$
@@ -276,7 +276,7 @@
 [  ]^Hundred<n><pl>$ ^of<pr>$ ^thousand<n><pl>$ ^more<adv>$ ^would<vaux><inf>$ ^leave<vblex><inf>$ ^in<pr>$ ^the<det><def><sp>$ ^follow<vblex><ger>$ ^decade<n><pl>$^,<cm>$ ^follow<vblex><ger>$ ^the<det><def><sp>$ ^shift<n><sg>$ ^of<pr>$ ^power<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.$
  ^Around<pr>$ ^10,000<num>$ ^*Serbs$ ^die<vblex><pp>$ ^in<pr>$ ^Albanian<adj>$ ^*extermination$ ^camp<n><pl>$ ^by<pr>$ ^the<det><def><sp>$ ^hand<n><sg>$ ^of<pr>$ ^military<adj>$ ^*squadrons$ ^like<pr>$ ^the<det><def><sp>$[ <a href='Vipurii'>]^*Vipurii$[<\/a>]^.$
  ^Prior<adj>$ ^to<pr>$ ^the<det><def><sp>$ ^*surrender$ ^of<pr>$[ <a href='History of Italy|Fascist Italy'>]^History<n><sg>$ ^of<pr>$ ^Italy<np><loc><sg>$|^Fascist<adj>$ ^Italy<np><loc><sg>$[<\/a> ]^in<pr>$[ <a href='1943'>]^1943<num>$[<\/a>]^,<cm>$ ^the<det><def><sp>$ ^German<adj>$ ^force<n><pl>$ ^take<vblex><past>$ ^over<pr>$ ^direct<adj>$ ^control<n><sg>$ ^of<pr>$ ^their<det><pos><sp>$ ^region<n><sg>$^.$
- ^After<cnjadv>$ ^numerous<adj>$ ^uprising<n><pl>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Serbian'>]^*Serbian$[<\/a> <a href='Chetniks'>]^*Chetniks$[<\/a> ]^and<cnjcoo>$[ <a href='Yugoslav'>]^Yugoslav<adj>$[<\/a> <a href='Partisans'>]^*Partisans$[<\/a>]^,<cm>$ ^Kosovo<np><loc><sg>$ ^be<vbser><past><p3><sg>$ ^*liberated$ ^after<pr>$[ <a href='1944'>]^1944<num>$[<\/a> ]^with<pr>$ ^the<det><def><sp>$ ^help<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Red Army'>]^Red<adj>$ ^Army<n><sg>$[<\/a> ]^of<pr>$ ^the<det><def><sp>$ ^*Comintern$^,<cm>$ ^and<cnjcoo>$ ^become<vblex><past>$ ^a<det><ind><sg>$ ^province<n><sg>$ ^of<pr>$[ <em>]^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$[<\/em> ]^of<pr>$ ^one<prn><tn><mf><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Republic<n><pl>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Yugoslavia|Democratic Federal Yugoslavia'>]^Yugoslavia<np><loc><sg>$|^Democratic<adj>$ ^Federal<adj>$ ^Yugoslavia<np><loc><sg>$[<\/a>]^,<cm>$[ <a href='Serbia'>]^*Serbia$[<\/a>]^.$
+ ^After<cnjadv>$ ^numerous<adj>$ ^uprising<n><pl>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Serbian'>]^*Serbian$[<\/a> <a href='Chetniks'>]^*Chetniks$[<\/a> ]^and<cnjcoo>$[ <a href='Partisans (Yugoslavia)|Yugoslav Partisans'>]^*Partisans$ ^(<lpar>$^Yugoslavia<np><loc><sg>$^)<rpar>$|^Yugoslav<n><sg>$ ^*Partisans$[<\/a>]^,<cm>$ ^Kosovo<np><loc><sg>$ ^be<vbser><past><p3><sg>$ ^*liberated$ ^after<pr>$[ <a href='1944'>]^1944<num>$[<\/a> ]^with<pr>$ ^the<det><def><sp>$ ^help<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Red Army'>]^Red<adj>$ ^Army<n><sg>$[<\/a> ]^of<pr>$ ^the<det><def><sp>$ ^*Comintern$^,<cm>$ ^and<cnjcoo>$ ^become<vblex><past>$ ^a<det><ind><sg>$ ^province<n><sg>$ ^of<pr>$[ <em>]^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$[<\/em> ]^of<pr>$ ^one<prn><tn><mf><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Republic<n><pl>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Yugoslavia|Democratic Federal Yugoslavia'>]^Yugoslavia<np><loc><sg>$|^Democratic<adj>$ ^Federal<adj>$ ^Yugoslavia<np><loc><sg>$[<\/a>]^,<cm>$[ <a href='Serbia'>]^*Serbia$[<\/a>]^.$
 ^.$
 [][<\/p>
 <p> 
@@ -368,7 +368,10 @@
 ^.$
 [][<\/p>
 <a name="Economy"><\/a><h2>]^Economy<n><sg>$^.$
-[][<\/h2><p><a href='UNMIK'>]^*UNMIK$[<\/a> ]^declare<vblex><past>$ ^the<det><def><sp>$[ <a href='Euro'>]^Euro<n><sg>$[<\/a> ]^to<pr>$ ^be<vbser><inf>$ ^the<det><def><sp>$ ^official<adj>$ ^currency<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^province<n><sg>$ ^in<pr>$[ <a href='2001'>]^2001<num>$[<\/a> ]^in<pr>$ ^the<det><def><sp>$ ^course<n><sg>$ ^of<pr>$ ^implement<vblex><ger>$ ^a<det><ind><sg>$ ^currency<n><sg>$ ^reform<n><sg>$^.$
+[][<\/h2><p><a href='Image:Citys of Kosova.PNG|thumb|right|Cities in Kosovo'>]^Image<n><sg>$^:$
+^City<n><pl>$ ^of<pr>$ ^*Kosova$^.$
+^*PNG$|^thumb<n><sg>$|^right<adj>$|^City<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
+<a href='UNMIK'>]^*UNMIK$[<\/a> ]^declare<vblex><past>$ ^the<det><def><sp>$[ <a href='Euro'>]^Euro<n><sg>$[<\/a> ]^to<pr>$ ^be<vbser><inf>$ ^the<det><def><sp>$ ^official<adj>$ ^currency<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^province<n><sg>$ ^in<pr>$[ <a href='2001'>]^2001<num>$[<\/a> ]^in<pr>$ ^the<det><def><sp>$ ^course<n><sg>$ ^of<pr>$ ^implement<vblex><ger>$ ^a<det><ind><sg>$ ^currency<n><sg>$ ^reform<n><sg>$^.$
  ^This<prn><tn><mf><sg>$ ^be<vbser><past><p3><sg>$ ^undertake<vblex><pp>$ ^to<pr>$ ^replace<vblex><inf>$ ^the<det><def><sp>$ ^previous<adj>$ ^*widespread$ ^use<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Deutschmark'>]^*Deutschmark$[<\/a>]^,<cm>$ ^which<prn><itg><m><sp>$ ^have<vbhaver><past>$ ^become<vblex><pp>$ ^the<det><def><sp>$[ <em>]^*de$[<\/em> ]^*facto$ ^currency<n><sg>$ ^even<adv>$ ^before<pr>$ ^the<det><def><sp>$ ^1999<num>$ ^war<n><sg>$^.$
  ^However<adv>$^,<cm>$ ^the<det><def><sp>$[ <a href='Serbian dinar'>]^*Serbian$ ^*dinar$[<\/a> ]^remain<vblex><pri><p3><sg>$ ^a<det><ind><sg>$ ^official<adj>$ ^currency<n><sg>$^,<cm>$ ^use<vblex><past>$ ^principally<adv>$ ^in<pr>$[ <a href='Kosovo Serb enclaves'>]^the<det><def><sp>$ ^Kosovo<np><loc><sg>$ ^*Serb$ ^*enclaves$[<\/a>]^;$
  ^prpers<prn><subj><p3><nt><sg>$ ^be<vbser><pri><p3><sg>$ ^only<adv>$ ^use<vblex><pp>$ ^*sporadically$ ^outside<pr>$ ^of<pr>$ ^prpers<prn><obj><p3><mf><pl>$^.$
