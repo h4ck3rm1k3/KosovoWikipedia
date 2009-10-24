@@ -260,7 +260,7 @@
 <li><a href='http:\/\/digital.library.unt.edu\/govdocs\/crs\/search.tkl?q=kosovo&amp;search_crit=fulltext&amp;search=Search&amp;date1=Anytime&amp;date2=Anytime&amp;type=form  Congressional Research Service (CRS) Reports regarding Kosovo'>]^30<num>$^.<sent>$[][<\/a><\/li>
 <li><\/li>
 <li><a href='http:\/\/www.rtklive.com  RTK - Kosovo's public television - news in Albanian, Serbian, Turkish and Roma'>]^31<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='https:\/\/www.osce.org\/documents\/mik\/1999\/11\/1620_en.pdf Human Rights in Kosovo: As Seen, As Told. Volume I, October 1998 - June 1999'>]^32<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
+<li><a href='https:\/\/www.osce.org\/item\/17755.html Human Rights in Kosovo: As Seen, As Told. Volume I, October 1998 - June 1999'>]^32<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^33<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.kosovakosovo.com\/ KosovaKosovo'>]^34<num>$[<\/a> ]^A<det><ind><sg>$ ^source<n><sg>$ ^of<pr>$ ^information<n><sg>$ ^reflect<vblex><ger>$ ^both<det><ind><pl>$ ^*sidesâ$ ^claim<n><pl>$ ^in<pr>$ ^the<det><def><sp>$ ^dispute<n><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.nato.int\/kosovo\/ KFOR'>]^35<num>$[<\/a> <a href='NATO'>]^NATO<n><acr><sg>$[<\/a> ]^lead<vblex><pp>$ ^*peacekeeping$ ^force<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
