@@ -121,6 +121,33 @@
 <li><a href='Kosovska Mitrovica District|Kosovska Mitrovica\/Mitrovica District'>]^*Kosovska$ ^*Mitrovica$ ^District<n><sg>$|^*Kosovska$ ^*Mitrovica$\/^*Mitrovica$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Gnjilane District|Gnjilane\/Gjilani District'>]^*Gnjilane$ ^District<n><sg>$|^*Gnjilane$\/^*Gjilani$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
+<p><br\/><\/p>
+<p><br\/><\/p>
+<p><br\/><\/p>
+<p><br\/><\/p>
+<p><br\/><\/p>
+<p><br\/>
+]{| ^border<n><sg>$=^0<num>$ ^*align$=^right<adj>$ ^*cellpadding$=^0<num>$ ^*cellspacing$=^0<num>$ ^style<n><sg>$="^margin<n><sg>$^:<sent>$ ^0<num>$ ^0<num>$ ^1<num>$^*em$ ^1<num>$^*em$^;<sent>$ ^background<n><sg>$^:<sent>$ #^*f$^9<num>$^*f$^9<num>$^*f$^9<num>$^;<sent>$ ^border<n><sg>$^:<sent>$ ^0<num>$^*px$ #^*aaaaaa$ ^solid<n><sg>$^;<sent>$ ^border<n><sg>$^-<guio>$^collapse<n><sg>$^:<sent>$ ^collapse<n><sg>$^;<sent>$ ^*font$^-<guio>$^size<n><sg>$^:<sent>$ ^95%<num><percent>$^;<sent>$"[
+]|[&lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:<sent>$ ^relative<adj>$"[&gt;<a href='Image:kosovo.png|top'>]^Image<n><sg>$^:<sent>$^*kosovo$^.<sent>$^*png$|^top<adj>$[<\/a>
+&lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:<sent>$ ^absolute<adj>$^;<sent>$^*font$^-<guio>$^size<n><sg>$^:<sent>$^165%<num><percent>$^;<sent>$^left<adv>$^:<sent>$^179<num>$^*px$^;<sent>$^top<adj>$^:<sent>$^75<num>$^*px$"[&gt;<strong><a href='Pri%C5%A1tina|PrishtinÑ'>]^*Pri$%^*C$^5%<num><percent>$^A<det><ind><sg>$^1<num>$^*tina$|^*PrishtinÑ$[<\/a><\/strong>&lt;]\/^*div$[&gt;
+&lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:<sent>$ ^absolute<adj>$^;<sent>$^*font$^-<guio>$^size<n><sg>$^:<sent>$^140%<num><percent>$^;<sent>$^left<adv>$^:<sent>$^130<num>$^*px$^;<sent>$^top<adj>$^:<sent>$^254<num>$^*px$"[&gt;<strong><a href='Prizren'>]^*Prizren$[<\/a><\/strong>&lt;]\/^*div$[&gt;
+&lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:<sent>$ ^absolute<adj>$^;<sent>$^*font$^-<guio>$^size<n><sg>$^:<sent>$^140%<num><percent>$^;<sent>$^left<adv>$^:<sent>$^155<num>$^*px$^;<sent>$^top<adj>$^:<sent>$^125<num>$^*px$"[&gt;<strong><a href='Uro%C5%A1evac|Ferizaj'>]^*Uro$%^*C$^5%<num><percent>$^A<det><ind><sg>$^1<num>$^*evac$|^*Ferizaj$[<\/a><\/strong>&lt;]\/^*div$[&gt;
+&lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:<sent>$ ^absolute<adj>$^;<sent>$^*font$^-<guio>$^size<n><sg>$^:<sent>$^140%<num><percent>$^;<sent>$^left<adv>$^:<sent>$^225<num>$^*px$^;<sent>$^top<adj>$^:<sent>$^110<num>$^*px$"[&gt;<strong><a href='%C4%90akovica|Gjakova'>]%^*C$^4%<num><percent>$^90<num>$^*akovica$|^*Gjakova$[<\/a><\/strong>&lt;]\/^*div$[&gt;
+&lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:<sent>$ ^absolute<adj>$^;<sent>$^*font$^-<guio>$^size<n><sg>$^:<sent>$^140%<num><percent>$^;<sent>$^left<adv>$^:<sent>$^274<num>$^*px$^;<sent>$^top<adj>$^:<sent>$^200<num>$^*px$"[&gt;<strong><a href='Pe%C4%87|Peja'>]^*Pe$%^*C$^4%<num><percent>$^87<num>$|^*Peja$[<\/a><\/strong>&lt;]\/^*div$[&gt;
+&lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:<sent>$ ^absolute<adj>$^;<sent>$^*font$^-<guio>$^size<n><sg>$^:<sent>$^140%<num><percent>$^;<sent>$^left<adv>$^:<sent>$^60<num>$^*px$^;<sent>$^top<adj>$^:<sent>$^45<num>$^*px$"[&gt;<strong><a href='Gnjilane|Gjilan'>]^*Gnjilane$|^*Gjilan$[<\/a><\/strong>&lt;]\/^*div$[&gt;
+&lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:<sent>$ ^absolute<adj>$^;<sent>$^*font$^-<guio>$^size<n><sg>$^:<sent>$^140%<num><percent>$^;<sent>$^left<adv>$^:<sent>$^220<num>$^*px$^;<sent>$^top<adj>$^:<sent>$^45<num>$^*px$"[&gt;<strong><a href='Kosovska_Mitrovica|MitrovicÑ'>]^*Kosovska$_^*Mitrovica$|^*MitrovicÑ$[<\/a><\/strong>&lt;]\/^*div$[&gt;
+]|^-<guio>$[
+]|[&lt;]^centre<n><sg>$[&gt;]^Large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^the<det><def><sp>$ ^Kosovo<np><loc><sg>$[&lt;]\/^centre<n><sg>$[&gt;
+&lt;]\/^*div$[&gt;
+&lt;]\/^*div$[&gt;
+]|}^.<sent>$[][<\/p>
+<p><br\/><\/p>
+<p><br\/><\/p>
+<p><br\/><\/p>
+<p><br\/><\/p>
+<p><br\/><\/p>
+<p><br\/><\/p>
+<p><br\/><\/p>
 <p><br\/>
 <a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$[<\/a> ]^maintain<vblex><pri><p3><sg>$ ^its<det><pos><sp>$ ^own<adj>$ ^government<n><sg>$^,<cm>$ ^infrastructure<n><sg>$ ^and<cnjcoo>$ ^institution<n><pl>$ ^by<pr>$ ^its<det><pos><sp>$ ^dominant<adj>$ ^ethnic<adj>$[ <a href='Serb'>]^*Serb$[<\/a> ]^population<n><sg>$ ^in<pr>$[ <a href='Mitrovica District'>]^the<det><def><sp>$ ^*Mitrovica$ ^District<n><sg>$[<\/a>]^,<cm>$ ^*viz$^.<sent>$ ^in<pr>$[ <a href='Leposavic'>]^the<det><def><sp>$ ^*Leposavic$[<\/a>]^,<cm>$[ <a href='Zvecan'>]^*Zvecan$[<\/a> ]^and<cnjcoo>$[ <a href='Zubin Potok'>]^*Zubin$ ^*Potok$[<\/a> ]^municipality<n><pl>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^northern<adj>$ ^part<n><sg>$ ^of<pr>$[ <a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a>]^.<sent>$^.<sent>$[][<\/p>
 <a name="Cities"><\/a><h2>]^City<n><pl>$^.<sent>$[][<\/h2><p><a href='Image:Prishtina maj 2005.jpg|thumb|200px|PriÅ¡tina.'>]^Image<n><sg>$^:<sent>$^*Prishtina$ ^*maj$ ^2005<num>$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^*Pri$Å^¡<lquest>$^*tina$^.<sent>$^.<sent>$[][<\/a><\/p>
