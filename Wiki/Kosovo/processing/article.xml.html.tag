@@ -248,12 +248,9 @@
 ]|^list<n><sg>$[  ]=[
 ]{{^Country<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$}}[
 ]{{^Central<adj>$ ^European<adj>$ ^Free<adj><sint>$ ^Trade<n><sg>$ ^Agreement<n><sg>$ ^(<lpar>$^*CEFTA$^)<rpar>$}}[
-]}}[
-]{{^Template<n><sg>$ ^group<n><sg>$[
-]|^title<n><sg>$ =[ <a href='Image:Nuvola apps gaim.png|23px'>]^Image<n><sg>$^:<sent>$^*Nuvola$ ^*apps$ ^*gaim$^.<sent>$^*png$|^23<num>$^*px$[<\/a> ]^Language<n><pl>$[
-]|^list<n><sg>$[  ]=[ 
 ]}}^.<sent>$[][<\/p>
-<p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$[&gt;
+<p><br\/>
+&lt;]^!<sent>$^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$[&gt;
 <a href='Category:Kosovo| '>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|[ <\/a>
 <a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$^.<sent>$[][<\/a><\/p>
 <p><a href='als:Kosovo'>]^*als$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
