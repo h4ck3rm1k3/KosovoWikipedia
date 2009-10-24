@@ -116,7 +116,7 @@
 <li>]^1%<num><percent>$[ <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
-]^Muslim<n><pl>$ ^account<n><sg>$ ^for<pr>$ ^more<preadv>$ ^than<cnjcoo>$ ^90%<num><percent>$ ^of<pr>$ ^the<det><def><sp>$ ^population<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[&lt;]^*ref$[&gt;]^*http$^:<sent>$\/\/^www.crisisgroup.org<num>$\/^home<n><sg>$\/^index<n><sg>$^.<sent>$^*cfm$^?<sent>$^*id$=^1591<num>$[&amp;]^*l$=^1<num>$[&lt;]\/^*ref$[&gt; ]^*Catholicism$ ^and<cnjcoo>$ ^*Orthodoxy$ ^be<vbser><pres>$ ^also<adv>$ ^practice<vblex><pp>$ ^by<pr>$ ^the<det><def><sp>$ ^person<n><pl>$^.<sent>$^.<sent>$[][<\/p>
+]^Muslim<n><pl>$ ^account<n><sg>$ ^for<pr>$ ^more<preadv>$ ^than<cnjcoo>$ ^90%<num><percent>$ ^of<pr>$ ^the<det><def><sp>$ ^population<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[&lt;]^*ref$[&gt;]^*http$^:<sent>$\/\/^www.crisisgroup.org<num>$\/^home<n><sg>$\/^index<n><sg>$^.<sent>$^*cfm$^?<sent>$^*id$=^1591<num>$[&amp;]^*l$=^1<num>$[&lt;]\/^*ref$[&gt; ]^*Catholicism$ ^and<cnjcoo>$ ^*Orthodoxy$ ^be<vbser><pres>$ ^also<adv>$ ^practice<vblex><pp>$ ^by<pr>$ ^the<det><def><sp>$ ^person<n><pl>$^.<sent>$ ^*kosovo$ ^suck<vblex><pri><p3><sg>$ ^major<adj>$ ^*dick$^!<sent>$^!<sent>$^!<sent>$^!<sent>$^.<sent>$[][<\/p>
 <a name="Administrative_divisions"><\/a><h2>]^Administrative<adj>$ ^division<n><pl>$^.<sent>$[][<\/h2><p>]{{^main<adj>$|^*Subdivisions$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]{{^see<vblex><pres>$ ^also<adv>$|^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^divide<vblex><pp>$ ^into<pr>$ ^seven<num><sp>$ ^district<n><pl>$^:<sent>$^.<sent>$[][<\/p>
