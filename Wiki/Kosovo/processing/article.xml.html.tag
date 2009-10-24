@@ -12,15 +12,12 @@
 ]{|[ 
 ]|^-<guio>$[
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[
-&lt;]^big<adj><sint>$[&gt;<strong> ]^Kosovo<np><loc><sg>$[ <\/strong>&lt;]^*br$\/[&gt;&lt;]\/^big<adj><sint>$[&gt;
+&lt;]^big<adj><sint>$[&gt;<strong> ]^Kosovo<np><loc><sg>$[ <\/strong>&lt;]^*br$\/[&gt;&lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$[&gt;
 ]|^-<guio>$[
-]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-KosovoMetohija.png|100px|Map showing Kosovo within the state union'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^*KosovoMetohija$^.<sent>$^*png$|^100<num>$^*px$|^Map<n><sg>$ ^show<vblex><ger>$ ^Kosovo<np><loc><sg>$ ^within<pr>$ ^the<det><def><sp>$ ^state<adj>$ ^union<n><sg>$[<\/a>
-]|[ <a href='Serbia and Montenegro'>]^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$[<\/a>&lt;]^*br$ \/[&gt;
-&amp;]^*nbsp$^;<sent>$[&amp;]^*ndash$^;<sent>$[&amp;]^*nbsp$^;<sent>$[<a href='Serbia'>]^*Serbia$[<\/a>&lt;]^*br$ \/[&gt;
-&amp;]^*nbsp$^;<sent>$[&amp;]^*nbsp$^;<sent>$[&amp;]^*ndash$^;<sent>$[&amp;]^*nbsp$^;<sent>$[<a href='Montenegro'>]^Montenegro<np><loc><sg>$[<\/a>&lt;]^*br$ \/[&gt;
-&amp;]^*nbsp$^;<sent>$[&amp;]^*nbsp$^;<sent>$[&amp;]^*nbsp$^;<sent>$[&amp;]^*nbsp$^;<sent>$[<strong><a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a><\/strong>&amp;]^*nbsp$^;<sent>$^(<lpar>$[<a href='United Nations|UN'>]^Unite<vblex><pp>$ ^Nation<n><pl>$|^UN<n><acr><sg>$[<\/a>&amp;]^*nbsp$^;<sent>$^*admin$^.<sent>$^)<rpar>$[&lt;]^*br$ \/[&gt;
+]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[ <a href='Image:Citys of Kosova.PNG|160px'>]^Image<n><sg>$^:<sent>$^City<n><pl>$ ^of<pr>$ ^*Kosova$^.<sent>$^*PNG$|^160<num>$^*px$[<\/a> 
 ]|^-<guio>$[
-]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
+]|^-<guio>$^.<sent>$[][<\/p>
+<p>]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
 ]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Capital'>]^Capital<n><sg>$[<\/a>
@@ -222,6 +219,14 @@
 <\/p>
 <a name="List_of_Presidents"><\/a><h2>]^List<n><sg>$ ^of<pr>$ ^President<n><pl>$^.<sent>$[][<\/h2><p>]^List<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^president<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<a href='http:\/\/www.worldstatesmen.org\/Yugoslavia.html#Kosovo'>]^11<num>$[<\/a>]^:<sent>$^.<sent>$[][<\/p>
 <ul>
+<li><a href='Xhavit Nimani'>]^*Xhavit$ ^*Nimani$[<\/a>]^,<cm>$[ <a href='1974'>]^1974<num>$[<\/a>]^-<guio>$[<a href='1981'>]^1981<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='Ali Shukriu'>]^Ali<np><ant><m><sg>$ ^*Shukriu$[<\/a>]^,<cm>$[ <a href='1981'>]^1981<num>$[<\/a>]^-<guio>$[<a href='1982'>]^1982<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='KolÃ« Shiroka'>]^*Kol$Ã« ^*Shiroka$[<\/a>]^,<cm>$[ <a href='1982'>]^1982<num>$[<\/a>]^-<guio>$[<a href='1983'>]^1983<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='Shefqet Nebih Gashi'>]^*Shefqet$ ^*Nebih$ ^*Gashi$[<\/a>]^,<cm>$[ <a href='1983'>]^1983<num>$[<\/a>]^-<guio>$[<a href='1985'>]^1985<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='Branislav Skembarevic'>]^*Branislav$ ^*Skembarevic$[<\/a>]^,<cm>$[ <a href='1985'>]^1985<num>$[<\/a>]^-<guio>$[<a href='1986'>]^1986<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='Bajram Selani'>]^*Bajram$ ^*Selani$[<\/a>]^,<cm>$[ <a href='1986'>]^1986<num>$[<\/a>]^-<guio>$[<a href='1988'>]^1988<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='Remzi Kolgeci'>]^*Remzi$ ^*Kolgeci$[<\/a>]^,<cm>$[ <a href='1988'>]^1988<num>$[<\/a>]^-<guio>$[<a href='1989'>]^1989<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='Hysen KajdomÃ§aj'>]^*Hysen$ ^*Kajdom$Ã§^*aj$[<\/a>]^,<cm>$[ <a href='1989'>]^1989<num>$[<\/a>]^-<guio>$[<a href='1990'>]^1990<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>]^,<cm>$[ <a href='1992'>]^1992<num>$[<\/a>]^-<guio>$[<a href='2006'>]^2006<num>$[<\/a> ]^(<lpar>$^*deceased$^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>]^,<cm>$[ <a href='2006'>]^2006<num>$[<\/a>]^-<guio>$^present<n><sg>$^.<sent>$[][<\/li>
 <\/ul>
