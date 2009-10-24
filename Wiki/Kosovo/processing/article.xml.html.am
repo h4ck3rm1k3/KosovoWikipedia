@@ -57,10 +57,10 @@
 ]|^currency/currency<n><sg>$[                    ]=[ <a href='Euro'>]^Euro/Euro<n><sg>/Euro<n><pl>$[<\/a> ]^(/(<lpar>$^â/*â$¬^)/)<rpar>$[
 ]|^calling/call<vblex><ger>/call<vblex><pprs>/call<vblex><subs>$_^code/code<n><sg>$[                ]= ^381/381<num>$[
 ]|^currency/currency<n><sg>$_^code/code<n><sg>$[               ]= ^EUR/*EUR$[
-]|^time/time<n><sg>/time<vblex><inf>/time<vblex><pres>$_^zone/zone<n><sg>/zone<vblex><inf>/zone<vblex><pres>$[                   ]=[ 
+]|^time/time<n><sg>/time<vblex><inf>/time<vblex><pres>$_^zone/zone<n><sg>/zone<vblex><inf>/zone<vblex><pres>$[                   ]=[ <a href='Central European Time|CET'>]^Central/Central<adj>$ ^European/European<adj>/European<n><sg>$ ^Time/Time<n><sg>/Time<vblex><inf>/Time<vblex><pres>$|^CET/CET<n><acr><sg>$[<\/a>
 ]|^utc/*utc$_^offset/*offset$[                  ]= +^1/1<num>$[
-]|^time/time<n><sg>/time<vblex><inf>/time<vblex><pres>$_^zone/zone<n><sg>/zone<vblex><inf>/zone<vblex><pres>$_^DST/DST<n><acr><sg>$[               ]=[ 
-]|^utc/*utc$_^offset/*offset$_^DST/DST<n><acr><sg>$[              ]=[ 
+]|^time/time<n><sg>/time<vblex><inf>/time<vblex><pres>$_^zone/zone<n><sg>/zone<vblex><inf>/zone<vblex><pres>$_^DST/DST<n><acr><sg>$[               ]=[ <a href='Central European Summer Time|CEST'>]^Central/Central<adj>$ ^European/European<adj>/European<n><sg>$ ^Summer/Summer<n><sg>/Summer<np><ant><f><sg>$ ^Time/Time<n><sg>/Time<vblex><inf>/Time<vblex><pres>$|^CEST/*CEST$[<\/a>
+]|^utc/*utc$_^offset/*offset$_^DST/DST<n><acr><sg>$[              ]= +^2/2<num>$[
 ]|^cctld/*cctld$[                       ]=[  <em>]^none/none<prn><tn><nt><sg>$ ^assigned/assign<vblex><past>/assign<vblex><pp>$[<\/em>
 ]|^footnote/*footnote$^1/1<num>$[                   ]=[ <a href='United Nations Interim Administration Mission in Kosovo'>]^United/Unite<vblex><past>/Unite<vblex><pp>$ ^Nations/Nation<n><pl>$ ^Interim/Interim<adj>$ ^Administration/Administration<n><sg>$ ^Mission/Mission<n><sg>$ ^in/in<adv>/in<pr>$ ^Kosovo/Kosovo<np><loc><sg>$[<\/a>&lt;]^br/*br$\/[&gt;<a href='Provisional Institutions of Self-Government'>]^Provisional/Provisional<adj>$ ^Institutions/Institution<n><pl>$ ^of/of<pr>$ ^Self/*Self$^-/-<guio>$^Government/Government<n><sg>$[<\/a>
 ]|^footnote/*footnote$^2/2<num>$[                   ]= ^Independence/Independence<n><sg>$ ^is/be<vbser><pri><p3><sg>$ ^not/not<adv>$ ^recognized/recognize<vblex><past>/recognize<vblex><pp>$ ^yet/yet<adv>/yet<cnjadv>$^./.<sent>$[

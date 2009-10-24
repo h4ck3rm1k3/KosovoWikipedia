@@ -70,10 +70,10 @@
 ]|^currency<n><sg>$[                    ]=[ <a href='Euro'>]^Euro<n><sg>$[<\/a> ]^(<lpar>$^*â$¬^)<rpar>$[
 ]|^call<vblex><ger>$_^code<n><sg>$[                ]= ^381<num>$[
 ]|^currency<n><sg>$_^code<n><sg>$[               ]= ^*EUR$[
-]|^time<n><sg>$_^zone<n><sg>$[                   ]=[ 
+]|^time<n><sg>$_^zone<vblex><pres>$[                   ]=[ <a href='Central European Time|CET'>]^Central<adj>$ ^European<adj>$ ^Time<n><sg>$|^CET<n><acr><sg>$[<\/a>
 ]|^*utc$_^*offset$[                  ]= +^1<num>$[
-]|^time<n><sg>$_^zone<n><sg>$_^DST<n><acr><sg>$[               ]=[ 
-]|^*utc$_^*offset$_^DST<n><acr><sg>$[              ]=[ 
+]|^time<n><sg>$_^zone<n><sg>$_^DST<n><acr><sg>$[               ]=[ <a href='Central European Summer Time|CEST'>]^Central<adj>$ ^European<adj>$ ^Summer<n><sg>$ ^Time<n><sg>$|^*CEST$[<\/a>
+]|^*utc$_^*offset$_^DST<n><acr><sg>$[              ]= +^2<num>$[
 ]|^*cctld$[                       ]=[  <em>]^none<prn><tn><nt><sg>$ ^assign<vblex><pp>$[<\/em>
 ]|^*footnote$^1<num>$[                   ]=[ <a href='United Nations Interim Administration Mission in Kosovo'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Interim<adj>$ ^Administration<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a>&lt;]^*br$\/[&gt;<a href='Provisional Institutions of Self-Government'>]^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$[<\/a>
 ]|^*footnote$^2<num>$[                   ]= ^Independence<n><sg>$ ^be<vbser><pri><p3><sg>$ ^not<adv>$ ^recognize<vblex><pp>$ ^yet<adv>$^.$
