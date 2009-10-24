@@ -263,9 +263,10 @@
 <li><a href='http:\/\/serbo.blogspot.com Kosovo News blog'>]^34<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^35<num>$[<\/a> ]^*Serbian$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovo.net\/sk\/history\/kosovo_origins\/default.htm Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^36<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
+<li>]^(<lpar>$^*http$^:<sent>$\/\/^www.savekosovo.org<num>$\/^American<adj>$ ^council<n><sg>$ ^for<pr>$ ^*kosovo$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
-<p><br\/><\/p>
-<p><a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
+<p><br\/>
+<a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
 <a href='Category:Kosovo'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='Category:UN_peacekeeping_missions_and_operations'>]^Category<n><sg>$^:<sent>$^UN<n><acr><sg>$_^*peacekeeping$_^mission<n><pl>$_^and<cnjcoo>$_^operation<n><pl>$[<\/a>
 <a href='ar:ÙÙØµÙØ©'>]^*ar$^:<sent>$^*Ù$^*Ù$Øµ^*Ù$Ø©[<\/a>
