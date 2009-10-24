@@ -157,7 +157,7 @@
 <li><a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>]^,<cm>$[ <a href='10 February'>]^10<num>$ ^February<n><sg>$[<\/a> <a href='2006'>]^2006<num>$[<\/a> ]^-<guio>$ ^present<n><sg>$^.<sent>$[][<\/li>
 <li>]^*Nexhat$ ^*Daci$ ^(<lpar>$^acting<adj>$^)<rpar>$^,<cm>$[ <a href='21 January'>]^21<num>$ ^January<n><sg>$[<\/a> ]^2006<num>$ ^-<guio>$ ^10<num>$ ^February<n><sg>$ ^2006<num>$^.<sent>$[][<\/li>
 <li> 
-<a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>]^,<cm>$[ <a href='4 March'>]^4<num>$ ^March<n><sg>$[<\/a> <a href='2002'>]^2002<num>$[<\/a> ]^-<guio>$ ^21<num>$ ^January<n><sg>$ ^2006<num>$^.<sent>$[][<\/li>
+<a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>]^,<cm>$[ <a href='4 March'>]^4<num>$ ^March<n><sg>$[<\/a> <a href='2002'>]^2002<num>$[<\/a> ]^-<guio>$ ^20<num>$ ^January<n><sg>$ ^1992<num>$^-<guio>$^21<num>$ ^January<n><sg>$ ^2006<num>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
