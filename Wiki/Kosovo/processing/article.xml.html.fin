@@ -73,7 +73,7 @@
 ]|[ <a href='Coordinated Universal Time|UTC'>]^Coordinate<vblex><pp>$ ^Universal<adj>$ ^Time<n><sg>$|^*UTC$[<\/a> ]+^1<num>$[
 ]|^-<guio>$[
 ]|[ <a href='Currency'>]^Currency<n><sg>$[<\/a>
-]|[ <a href='Euro'>]^Euro<n><sg>$[<\/a> ]^and<cnjcoo>$[ <a href='Serbian dinar'>]^*Serbian$ ^*dinar$[<\/a> 
+]|[ <a href='Euro'>]^Euro<n><sg>$[<\/a> 
 ]|^-<guio>$[
 ]|}^.$
 [][<\/p>
