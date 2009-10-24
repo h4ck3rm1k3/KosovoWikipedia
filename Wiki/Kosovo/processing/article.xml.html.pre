@@ -29,7 +29,7 @@
 ]|^regional<adj>$_^language<n><pl>$[       ]=[ <a href='Turkish language|Turkish'>]^Turkish<adj>$ ^language<n><sg>$|^Turkish<adj>$[<\/a>]^,<cm>$[ <a href='NaÅ¡inski|Gorani'>]^*Na$Å^¡<lquest>$^*inski$|^*Gorani$[<\/a>]^,<cm>$[ <a href='Romani language|Romani'>]^*Romani$ ^language<n><sg>$|^*Romani$[<\/a>]^,<cm>$[ <a href='Bosnian language|Bosnian'>]^*Bosnian$ ^language<n><sg>$|^*Bosnian$[<\/a>
 ]|^ethnic<adj>$_^group<n><pl>$[            ]= ^92%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>&lt;]^*br$\/[&gt;]^5.3%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a>&lt;]^*br$\/[&gt;]^2.7%<num><percent>$ ^others<prn><tn><mf><pl>$[ &lt;]^*ref$[&gt;<a href='http:\/\/www.ks-gov.net\/ESK\/esk\/english\/english.htm Enti i StatistikÃ«s sÃ« KosovÃ«s'>]^1<num>$[<\/a>&lt;]\/^*ref$[&gt;
 ]|^ethnic<adj>$_^group<n><pl>$_^year<n><sg>$[       ]= ^2007<num>$[
-]|^capital<n><sg>$[                  ]= {{^*nowrap$|[<a href='Prishtina'>]^*Prishtina$[<\/a>]}}[&lt;]^*br$ \/[&gt;&lt;]^small<adj><sint>$[&gt;]{{^*coor$ ^*dm$|^42<num>$|^40<num>$|^*N$|^21<num>$|^10<num>$|^*E$|}}[&lt;]\/^small<adj><sint>$[&gt;
+]|^capital<n><sg>$[                  ]= {{^*nowrap$|[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]}}[&lt;]^*br$ \/[&gt;&lt;]^small<adj><sint>$[&gt;]{{^*coor$ ^*dm$|^42<num>$|^40<num>$|^*N$|^21<num>$|^10<num>$|^*E$|}}[&lt;]\/^small<adj><sint>$[&gt;
 ]|^*latd$= |^*latm$= |^*latNS$= |^*longd$= |^*longm$= |^*longEW$=[
 ]|^large<adj><sint><sup>$_^city<n><sg>$[             ]= ^capital<n><sg>$[
 ]|^*demonym$[                  ]= ^*Kosovar$[
