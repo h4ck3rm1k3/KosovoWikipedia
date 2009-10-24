@@ -96,7 +96,8 @@
 ]^2%<num><percent>$[ <a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$[<\/a> ]^(<lpar>$^36<num>$ ^to<pr>$ ^40<num>$ ^thousand<n><sg>$^)<rpar>$[ <a href='Roma in Mitrovica Camps'>]^*Roma$ ^in<pr>$ ^*Mitrovica$ ^Camp<n><pl>$^.<sent>$[][<\/a><\/li>
 <li>]^1%<num><percent>$[ <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$[<\/a> ]^(<lpar>$^18<num>$ ^to<pr>$ ^20<num>$ ^thousand<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
-<p>]^However<adv>$^,<cm>$ ^the<det><def><sp>$ ^figure<n><pl>$ ^be<vbser><pres>$ ^highly<adv>$ ^*disputable$ ^and<cnjcoo>$ ^may<vaux><inf>$ ^*presently$ ^include<vblex><inf>$ ^a<det><ind><sg>$ ^Albanian<adj>$ ^majority<n><sg>$ ^well<adv>$ ^above<pr>$ ^90<num>$ ^percent<n><sg>$^.<sent>$^.<sent>$[][<\/p>
+<p><br\/>
+<\/p>
 <a name="Presidents"><\/a><h2>]^President<n><pl>$^.<sent>$[][<\/h2><ul>
 <li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>]^,<cm>$[ <a href='1992'>]^1992<num>$[<\/a>]^-<guio>$[<a href='2006'>]^2006<num>$[<\/a> ]^(<lpar>$^*deceased$^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>]^,<cm>$[ <a href='2006'>]^2006<num>$[<\/a>]^-<guio>$^present<n><sg>$^.<sent>$[][<\/li>
