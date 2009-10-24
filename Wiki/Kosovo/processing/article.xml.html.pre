@@ -400,6 +400,7 @@
 <a href='cy:Kosovo'>]^*cy$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='da:Kosovo'>]^*da$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='de:Kosovo'>]^*de$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='diq:Kosova'>]^*diq$^:<sent>$^*Kosova$[<\/a>
 <a href='et:Kosovo'>]^*et$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='el:ÎÎ¿ÏÏÏÏÎ¿ÏÎ­Î´Î¹Î¿'>]^*el$^:<sent>$^*Î$^*Î$^¿<lquest>$^*Ï$^*Ï$^*Ï$^*Ï$^*Î$^¿<lquest>$^*Ï$^*Î$­^*Î$´^*Î$¹^*Î$^¿<lquest>$[<\/a>
 <a href='es:Kosovo'>]^*es$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
