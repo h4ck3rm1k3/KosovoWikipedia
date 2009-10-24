@@ -135,8 +135,9 @@
 <a name="Cities"><\/a><h2>]^City<n><pl>$^.<sent>$[][<\/h2><p><a href='Image:Prishtina maj 2005.jpg|thumb|200px|Prishtina.'>]^Image<n><sg>$^:<sent>$^*Prishtina$ ^*maj$ ^2005<num>$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^*Prishtina$^.<sent>$^.<sent>$[][<\/a><\/p>
 <p>]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^for<pr>$ ^2006<num>$^)<rpar>$^:<sent>$[&lt;]^*ref$[&gt;]^*http$^:<sent>$\/\/^www.world-gazetteer.com<num>$\/^*wg$^.<sent>$^*php$^?<sent>$^*x$=[&amp;]^man<n><pl>$=^*gcis$[&amp;]^*lng$=^*en$[&amp;]^*dat$=^32<num>$[&amp;]^*srt$=^*npan$[&amp;]^*col$=^*aohdq$[&amp;]^*geo$=^-<guio>$^244<num>$[&lt;]\/^*ref$^.<sent>$[][&gt;<\/p>
 <ul>
-<li><a href='MitrovicÃ«'>]^*Mitrovic$Ã«[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*Kosovska$ ^*Mitrovica$}}^)<rpar>$^:<sent>$ ^198,659<num>$^.<sent>$[][<\/li>
 <li><a href='PrishtinÃ«'>]^*Prishtin$Ã«[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*Pri$Å^¡<lquest>$^*tina$}}^)<rpar>$^:<sent>$ ^571,532<num>$^.<sent>$[][<\/li>
+<li><a href='MitrovicÃ«'>]^*Mitrovic$Ã«[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*Kosovska$ ^*Mitrovica$}}^)<rpar>$^:<sent>$ ^198,659<num>$^.<sent>$[][<\/li>
+<li><a href='Vushtrri '>]^*Vushtrri$[ <\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*VuÄ$^*itrn$}}^)<rpar>$^:<sent>$ ^102,662<num>$^.<sent>$[][<\/li>
 <li><a href='Prizren'>]^*Prizren$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*Prizren$}}^)<rpar>$^:<sent>$ ^165,229<num>$^.<sent>$[][<\/li>
 <li><a href='Ferizaj'>]^*Ferizaj$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^*Uro$Å^¡<lquest>$^*evacj$}}^)<rpar>$^:<sent>$ ^197,741<num>$^.<sent>$[][<\/li>
 <li><a href='GjakovÃ«'>]^*Gjakov$Ã«[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|^\[<lpar>$^*Ä$^*akovica$}}^)<rpar>$^:<sent>$ ^127,156<num>$^.<sent>$[][<\/li>
