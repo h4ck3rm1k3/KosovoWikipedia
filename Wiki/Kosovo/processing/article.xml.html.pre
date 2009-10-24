@@ -281,8 +281,10 @@
 <li>]{{^*wikiatlas$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.unmikonline.org\/ United Nations Interim Administration in Kosovo'>]^26<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.ks-gov.net\/pm\/Fillimi\/tabid\/36\/menuid\/+\/subid\/+\/lingo\/2\/language\/en-US\/Default.aspx The Government of Kosovo'>]^27<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/?change_lang=en Serbian Government for Kosovo and Metohija'>]^28<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.visitkosova.org\/english\/index.htm Visit Kosovo - Tourism Website'>]^29<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.assembly-kosova.org\/ Assembly of Kosovo'>]^28<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.president-ksgov.net\/?id=1,67,67,67,e\/ President of Kosovo'>]^29<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/?change_lang=en Serbian Government for Kosovo and Metohija'>]^30<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.visitkosova.org\/english\/index.htm Visit Kosovo - Tourism Website'>]^31<num>$^.<sent>$[][<\/a><\/li>
 <li><\/li>
 <\/ul>
 <p><br\/>
