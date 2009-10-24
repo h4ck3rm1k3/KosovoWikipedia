@@ -132,10 +132,9 @@
 <ul>
 <li><a href='http:\/\/www.balkanforums.com Kosovo and the Balkans'>]^4<num>$[<\/a> ]^-<guio>$ ^Discussion<n><sg>$ ^Forum<n><sg>$^.<sent>$[][<\/li>
 <li><\/li>
-<li><a href='http:\/\/www.rtklive.com  RTK'>]^5<num>$[<\/a> ]^-<guio>$ ^*Kosova$^'s<gen>$ ^public<adj>$ ^television<n><sg>$ ^(<lpar>$^news<n><sg>$ ^in<pr>$ ^Albanian<n><sg>$^,<cm>$ ^*Serbian$^,<cm>$ ^Turkish<adj>$ ^and<cnjcoo>$ ^*Roma$^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.xixonline.com  Restaurant in Kosovo'>]^6<num>$[<\/a> ]^-<guio>$ ^Restaurant<n><sg>$ ^in<pr>$ ^*Kosova$^.<sent>$[][<\/li>
-<li> 
-<a href='https:\/\/www.osce.org\/documents\/mik\/1999\/11\/1620_en.pdf Human Rights in Kosovo: As Seen, As Told. Volume I, October 1998 - June 1999'>]^7<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.rtklive.com  RTK - Kosova's public television (news in Albanian, Serbian, Turkish and Roma)'>]^5<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.xixonline.com  Restaurant in Kosovo - Restaurant in Kosova'>]^6<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='https:\/\/www.osce.org\/documents\/mik\/1999\/11\/1620_en.pdf Human Rights in Kosovo: As Seen, As Told. Volume I, October 1998 - June 1999'>]^7<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^8<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ A collection of photos from Kosovo'>]^9<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
