@@ -13,10 +13,8 @@
 ]|^native<adj>$_^name<n><sg>$[                 ]= ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð° ^(<lpar>$ÐÐ¾^*Ñ$Ð¼Ðµ^*Ñ$^)<rpar>$[&lt;]^*br$\/[&gt;<em>]^*Kosov$Ã« \/ ^*Kosova$[<\/em>
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[      ]= ^Kosovo<np><loc><sg>$[
 ]|^common<adj>$_^name<n><sg>$[                 ]= ^Kosovo<np><loc><sg>$[
-]|^image<n><sg>$_^flag<n><sg>$[                  ]= ^Flag<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$^.$
-^*svg$[
-]|^image<n><sg>$_^coat<n><sg>$[                  ]= ^Kosovo<np><loc><sg>$ ^*pisg$ ^*ca$^.$
-^*png$[
+]|^image<n><sg>$_^flag<n><sg>$[                  ]=[ 
+]|^image<n><sg>$_^coat<n><sg>$[                  ]=[ 
 ]|^image<n><sg>$_^map<n><sg>$[                   ]= ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^part<n><sg>$ ^of<pr>$ ^*Serbia$^.$
 ^*png$[
 ]|^map<n><sg>$_^*caption$[                 ]= ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$[ <a href='Serbia'>]^*Serbia$[<\/a>
