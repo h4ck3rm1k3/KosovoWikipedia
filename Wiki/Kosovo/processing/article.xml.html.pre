@@ -27,7 +27,7 @@
 ]|^image<n><sg>$_^flag<n><sg>$[         ]= ^Flag<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$^.<sent>$^*svg$[
 ]|^image<n><sg>$_^coat<n><sg>$[         ]=[ 
 ]|^sovereignty<n><sg>$_^type<n><sg>$[   ]= ^UN<n><acr><sg>$ ^administration<n><sg>$[
-]|^sovereignty<n><sg>$_^note<n><sg>$[   ]=[ <a href='United Nations Security Council Resolution 1244|UN administration'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$|^UN<n><acr><sg>$ ^administration<n><sg>$[<\/a> ]^of<pr>$[ <a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>]^,<cm>$ ^a<det><ind><sg>$ ^autonomous<adj>$ ^province<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>
+]|^sovereignty<n><sg>$_^note<n><sg>$[   ]=[ <a href='United Nations Security Council Resolution 1244|UN administration'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$|^UN<n><acr><sg>$ ^administration<n><sg>$[<\/a> ]^of<pr>$[ <a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>
 ]|^leader<n><sg>$_^title<n><sg>$^1<num>$[      ]=[ <a href='Special Representative of the Secretary-General for Kosovo|Special Representative'>]^Special<adj>$ ^Representative<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Secretary<n><sg>$^-<guio>$^General<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$|^Special<adj>$ ^Representative<adj>$[<\/a>
 ]|^leader<n><sg>$_^name<n><sg>$^1<num>$[       ]=[ <a href='Lamberto Zannier'>]^Lamberto<np><ant><m><sg>$ ^*Zannier$[<\/a> ]^(<lpar>$[<a href='United Nations|UN'>]^Unite<vblex><pp>$ ^Nation<n><pl>$|^UN<n><acr><sg>$[<\/a>]^)<rpar>$[
 ]|^leader<n><sg>$_^title<n><sg>$^2<num>$[      ]=[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
