@@ -58,9 +58,10 @@
 ]|[ <a href='UTC'>]^*UTC$[<\/a> ]+^1<num>$[
 ]|^-<guio>$^.$
 [][<\/p>
-<p><br\/><\/p>
-<p><br\/>
-<strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>$[<a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^:$
+<p>]|^*colspan$=^2<num>$|[ <a href='Turkish language|Turkish'>]^Turkish<adj>$ ^language<n><sg>$|^Turkish<adj>$[<\/a> ]^at<pr>$ ^local<adj>$ ^level<n><pl>$[
+]|}^.$
+[][<\/p>
+<p><strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>$[<a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^:$
 [ <em>]^*Kosov$Ã«[<\/em> ]\/[ <em>]^*Kosova$[<\/em>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^:$
 [ <em>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/em>]^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^province<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>]^.$
  ^Prpers<prn><subj><p3><nt><sg>$ ^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$ ^subject<n><sg>$ ^of<pr>$ ^a<det><ind><sg>$ ^ongoing<adj>$ ^territorial<adj>$ ^dispute<n><sg>$ ^between<pr>$ ^*Serbia$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^province<n><sg>$^'s<gen>$ ^majority<n><sg>$ ^ethnic<adj>$[ <a href='Albanians|Albanian'>]^Albanian<n><pl>$|^Albanian<adj>$[<\/a> ]^population<n><sg>$^.$
