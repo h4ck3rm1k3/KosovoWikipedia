@@ -310,7 +310,9 @@
 <p><br\/>
 <\/p>
 <a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><p>&lt;]^*div$ ^class<n><sg>$="^reference<n><pl>$^-<guio>$^small<adj><sint>$" ^style<n><sg>$="^-<guio>$^*moz$^-<guio>$^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^2<num>$^;<sent>$ ^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^2<num>$^;<sent>$"[&gt;&lt;]^reference<n><pl>$\/[&gt;&lt;]\/^*div$^.<sent>$[][&gt;<\/p>
-<p><a href='Category:Kosovo|*'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|*[<\/a>
+<p><a href='Category:Places you may be robbed or possibly raped'>]^Category<n><sg>$^:<sent>$^Place<n><pl>$ ^prpers<prn><subj><p2><mf><sp>$ ^may<vaux><inf>$ ^be<vbser><inf>$ ^*robbed$ ^or<cnjcoo>$ ^possibly<adv>$ ^*raped$[<\/a>
+<a href='Category:Nasty places to live'>]^Category<n><sg>$^:<sent>$^Nasty<adj><sint>$ ^place<n><pl>$ ^to<pr>$ ^live<vblex><inf>$[<\/a>
+<a href='Category:Kosovo|*'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|*[<\/a>
 <a href='Category:Proposed countries'>]^Category<n><sg>$^:<sent>$^Propose<vblex><pp>$ ^country<n><pl>$^.<sent>$[][<\/a><\/p>
 <p><a href='als:Kosova'>]^*als$^:<sent>$^*Kosova$[<\/a>
 <a href='ar:ÙÙØµÙÙ'>]^*ar$^:<sent>$^*Ù$^*Ù$Øµ^*Ù$^*Ù$[<\/a>
