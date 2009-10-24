@@ -12,9 +12,9 @@
 ]{{^POV<n><acr><sg>$}}[
 ]{| ^border<n><sg>$=^1<num>$ ^*cellpadding$=^2<num>$ ^*cellspacing$=^0<num>$ ^*align$=^right<adj>$ ^width<n><sg>$=^300<num>$^*px$ ^style<n><sg>$="^margin<n><sg>$^:<sent>$ ^0<num>$ ^0<num>$ ^1<num>$^*em$ ^1<num>$^*em$^;<sent>$ ^*font$^-<guio>$^size<n><sg>$^:<sent>$ ^90%<num><percent>$^;<sent>$"[
 ]|+[&lt;]^*font$ ^size<n><sg>$=+^1<num>$[&gt;<strong>]^'<apos>$^'<apos>$^'<apos>$[&amp;]#^1050<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[&amp;]#^1089<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[&amp;]#^1074<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[ &amp;]#^1080<num>$^;<sent>$[ &amp;]#^1052<num>$^;<sent>$[&amp;]#^1077<num>$^;<sent>$[&amp;]#^1090<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[&amp;]#^1093<num>$^;<sent>$[&amp;]#^1080<num>$^;<sent>$[&amp;]#^1112<num>$^;<sent>$[&amp;]#^1072<num>$^;<sent>$[<\/strong>&lt;]^*br$[&gt;<strong>]^*Kosova$[<\/strong>&lt;]^*br$[&gt;<strong>]^Kosovo<np><loc><sg>$[ &amp; ]^*Metohija$[<\/strong>&lt;]\/^*font$[&gt;
-]| ^style<n><sg>$=^background<n><sg>$^:<sent>$#^*efefef$^;<sent>$ ^*align$=^centre<n><sg>$ ^*colspan$=^2<num>$ |[
+]| ^style<n><sg>$=^background<n><sg>$^:<sent>$#^*deffad$^;<sent>$ ^*align$=^centre<n><sg>$ ^*colspan$=^2<num>$ |[
 ]|^-<guio>$[ 
-]| ^*align$=^centre<n><sg>$ ^*colspan$=^2<num>$ |[ <a href='Image:SerbiaMontenegro-Kosovo2.png'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^2<num>$^.<sent>$^*png$[<\/a>
+]| ^*align$="^centre<n><sg>$" |[ <a href='Image:SerbiaMontenegro-Kosovo2.png'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^2<num>$^.<sent>$^*png$[<\/a> ]|| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a> ]|| ^width<n><sg>$=^60%<num><percent>$ |[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
 ]|^-<guio>$[
