@@ -8,8 +8,7 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>
-]{{^POV<n><acr><sg>$}}[
+<p>]{{^POV<n><acr><sg>$}}[
 ]{| ^border<n><sg>$=^1<num>$ ^*cellpadding$=^4<num>$ ^*cellspacing$=^0<num>$ ^class<n><sg>$="^*toccolours$" ^style<n><sg>$="^*float$^:<sent>$ ^right<adj>$^;<sent>$ ^width<n><sg>$^:<sent>$ ^300<num>$^*px$^;<sent>$ ^clear<adj><sint>$^:<sent>$ ^both<prn><tn><mf><pl>$^;<sent>$ ^margin<n><sg>$^:<sent>$ ^0.5<num>$^*em$ ^0<num>$ ^1<num>$^*em$ ^1<num>$^*em$^;<sent>$ ^border<n><sg>$^-<guio>$^style<n><sg>$^:<sent>$ ^solid<n><sg>$^;<sent>$ ^border<n><sg>$^:<sent>$ ^1<num>$^*px$ ^solid<n><sg>$ #^7<num>$^*f$^7<num>$^*f$^7<num>$^*f$^;<sent>$ ^border<n><sg>$^-<guio>$^right<adj>$^-<guio>$^width<n><sg>$^:<sent>$ ^2<num>$^*px$^;<sent>$ ^border<n><sg>$^-<guio>$^bottom<adj>$^-<guio>$^width<n><sg>$^:<sent>$ ^2<num>$^*px$^;<sent>$ ^border<n><sg>$^-<guio>$^collapse<n><sg>$^:<sent>$ ^collapse<n><sg>$^;<sent>$ ^*font$^-<guio>$^size<n><sg>$^:<sent>$ ^95%<num><percent>$^;<sent>$"[
 ]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong>&amp;]#^1050<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[&amp;]#^1089<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[&amp;]#^1074<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[ &amp;]#^1080<num>$^;<sent>$[ &amp;]#^1052<num>$^;<sent>$[&amp;]#^1077<num>$^;<sent>$[&amp;]#^1090<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[&amp;]#^1093<num>$^;<sent>$[&amp;]#^1080<num>$^;<sent>$[&amp;]#^1112<num>$^;<sent>$[&amp;]#^1072<num>$^;<sent>$[<\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosova$[<\/strong>&lt;]^*br$\/[&gt;<strong>]^Kosovo<np><loc><sg>$[<\/strong>&lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$\/[&gt;]^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohia$[&lt;]\/^big<adj><sint>$[&gt;
 ]|^-<guio>$[
