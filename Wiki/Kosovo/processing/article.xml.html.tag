@@ -8,6 +8,7 @@
 <\/head>
 <body>
     <h1><\/h1>
+<p><a href='Category:History of Kosovo'>]^Category<n><sg>$^:<sent>$^History<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/p>
 <\/body>
 <\/html>
 ]
