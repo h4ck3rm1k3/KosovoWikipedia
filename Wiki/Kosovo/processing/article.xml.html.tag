@@ -237,19 +237,13 @@
 <li><a href='Assembly of Kosovo'>]^Assembly<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Serbian-Albanian conflict'>]^*Serbian$^-<guio>$^Albanian<adj>$ ^conflict<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Prime Minister of Kosovo'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='President of Kosovo'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Serbs in Kosovo'>]^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Albanians in Kosovo'>]^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Post and Telecom of Kosovo'>]^Post<n><sg>$ ^and<cnjcoo>$ ^*Telecom$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Albanian nationalism and independence'>]^Albanian<adj>$ ^nationalism<n><sg>$ ^and<cnjcoo>$ ^independence<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Demographic history of Kosovo'>]^*Demographic$ ^history<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Unrest in Kosovo|Unrest in Kosovo during March 2004'>]^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^during<pr>$ ^March<n><sg>$ ^2004<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='Metohija'>]^*Metohija$^.<sent>$[][<\/a><\/li>
 <li><a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Flag of Kosovo'>]^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='2008 Kosovo declaration of independence'>]^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Kosovo curse'>]^Kosovo<np><loc><sg>$ ^curse<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Disintegration of Yugoslavia'>]^Disintegration<n><sg>$ ^of<pr>$ ^Yugoslavia<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Balkanization'>]^*Balkanization$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p>&lt;]\/^*div$^.<sent>$[][&gt;<\/p>
 <a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><a name="Notes"><\/a><h3>]^Note<n><pl>$^.<sent>$[][<\/h3><p>&lt;]^!<sent>$^-<guio>$^-<guio>$ ^Please<vblex><inf>$ ^do<vbdo><pres>$ ^not<adv>$ ^use<vblex><inf>$ ^a<det><ind><sg>$ ^*scroll$ ^box<n><sg>$^.<sent>$ ^please<vblex><inf>$ ^see<vblex><inf>$[ <a href='Template:Scrollbox'>]^Template<n><sg>$^:<sent>$^*Scrollbox$[<\/a> ]^for<pr>$ ^more<preadv>$ ^information<n><sg>$^.<sent>$^(<lpar>$^This<det><dem><sg>$ ^template<n><sg>$ ^should<vaux><inf>$ ^not<adv>$ ^be<vbser><inf>$ ^use<vblex><pp>$ ^in<pr>$ ^main<adj>$ ^article<n><sg>$ ^space<n><sg>$^,<cm>$ ^as<cnjadv>$ ^prpers<prn><subj><p3><nt><sg>$ ^*renders$ ^any<det><ind><sp>$ ^content<n><sg>$ ^obscure<vblex><pp>$ ^within<pr>$ ^the<det><def><sp>$ ^template<n><sg>$ ^*unprintable$^.<sent>$ ^This<prn><tn><mf><sg>$ ^be<vbser><pri><p3><sg>$ ^especially<adv>$ ^true<adj><sint>$ ^with<pr>$ ^text<n><sg>$ ^content<n><sg>$^,<cm>$ ^such as<pr>$ ^*citations$^,<cm>$ ^according to<pr>$[ <a href='Wikipedia:Templates_for_deletion\/Log\/2007_June_11#Template:Scrollref'>]^*Wikipedia$^:<sent>$^Template<n><pl>$_^for<pr>$_^*deletion$\/^*Log$\/^2007<num>$_^June<n><sg>$_^11<num>$#^Template<n><sg>$^:<sent>$^*Scrollref$[<\/a>]^.<sent>$ ^Please<vblex><inf>$^,<cm>$ ^if<cnjadv>$ ^prpers<prn><subj><p2><mf><sp>$ ^see<vblex><pres>$ ^a<det><ind><sg>$ ^*scroll$ ^box<n><sg>$ ^in<pr>$ ^article<n><sg>$ ^space<n><sg>$^,<cm>$ ^remove<vblex><pres>$ ^prpers<prn><obj><p3><nt><sg>$ ^and<cnjcoo>$ ^put<vblex><inf>$ ^a<det><ind><sg>$ ^hide<vblex><pp>$ ^warning<n><sg>$^.<sent>$^)<rpar>$^-<guio>$^-<guio>$^.<sent>$[][&gt;
