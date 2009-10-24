@@ -115,7 +115,7 @@
 ]|^-<guio>$ ^*bgcolor$="#^*FFEBCD$"[
 ]^!<sent>$^Year<n><sg>$[
 ]^!<sent>$^Albanian<n><pl>$[
-]^!<sent>$^*Serbians$[&lt;]^small<adj><sint>$[&gt;&lt;]^*sup$[&gt;]^1<num>$[&lt;]\/^*sup$[&gt;&lt;]\/^small<adj><sint>$[&gt;
+]^!<sent>$^*Serbs$[&lt;]^small<adj><sint>$[&gt;&lt;]^*sup$[&gt;]^1<num>$[&lt;]\/^*sup$[&gt;&lt;]\/^small<adj><sint>$[&gt;
 ]^!<sent>$^Others<prn><tn><mf><pl>$[
 ]|^-<guio>$[
 ]|^-<guio>$ ^*bgcolor$="#^*f$^5<num>$^*f$^5<num>$^*f$^5<num>$"[
