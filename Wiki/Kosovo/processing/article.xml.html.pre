@@ -109,7 +109,6 @@
 <li><a href='National awakening and the birth of Albania'>]^National<adj>$ ^awaken<vblex><ger>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^birth<n><sg>$ ^of<pr>$ ^*Albania$^.<sent>$[][<\/a><\/li>
 <li><a href='Unrest in Kosovo'>]^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^(<lpar>$^about<pr>$ ^the<det><def><sp>$ ^March<n><sg>$ ^2004<num>$ ^unrest<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='Sexual trafficking in Kosovo'>]^Sexual<adj>$ ^trafficking<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Serbian Genealogical Society'>]^*Serbian$ ^*Genealogical$ ^Society<n><sg>$[<\/a> ]^(<lpar>$^Objective<adj>$ ^historical<adj>$ ^family<adj>$ ^research<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
