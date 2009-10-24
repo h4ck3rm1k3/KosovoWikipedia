@@ -150,6 +150,7 @@
 <a href='nl:Kosovo'>]^*nl$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ja:&amp;#12467;&amp;#12477;&amp;#12532;&amp;#12457;'>]^*ja$^:<sent>$[&amp;]#^12467<num>$^;<sent>$[&amp;]#^12477<num>$^;<sent>$[&amp;]#^12532<num>$^;<sent>$[&amp;]#^12457<num>$^;<sent>$[<\/a>
 <a href='nds:Kosovo'>]^*nds$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='pl:Kosowo'>]^*pl$^:<sent>$^*Kosowo$[<\/a>
 <a href='pt:Kosovo'>]^*pt$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ru:&amp;#1050;&amp;#1086;&amp;#1089;&amp;#1086;&amp;#1074;&amp;#1086;'>]^*ru$^:<sent>$[&amp;]#^1050<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[&amp;]#^1089<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[&amp;]#^1074<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[<\/a>
 <a href='fi:Kosovo'>]^*fi$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
