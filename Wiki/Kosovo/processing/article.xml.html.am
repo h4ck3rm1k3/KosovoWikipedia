@@ -379,16 +379,17 @@
 ]}}^./.<sent>$[][<\/p>
 <p>&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^Categories/Category<n><pl>$^-/-<guio>$^-/-<guio>$[&gt;
 <a href='Category:Kosovo'>]^Category/Category<n><sg>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$^./.<sent>$[][<\/a><\/p>
-<p>&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^Other/Other<det><ind><sp>$ ^languages/language<n><pl>$^-/-<guio>$^-/-<guio>$[&gt;
-<a href='als:Kosovo'>]^als/*als$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
-<a href='ar:ÙÙØµÙÙ'>]^ar/*ar$^:/:<sent>$^Ù/*Ù$^Ù/*Ù$Øµ^Ù/*Ù$^Ù/*Ù$[<\/a>
+<p>&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^Other/Other<det><ind><sp>$ ^languages/language<n><pl>$^-/-<guio>$^-/-<guio>$^./.<sent>$[][&gt;<\/p>
+<p><a href='als:Kosovo'>]^als/*als$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
+<a href='ar:ÙÙØ³ÙÙÙ'>]^ar/*ar$^:/:<sent>$^Ù/*Ù$^Ù/*Ù$Ø³^Ù/*Ù$^Ù/*Ù$^Ù/*Ù$[<\/a>
+<a href='an:Kosovo'>]^an/a<det><ind><sg>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='roa-rup:Cosova'>]^roa/*roa$^-/-<guio>$^rup/*rup$^:/:<sent>$^Cosova/*Cosova$[<\/a>
 <a href='frp:Kosovo'>]^frp/*frp$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='ast:Kosovo'>]^ast/*ast$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='zh-min-nan:Kosovo'>]^zh/*zh$^-/-<guio>$^min/*min$^-/-<guio>$^nan/*nan$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='bs:Kosovo'>]^bs/*bs$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='br:Kosovo'>]^br/*br$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
-<a href='bg:ÐÐ¾ÑÐ¾Ð²Ð¾ (Ð¾Ð±Ð»Ð°ÑÑ)'>]^bg/*bg$^:/:<sent>$ÐÐ¾^Ñ/*Ñ$Ð¾Ð²Ð¾ ^(/(<lpar>$Ð¾Ð±Ð»Ð°^Ñ/*Ñ$^Ñ/*Ñ$^)/)<rpar>$[<\/a>
+<a href='bg:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^bg/*bg$^:/:<sent>$ÐÐ¾^Ñ/*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='ca:Kosovo'>]^ca/*ca$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='cs:Kosovo'>]^cs/*cs$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='cy:Kosovo'>]^cy/*cy$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
@@ -399,6 +400,7 @@
 <a href='es:Kosovo'>]^es/*es$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='eo:Kosovo'>]^eo/*eo$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='eu:Kosovo'>]^eu/*eu$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
+<a href='fa:Ú©ÙØ³ÙÙ'>]^fa/*fa$^:/:<sent>$^Ú/*Ú$©^Ù/*Ù$Ø³^Ù/*Ù$^Ù/*Ù$[<\/a>
 <a href='fr:Kosovo'>]^fr/*fr$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='ga:An Chosaiv'>]^ga/*ga$^:/:<sent>$^An/A<det><ind><sg>$ ^Chosaiv/*Chosaiv$[<\/a>
 <a href='gl:Kosovo'>]^gl/*gl$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
@@ -414,9 +416,10 @@
 <a href='lv:Kosova un Metohija'>]^lv/*lv$^:/:<sent>$^Kosova/*Kosova$ ^un/*un$ ^Metohija/*Metohija$[<\/a>
 <a href='lt:Kosovas'>]^lt/*lt$^:/:<sent>$^Kosovas/*Kosovas$[<\/a>
 <a href='li:Kosovo'>]^li/*li$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
-<a href='hu:KoszovÃ³'>]^hu/*hu$^:/:<sent>$^Koszov/*Koszov$Ã³[<\/a>
+<a href='hu:Kosovo'>]^hu/*hu$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='mk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^mk/*mk$^:/:<sent>$ÐÐ¾^Ñ/*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='ms:Kosovo'>]^ms/*ms$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
+<a href='nah:Cosovo'>]^nah/*nah$^:/:<sent>$^Cosovo/*Cosovo$[<\/a>
 <a href='nl:Kosovo'>]^nl/*nl$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='ja:ã³ã½ã'>]^ja/*ja$^:/:<sent>$ã³ã½ã[<\/a>
 <a href='no:Kosovo'>]^no/no<adv>/no<det><ind><sg>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
