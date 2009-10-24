@@ -34,7 +34,7 @@
 [<\/em>
 ]{{^redirect<vblex><pres>$|^Republic<n><sg>$ ^of<pr>$ ^*Kosova$||^Republic<n><sg>$ ^of<pr>$ ^*Kosova$ ^(<lpar>$^1990<num>$^*â$^2000<num>$^)<rpar>$}}[
 ]{{^*Infobox$ ^Country<n><sg>$[
-]|^native<adj>$_^name<n><sg>$ = {{^*nowrap$|{{^*lang$|^*sq$|[<strong><em>]^*Republika$ ^*e$ ^*Kosov$Ã«^*s$[<\/strong><\/em>]}}[&lt;]^*br$[&gt;]{{^*lang$|^*sr$^-<guio>$^*Cyrl$|Ð ÐµÐ^¿<lquest>$^*Ñ$Ð±Ð»Ð¸ÐºÐ° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾}} \/ {{^*lang$|^*sr$^-<guio>$^*Latn$|[<em>]^*Republika$ ^Kosovo<np><loc><sg>$[<\/em>]}}}}[
+]|^native<adj>$_^name<n><sg>$ = {{^*nowrap$|{{^*lang$|^*sq$|[<strong><em>]^*Republika$ ^*e$ ^*Kosov$Ã«^*s$[<\/strong><\/em>]}}[&lt;]^*br$[&gt;]{{^*lang$|^*sr$^-<guio>$^*Cyrl$|Ð^*Ñ$^*Ñ$Ð¾Ð½Ð¾Ð¼Ð½Ð° Ð^¿<lquest>$Ð¾Ðº^*Ñ$Ð°^*Ñ$Ð½Ð° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°}} \/ {{^*lang$|^*sr$^-<guio>$^*Latn$|[<em>]^*Autonomna$ ^*pokrajna$ ^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/em>]}}}}[
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[   ]= ^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[
 ]|^common<adj>$_^name<n><sg>$[              ]= ^Kosovo<np><loc><sg>$[
 ]|^image<n><sg>$_^flag<n><sg>$[               ]= ^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.$
@@ -45,7 +45,7 @@
  ^*http$^:$
 \/\/^www.kosovapress.com<num>$\/^*ks$\/^*repository$\/^image<n><pl>$\/^*stema$_^*kosoves$_^*thmb$^.$
 ^*jpg$ ^-<guio>$^-<guio>$[&gt;
-]|^image<n><sg>$_^map<n><sg>$[                ]= ^Europe<np><loc><sg>$ ^location<n><sg>$ ^*KOS$^.$
+]|^image<n><sg>$_^map<n><sg>$[                ]= ^Kosovo<np><loc><sg>$_^position<n><sg>$_^in<pr>$_^Europe<np><loc><sg>$^.$
 ^*png$[
 ]|^map<n><sg>$_^*caption$[              ]= ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^in<pr>$[ <a href='Europe'>]^Europe<np><loc><sg>$^.$
 [][<\/a><\/p>
