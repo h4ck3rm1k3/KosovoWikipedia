@@ -32,7 +32,7 @@
 ]|^capital/capital<adj>/capital<n><sg>$[                  ]= {{^nowrap/*nowrap$|[<a href='PriÅ¡tina|PriÅ¡tina (PrishtinÃ«)'>]^Pri/*Pri$Å^¡/¡<lquest>$^tina/*tina$|^Pri/*Pri$Å^¡/¡<lquest>$^tina/*tina$ ^(/(<lpar>$^Prishtin/*Prishtin$Ã«^)/)<rpar>$[<\/a>]}}[
 ]|^latd/*latd$= |^latm/*latm$= |^latNS/*latNS$= |^longd/*longd$= |^longm/*longm$= |^longEW/*longEW$=[
 ]|^largest/large<adj><sint><sup>$_^city/city<n><sg>$[             ]= ^capital/capital<adj>/capital<n><sg>$[
-]|^demonym/*demonym$[                  ]=[ <a href='Kosovar'>]^Kosovar/*Kosovar$[<\/a>
+]|^demonym/*demonym$[                  ]= ^Kosovar/*Kosovar$^,/,<cm>$ ^Kosovan/*Kosovan$[
 ]|^government/government<n><sg>$_^type/type<n><sg>/type<vblex><inf>/type<vblex><pres>$[          ]= ^Interim/Interim<adj>$[
 ]|^leader/leader<n><sg>$_^title/title<n><sg>/title<vblex><inf>/title<vblex><pres>$^1/1<num>$[            ]= {{^nowrap/*nowrap$|^Special/Special<adj>$ ^Representative/Representative<adj>/Representative<n><sg>$ ^of/of<pr>$}} {{^nowrap/*nowrap$|^the/the<det><def><sp>$ ^Secretary/Secretary<n><sg>$^-/-<guio>$^General/General<adj>/General<n><sg>$}}[
 ]|^leader/leader<n><sg>$_^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>$^1/1<num>$[             ]=[ &lt;]^br/*br$[&gt;<a href='Joachim RÃ¼cker'>]^Joachim/*Joachim$ ^R/*R$Ã¼^cker/*cker$[<\/a>
