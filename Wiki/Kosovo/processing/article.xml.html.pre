@@ -337,6 +337,7 @@
 <a href='Category:2008 establishments'>]^Category<n><sg>$^:<sent>$^2008<num>$ ^establishment<n><pl>$^.<sent>$[][<\/a><\/p>
 <p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Other<det><ind><sp>$ ^language<n><pl>$^-<guio>$^-<guio>$^.<sent>$[][&gt;<\/p>
 <p><a href='als:Kosovo'>]^*als$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='ang:Kosovo'>]^*ang$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ar:ÙÙØ³ÙÙÙ'>]^*ar$^:<sent>$^*Ù$^*Ù$Ø³^*Ù$^*Ù$^*Ù$[<\/a>
 <a href='an:Kosovo'>]^a<det><ind><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='roa-rup:Cosova'>]^*roa$^-<guio>$^*rup$^:<sent>$^*Cosova$[<\/a>
@@ -351,6 +352,7 @@
 <a href='ca:Kosovo'>]^*ca$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='cv:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*cv$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='cs:Kosovo'>]^*cs$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='ny:Kosovo'>]^*ny$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='cy:Kosovo'>]^*cy$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='da:Kosovo'>]^*da$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='de:Kosovo'>]^*de$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
