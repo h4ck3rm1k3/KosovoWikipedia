@@ -45,7 +45,7 @@
 ]|^-<guio>$[
 ]|[ <a href='Time zone'>]^Time<n><sg>$ ^zone<n><sg>$[<\/a> ]||[ <a href='UTC'>]^*UTC$[<\/a> ]+^1<num>$[
 ]|^-<guio>$[
-]| ^*valign$=^top<adj>$ |[ <a href='Airline'>]^*Airline$[<\/a> ]^carrier<n><sg>$ || ^*JAT$[
+]| ^*valign$=^top<adj>$ |[ <a href='Airline'>]^*Airline$[<\/a> ]^carrier<n><sg>$ || ^-<guio>$[
 ]|}^.$
 [][
 <\/p>

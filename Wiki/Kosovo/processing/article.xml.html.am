@@ -26,7 +26,7 @@
 ]|^-/-<guio>$[
 ]|[ <a href='Time zone'>]^Time/Time<n><sg>/Time<vblex><inf>/Time<vblex><pres>$ ^zone/zone<n><sg>/zone<vblex><inf>/zone<vblex><pres>$[<\/a> ]||[ <a href='UTC'>]^UTC/*UTC$[<\/a> ]+^1/1<num>$[
 ]|^-/-<guio>$[
-]| ^valign/*valign$=^top/top<adj>/top<n><sg>/top<vblex><inf>/top<vblex><pres>$ |[ <a href='Airline'>]^Airline/*Airline$[<\/a> ]^carrier/carrier<n><sg>$ || ^JAT/*JAT$[
+]| ^valign/*valign$=^top/top<adj>/top<n><sg>/top<vblex><inf>/top<vblex><pres>$ |[ <a href='Airline'>]^Airline/*Airline$[<\/a> ]^carrier/carrier<n><sg>$ || ^-/-<guio>$[
 ]|}^./.<sent>$[][
 <\/p>
 <a name="Ekonomy"><\/a><h2>]^Ekonomy/*Ekonomy$^./.<sent>$[][<\/h2><a name="Administration"><\/a><h2>]^Administration/Administration<n><sg>$^./.<sent>$[][<\/h2><ul>
