@@ -9,9 +9,9 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>]{{^*pp$^-<guio>$^*semi$|^small<adj><sint>$=^yes<adv>$}}{{^*Infobox$ ^Kosovo<np><loc><sg>$}}[ &lt;]^!$
+<p> ]{{^*pp$^-<guio>$^*semi$|^small<adj><sint>$=^yes<adv>$}}[
+]{{^*Infobox$ ^Kosovo<np><loc><sg>$}}[ &lt;]^!$
 ^-<guio>$^-<guio>$ ^Please<vblex><inf>$ ^do<vbdo><pres>$ ^not<adv>$ ^remove<vblex><inf>$ ^this<det><dem><sg>$ ^*infobox$^,<cm>$ ^prpers<prn><subj><p3><nt><sg>$ ^have<vbhaver><pri><p3><sg>$ ^be<vbser><pp>$ ^develop<vblex><pp>$ ^to<pr>$ ^be<vbser><inf>$ ^neutral<adj>$ ^as<pr>$ ^possible<adj>$[  ]^-<guio>$^-<guio>$[&gt;
- 
 &lt;]^!$
 ^-<guio>$^-<guio>$^.$
 [][<\/p>
@@ -996,7 +996,9 @@
 <p><br\/>
 <\/p>
 <a name="Gallery"><\/a><h2>]^Gallery<n><sg>$^.$
-[][<\/h2><p>&lt;]^centre<n><sg>$[&gt;&lt;]^gallery<n><sg>$[&gt;
+[][<\/h2><p>&lt;]^gallery<n><sg>$ ^style<n><sg>$="^margin<n><sg>$^:$
+^2<num>$^*px$ ^auto<n><sg>$^;$
+"[&gt;
 ]^Image<n><sg>$^:$
 ^Kosovo<np><loc><sg>$_^government<n><sg>$^.$
 ^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^in<pr>$ ^*Pri$Å^¡<lquest>$^*tina$^.$
@@ -1064,7 +1066,7 @@
 ]^Image<n><sg>$^:$
 ^*BoroRamizi$^.$
 ^*jpg$|"^*Pallati$ ^*i$ ^*Rinis$Ã«" ^in<pr>$[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
-&lt;]\/^gallery<n><sg>$[&gt;&lt;]\/^centre<n><sg>$^.$
+&lt;]\/^gallery<n><sg>$^.$
 [][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.$
 [][<\/h2><p>&lt;]^*div$ ^style<n><sg>$="^-<guio>$^*moz$^-<guio>$^column<n><sg>$^-<guio>$^count<vblex><inf>$^:$
