@@ -98,7 +98,7 @@
 <ul>
 <li>]^88%<num><percent>$ ^Albanian<n><pl>$ ^(<lpar>$^1,496<num>$^,<cm>$^000<num>$ ^-<guio>$ ^1,672<num>$^,<cm>$^000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li>]^6%<num><percent>$ ^*Serbs$ ^(<lpar>$^102,000<num>$ ^-<guio>$ ^114,000<num>$^)<rpar>$^.<sent>$[][<\/li>
-<li>]^3%<num><percent>$ ^Muslim<n><sg>$ ^*Slavs$ ^(<lpar>$^51,000<num>$ ^to<pr>$ ^57,000<num>$^)<rpar>$^.<sent>$[][<\/li>
+<li>]^3%<num><percent>$ ^Muslim<n><sg>$ ^*Slavs$ ^(<lpar>$^*Bosnians$^,<cm>$ ^*Gorani$^)<rpar>$ ^(<lpar>$^51,000<num>$ ^to<pr>$ ^57,000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li>]^2%<num><percent>$ ^*Roma$ ^(<lpar>$^34,000<num>$ ^-<guio>$ ^38,000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li>]^1%<num><percent>$ ^*Turks$ ^(<lpar>$^17,000<num>$ ^-<guio>$ ^19,000<num>$^)<rpar>$^.<sent>$^.<sent>$[][<\/li>
 <\/ul>
