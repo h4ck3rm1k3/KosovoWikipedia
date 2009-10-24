@@ -17,8 +17,8 @@
 ]{{^redirect<vblex><inf>$^6<num>$|^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^the<det><def><sp>$ ^former<adj>$ ^entity<n><sg>$|^Republic<n><sg>$ ^of<pr>$ ^*Kosova$||^Kosovo<np><loc><sg>$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
 ]{{^*Infobox$ ^Country<n><sg>$[
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$ = ^Kosovo<np><loc><sg>$[
-]|^image<n><sg>$_^map<n><sg>$[          ]= ^Kosovo<np><loc><sg>$^-<guio>$^map<n><sg>$^.<sent>$^*gif$[
-]|^map<n><sg>$_^*caption$[        ]=[ <a href='CIA Factbook'>]^CIA<n><acr><sg>$ ^*Factbook$[<\/a> ]^map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^show<vblex><ger>$ ^the<det><def><sp>$ ^current<adj>$[ <a href='USA|US'>]^USA<np><loc><sg>$|^US<np><loc><sg>$[<\/a> ]^point<n><sg>$ ^of<pr>$ ^view<n><sg>$ ^as<cnjadv>$ ^to<pr>$ ^international<adj>$ ^border<n><pl>$^.<sent>${{^*NPOV$}}[
+]|^image<n><sg>$_^map<n><sg>$[          ]= ^Europe<np><loc><sg>$ ^location<n><sg>$ ^*KOS$^.<sent>$^*png$[
+]|^map<n><sg>$_^*caption$[        ]= ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^in<pr>$ ^Europe<np><loc><sg>$[
 ]|^ethnic<adj>$_^group<n><pl>$[      ]= ^92%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>&lt;]^*br$ \/[&gt;]^5.3%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a>&lt;]^*br$ \/[&gt;]^2.7%<num><percent>$ ^others<prn><tn><mf><pl>$[&lt;]^*ref$[&gt;<a href='http:\/\/www.ks-gov.net\/ESK\/esk\/english\/english.htm Enti i StatistikÃ«s sÃ« KosovÃ«s'>]^1<num>$[<\/a>&lt;]\/^*ref$[&gt;
 ]|^ethnic<adj>$_^group<n><pl>$_^year<n><sg>$ = ^2007<num>$[
 ]|^capital<n><sg>$[            ]= {{^*nowrap$|[<a href='Pristina'>]^*Pristina$[<\/a> ]^(<lpar>$^also<adv>$ ^*Prishtina$^,<cm>$ ^*Pri$Å^¡<lquest>$^*tina$^)<rpar>$}}[
