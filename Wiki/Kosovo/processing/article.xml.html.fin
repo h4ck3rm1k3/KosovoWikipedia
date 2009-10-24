@@ -607,7 +607,7 @@
 \/\/^www.icty.org<num>$\/^*x$\/^case<n><pl>$\/^*limaj$\/^*ind$\/^*en$\/^*lim$^-<guio>$^2<num>$^*ai$^040212<num>$^*e$^.$
 ^*htm$[&lt;]\/^*ref$^.$
 [][&gt;<\/p>
-<a name="The_UN_administration_period"><\/a><h3>]^The<det><def><sp>$ ^UN<n><acr><sg>$ ^administration<n><sg>$ ^period<n><sg>$^.$
+<a name="UN_administration_period"><\/a><h3>]^UN<n><acr><sg>$ ^administration<n><sg>$ ^period<n><sg>$^.$
 [][<\/h3><p>]{{^main<adj>$|^Kosovo<np><loc><sg>$ ^(<lpar>$^*UNMIK$^)<rpar>$|^Kosovo<np><loc><sg>$ ^status<n><sg>$ ^process<n><sg>$}}[
 <a href='Image:White Drini 05 01.jpg|thumb|The \[\[White Drin'>]^Image<n><sg>$^:$
 ^White<adj><sint>$ ^*Drini$ ^05<num>$ ^01<num>$^.$
