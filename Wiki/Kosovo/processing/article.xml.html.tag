@@ -146,7 +146,7 @@
 <a name="Subdivisions"><\/a><h2>]^*Subdivisions$^.<sent>$[][<\/h2><p>]{{^main<adj>$|^*Subdivisions$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^divide<vblex><pp>$ ^into<pr>$ ^7<num>$ ^district<n><pl>$^:<sent>$^.<sent>$[][<\/p>
 <ul>
-<li><a href='Prishtina District|Prishtina\/Pristina District'>]^*Prishtina$ ^District<n><sg>$|^*Prishtina$\/^*Pristina$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Prishtina District|Prishtina\/PriÅ¡tina District'>]^*Prishtina$ ^District<n><sg>$|^*Prishtina$\/^*Pri$Å^¡<lquest>$^*tina$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Prizreni District|Prizreni\/Prizren District'>]^*Prizreni$ ^District<n><sg>$|^*Prizreni$\/^*Prizren$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Peja District|Peja\/PeÄ District'>]^*Peja$ ^District<n><sg>$|^*Peja$\/^*PeÄ$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Ferizaji District|Ferizaji\/UroÅ¡evac District'>]^*Ferizaji$ ^District<n><sg>$|^*Ferizaji$\/^*Uro$Å^¡<lquest>$^*evac$ ^District<n><sg>$^.<sent>$[][<\/a><\/li>
