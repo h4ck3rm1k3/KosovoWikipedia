@@ -134,7 +134,7 @@
 <li><a href='http:\/\/www.kosovalive.com KosovaLive'>]^15<num>$[<\/a> ]^-<guio>$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$ ^with<pr>$ ^some<det><qnt><sp>$ ^news<n><sg>$ ^in<pr>$ ^English<adj>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.eciks.org Economic Initiative for Kosovo'>]^16<num>$[<\/a> ]^-<guio>$ "^.<sent>$^.<sent>$^.<sent>$^late<adj><sint><sup>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^publication<n><pl>$ ^from<pr>$ ^the<det><def><sp>$ ^*Kosovar$ ^economy<n><sg>$"^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.rtklive.com  RTK'>]^17<num>$[<\/a> ]^-<guio>$ ^*Kosova$^'s<gen>$ ^public<adj>$ ^television<n><sg>$ ^(<lpar>$^news<n><sg>$ ^in<pr>$ ^Albanian<n><sg>$^,<cm>$ ^*Serbian$^,<cm>$ ^Turkish<adj>$ ^and<cnjcoo>$ ^*Roma$^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.ukalbanians.org\/ UKA'>]^18<num>$[<\/a> ]^-<guio>$ ^British<adj>$ ^Albanian<n><pl>$ ^*Website$^(<lpar>$^*faqe$ ^*interneti$ ^*te$ ^*komunitetit$ ^*shqiptar$ ^*ne$ ^*Britani$^-<guio>$^*Angli$^,<cm>$ ^*Skotlande$^,<cm>$ ^*Uels$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.ukalbanians.org\/ UKA'>]^18<num>$[<\/a> ]^-<guio>$ ^British<adj>$ ^Albanian<n><pl>$ ^*Website$ ^(<lpar>$^*faqe$ ^*interneti$ ^per<pr>$ ^*komunitetin$ ^*shqiptar$ ^*ne$ ^*Britani$^-<guio>$^*Angli$^,<cm>$ ^*Skotlande$^,<cm>$ ^*Uels$^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosova.com Kosova Information Center'>]^19<num>$[<\/a> ]^-<guio>$ ^LDK<n><acr><sg>$^'s<gen>$ ^news<n><sg>$ ^agency<n><sg>$ ^(<lpar>$^Albanian<adj>$ ^only<adj>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
 <a href='http:\/\/www.albanian.com\/main\/countries\/kosova Albanian.com'>]^20<num>$[<\/a> ]^-<guio>$ ^general<adj>$ ^information<n><sg>$^.<sent>$[][<\/li>
