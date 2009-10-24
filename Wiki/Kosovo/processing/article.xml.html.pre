@@ -142,17 +142,18 @@
 <a href='http:\/\/beqiraj.com\/kosova\/de\/ General information from Beqiraj.com'>]^23<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^German<adj>$^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/beqiraj.com\/kosova\/al\/ General information from Beqiraj.com'>]^24<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^Albanian<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.forumi.zeriyt.com Discussion Forum for Albanians from Albania, Macedonia, Kosovo, Montenegro'>]^25<num>$[<\/a> ]^(<lpar>$^English<adj>$\/^Albanian<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.alb-shkenca.org\/images\/stories\/Why%20Independence.pdf Why Independence for Kosovo?'>]^26<num>$[<\/a> ]^A<det><ind><sg>$ ^brief<adj>$ ^summary<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^case<n><sg>$ ^for<pr>$ ^a<det><ind><sg>$ ^independent<adj>$ ^*Kosova$ ^by<pr>$ ^two<num><sp>$ ^*Prishtina$ ^intellectual<n><pl>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
 <a name="Pro-Serb"><\/a><h3>]^*Pro$^-<guio>$^*Serb$^.<sent>$[][<\/h3><ul>
-<li><a href='http:\/\/www.kosovo.com\/ Kosovo.com'>]^26<num>$[<\/a> ]^*Serbian$ ^Orthodox<adj>$ ^Church<n><sg>$^'s<gen>$ ^official<adj>$ ^*website$ ^on<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/BalkanUpdate.blogspot.com Balkan Update'>]^27<num>$[<\/a>]^-<guio>$ ^A<det><ind><sg>$ ^*blog$ ^with<pr>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*lates$ ^update<vblex><pri><p3><sg>$ ^from<pr>$ ^*Balkans$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohia'>]^28<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/groups.yahoo.com\/group\/decani\/ Kosovo Newsgroup archive'>]^29<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^30<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government Kosovo-Metohija site'>]^31<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^32<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovo.com\/ Kosovo.com'>]^27<num>$[<\/a> ]^*Serbian$ ^Orthodox<adj>$ ^Church<n><sg>$^'s<gen>$ ^official<adj>$ ^*website$ ^on<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/BalkanUpdate.blogspot.com Balkan Update'>]^28<num>$[<\/a>]^-<guio>$ ^A<det><ind><sg>$ ^*blog$ ^with<pr>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*lates$ ^update<vblex><pri><p3><sg>$ ^from<pr>$ ^*Balkans$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohia'>]^29<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/groups.yahoo.com\/group\/decani\/ Kosovo Newsgroup archive'>]^30<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^31<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government Kosovo-Metohija site'>]^32<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^33<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 ]{{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$}}^.<sent>$[][<\/p>
