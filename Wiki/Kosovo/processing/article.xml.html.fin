@@ -30,6 +30,31 @@
  ^Please<vblex><inf>$ ^address<vblex><inf>$ ^such<det><ind><sp>$ ^*controversial$ ^edit<vblex><pri><p3><sg>$ ^within<pr>$ ^the<det><def><sp>$ ^Talk<n><sg>$ ^Page<n><sg>$ ^first<adv>$^.$
 [
 ]^-<guio>$^-<guio>$[&gt;
+]{{^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
+]{{^*Infobox$ ^Country<n><sg>$[
+]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$ = Ð^*Ñ$^*Ñ$Ð¾Ð½Ð¾Ð¼Ð½Ð° ÐÐ¾Ðº^*Ñ$Ð°^*Ñ$Ð¸Ð½Ð° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[&lt;]^*br$[&gt;]^*Autonomna$ ^*Pokrajina$ ^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[&lt;]^*br$[&gt;]^*Krahina$ ^*autonome$ ^*e$ ^*Kosov$Ã«^*s$ ^*dhe$ ^*Metohis$Ã«[&lt;]^*br$[&gt;]^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$[
+]|^image<n><sg>$_^map<n><sg>$[    ]= ^Map<n><sg>$ ^of<pr>$ ^*Serbia$ ^(<lpar>$^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$^)<rpar>$^.$
+^*PNG$[
+]|^map<n><sg>$_^*caption$[  ]= ^Kosovo<np><loc><sg>$ ^within<pr>$ ^*Serbia$[
+]|^common<adj>$_^name<n><sg>$[  ]= ^Kosovo<np><loc><sg>$[
+]|^continent<n><sg>$[    ]= ^Europe<np><loc><sg>$[
+]|^region<n><sg>$[       ]= ^*Balkans$[
+]|^capital<adj>$[      ]= ^*Pristina$[
+]|^image<n><sg>$_^flag<n><sg>$[   ]=[ 
+]|^image<n><sg>$_^coat<n><sg>$[   ]=[ 
+]|^sovereignty<n><sg>$_^type<vblex><pres>$[         ]= ^Autonomous<adj>$ ^province<n><sg>$[
+]|^sovereignty<n><sg>$_^note<n><sg>$[         ]=[ <a href='United Nations Security Council Resolution 1244|UN administration'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$|^UN<n><acr><sg>$ ^administration<n><sg>$[<\/a> ]^of<pr>$[ <a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>]^,<cm>$ ^a<det><ind><sg>$ ^autonomous<adj>$ ^province<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>
+]|^leader<n><sg>$_^title<n><sg>$^1<num>$ =[ <a href='Special Representative of the Secretary-General for Kosovo|Special Representative'>]^Special<adj>$ ^Representative<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Secretary<n><sg>$^-<guio>$^General<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$|^Special<adj>$ ^Representative<adj>$[<\/a>
+]|^leader<n><sg>$_^name<n><sg>$^1<num>$[      ]= ^*Joachim$ ^*R$Ã¼^*cker$[
+]|^leader<n><sg>$_^title<n><sg>$^2<num>$ =[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
+]|^leader<n><sg>$_^name<n><sg>$^2<num>$[     ]=[ <a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a> 
+]|^establish<vblex><pp>$_^event<n><sg>$^1<num>$[  ]=[   <a href='United Nations Security Council Resolution 1244|UNSCR 1244'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$|^*UNSCR$ ^1244<num>$[<\/a>
+]|^establish<vblex><pp>$_^date<n><sg>$^1<num>$[   ]=[ <a href='10 June'>]^10<num>$ ^June<n><sg>$[<\/a>]^,<cm>$[ <a href='1999'>]^1999<num>$[<\/a>
+]|^establish<vblex><pp>$_^event<n><sg>$^2<num>$[       ]=[ <a href='Joint Interim Administrative Structure|Joint Kosovar\/UN administration'>]^Joint<n><sg>$ ^Interim<adj>$ ^Administrative<adj>$ ^Structure<n><sg>$|^Joint<n><sg>$ ^*Kosovar$\/^UN<n><acr><sg>$ ^administration<n><sg>$[<\/a>
+]|^establish<vblex><pp>$_^date<n><sg>$^2<num>$[  ]= ^May<n><sg>$ ^2000<num>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^3<num>$[       ]=[ <a href='European Union Rule of Law Mission in Kosovo|EULEX'>]^European<adj>$ ^Union<n><sg>$ ^Rule<n><sg>$ ^of<pr>$ ^Law<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^*EULEX$[<\/a>
+]|^establish<vblex><pp>$_^date<n><sg>$^3<num>$[  ]=[ <a href='16 February'>]^16<num>$ ^February<n><sg>$[<\/a>]^,<cm>$[ <a href='2008'>]^2008<num>$[<\/a>
+]}}[
 ]{{^other<det><ind><sp>$ ^use<n><pl>$|^Kosovo<np><loc><sg>$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
 ]{{^redirect<vblex><pres>$|^*Kosova$||^*Kosova$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
 ]^:$
@@ -96,32 +121,7 @@
 ]|^*footnote$^2<num>$[                ]= ^Officially<adv>$[ <a href='+381'>]+^381<num>$[<\/a>]^;$
  ^some<prn><tn><mf><pl>$ ^mobile<adj>$ ^phone<n><sg>$ ^provider<n><pl>$ ^use<n><sg>$[ <a href='+377'>]+^377<num>$[<\/a> ]^(<lpar>$^Monaco<np><loc><sg>$^)<rpar>$ ^or<cnjcoo>$[ <a href='+386'>]+^386<num>$[<\/a> ]^(<lpar>$^Slovenia<np><loc><sg>$^)<rpar>$ ^instead<adv>$^.$
 [
-]}}[
-]{{^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
-]{{^*Infobox$ ^Country<n><sg>$[
-]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$ = Ð^*Ñ$^*Ñ$Ð¾Ð½Ð¾Ð¼Ð½Ð° ÐÐ¾Ðº^*Ñ$Ð°^*Ñ$Ð¸Ð½Ð° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[&lt;]^*br$[&gt;]^*Autonomna$ ^*Pokrajina$ ^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[&lt;]^*br$[&gt;]^*Krahina$ ^*autonome$ ^*e$ ^*Kosov$Ã«^*s$ ^*dhe$ ^*Metohis$Ã«[&lt;]^*br$[&gt;]^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$[
-]|^image<n><sg>$_^map<n><sg>$[    ]= ^Map<n><sg>$ ^of<pr>$ ^*Serbia$ ^(<lpar>$^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$^)<rpar>$^.$
-^*PNG$[
-]|^map<n><sg>$_^*caption$[  ]= ^Kosovo<np><loc><sg>$ ^within<pr>$ ^*Serbia$[
-]|^common<adj>$_^name<n><sg>$[  ]= ^Kosovo<np><loc><sg>$[
-]|^continent<n><sg>$[    ]= ^Europe<np><loc><sg>$[
-]|^region<n><sg>$[       ]= ^*Balkans$[
-]|^capital<adj>$[      ]= ^*Pristina$[
-]|^image<n><sg>$_^flag<n><sg>$[   ]=[ 
-]|^image<n><sg>$_^coat<n><sg>$[   ]=[ 
-]|^sovereignty<n><sg>$_^type<vblex><pres>$[         ]= ^Autonomous<adj>$ ^province<n><sg>$[
-]|^sovereignty<n><sg>$_^note<n><sg>$[         ]=[ <a href='United Nations Security Council Resolution 1244|UN administration'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$|^UN<n><acr><sg>$ ^administration<n><sg>$[<\/a> ]^of<pr>$[ <a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>]^,<cm>$ ^a<det><ind><sg>$ ^autonomous<adj>$ ^province<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>
-]|^leader<n><sg>$_^title<n><sg>$^1<num>$ =[ <a href='Special Representative of the Secretary-General for Kosovo|Special Representative'>]^Special<adj>$ ^Representative<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Secretary<n><sg>$^-<guio>$^General<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$|^Special<adj>$ ^Representative<adj>$[<\/a>
-]|^leader<n><sg>$_^name<n><sg>$^1<num>$[      ]= ^*Joachim$ ^*R$Ã¼^*cker$[
-]|^leader<n><sg>$_^title<n><sg>$^2<num>$ =[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
-]|^leader<n><sg>$_^name<n><sg>$^2<num>$[     ]=[ <a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a> 
-]|^establish<vblex><pp>$_^event<n><sg>$^1<num>$[  ]=[   <a href='United Nations Security Council Resolution 1244|UNSCR 1244'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$|^*UNSCR$ ^1244<num>$[<\/a>
-]|^establish<vblex><pp>$_^date<n><sg>$^1<num>$[   ]=[ <a href='10 June'>]^10<num>$ ^June<n><sg>$[<\/a>]^,<cm>$[ <a href='1999'>]^1999<num>$[<\/a>
-]|^establish<vblex><pp>$_^event<n><sg>$^2<num>$[       ]=[ <a href='Joint Interim Administrative Structure|Joint Kosovar\/UN administration'>]^Joint<n><sg>$ ^Interim<adj>$ ^Administrative<adj>$ ^Structure<n><sg>$|^Joint<n><sg>$ ^*Kosovar$\/^UN<n><acr><sg>$ ^administration<n><sg>$[<\/a>
-]|^establish<vblex><pp>$_^date<n><sg>$^2<num>$[  ]= ^May<n><sg>$ ^2000<num>$[
-]|^establish<vblex><pp>$_^event<n><sg>$^3<num>$[       ]=[ <a href='European Union Rule of Law Mission in Kosovo|EULEX'>]^European<adj>$ ^Union<n><sg>$ ^Rule<n><sg>$ ^of<pr>$ ^Law<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^*EULEX$[<\/a>
-]|^establish<vblex><pp>$_^date<n><sg>$^3<num>$[  ]=[ <a href='16 February'>]^16<num>$ ^February<n><sg>$[<\/a>]^,<cm>$[ <a href='2008'>]^2008<num>$[<\/a>
-]}}[
+]{{[
 <strong>]^Kosovo<np><loc><sg>$[<\/strong>  ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Kosova$}}^;$
  {{^*lang$^-<guio>$^*sr$|ÐÐ¾^*Ñ$Ð¾Ð²Ð¾}}^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$[ <a href='disputed territory'>]^*disputed$ ^territory<n><sg>$[<\/a> ]^on<pr>$[ <a href='Balkan Peninsula'>]^the<det><def><sp>$ ^Balkan<adj>$ ^Peninsula<n><sg>$[<\/a>]^.$
  ^Prpers<prn><subj><p3><nt><sg>$ ^have<vbhaver><pri><p3><sg>$ ^historically<adv>$ ^be<vbser><pp>$ ^part<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Kingdom of Dardania'>]^*Kingdom$ ^of<pr>$ ^*Dardania$[<\/a>]^,<cm>$[ <a href='Roman empire'>]^Roman<np><ant><m><sg>$ ^empire<n><sg>$[<\/a>]^,<cm>$[ <a href='Byzantine empire'>]^Byzantine<adj>$ ^empire<n><sg>$[<\/a>]^,<cm>$ ^the<det><def><sp>$[ <a href='First Bulgarian Empire|First'>]^First<det><ord><sp>$ ^Bulgarian<adj>$ ^Empire<n><sg>$|^First<det><ord><sp>$[<\/a> ][ <a href='Second Bulgarian Empire'>]^and<cnjcoo>$ ^Second<det><ord><sp>$ ^Bulgarian<adj>$ ^Empire<n><pl>$[<\/a>]^,<cm>$[ <a href='Serbian Empire'>]^*Serbian$ ^Empire<n><sg>$[<\/a>]^,<cm>$ ^the<det><def><sp>$[ <a href='Ottoman empire'>]^*Ottoman$ ^empire<n><sg>$[<\/a>]^,<cm>$ ^the<det><def><sp>$[ <a href='Kingdom of Serbia'>]^*Kingdom$ ^of<pr>$ ^*Serbia$[<\/a>]^,<cm>$[ <a href='Yugoslavia'>]^Yugoslavia<np><loc><sg>$[<\/a> ]^and<cnjcoo>$ ^the<det><def><sp>$[ <a href='Republic of Serbia'>]^Republic<n><sg>$ ^of<pr>$ ^*Serbia$[<\/a>]^.$
