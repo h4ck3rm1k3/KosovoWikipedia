@@ -376,16 +376,25 @@
 [][<\/h2><p>&lt;]^gallery<n><sg>$[&gt;
 ]^Image<n><sg>$^:$
 ^*Prizen$ ^*kosovo$^.$
-^*jpg$|[<a href='Prizren'>]^*Prizren$[<\/a>
+^*jpg$|[<a href='Prizreni'>]^*Prizreni$[<\/a>]\/[<a href='Prizren'>]^*Prizren$[<\/a>
 ]^Image<n><sg>$^:$
 ^*Rahoveci$^.$
 ^*jpg$|[<a href='Rahovec'>]^*Rahovec$[<\/a>
 ]^Image<n><sg>$^:$
 ^*Gjakova$^.$
-^*jpg$|[<a href='Gjakova'>]^*Gjakova$[<\/a>
+^*jpg$|[<a href='Gjakova'>]^*Gjakova$[<\/a>]\/[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>
 ]^Image<n><sg>$^:$
 ^French<adj>$ ^*Peugeot$ ^*P$^4<num>$ ^*dsc$^06852<num>$^.$
 ^*jpg$|[<a href='KFOR'>]^*KFOR$[<\/a>
+]^Image<n><sg>$^:$
+^*Prishtina$^.$
+^*jpg$|[<a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
+]^Image<n><sg>$^:$
+^*Skenderbeuinprishtina$^.$
+^*jpg$|[<a href='Skenderbeg'>]^*Skenderbeg$[<\/a>
+]^Image<n><sg>$^:$
+^*Slava$^2005<num>$ ^6<num>$^.$
+^*jpg$|[<a href='Visoki DeÄani monastery'>]^*Visoki$ ^*DeÄ$^*ani$ ^*monastery$[<\/a>
 &lt;]\/^gallery<n><sg>$^.$
 [][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.$
