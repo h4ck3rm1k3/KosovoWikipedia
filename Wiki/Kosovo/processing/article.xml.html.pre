@@ -23,7 +23,7 @@
 ]|^national<adj>$_^*anthem$[          ]=[
 ]|^ethnic<adj>$_^group<n><pl>$[            ]= ^92%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>&lt;]^*br$\/[&gt;]^5.3%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a>&lt;]^*br$\/[&gt;]^2.7%<num><percent>$ ^others<prn><tn><mf><pl>$[ &lt;]^*ref$[&gt;<a href='http:\/\/www.ks-gov.net\/ESK\/esk\/english\/english.htm Enti i StatistikÃ«s sÃ« KosovÃ«s'>]^1<num>$[<\/a>&lt;]\/^*ref$[&gt;
 ]|^ethnic<adj>$_^group<n><pl>$_^year<n><sg>$[       ]= ^2007<num>$[
-]|^capital<n><sg>$[                  ]= {{^*nowrap$|[<a href='PriÅ¡tina|Pristina'>]^*Pri$Å^¡<lquest>$^*tina$|^*Pristina$[<\/a>]}}[
+]|^capital<n><sg>$[                  ]= {{^*nowrap$|[<a href='Pristina|Pristina'>]^*Pristina$|^*Pristina$[<\/a>]}}[
 &lt;]^!<sent>$^-<guio>$^-<guio>$[
 ]^PLEASE<vblex><inf>$ ^DO<vbdo><pres>$ ^NOT<adv>$ ^CHANGE<vblex><inf>$ ^THE<det><def><sp>$ ^CAPITAL<n><sg>$^'s<gen>$ ^NAME<n><sg>$^!<sent>$ ^Per<pr>$ ^*talkpage$^,<cm>$ ^prpers<prn><subj><p1><mf><pl>$ ^currently<adv>$ ^use<vblex><inf>$ ^*Pristina$^,<cm>$ ^not<adv>$ ^*Prishtina$ ^or<cnjcoo>$ ^*Pri$Å^¡<lquest>$^*tina$^.<sent>$[
 ]^-<guio>$^-<guio>$[&gt;
@@ -63,7 +63,7 @@
 ]}}[
 ]{{^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]{{^*Infobox$ ^Country<n><sg>$[
-]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$ = Ð^*Ñ$^*Ñ$Ð¾Ð½Ð¾Ð¼Ð½Ð° ÐÐ¾Ðº^*Ñ$Ð°^*Ñ$Ð¸Ð½Ð° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[&lt;]^*br$[&gt;]^*Autonomna$ ^*Pokrajina$ ^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[&lt;]^*br$[&gt;]^*Krahina$ ^*autonome$ ^*e$ ^*Kosov$Ã«^*s$ ^*dhe$ ^*Metohis$Ã«[&lt;]^*br$[&gt;]^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$[
+]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$ = ^Kosovo<np><loc><sg>$^,<cm>$ ^UN<n><acr><sg>$ ^protectorate<n><sg>$[
 ]|^image<n><sg>$_^map<n><sg>$[    ]= ^Map<n><sg>$ ^of<pr>$ ^*Serbia$ ^(<lpar>$^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$^)<rpar>$^.<sent>$^*PNG$[
 ]|^map<n><sg>$_^*caption$[  ]= ^Kosovo<np><loc><sg>$ ^within<pr>$ ^*Serbia$[
 ]|^common<adj>$_^name<n><sg>$[  ]= ^Kosovo<np><loc><sg>$[
@@ -72,7 +72,7 @@
 ]|^capital<adj>$[      ]= ^*Pristina$[
 ]|^image<n><sg>$_^flag<n><sg>$[   ]=[ 
 ]|^image<n><sg>$_^coat<n><sg>$[   ]=[ 
-]|^sovereignty<n><sg>$_^type<vblex><pres>$[         ]= ^Autonomous<adj>$ ^province<n><sg>$[
+]|^sovereignty<n><sg>$_^type<n><sg>$[         ]= ^UN<n><acr><sg>$ ^protectorate<n><sg>$[
 ]|^sovereignty<n><sg>$_^note<n><sg>$[         ]=[ <a href='United Nations Security Council Resolution 1244|UN administration'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$|^UN<n><acr><sg>$ ^administration<n><sg>$[<\/a> ]^of<pr>$[ <a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>]^,<cm>$ ^a<det><ind><sg>$ ^autonomous<adj>$ ^province<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>
 ]|^leader<n><sg>$_^title<n><sg>$^1<num>$ =[ <a href='Special Representative of the Secretary-General for Kosovo|Special Representative'>]^Special<adj>$ ^Representative<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Secretary<n><sg>$^-<guio>$^General<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$|^Special<adj>$ ^Representative<adj>$[<\/a>
 ]|^leader<n><sg>$_^name<n><sg>$^1<num>$[      ]= ^*Joachim$ ^*R$Ã¼^*cker$[
