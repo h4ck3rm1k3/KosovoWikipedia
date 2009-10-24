@@ -251,6 +251,7 @@
 ]|^list<n><sg>$[  ]=[
 
 ]{{^Kosovo<np><loc><sg>$ ^municipality<n><pl>$}}[
+]{{^Autonomous<adj>$ ^Province<n><pl>$ ^of<pr>$ ^*Serbia$}}[
 ]}}[
 ]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<n><sg>$ =[ <a href='Image:Crystal Clear app browser.png|23px'>]^Image<n><sg>$^:<sent>$^Crystal<np><ant><f><sg>$ ^Clear<adj><sint>$ ^*app$ ^browser<n><sg>$^.<sent>$^*png$|^23<num>$^*px$[<\/a> ]^Geographic<adj>$ ^international<adj>$[
