@@ -343,6 +343,7 @@
 <a href='la:Ager merulensis'>]^*la$^:<sent>$^*Ager$ ^*merulensis$[<\/a>
 <a href='lv:Kosova un Metohija'>]^*lv$^:<sent>$^*Kosova$ ^*un$ ^*Metohija$[<\/a>
 <a href='lt:Kosovas'>]^*lt$^:<sent>$^*Kosovas$[<\/a>
+<a href='li:Kosovo'>]^*li$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='hu:KoszovÃ³'>]^*hu$^:<sent>$^*Koszov$Ã³[<\/a>
 <a href='mk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*mk$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='nl:Kosovo'>]^*nl$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
