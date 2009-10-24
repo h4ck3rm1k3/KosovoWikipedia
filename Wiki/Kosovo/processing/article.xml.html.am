@@ -239,18 +239,22 @@
 <\/ul>
 <p><br\/>
 ]{{^Template/Template<n><sg>$ ^group/group<n><sg>$[
-]|^title/title<n><sg>/title<vblex><inf>/title<vblex><pres>$ = ^Geographic/Geographic<adj>$ ^locale/*locale$[
+]|^title/title<n><sg>/title<vblex><inf>/title<vblex><pres>$ =[ <a href='Image:Nuvola apps package network.png|23px'>]^Image/Image<n><sg>$^:/:<sent>$^Nuvola/*Nuvola$ ^apps/*apps$ ^package/package<n><sg>$ ^network/network<n><sg>$^./.<sent>$^png/*png$|^23/23<num>$^px/*px$[<\/a> ]^Geographic/Geographic<adj>$ ^national/national<adj>$[
 ]|^list/list<n><sg>/list<vblex><inf>/list<vblex><pres>$[  ]=[
 
-]}}[
 ]{{^Municipalities/Municipality<n><pl>$ ^of/of<pr>$ ^the/the<det><def><sp>$ ^Republic/Republic<n><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$}}[
+]}}[
 ]{{^Template/Template<n><sg>$ ^group/group<n><sg>$[
-]|^title/title<n><sg>/title<vblex><inf>/title<vblex><pres>$ = ^International/International<adj>$ ^membership/membership<n><sg>$ ^and/and<cnjcoo>$ ^history/history<n><sg>$[
+]|^title/title<n><sg>/title<vblex><inf>/title<vblex><pres>$ =[ <a href='Image:Crystal Clear app browser.png|23px'>]^Image/Image<n><sg>$^:/:<sent>$^Crystal/Crystal<n><sg>/Crystal<np><ant><f><sg>$ ^Clear/Clear<adj><sint>/Clear<vblex><inf>/Clear<vblex><pres>$ ^app/*app$ ^browser/browser<n><sg>$^./.<sent>$^png/*png$|^23/23<num>$^px/*px$[<\/a> ]^Geographic/Geographic<adj>$ ^international/international<adj>$[
 ]|^list/list<n><sg>/list<vblex><inf>/list<vblex><pres>$[  ]=[
 ]{{^Countries/Country<n><pl>$ ^of/of<pr>$ ^Europe/Europe<np><loc><sg>$}}[
 ]{{^Central/Central<adj>$ ^European/European<adj>/European<n><sg>$ ^Free/Free<adj><sint>/Free<vblex><inf>/Free<vblex><pres>$ ^Trade/Trade<n><sg>/Trade<vblex><inf>/Trade<vblex><pres>$ ^Agreement/Agreement<n><sg>$ ^(/(<lpar>$^CEFTA/*CEFTA$^)/)<rpar>$}}[
-]}}^./.<sent>$[][<\/p>
-<p>&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^Categories/Category<n><pl>$^-/-<guio>$^-/-<guio>$^./.<sent>$[][&gt;<\/p>
+]}}[
+]{{^Template/Template<n><sg>$ ^group/group<n><sg>$[
+]|^title/title<n><sg>/title<vblex><inf>/title<vblex><pres>$ =[ <a href='Image:Nuvola apps gaim.png|23px'>]^Image/Image<n><sg>$^:/:<sent>$^Nuvola/*Nuvola$ ^apps/*apps$ ^gaim/*gaim$^./.<sent>$^png/*png$|^23/23<num>$^px/*px$[<\/a> ]^Languages/Language<n><pl>$[
+]|^list/list<n><sg>/list<vblex><inf>/list<vblex><pres>$[  ]=[ 
+]}}[
+&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^Categories/Category<n><pl>$^-/-<guio>$^-/-<guio>$^./.<sent>$[][&gt;<\/p>
 <\/body>
 <\/html>
 ]

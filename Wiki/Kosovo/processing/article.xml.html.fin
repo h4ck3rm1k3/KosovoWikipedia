@@ -797,19 +797,28 @@ _^Centralize<vblex><pp>$_^Yugoslav<adj>$_^Control<n><sg>$|^1991<num>$[<\/a> ]^pe
 <\/ul>
 <p><br\/>
 ]{{^Template<n><sg>$ ^group<n><sg>$[
-]|^title<vblex><pres>$ = ^Geographic<adj>$ ^*locale$[
+]|^title<n><sg>$ =[ <a href='Image:Nuvola apps package network.png|23px'>]^Image<n><sg>$^:$
+^*Nuvola$ ^*apps$ ^package<n><sg>$ ^network<n><sg>$^.$
+^*png$|^23<num>$^*px$[<\/a> ]^Geographic<adj>$ ^national<adj>$[
 ]|^list<n><sg>$[  ]=[
 
-]}}[
 ]{{^Municipality<n><pl>$ ^of<pr>$ ^the<det><def><sp>$ ^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
+]}}[
 ]{{^Template<n><sg>$ ^group<n><sg>$[
-]|^title<vblex><pres>$ = ^International<adj>$ ^membership<n><sg>$ ^and<cnjcoo>$ ^history<n><sg>$[
+]|^title<n><sg>$ =[ <a href='Image:Crystal Clear app browser.png|23px'>]^Image<n><sg>$^:$
+^Crystal<np><ant><f><sg>$ ^Clear<adj><sint>$ ^*app$ ^browser<n><sg>$^.$
+^*png$|^23<num>$^*px$[<\/a> ]^Geographic<adj>$ ^international<adj>$[
 ]|^list<n><sg>$[  ]=[
 ]{{^Country<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$}}[
 ]{{^Central<adj>$ ^European<adj>$ ^Free<adj><sint>$ ^Trade<n><sg>$ ^Agreement<n><sg>$ ^(<lpar>$^*CEFTA$^)<rpar>$}}[
-]}}^.$
-[][<\/p>
-<p>&lt;]^!$
+]}}[
+]{{^Template<n><sg>$ ^group<n><sg>$[
+]|^title<n><sg>$ =[ <a href='Image:Nuvola apps gaim.png|23px'>]^Image<n><sg>$^:$
+^*Nuvola$ ^*apps$ ^*gaim$^.$
+^*png$|^23<num>$^*px$[<\/a> ]^Language<n><pl>$[
+]|^list<n><sg>$[  ]=[ 
+]}}[
+&lt;]^!$
 ^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$^.$
 [][&gt;<\/p>
 <\/body>
