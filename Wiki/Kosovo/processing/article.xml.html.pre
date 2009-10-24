@@ -138,7 +138,7 @@
 <li><a href='http:\/\/www.balkanforums.com Kosovo and the Balkans'>]^5<num>$[<\/a> ]^-<guio>$ ^Discussion<n><sg>$ ^Forum<n><sg>$^.<sent>$[][<\/li>
 <li>]^\[<lpar>$^*http$^:<sent>$\/\/^www.antiwar.com<num>$\/^*malic$\/^?<sent>$^*articleid$=^8511<num>$[  ]^Kosovo<np><loc><sg>$ ^as<cnjadv>$ ^the<det><def><sp>$ ^price<n><sg>$ ^of<pr>$^.<sent>$[][<\/li>
 <\/ul>
-<p>]^'<apos>$^Euro<n><sg>$^-<guio>$^Atlantic<adj>$ ^integration<n><pl>$^'<apos>$^\]<rpar>$^.<sent>$[][<\/p>
+<p>]^Euro<n><sg>$^-<guio>$^Atlantic<adj>$ ^integration<n><pl>$^\]<rpar>$^.<sent>$[][<\/p>
 <ul>
 <li><\/li>
 <li><a href='http:\/\/www.rtklive.com  RTK - Kosova's public television - news in Albanian, Serbian, Turkish and Roma'>]^6<num>$^.<sent>$[][<\/a><\/li>
