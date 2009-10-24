@@ -8,8 +8,7 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>]{{^*NPOV$}}[
-]{|[ 
+<p>]{|[ 
 ]|^-<guio>$[
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[
 &lt;]^big<adj><sint>$[&gt;<strong>]^Kosovo<np><loc><sg>$[<\/strong>&lt;]^*br$\/[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt;<strong>]^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosov$Ã«[<\/strong>&lt;]^*br$\/[&gt; &lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$[&gt;
