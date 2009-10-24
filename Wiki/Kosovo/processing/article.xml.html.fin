@@ -498,9 +498,10 @@
 <a href='Category:Kosovo|*'>]^Category<n><sg>$^:$
 ^Kosovo<np><loc><sg>$|*[<\/a>
 <a href='Category:United Nations'>]^Category<n><sg>$^:$
-^Unite<vblex><pp>$ ^Nation<n><pl>$^.$
-[][<\/a><\/p>
-<p><a href='id:Kosovo'>]^*id$^:$
+^Unite<vblex><pp>$ ^Nation<n><pl>$[<\/a>
+<a href='ca:Kosovo'>]^*ca$^:$
+^Kosovo<np><loc><sg>$[<\/a>
+<a href='id:Kosovo'>]^*id$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='cs:Kosovo'>]^*cs$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
