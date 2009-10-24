@@ -16,7 +16,7 @@
 ]| {{^Serbia/*Serbia$ ^and/and<cnjcoo>$ ^Montenegro/Montenegro<np><loc><sg>$ ^2/2<num>$}}[
 ]|^-/-<guio>$[
 ]|[ <a href='Official language'>]^Official/Official<adj>/Official<n><sg>$ ^languages/language<n><pl>$[<\/a>
-]|[ <a href='Albanian language|Albanian'>]^Albanian/Albanian<adj>/Albanian<n><sg>$ ^language/language<n><sg>$|^Albanian/Albanian<adj>/Albanian<n><sg>$[<\/a>]^,/,<cm>$[ <a href='Serbian language|Serbian'>]^Serbian/*Serbian$ ^language/language<n><sg>$|^Serbian/*Serbian$[<\/a>]^,/,<cm>$ ^and/and<cnjcoo>$[ <a href='Turkish language|Turkish'>]^Turkish/Turkish<adj>/Turkish<n><sg>/Turkish<n><pl>$ ^language/language<n><sg>$|^Turkish/Turkish<adj>/Turkish<n><sg>/Turkish<n><pl>$[<\/a> ]^at/at<pr>$ ^local/local<adj>$ ^levels/level<n><pl>$[
+]|[ <a href='Albanian language|Albanian'>]^Albanian/Albanian<adj>/Albanian<n><sg>$ ^language/language<n><sg>$|^Albanian/Albanian<adj>/Albanian<n><sg>$[<\/a>]^,/,<cm>$[ <a href='Serbian language|Serbian'>]^Serbian/*Serbian$ ^language/language<n><sg>$|^Serbian/*Serbian$[<\/a>
 ]|^-/-<guio>$[
 ]|[ <a href='Capital'>]^Capital/Capital<adj>/Capital<n><sg>$[<\/a>
 ]|[ <a href='PriÅ¡tina'>]^Pri/*Pri$Å^¡/¡<lquest>$^tina/*tina$[<\/a>
@@ -33,10 +33,8 @@
 ]| ^valign/*valign$=^top/top<adj>/top<n><sg>/top<vblex><inf>/top<vblex><pres>$ |[ <a href='Population'>]^Population/Population<n><sg>$[<\/a>&lt;]^br/*br$\/[&gt;&amp;]^nbsp/*nbsp$^;/;<sent>$[&amp;]^ndash/*ndash$^;/;<sent>$ ^Total/Total<adj>/Total<n><sg>$ ^(/(<lpar>$[<a href='2003'>]^2003/2003<num>$[<\/a>]^)/)<rpar>$[&lt;]^br/*br$\/[&gt;&amp;]^nbsp/*nbsp$^;/;<sent>$[&amp;]^ndash/*ndash$^;/;<sent>$[ <a href='Population density|Density'>]^Population/Population<n><sg>$ ^density/density<n><sg>$|^Density/Density<n><sg>$[<\/a>&lt;]^br/*br$\/[&gt;
 ]|[ &lt;]^br/*br$\/[&gt;&amp;]^nbsp/*nbsp$^;/;<sent>$^2.5/2.5<num>$ ^-/-<guio>$ ^3.0/3.0<num>$ ^million/million<num><sp>/million<n><sg>$ ^(/(<lpar>$^est/*est$^./.<sent>$^)/)<rpar>$[&lt;]^br/*br$\/[&gt;&amp;]^nbsp/*nbsp$^;/;<sent>$^185/185<num>$\/^kmÂ/*kmÂ$² ^(/(<lpar>$^approx/*approx$^)/)<rpar>$[
 ]|^-/-<guio>$[
-]|[ <strong><a href='Independence'>]^Independence/Independence<n><sg>$[<\/a><\/strong>&lt;]^br/*br$\/[&gt; &amp;]^nbsp/*nbsp$^;/;<sent>$[
-]| ^From/From<pr>$[ <a href='Yugoslavia'>]^Yugoslavia/Yugoslavia<np><loc><sg>$[<\/a>&lt;]^br/*br$\/[&gt;]^declared/declare<vblex><past>/declare<vblex><pp>$^:/:<sent>$[ <a href='July 2'>]^July/July<n><sg>$ ^2/2<num>$[<\/a>]^,/,<cm>$[ <a href='1990'>]^1990/1990<num>$[<\/a>
-]|^-/-<guio>$[
-]|[ <strong><a href='National Day'>]^National/National<adj>$ ^Day/Day<n><sg>$[<\/a><\/strong> ]||[ <a href='28 November'>]^28/28<num>$ ^November/November<n><sg>$[<\/a>
+]| ^valign/*valign$=^top/top<adj>/top<n><sg>/top<vblex><inf>/top<vblex><pres>$ |[ <a href='List of ethnic groups|Ethnic groups'>]^List/List<n><sg>/List<vblex><inf>/List<vblex><pres>$ ^of/of<pr>$ ^ethnic/ethnic<adj>$ ^groups/group<n><pl>$|^Ethnic/Ethnic<adj>$ ^groups/group<n><pl>$[<\/a>&lt;]^br/*br$\/[&gt;]^(/(<lpar>$[<a href='2003'>]^2003/2003<num>$[<\/a>]^)/)<rpar>$[
+]|[ <a href='Albanians'>]^Albanians/Albanian<n><pl>$[<\/a>]^:/:<sent>$ ^92%/92%<num><percent>$[&lt;]^br/*br$\/[&gt;<a href='Serbs'>]^Serbs/*Serbs$[<\/a>]^:/:<sent>$ ^3%/3%<num><percent>$[&lt;]^br/*br$\/[&gt;]^Others/Others<prn><tn><mf><pl>$^:/:<sent>$ ^5%/5%<num><percent>$[
 ]|^-/-<guio>$[
 ]|[ <a href='Time zone'>]^Time/Time<n><sg>/Time<vblex><inf>/Time<vblex><pres>$ ^zone/zone<n><sg>/zone<vblex><inf>/zone<vblex><pres>$[<\/a>
 ]|[ <a href='UTC'>]^UTC/*UTC$[<\/a> ]+^1/1<num>$[
