@@ -123,7 +123,9 @@
 <\/ul>
 <p><br\/><\/p>
 <p><br\/>
-]{| ^border<n><sg>$=^0<num>$ ^*align$=^right<adj>$ ^*cellpadding$=^0<num>$ ^*cellspacing$=^0<num>$ ^style<n><sg>$="^margin<n><sg>$^:<sent>$ ^0<num>$ ^0<num>$ ^1<num>$^*em$ ^1<num>$^*em$^;<sent>$ ^background<n><sg>$^:<sent>$ #^*f$^9<num>$^*f$^9<num>$^*f$^9<num>$^;<sent>$ ^border<n><sg>$^:<sent>$ ^0<num>$^*px$ #^*aaaaaa$ ^solid<n><sg>$^;<sent>$ ^border<n><sg>$^-<guio>$^collapse<n><sg>$^:<sent>$ ^collapse<n><sg>$^;<sent>$ ^*font$^-<guio>$^size<n><sg>$^:<sent>$ ^95%<num><percent>$^;<sent>$"[
+<a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$[<\/a> ]^maintain<vblex><pri><p3><sg>$ ^its<det><pos><sp>$ ^own<adj>$ ^government<n><sg>$^,<cm>$ ^infrastructure<n><sg>$ ^and<cnjcoo>$ ^institution<n><pl>$ ^by<pr>$ ^its<det><pos><sp>$ ^dominant<adj>$ ^ethnic<adj>$[ <a href='Serb'>]^*Serb$[<\/a> ]^population<n><sg>$ ^in<pr>$[ <a href='Mitrovica District'>]^the<det><def><sp>$ ^*Mitrovica$ ^District<n><sg>$[<\/a>]^,<cm>$ ^*viz$^.<sent>$ ^in<pr>$[ <a href='Leposavic'>]^the<det><def><sp>$ ^*Leposavic$[<\/a>]^,<cm>$[ <a href='Zvecan'>]^*Zvecan$[<\/a> ]^and<cnjcoo>$[ <a href='Zubin Potok'>]^*Zubin$ ^*Potok$[<\/a> ]^municipality<n><pl>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^northern<adj>$ ^part<n><sg>$ ^of<pr>$[ <a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a>]^.<sent>$^.<sent>$[][<\/p>
+<p><br\/><\/p>
+<p>]{| ^border<n><sg>$=^0<num>$ ^*align$=^right<adj>$ ^*cellpadding$=^0<num>$ ^*cellspacing$=^0<num>$ ^style<n><sg>$="^margin<n><sg>$^:<sent>$ ^0<num>$ ^0<num>$ ^1<num>$^*em$ ^1<num>$^*em$^;<sent>$ ^background<n><sg>$^:<sent>$ #^*f$^9<num>$^*f$^9<num>$^*f$^9<num>$^;<sent>$ ^border<n><sg>$^:<sent>$ ^0<num>$^*px$ #^*aaaaaa$ ^solid<n><sg>$^;<sent>$ ^border<n><sg>$^-<guio>$^collapse<n><sg>$^:<sent>$ ^collapse<n><sg>$^;<sent>$ ^*font$^-<guio>$^size<n><sg>$^:<sent>$ ^95%<num><percent>$^;<sent>$"[
 ]|[&lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:<sent>$ ^relative<adj>$"[&gt;<a href='Image:u.s.albania.png|top'>]^Image<n><sg>$^:<sent>$^*u$^.<sent>$^*s$^.<sent>$^*albania$^.<sent>$^*png$|^top<adj>$[<\/a>
 &lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:<sent>$ ^absolute<adj>$^;<sent>$^*font$^-<guio>$^size<n><sg>$^:<sent>$^165%<num><percent>$^;<sent>$^left<adv>$^:<sent>$^179<num>$^*px$^;<sent>$^top<adj>$^:<sent>$^75<num>$^*px$"[&gt;<strong><a href='Pri%C5%A1tina|Prishtin'>]^*Pri$%^*C$^5%<num><percent>$^A<det><ind><sg>$^1<num>$^*tina$|^*Prishtin$[<\/a><\/strong>&lt;]\/^*div$[&gt;
 &lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:<sent>$ ^absolute<adj>$^;<sent>$^*font$^-<guio>$^size<n><sg>$^:<sent>$^140%<num><percent>$^;<sent>$^left<adv>$^:<sent>$^130<num>$^*px$^;<sent>$^top<adj>$^:<sent>$^254<num>$^*px$"[&gt;<strong><a href='Prizren'>]^*Prizren$[<\/a><\/strong>&lt;]\/^*div$[&gt;
@@ -137,15 +139,6 @@
 &lt;]\/^*div$[&gt;
 &lt;]\/^*div$[&gt;
 ]|}^.<sent>$[][<\/p>
-<p><br\/><\/p>
-<p><br\/><\/p>
-<p><br\/><\/p>
-<p><br\/><\/p>
-<p><br\/><\/p>
-<p><br\/><\/p>
-<p><br\/><\/p>
-<p><br\/>
-<a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$[<\/a> ]^maintain<vblex><pri><p3><sg>$ ^its<det><pos><sp>$ ^own<adj>$ ^government<n><sg>$^,<cm>$ ^infrastructure<n><sg>$ ^and<cnjcoo>$ ^institution<n><pl>$ ^by<pr>$ ^its<det><pos><sp>$ ^dominant<adj>$ ^ethnic<adj>$[ <a href='Serb'>]^*Serb$[<\/a> ]^population<n><sg>$ ^in<pr>$[ <a href='Mitrovica District'>]^the<det><def><sp>$ ^*Mitrovica$ ^District<n><sg>$[<\/a>]^,<cm>$ ^*viz$^.<sent>$ ^in<pr>$[ <a href='Leposavic'>]^the<det><def><sp>$ ^*Leposavic$[<\/a>]^,<cm>$[ <a href='Zvecan'>]^*Zvecan$[<\/a> ]^and<cnjcoo>$[ <a href='Zubin Potok'>]^*Zubin$ ^*Potok$[<\/a> ]^municipality<n><pl>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^northern<adj>$ ^part<n><sg>$ ^of<pr>$[ <a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a>]^.<sent>$^.<sent>$[][<\/p>
 <a name="Cities"><\/a><h2>]^City<n><pl>$^.<sent>$[][<\/h2><p><a href='Image:Prishtina maj 2005.jpg|thumb|200px|PriÅ¡tina.'>]^Image<n><sg>$^:<sent>$^*Prishtina$ ^*maj$ ^2005<num>$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^*Pri$Å^¡<lquest>$^*tina$^.<sent>$^.<sent>$[][<\/a><\/p>
 <p>]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^for<pr>$ ^2006<num>$^)<rpar>$^:<sent>$[&lt;]^*ref$[&gt;]^*http$^:<sent>$\/\/^www.world-gazetteer.com<num>$\/^*wg$^.<sent>$^*php$^?<sent>$^*x$=[&amp;]^man<n><pl>$=^*gcis$[&amp;]^*lng$=^*en$[&amp;]^*dat$=^32<num>$[&amp;]^*srt$=^*npan$[&amp;]^*col$=^*aohdq$[&amp;]^*geo$=^-<guio>$^244<num>$[&lt;]\/^*ref$^.<sent>$[][&gt;<\/p>
 <ul>
