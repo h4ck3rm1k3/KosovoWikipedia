@@ -356,6 +356,7 @@
 <a href='ja:ã³ã½ã'>]^*ja$^:<sent>$ã³ã½ã[<\/a>
 <a href='no:Kosovo'>]^no<adv>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='nn:Kosovo'>]^*nn$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='nrm:Kosovo'>]^*nrm$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='oc:Kosova'>]^*oc$^:<sent>$^*Kosova$[<\/a>
 <a href='pms:KÃ²sovo'>]^*pms$^:<sent>$^*K$Ã²^*sovo$[<\/a>
 <a href='nds:Kosovo'>]^*nds$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
