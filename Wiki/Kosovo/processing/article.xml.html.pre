@@ -20,7 +20,7 @@
 ]|^map<n><sg>$_^*caption$^2<num>$[                ]= ^Location<n><sg>$ ^of<pr>$ ^*Serbia$ ^(<lpar>$^orange<n><sg>$^)<rpar>$ ^on<pr>$[ <a href='Europe|European continent'>]^the<det><def><sp>$ ^Europe<np><loc><sg>$|^European<adj>$ ^continent<n><sg>$[<\/a>
 ]|^national<adj>$_^*motto$[              ]=[ 
 ]|^national<adj>$_^*anthem$[             ]=[ 
-]|^official<adj>$_^language<n><pl>$[          ]=[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^,<cm>$[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>
+]|^official<adj>$_^language<n><pl>$[          ]=[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^,<cm>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>
 ]|^ethnic<adj>$_^group<n><pl>$[               ]= ^88%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>&lt;]^*br$\/[&gt;]^8%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a>&lt;]^*br$\/[&gt;]^4%<num><percent>$ ^others<prn><tn><mf><pl>$[
 ]|^ethnic<adj>$_^group<n><pl>$_^year<n><sg>$[          ]= ^2003<num>$[
 ]|^capital<adj>$[                     ]=[ <a href='PriÅ¡tina|PriÅ¡tina (PrishtinÃ«)'>]^*Pri$Å^¡<lquest>$^*tina$|^*Pri$Å^¡<lquest>$^*tina$ ^(<lpar>$^*Prishtin$Ã«^)<rpar>$[<\/a>
