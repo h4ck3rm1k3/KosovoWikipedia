@@ -8,8 +8,8 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>]{{^Kosovo<np><loc><sg>$^-<guio>$^*InfoBox$}}[
-]{{^redirect<vblex><inf>$^2<num>$|^UN<n><acr><sg>$|^U.N.<n><acr><sg>$|^*Un$}}[
+<p>
+]{{^redirect<vblex><pres>$^2<num>$|^UN<n><acr><sg>$|^U.N.<n><acr><sg>$|^*Un$}}[
 ]{{^*Infobox$ ^Organization<n><sg>$[
 ]|^name<vblex><pres>$ =[ &lt;]^strong<adj><sint>$[&gt;]^Unite<vblex><pp>$ ^Nation<n><pl>$[&lt;]\/^strong<adj><sint>$[&gt;&lt;]^*br$[&gt;
 <strong>]{{^*lang$|^*ar$|Ø§^*Ù$Ø£^*Ù$^*Ù$ Ø§^*Ù$^*Ù$ØªØ­Ø¯Ø©}}[<\/strong>&lt;]\/^*font$[&gt;&lt;]^*br$[&gt;
@@ -27,6 +27,7 @@
 ]|^formation<n><sg>$=^as<pr>$ ^*wartime$ ^alliance<n><sg>$^:<sent>$[&lt;]^*br$[&gt;<a href='1 January'>]^1<num>$ ^January<n><sg>$[<\/a> <a href='1942'>]^1942<num>$[<\/a>&lt;]^*br$[&gt;]^as<pr>$ ^international<adj>$ ^organization<n><sg>$^:<sent>$[&lt;]^*br$[&gt;<a href='24 October'>]^24<num>$ ^October<n><sg>$[<\/a> <a href='1945'>]^1945<num>$[<\/a>
 ]|^*website$=^*http$^:<sent>$\/\/^www.un.org<num>$[
 ]}}[
+]{{^Kosovo<np><loc><sg>$^-<guio>$^*InfoBox$}}[
 &lt;]^!<sent>$^-<guio>$^-<guio>$ ^Please<vblex><inf>$ ^be<vbser><inf>$ ^very<preadv>$ ^careful<adj>$ ^in<pr>$ ^edit<vblex><ger>$ ^the<det><def><sp>$ ^introduction<n><sg>$ ^of<pr>$ ^this<det><dem><sg>$ ^article<n><sg>$^.<sent>$ ^Prpers<prn><subj><p3><nt><sg>$ ^have<vbhaver><pri><p3><sg>$ ^be<vbser><pp>$ ^the<det><def><sp>$ ^subject<n><sg>$ ^of<pr>$ ^a lot of<det><qnt><sp>$ ^discussion<n><sg>$ ^on<pr>$ ^the<det><def><sp>$ ^talk<n><sg>$ ^page<n><sg>$ ^and<cnjcoo>$ ^have<vbhaver><pri><p3><sg>$ ^be<vbser><pp>$ ^the<det><def><sp>$ ^target<n><sg>$ ^of<pr>$ ^several<det><ind><pl>$ ^*revert$ ^war<n><pl>$^.<sent>$ ^Please<vblex><inf>$ ^discuss<vblex><inf>$ ^any<det><ind><sp>$ ^major<adj>$ ^change<n><pl>$ ^on<pr>$ ^the<det><def><sp>$ ^talk<n><sg>$ ^page<n><sg>$ ^first<adv>$^.<sent>$ ^-<guio>$^-<guio>$^.<sent>$[][&gt;<\/p>
 <p><strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>$[<a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^:<sent>$[ <em>]^*Kosov$Ã«[<\/em>]\/[<em>]^*Kosova$[<\/em>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^:<sent>$ ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°\/[<em>]^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/em>]^,<cm>$[ <a href='Turkish language|Turkish'>]^Turkish<adj>$ ^language<n><sg>$|^Turkish<adj>$[<\/a>]^:<sent>$[ <em>]^*Kosova$[<\/em>]^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^province<n><sg>$ ^in<pr>$ ^*southern$[ <a href='Serbia'>]^*Serbia$[<\/a>]^.<sent>$ ^While<cnjadv>$ ^prpers<prn><subj><p3><nt><sg>$ ^be<vbser><pri><p3><sg>$ ^legally<adv>$ ^a<det><ind><sg>$ ^part<n><sg>$ ^of<pr>$ ^*Serbia$ ^prpers<prn><obj><p3><nt><sg>$ ^have<vbhaver><pri><p3><sg>$ ^be<vbser><pp>$ ^administer<vblex><pp>$ ^by<pr>$[ <a href='United Nations'>]^the<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$[<\/a> ]^since<pr>$ ^the<det><def><sp>$ ^end<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^1999<num>$[ <a href='Kosovo War'>]^Kosovo<np><loc><sg>$ ^War<n><sg>$[<\/a>]^.<sent>$ ^Security<n><sg>$ ^be<vbser><pri><p3><sg>$ ^provide<vblex><pp>$ ^by<pr>$[ <a href='NATO'>]^the<det><def><sp>$ ^NATO<n><acr><sg>$[<\/a>]^-<guio>$^lead<vblex><pp>$ ^*peacekeeping$ ^force<n><sg>$^,<cm>$[ <a href='Kosovo Force'>]^Kosovo<np><loc><sg>$ ^Force<n><sg>$[<\/a> ]^(<lpar>$^*KFOR$^)<rpar>$^.<sent>$^.<sent>$[][<\/p>
 <p>  
