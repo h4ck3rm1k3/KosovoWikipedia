@@ -259,7 +259,9 @@
 <\/ul>
 <p><br\/>
 <\/p>
-<p><a href='Category:Kosovo|*'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|*^.<sent>$[][<\/a><\/p>
+<p><a href='Category:Kosovo|*'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|*[<\/a>
+<a href='Category:Capitals in Europe'>]^Category<n><sg>$^:<sent>$^Capital<n><pl>$ ^in<pr>$ ^Europe<np><loc><sg>$[<\/a>
+<a href='Category:Cities in Kosovo'>]^Category<n><sg>$^:<sent>$^City<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/p>
 <p><a href='als:Kosova'>]^*als$^:<sent>$^*Kosova$[<\/a>
 <a href='ar:ÙÙØµÙÙ'>]^*ar$^:<sent>$^*Ù$^*Ù$Øµ^*Ù$^*Ù$[<\/a>
 <a href='ast:Kosovo'>]^*ast$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
