@@ -213,7 +213,7 @@
 <li><a href='Ali Shukri'>]^Ali<np><ant><m><sg>$ ^*Shukri$[<\/a>]^,<cm>$[ <a href='1981'>]^1981<num>$[<\/a>]^-<guio>$[<a href='1982'>]^1982<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='KolÃ« Shiroka'>]^*Kol$Ã« ^*Shiroka$[<\/a>]^,<cm>$[ <a href='1982'>]^1982<num>$[<\/a>]^-<guio>$[<a href='1983'>]^1983<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='Shefqet Nebih Gashi'>]^*Shefqet$ ^*Nebih$ ^*Gashi$[<\/a>]^,<cm>$[ <a href='1983'>]^1983<num>$[<\/a>]^-<guio>$[<a href='1985'>]^1985<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='Branislav Å kembareviÄ'>]^*Branislav$ Å ^*kembareviÄ$[<\/a>]^,<cm>$[ <a href='1985'>]^1985<num>$[<\/a>]^-<guio>$[<a href='1986'>]^1986<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='Branislav Skembarevic'>]^*Branislav$ ^*Skembarevic$[<\/a>]^,<cm>$[ <a href='1985'>]^1985<num>$[<\/a>]^-<guio>$[<a href='1986'>]^1986<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='Bajram Selani'>]^*Bajram$ ^*Selani$[<\/a>]^,<cm>$[ <a href='1986'>]^1986<num>$[<\/a>]^-<guio>$[<a href='1988'>]^1988<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='Remzi Kolgeci'>]^*Remzi$ ^*Kolgeci$[<\/a>]^,<cm>$[ <a href='1988'>]^1988<num>$[<\/a>]^-<guio>$[<a href='1989'>]^1989<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='Hysen KajdomÃ§aj'>]^*Hysen$ ^*Kajdom$Ã§^*aj$[<\/a>]^,<cm>$[ <a href='1989'>]^1989<num>$[<\/a>]^-<guio>$[<a href='1990'>]^1990<num>$^.<sent>$[][<\/a><\/li>
