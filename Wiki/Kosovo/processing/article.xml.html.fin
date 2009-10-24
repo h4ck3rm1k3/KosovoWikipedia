@@ -923,7 +923,7 @@ _^*r$=^1<num>$[&amp;]^*oref$=^*slogin$[&lt;]\/^*ref$[&gt;]^.$
 [
 ]^Image<n><sg>$^:$
 ^*Prizren$ ^004<num>$^.$
-^*JPG$|^*Serbian$ ^*monastery$ ^in<pr>$ ^*Prizren$^.$
+^*JPG$|^*Serbian$ ^*monastery$ ^in<pr>$[ <a href='Prizren'>]^*Prizren$[<\/a>]^.$
 [
 ]^Image<n><sg>$^:$
 ^Kosovo<np><loc><sg>$ ^*Polje$ ^*sized$^.$
@@ -931,7 +931,10 @@ _^*r$=^1<num>$[&amp;]^*oref$=^*slogin$[&lt;]\/^*ref$[&gt;]^.$
 [
 ]^Image<n><sg>$^:$
 ^*Bd$ ^shopping<n><sg>$^.$
-^*JPG$|"[<a href='Bregu i Diellit'>]^*Bregu$ ^*i$ ^*Diellit$[<\/a>]" ^shopping<n><sg>$ ^*mall$[
+^*JPG$|"[<a href='Bregu i Diellit'>]^*Bregu$ ^*i$ ^*Diellit$[<\/a>]" ^shopping<n><sg>$ ^*mall$ ^in<pr>$[ <a href='Pristina'>]^*Pristina$[<\/a>
+]^Image<n><sg>$^:$
+^*Banesat$ ^*e$ ^*bardha$^.$
+^*JPG$|[<a href='Bregu i Diellit'>]^*Bregu$ ^*i$ ^*Diellit$[<\/a> ]^2<num>$ ^in<pr>$[ <a href='Pristina'>]^*Pristina$[<\/a>
 &lt;]\/^gallery<n><sg>$[&gt;&lt;]\/^centre<n><sg>$^.$
 [][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.$
