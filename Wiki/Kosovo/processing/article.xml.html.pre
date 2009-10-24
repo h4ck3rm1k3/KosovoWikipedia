@@ -40,7 +40,7 @@
 ]|^leader<n><sg>$_^name<n><sg>$^1<num>$[             ]=[ <a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a> ]^(<lpar>$[<a href='Democratic League of Kosovo|LDK'>]^Democratic<adj>$ ^League<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^LDK<n><acr><sg>$[<\/a>]^)<rpar>$[
 ]|^leader<n><sg>$_^title<n><sg>$^2<num>$[            ]=[ <a href='Prime Minister of Kosovo|Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Prime<adj>$ ^Minister<n><sg>$[<\/a>
 ]|^leader<n><sg>$_^name<n><sg>$^2<num>$[             ]=[ <a href='Hashim ThaÃ§i'>]^*Hashim$ ^*Tha$Ã§^*i$[<\/a> ]^(<lpar>$[<a href='Democratic Party of Kosovo|PDK'>]^Democratic<adj>$ ^Party<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^*PDK$[<\/a>]^)<rpar>$[
-]|^leader<n><sg>$_^title<n><sg>$^3<num>$[            ]=[ <a href='speaker of Parliament'>]^speaker<n><sg>$ ^of<pr>$ ^Parliament<n><sg>$[<\/a>
+]|^leader<n><sg>$_^title<n><sg>$^3<num>$[            ]=[ <a href='Speaker of Parliament'>]^Speaker<n><sg>$ ^of<pr>$ ^Parliament<n><sg>$[<\/a>
 ]|^leader<n><sg>$_^name<n><sg>$^3<num>$[             ]=[ <a href='Jakup Krasniqi'>]^*Jakup$ ^*Krasniqi$[<\/a> 
 ]|^sovereignty<n><sg>$_^type<n><sg>$[         ]=[ <a href='Independence'>]^Independence<n><sg>$[<\/a>
 ]|^sovereignty<n><sg>$_^note<n><sg>$[         ]= ^from<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>
