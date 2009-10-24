@@ -290,7 +290,7 @@
 <li><a href='http:\/\/www.aacl.com\/indexmain.html AACL'>]^49<num>$[<\/a> ]^Albanian<adj>$ ^American<adj>$ ^Civic<adj>$ ^League<n><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovalive.com\/?cid=2 KosovaLive'>]^50<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Albanian<adj>$ ^independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$ ^(<lpar>$^this<det><dem><sg>$ ^section<n><sg>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.savekosova.org\/ American Council for Kosova'>]^51<num>$[<\/a> ]^-<guio>$ ^Albanian<adj>$ ^American<adj>$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^issue<n><sg>$ ^of<pr>$ ^*Kosova$ ^by<pr>$ ^the<det><def><sp>$ ^American<adj>$ ^public<n><sg>$^.<sent>$[][<\/li>
-<li>]^\[<lpar>$^*http$^:<sent>$\/\/^www.newkosovo.org<num>$\/ ^The<det><def><sp>$ ^Alliance<n><sg>$ ^For<pr>$ ^A<det><ind><sg>$ ^New<adj><sint>$ ^Kosovo<np><loc><sg>$ ^-<guio>$ ^A<det><ind><sg>$ ^American<adj>$ ^Group<n><sg>$ ^of<pr>$ ^*Diplomats$ ^Work<vblex><ger>$ ^For<pr>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^Independence<n><sg>$^.<sent>$[][<\/li>
+<li>]^*http$^:<sent>$\/\/^www.newkosovo.org<num>$\/ ^The<det><def><sp>$ ^Alliance<n><sg>$ ^For<pr>$ ^A<det><ind><sg>$ ^New<adj><sint>$ ^Kosovo<np><loc><sg>$ ^-<guio>$ ^A<det><ind><sg>$ ^American<adj>$ ^Group<n><sg>$ ^of<pr>$ ^*Diplomats$ ^Work<vblex><ger>$ ^For<pr>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^Independence<n><sg>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
