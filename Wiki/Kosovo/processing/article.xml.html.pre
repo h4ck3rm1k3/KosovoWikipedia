@@ -119,7 +119,7 @@
 <p><br\/>
 <\/p>
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><ul>
-<li><a href='http:\/\/www.osce.org\/kosovo\/documents\/reports\/hr\/part1\/p5app.htm www.osce.org\/kosovo\/documents\/reports\/hr\/part1\/p5app.htm'>]^5<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
+<li><a href='https:\/\/www.osce.org\/documents\/mik\/1999\/11\/1620_en.pdf Human Rights in Kosovo: As Seen, As Told. Volume I, October 1998 - June 1999'>]^5<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
 <li><\/li>
 <li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^6<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ A collection of photos from Kosovo'>]^7<num>$^.<sent>$[][<\/a><\/li>
