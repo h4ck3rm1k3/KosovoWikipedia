@@ -123,7 +123,7 @@
 <a name="Gallery"><\/a><h2>]^Gallery<n><sg>$^.<sent>$[][<\/h2><p>&lt;]^gallery<n><sg>$[&gt;
 ]^Image<n><sg>$^:<sent>$^*Gjakova$^.<sent>$^*jpg$|[<a href='Gjakova'>]^*Gjakova$[<\/a>]\/[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>
 ]^Image<n><sg>$^:<sent>$^French<adj>$ ^*Peugeot$ ^*P$^4<num>$ ^*dsc$^06852<num>$^.<sent>$^*jpg$|[<a href='KFOR'>]^*KFOR$[<\/a>
-]^Image<n><sg>$^:<sent>$^*Prishtina$^.<sent>$^*jpg$|[<a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
+&lt;]^!<sent>$^-<guio>$^-<guio>$ ^Image<n><sg>$ ^with<pr>$ ^*unknown$ ^copyright<n><sg>$ ^status<n><sg>$ ^remove<vblex><past>$^:<sent>$ ^Image<n><sg>$^:<sent>$^*Prishtina$^.<sent>$^*jpg$|[<a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^-<guio>$^-<guio>$[&gt;
 ]^Image<n><sg>$^:<sent>$^*Prizen$ ^*kosovo$^.<sent>$^*jpg$|[<a href='Prizreni'>]^*Prizreni$[<\/a>]\/[<a href='Prizren'>]^*Prizren$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Rahoveci$^.<sent>$^*jpg$|[<a href='Rahovec'>]^*Rahovec$[<\/a>]\/[<a href='Orahovac'>]^*Orahovac$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Skenderbeuinprishtina$^.<sent>$^*jpg$|[<a href='Skenderbeg'>]^*Skenderbeg$[<\/a>

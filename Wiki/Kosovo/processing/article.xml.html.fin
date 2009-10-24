@@ -433,9 +433,11 @@
 ]^Image<n><sg>$^:$
 ^French<adj>$ ^*Peugeot$ ^*P$^4<num>$ ^*dsc$^06852<num>$^.$
 ^*jpg$|[<a href='KFOR'>]^*KFOR$[<\/a>
-]^Image<n><sg>$^:$
+&lt;]^!$
+^-<guio>$^-<guio>$ ^Image<n><sg>$ ^with<pr>$ ^*unknown$ ^copyright<n><sg>$ ^status<n><sg>$ ^remove<vblex><past>$^:$
+ ^Image<n><sg>$^:$
 ^*Prishtina$^.$
-^*jpg$|[<a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
+^*jpg$|[<a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^-<guio>$^-<guio>$[&gt;
 ]^Image<n><sg>$^:$
 ^*Prizen$ ^*kosovo$^.$
 ^*jpg$|[<a href='Prizreni'>]^*Prizreni$[<\/a>]\/[<a href='Prizren'>]^*Prizren$[<\/a>
