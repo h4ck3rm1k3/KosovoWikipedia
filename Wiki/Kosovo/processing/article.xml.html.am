@@ -12,7 +12,7 @@
 ]|^native/native<adj>/native<n><sg>$_^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>$[                 ]= ÐÐ¾^Ñ/*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^Ñ/*Ñ$Ð¾^Ñ/*Ñ$Ð¸^Ñ/*Ñ$Ð° ^(/(<lpar>$ÐÐ¾^Ñ/*Ñ$Ð¼Ðµ^Ñ/*Ñ$^)/)<rpar>$[&lt;]^br/*br$\/[&gt;<em>]^Kosov/*Kosov$Ã« \/ ^Kosova/*Kosova$[<\/em>
 ]|^conventional/conventional<adj>$_^long/long<adv>/long<adj><sint>$_^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>$[      ]= ^Kosovo/Kosovo<np><loc><sg>$[
 ]|^common/common<adj>$_^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>$[                 ]= ^Kosovo/Kosovo<np><loc><sg>$[
-]|^image/image<n><sg>$_^flag/flag<n><sg>$[                  ]=[ 
+]|^image/image<n><sg>$_^flag/flag<n><sg>$[                  ]= ^Flag/Flag<n><sg>$ ^of/of<pr>$ ^the/the<det><def><sp>$ ^United/Unite<vblex><past>/Unite<vblex><pp>$ ^Nations/Nation<n><pl>$^./.<sent>$^svg/*svg$[
 ]|^image/image<n><sg>$_^coat/coat<n><sg>$[                  ]= ^Kosovo/Kosovo<np><loc><sg>$ ^pisg/*pisg$ ^ca/*ca$^./.<sent>$^png/*png$[
 ]|^image/image<n><sg>$_^map/map<n><sg>$[                   ]= ^Kosovo/Kosovo<np><loc><sg>$ ^and/and<cnjcoo>$ ^part/part<n><sg>/part<vblex><inf>/part<vblex><pres>$ ^of/of<pr>$ ^Serbia/*Serbia$^./.<sent>$^png/*png$[
 ]|^map/map<n><sg>$_^caption/*caption$[                 ]= ^Location/Location<n><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$^,/,<cm>$[ <a href='Serbia'>]^Serbia/*Serbia$[<\/a>
