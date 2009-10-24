@@ -222,6 +222,11 @@
 <\/ul>
 <p><br\/>
 <\/p>
+<a name="Culture"><\/a><h2>]^Culture<n><sg>$^.<sent>$[][<\/h2><ul>
+<li><a href='Music of Kosovo'>]^Music<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<\/ul>
+<p><br\/>
+<\/p>
 <a name="List_of_Presidents"><\/a><h2>]^List<n><sg>$ ^of<pr>$ ^President<n><pl>$^.<sent>$[][<\/h2><p>]^List<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^president<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<a href='http:\/\/www.worldstatesmen.org\/Yugoslavia.html#Kosovo'>]^13<num>$[<\/a>]^:<sent>$^.<sent>$[][<\/p>
 <ul>
 <li><a href='Xhavit Nimani'>]^*Xhavit$ ^*Nimani$[<\/a>]^,<cm>$[ <a href='1974'>]^1974<num>$[<\/a>]^-<guio>$[<a href='1981'>]^1981<num>$^.<sent>$[][<\/a><\/li>
@@ -243,13 +248,7 @@
 <li><a href='Bajram Kosumi'>]^*Bajram$ ^*Kosumi$[<\/a>]^,<cm>$[ <a href='2005'>]^2005<num>$[<\/a>]^-<guio>$[<a href='2006'>]^2006<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='Agim Ãeku'>]^*Agim$ Ã^*eku$[<\/a>]^,<cm>$[ <a href='2006'>]^2006<num>$[<\/a>]^-<guio>$^present<n><sg>$^.<sent>$[][<\/li>
 <\/ul>
-<p><br\/>
-<\/p>
-<a name="Culture"><\/a><h2>]^Culture<n><sg>$^.<sent>$[][<\/h2><ul>
-<li><a href='Music of Kosovo'>]^Music<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<\/ul>
-<p><br\/>
-<\/p>
+<p><br\/><\/p>
 <a name="Gallery"><\/a><h2>]^Gallery<n><sg>$^.<sent>$[][<\/h2><p>&lt;]^gallery<n><sg>$[&gt;
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$_^government<n><sg>$^.<sent>$^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^in<pr>$[ <a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Prizen$ ^*kosovo$^.<sent>$^*jpg$|[<a href='Prizreni'>]^*Prizreni$[<\/a>]\/[<a href='Prizren'>]^*Prizren$[<\/a>
