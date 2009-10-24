@@ -561,7 +561,7 @@
 ^*font$^-<guio>$^size<n><sg>$^:$
 ^170%<num><percent>$^;$
 ^left<adv>$^:$
-^100<num>$^*px$^;$
+^95<num>$^*px$^;$
 ^top<adj>$^:$
 ^370<num>$^*px$"[&gt;<strong><a href='%C4%90akovica|Gjakova'>]%^*C$^4%<num><percent>$^90<num>$^*akovica$|^*Gjakova$[<\/a><\/strong>&lt;]\/^*div$[&gt;
 &lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:$
