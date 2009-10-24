@@ -274,14 +274,14 @@
 <p><br\/>
 ]{{^Kosovo<np><loc><sg>$ ^topic<n><pl>$}}[
 ]{{^Template<n><sg>$ ^group<n><sg>$[
-]|^title<n><sg>$ =[ <a href='Image:Nuvola filesystems www.png|23px'>]^Image<n><sg>$^:<sent>$^*Nuvola$ ^*filesystems$ ^*www$^.<sent>$^*png$|^23<num>$^*px$[<\/a> ]^Geographic<adj>$ ^national<adj>$[
+]|^title<n><sg>$ =[ &lt;]^!<sent>$^-<guio>$^-<guio>$[  <a href='Image:Nuvola filesystems www.png|23px'>]^Image<n><sg>$^:<sent>$^*Nuvola$ ^*filesystems$ ^*www$^.<sent>$^*png$|^23<num>$^*px$[<\/a> ]^-<guio>$^-<guio>$[&gt; ]^Geographic<adj>$ ^national<adj>$[
 ]|^list<n><sg>$[  ]=[
 ]{{^District<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]{{^Kosovo<np><loc><sg>$ ^municipality<n><pl>$}}[
 ]{{^Autonomous<adj>$ ^province<n><pl>$ ^of<pr>$ ^*Serbia$}}[
 ]}}[
 ]{{^Template<n><sg>$ ^group<n><sg>$[
-]|^title<n><sg>$ =[ <a href='Image:Crystal Clear app browser.png|23px'>]^Image<n><sg>$^:<sent>$^Crystal<np><ant><f><sg>$ ^Clear<adj><sint>$ ^*app$ ^browser<n><sg>$^.<sent>$^*png$|^23<num>$^*px$[<\/a> ]^Geographic<adj>$ ^international<adj>$[
+]|^title<n><sg>$ =[ &lt;]^!<sent>$^-<guio>$^-<guio>$[  <a href='Image:Crystal Clear app browser.png|23px'>]^Image<n><sg>$^:<sent>$^Crystal<np><ant><f><sg>$ ^Clear<adj><sint>$ ^*app$ ^browser<n><sg>$^.<sent>$^*png$|^23<num>$^*px$[<\/a> ]^-<guio>$^-<guio>$[&gt; ]^Geographic<adj>$ ^international<adj>$[
 ]|^list<n><sg>$[  ]=[
 ]{{^Country<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$}}[
 ]{{^Non<adv>$^-<guio>$^sovereign<adj>$ ^territory<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$}}[
