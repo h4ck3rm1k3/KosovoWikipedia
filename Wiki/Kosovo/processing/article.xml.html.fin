@@ -28,12 +28,8 @@
 ]|^native<adj>$_^name<n><sg>$[              ]= {{^*nowrap$|{{^*lang$|^*sq$|[<em>]^*Republika$ ^*e$ ^*Kosov$Ã«^*s$[<\/em>]}}[&lt;]^*br$[&gt;]{{^*lang$|^*sr$^-<guio>$^*Cyrl$|Ð ÐµÐ^¿<lquest>$^*Ñ$Ð±Ð»Ð¸ÐºÐ° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾}} \/ {{^*lang$|^*sr$^-<guio>$^*Lat$|[<em>]^*Republika$ ^Kosovo<np><loc><sg>$[<\/em>]}}}}[
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[   ]= ^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[ 
 ]|^common<adj>$_^name<n><sg>$[                 ]= ^Kosovo<np><loc><sg>$[
-]|^image<n><sg>$_^flag<n><sg>$[                  ]= ^Flag<n><sg>$_^of<pr>$_^Kosovo<np><loc><sg>$^.$
-^*svg$[
-]|^image<n><sg>$_^coat<n><sg>$[                  ]= ^Coat<n><sg>$ ^of<pr>$ ^Arm<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.$
-^*svg$[ &lt;]^!$
-^-<guio>$^-<guio>$ ^*Stema$ ^*kosoves$ ^*thmb$^.$
-^*jpg$ ^(<lpar>$^this<prn><tn><mf><sg>$ ^be<vbser><past><p3><sg>$ ^publish<vblex><pp>$ ^in<pr>$ ^newspaper<n><pl>$ ^as<pr>$ ^the<det><def><sp>$ ^proposal<n><sg>$ ^that<rel><an><mf><sp>$ ^will<vaux><inf>$ ^be<vbser><inf>$ ^consider<vblex><pp>$ ^by<pr>$ ^the<det><def><sp>$ ^assembly<n><sg>$^,<cm>$ ^prpers<prn><subj><p3><nt><sg>$ ^have<vbhaver><pri><p3><sg>$ ^not<adv>$ ^be<vbser><pp>$ ^confirm<vblex><pp>$ ^by<pr>$ ^the<det><def><sp>$ ^assembly<n><sg>$ ^yet<adv>$^)<rpar>$^-<guio>$^-<guio>$[&gt;
+]|^image<n><sg>$_^flag<n><sg>$[                  ]=[ 
+]|^image<n><sg>$_^coat<n><sg>$[                  ]=[ 
 ]|^image<n><sg>$_^map<n><sg>$[                  ]= ^Europe<np><loc><sg>$_^location<n><sg>$_^*KOS$^.$
 ^*png$[
 ]|^map<n><sg>$_^*caption$[                ]= |^map<n><sg>$_^*caption$ = ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^on<pr>$[ <a href='Europe|European continent'>]^the<det><def><sp>$ ^Europe<np><loc><sg>$|^European<adj>$ ^continent<n><sg>$[<\/a>
@@ -46,7 +42,7 @@
 ]|^capital<n><sg>$[                     ]= {{^*nowrap$|[<a href='PriÅ¡tina|PriÅ¡tina (PrishtinÃ«)'>]^*Pri$Å^¡<lquest>$^*tina$|^*Pri$Å^¡<lquest>$^*tina$ ^(<lpar>$^*Prishtin$Ã«^)<rpar>$[<\/a>]}}[
 ]|^*latd$= |^*latm$= |^*latNS$= |^*longd$= |^*longm$= |^*longEW$=[
 ]|^large<adj><sint><sup>$_^city<n><sg>$[                ]= ^capital<n><sg>$[
-]|^*demonym$[                     ]=[ <a href='Kosovar'>]^*Kosovar$[<\/a>]^,<cm>$[ <a href='kosovan'>]^*kosovan$[<\/a>
+]|^*demonym$[                     ]=[ <a href='Kosovar'>]^*Kosovar$[<\/a>
 ]|^government<n><sg>$_^type<vblex><pres>$[             ]= ^Interim<adj>$[
 ]|^leader<n><sg>$_^title<n><sg>$^1<num>$[               ]= {{^*nowrap$|^Special<adj>$ ^Representative<n><sg>$ ^of<pr>$}} {{^*nowrap$|^the<det><def><sp>$ ^Secretary<n><sg>$^-<guio>$^General<adj>$}}[
 ]|^leader<n><sg>$_^name<n><sg>$^1<num>$[                ]=[ &lt;]^*br$\/[&gt;<a href='Joachim RÃ¼cker'>]^*Joachim$ ^*R$Ã¼^*cker$[<\/a>
@@ -90,15 +86,15 @@
 <strong>]^Kosovo<np><loc><sg>$[<\/strong> &lt;]^!$
 ^-<guio>$^-<guio>$^Please<vblex><inf>$ ^leave<vblex><inf>$ ^the<det><def><sp>$ ^follow<vblex><ger>$ ^language<n><sg>$ ^order<n><sg>$ ^as<pr>$ ^Albanian<n><sg>$ ^follow<vblex><pp>$ ^by<pr>$ ^*Serbian$^:$
  ^this<prn><tn><mf><sg>$ ^be<vbser><pri><p3><sg>$ ^*alphabetical$ ^and<cnjcoo>$ ^as<preadv>$ ^neutral<adj>$ ^as<cnjadv>$ ^prpers<prn><subj><p1><mf><pl>$ ^can<vaux><pres>$ ^get<vblex><inf>$^;$
- ^Albanian<n><sg>$ ^be<vbser><pri><p3><sg>$ ^also<adv>$ ^the<det><def><sp>$ ^primary<adj>$ ^language<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^region<n><sg>$^-<guio>$^-<guio>$[&gt;]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Kosova$}} ^or<cnjcoo>$[ <em>]^*Kosov$Ã«[<\/em>]^,<cm>$ {{^*lang$^-<guio>$^*sr$|ÐÐ¾^*Ñ$Ð¾Ð²Ð¾}}^,<cm>$[ <em>]^Kosovo<np><loc><sg>$[<\/em>]^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^territory<n><sg>$ ^in<pr>$[ <a href='southeastern Europe'>]^*southeastern$ ^Europe<np><loc><sg>$[<\/a> ]^and<cnjcoo>$ ^a<det><ind><sg>$ ^*disputed$ ^province<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>]^.$
- ^After<cnjadv>$[ <a href='Kosovo status process|international negotiations'>]^Kosovo<np><loc><sg>$ ^status<n><sg>$ ^process<vblex><pres>$|^international<adj>$ ^negotiation<n><pl>$[<\/a> ]^fail<vblex><pp>$ ^to<pr>$ ^reach<vblex><inf>$ ^a<det><ind><sg>$ ^consensus<n><sg>$ ^on<pr>$ ^a<det><ind><sg>$ ^acceptable<adj>$[ <a href='constitutional status of Kosovo|constitutional status'>]^constitutional<adj>$ ^status<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^constitutional<adj>$ ^status<n><sg>$[<\/a>]^,<cm>$[ <a href='Provisional Institutions of Self-Government|Kosovo's provisional government'>]^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$|^Kosovo<np><loc><sg>$^'s<gen>$ ^provisional<adj>$ ^government<n><sg>$[<\/a> ]^unilaterally<adv>$[ <a href='declaration of independence|declared independence'>]^*declaration$ ^of<pr>$ ^independence<n><sg>$|^declare<vblex><pp>$ ^independence<n><sg>$[<\/a> ]^from<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a> ]^on<pr>$[ <a href='17 February'>]^17<num>$ ^February<n><sg>$[<\/a> <a href='2008'>]^2008<num>$[<\/a>]^.$
-[  ]^The<det><def><sp>$[ <strong>]^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Republika$ ^*e$ ^*Kosov$Ã«^*s$}}^,<cm>$ {{^*lang$^-<guio>$^*sr$|Ð ÐµÐ^¿<lquest>$^*Ñ$Ð±Ð»Ð¸ÐºÐ° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾}}^,<cm>$[ <em>]^*Republika$ ^Kosovo<np><loc><sg>$[<\/em>]^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^expect<vblex><pp>$ ^to<pr>$ ^receive<vblex><inf>$[ <a href='Foreign relations of Kosovo|partial international recognition'>]^Foreign<adj>$ ^relation<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^partial<adj>$ ^international<adj>$ ^recognition<n><sg>$[<\/a> ]^as<pr>$ ^a<det><ind><sg>$ ^independent<adj>$ ^country<n><sg>$^.$
+ ^Albanian<n><sg>$ ^be<vbser><pri><p3><sg>$ ^also<adv>$ ^the<det><def><sp>$ ^primary<adj>$ ^language<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^region<n><sg>$^-<guio>$^-<guio>$[&gt;]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Kosova$}} ^or<cnjcoo>$[ <em>]^*Kosov$Ã«[<\/em>]^,<cm>$ {{^*lang$^-<guio>$^*sr$|ÐÐ¾^*Ñ$Ð¾Ð²Ð¾}}^,<cm>$[ <em>]^Kosovo<np><loc><sg>$[<\/em>]^,<cm>$ {{^*lang$^-<guio>$^*tr$|^*Kosova$}}^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^territory<n><sg>$ ^in<pr>$[ <a href='southeastern Europe'>]^*southeastern$ ^Europe<np><loc><sg>$[<\/a> ]^*internationally$ ^recognize<vblex><pp>$ ^as<pr>$ ^part<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>]^.$
+ ^After<cnjadv>$[ <a href='Kosovo status process|international negotiations'>]^Kosovo<np><loc><sg>$ ^status<n><sg>$ ^process<vblex><pres>$|^international<adj>$ ^negotiation<n><pl>$[<\/a> ]^fail<vblex><pp>$ ^to<pr>$ ^reach<vblex><inf>$ ^a<det><ind><sg>$ ^consensus<n><sg>$ ^on<pr>$ ^a<det><ind><sg>$ ^acceptable<adj>$[ <a href='constitutional status of Kosovo|constitutional status'>]^constitutional<adj>$ ^status<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^constitutional<adj>$ ^status<n><sg>$[<\/a>]^,<cm>$[ <a href='Provisional Institutions of Self-Government|Kosovo's provisional government'>]^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$|^Kosovo<np><loc><sg>$^'s<gen>$ ^provisional<adj>$ ^government<n><sg>$[<\/a> ]^unilaterally<adv>$[ <a href='declaration of independence|declared independence'>]^*declaration$ ^of<pr>$ ^independence<n><sg>$|^declare<vblex><pp>$ ^independence<n><sg>$[<\/a> ]^from<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a> ]^on<pr>$[ <a href='17 February'>]^17<num>$ ^February<n><sg>$[<\/a> <a href='2008'>]^2008<num>$[<\/a>]^,<cm>$ ^which<prn><itg><m><sp>$ ^the<det><def><sp>$[ <a href='Government of Serbia'>]^Government<n><sg>$ ^of<pr>$ ^*Serbia$[<\/a> ]^*proactively$ ^*annulled$^.$
+[  ]^The<det><def><sp>$[ <strong>]^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Republika$ ^*e$ ^*Kosov$Ã«^*s$}}^,<cm>$ {{^*lang$^-<guio>$^*sr$|Ð ÐµÐ^¿<lquest>$^*Ñ$Ð±Ð»Ð¸ÐºÐ° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾}}^,<cm>$[ <em>]^*Republika$ ^Kosovo<np><loc><sg>$[<\/em>]^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^*anticipated$ ^to<pr>$ ^receive<vblex><inf>$[ <a href='Foreign relations of Kosovo|partial international recognition'>]^Foreign<adj>$ ^relation<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^partial<adj>$ ^international<adj>$ ^recognition<n><sg>$[<\/a> ]^as<pr>$ ^a<det><ind><sg>$ ^independent<adj>$ ^country<n><sg>$^.$
 [  ]^The<det><def><sp>$ ^*Serbian$ ^government<n><sg>$ ^regard<n><pl>$ ^the<det><def><sp>$ ^territory<n><sg>$ ^as<pr>$ ^a<det><ind><sg>$ ^integral<adj>$ ^part<n><sg>$ ^of<pr>$ ^*Serbia$^,<cm>$ ^the<det><def><sp>$[ <strong>]^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$[<\/strong> ]^(<lpar>${{^*lang$^-<guio>$^*sr$|Ð^*Ñ$^*Ñ$Ð¾Ð½Ð¾Ð¼Ð½Ð° Ð^¿<lquest>$Ð¾Ðº^*Ñ$Ð°^*Ñ$Ð¸Ð½Ð° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°}}^,<cm>$[ <em>]^*Autonomna$ ^*pokrajina$ ^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/em>]^,<cm>$ ^also<adv>$ ÐÐ¾^*Ñ$Ð¼Ðµ^*Ñ$^,<cm>$[ <em>]^*Kosmet$[<\/em>]^;$
  {{^*lang$^-<guio>$^*sq$|^*Krahina$ ^*Autonome$ ^*e$ ^*Kosov$Ã«^*s$ ^*dhe$ ^*Metohis$Ã«}}^)<rpar>$^.$
 ^.$
 [][<\/p>
 <p>]^In addition to<pr>$ ^its<det><pos><sp>$ ^frontier<n><sg>$ ^with<pr>$ ^what<rel><nn><mf><sg>$ ^*Serbia$ ^consider<vblex><pri><p3><sg>$ ^to<pr>$ ^be<vbser><inf>$ ^the<det><def><sp>$ ^*remainder$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^state<n><sg>$^,<cm>$ ^Kosovo<np><loc><sg>$ ^border<n><pl>$[ <a href='Montenegro'>]^Montenegro<np><loc><sg>$[<\/a>]^,<cm>$[ <a href='Albania'>]^*Albania$[<\/a>]^,<cm>$ ^and<cnjcoo>$ ^the<det><def><sp>$[ <a href='Republic of Macedonia'>]^Republic<n><sg>$ ^of<pr>$ ^Macedonia<np><ant><f><sg>$[<\/a>]^.$
- ^Prpers<prn><subj><p3><nt><sg>$ ^have<vblex><pri><p3><sg>$ ^a<det><ind><sg>$ ^population<n><sg>$ ^of<pr>$ ^just<adv>$ ^over<pr>$ ^two<num><sp>$ ^million<num><sp>$ ^person<n><pl>$^,<cm>$ ^predominantly<adv>$ ^ethnic<adj>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>]^,<cm>$ ^with<pr>$ ^small<adj><sint><comp>$ ^population<n><pl>$ ^of<pr>$[ <a href='Serbs'>]^*Serbs$[<\/a>]^,<cm>$[ <a href='Romani people'>]^*Romani$ ^person<n><pl>$[<\/a>]^,<cm>$[ <a href='Gorani (ethnic group)|Gorani'>]^*Gorani$ ^(<lpar>$^ethnic<adj>$ ^group<n><sg>$^)<rpar>$|^*Goranis$[<\/a>]^,<cm>$[ <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$[<\/a>]^,<cm>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^and<cnjcoo>$ ^other<det><ind><sp>$ ^ethnic<adj>$ ^community<n><pl>$^.$
+ ^Prpers<prn><subj><p3><nt><sg>$ ^have<vblex><pri><p3><sg>$ ^a<det><ind><sg>$ ^population<n><sg>$ ^of<pr>$ ^just<adv>$ ^over<pr>$ ^two<num><sp>$ ^million<num><sp>$ ^person<n><pl>$^,<cm>$ ^predominantly<adv>$ ^ethnic<adj>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>]^,<cm>$ ^with<pr>$ ^small<adj><sint><comp>$ ^population<n><pl>$ ^of<pr>$[ <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$[<\/a>]^,<cm>$[ <a href='Serbs'>]^*Serbs$[<\/a>]^,<cm>$[ <a href='Romani people'>]^*Romani$ ^person<n><pl>$[<\/a>]^,<cm>$[ <a href='Gorani (ethnic group)|Gorani'>]^*Gorani$ ^(<lpar>$^ethnic<adj>$ ^group<n><sg>$^)<rpar>$|^*Goranis$[<\/a>]^,<cm>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^and<cnjcoo>$ ^other<det><ind><sp>$ ^ethnic<adj>$ ^community<n><pl>$^.$
 [ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$ ^capital<adj>$ ^and<cnjcoo>$ ^large<adj><sint><sup>$ ^city<n><sg>$^.$
 ^.$
 [][<\/p>
@@ -670,6 +666,10 @@
 [][&gt;<\/p>
 <a name="Declaration_of_independence"><\/a><h4>]^*Declaration$ ^of<pr>$ ^independence<n><sg>$^.$
 [][<\/h4><p>]{{^main<adj>$|^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$}}[
+<a href='Image:Kosovo_Independence_3.PNG|thumb|right|200px|Kosovo Albanians celebrate the Kosovan proclamation of independence on February 17, 2008.'>]^Image<n><sg>$^:$
+^Kosovo<np><loc><sg>$_^Independence<n><sg>$_^3<num>$^.$
+^*PNG$|^thumb<n><sg>$|^right<n><sg>$|^200<num>$^*px$|^Kosovo<np><loc><sg>$ ^Albanian<n><pl>$ ^celebrate<vblex><inf>$ ^the<det><def><sp>$ ^*Kosovan$ ^*proclamation$ ^of<pr>$ ^independence<n><sg>$ ^on<pr>$ ^February<n><sg>$ ^17<num>$^,<cm>$ ^2008<num>$^.$
+[<\/a>
 ]^The<det><def><sp>$ ^*Kosovan$ ^parliament<n><sg>$ ^approve<vblex><past>$ ^a<det><ind><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$ ^on<pr>$[ <a href='17 February'>]^17<num>$ ^February<n><sg>$[<\/a> <a href='2008'>]^2008<num>$[<\/a>]^,<cm>$ ^just<adv>$ ^before<pr>$ ^3<num>$ ^PM<n><acr><sg>$ ^local<adj>$ ^time<n><sg>$^.$
 [&lt;]^*ref$[&gt;]^*http$^:$
 \/\/^news<n><sg>$^.$
@@ -694,7 +694,7 @@
 ^*com$\/^*rtrs$\/^20080217<num>$\/^*tpl$^-<guio>$^*uk$^-<guio>$^*kosovo$^-<guio>$^*serbia$^-<guio>$^*kostunica$^-<guio>$^43<num>$^a<det><ind><sg>$^8<num>$^*d$^4<num>$^*f$^.$
 ^*html$[&lt;]\/^*ref$^.$
 [][&gt;<\/p>
-<p>]^The<det><def><sp>$[ <a href='Russian Federation'>]^Russian<adj>$ ^Federation<n><sg>$[<\/a>]^,<cm>$ ^say<vblex><past>$ ^prpers<prn><subj><p3><nt><sg>$ ^be<vbser><past><p3><sg>$ ^call# for<vblex><ger>$[ <a href='United Nations Security Council'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$[<\/a> ]^consultation<n><pl>$ ^over<pr>$ ^the<det><def><sp>$ ^independence<n><sg>$ ^*declaration$^.$
+<p>]^The<det><def><sp>$[ <a href='Russian Federation'>]^Russian<adj>$ ^Federation<n><sg>$[<\/a>]^,<cm>$ ^*Serbia$^'s<gen>$ ^ally<n><sg>$^,<cm>$ ^say<vblex><past>$ ^prpers<prn><subj><p3><nt><sg>$ ^be<vbser><past><p3><sg>$ ^call# for<vblex><ger>$[ <a href='United Nations Security Council'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$[<\/a> ]^consultation<n><pl>$ ^over<pr>$ ^the<det><def><sp>$ ^independence<n><sg>$ ^*declaration$^.$
 [&lt;]^*ref$[&gt;]^*http$^:$
 \/\/^*uk$^.$
 ^news<n><sg>$^.$
@@ -718,7 +718,11 @@
 [  ]^Kosovo<np><loc><sg>$ ^have<vbhaver><pri><p3><sg>$ ^also<adv>$ ^establish<vblex><pp>$ ^municipal<adj>$ ^government<n><sg>$ ^and<cnjcoo>$ ^a<det><ind><sg>$ ^*internationally$^-<guio>$^supervise<vblex><pp>$ ^Kosovo<np><loc><sg>$ ^Police<adj>$ ^Service<n><sg>$^.$
 ^.$
 [][<\/p>
-<p>]^According to<pr>$ ^the<det><def><sp>$ ^Constitutional<adj>$ ^Framework<n><sg>$^,<cm>$ ^Kosovo<np><loc><sg>$ ^shall<vaux><inf>$ ^have<vblex><inf>$ ^a<det><ind><sg>$ ^120<num>$^-<guio>$^member<n><sg>$ ^Kosovo<np><loc><sg>$ ^Assembly<n><sg>$^.$
+<p><a href='Image:Kosovo pisg ca.png|thumb|right|100px|The \[\[Approved logo of the Provisional Institutions of Self-Government|Approved Logo'>]^Image<n><sg>$^:$
+^Kosovo<np><loc><sg>$ ^*pisg$ ^*ca$^.$
+^*png$|^thumb<n><sg>$|^right<n><sg>$|^100<num>$^*px$|^The<det><def><sp>$ ^\[<lpar>$^\[<lpar>$^Approve<vblex><pp>$ ^*logo$ ^of<pr>$ ^the<det><def><sp>$ ^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$|^Approve<vblex><pp>$ ^*Logo$[<\/a> ]^of<pr>$ ^the<det><def><sp>$[ <a href='Provisional Institutions of Self-Government'>]^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$[<\/a>]^.$
+^\]<rpar>$^\]<rpar>$[
+]^According to<pr>$ ^the<det><def><sp>$ ^Constitutional<adj>$ ^Framework<n><sg>$^,<cm>$ ^Kosovo<np><loc><sg>$ ^shall<vaux><inf>$ ^have<vblex><inf>$ ^a<det><ind><sg>$ ^120<num>$^-<guio>$^member<n><sg>$ ^Kosovo<np><loc><sg>$ ^Assembly<n><sg>$^.$
 [  ]^The<det><def><sp>$ ^Assembly<n><sg>$ ^include<vblex><pri><p3><sg>$ ^twenty<num><sp>$ ^reserve<vblex><pp>$ ^seat<n><pl>$^:$
  ^ten<num><sp>$ ^for<cnjadv>$ ^Kosovo<np><loc><sg>$ ^*Serbs$ ^and<cnjcoo>$ ^ten<num><sp>$ ^for<cnjadv>$ ^non<adv>$^-<guio>$^*Serb$ ^minority<n><pl>$ ^(<lpar>$^*Bosniaks$^,<cm>$ ^*Roma$^,<cm>$ ^*etc$^.$
 ^)<rpar>$^.$
