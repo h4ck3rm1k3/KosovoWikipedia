@@ -20,7 +20,7 @@
 ]|^image/image<n><sg>$_^map/map<n><sg>$ = ^Kosovo/Kosovo<np><loc><sg>$ ^map/map<n><sg>$^-/-<guio>$^en/*en$^./.<sent>$^svg/*svg$[
 ]|^map/map<n><sg>$_^caption/*caption$ = ^Map/Map<n><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$[
 ]|^national/national<adj>$_^motto/*motto$[           ]=[
-]|^national/national<adj>$_^anthem/*anthem$[          ]=[ <a href='Europe (anthem)|"Europe"'>]^Europe/Europe<np><loc><sg>$ ^(/(<lpar>$^anthem/*anthem$^)/)<rpar>$|"^Europe/Europe<np><loc><sg>$"[<\/a>
+]|^national/national<adj>$_^anthem/*anthem$[          ]=[ <a href='Europe (anthem)|"Europe"'>]^Europe/Europe<np><loc><sg>$ ^(/(<lpar>$^anthem/*anthem$^)/)<rpar>$|"^Europe/Europe<np><loc><sg>$"[<\/a>&lt;]^sup/*sup$[&gt;]^3/3<num>$[&lt;]\/^sup/*sup$[&gt;&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$ ^not/not<adv>$ ^text/text<n><sg>$ ^-/-<guio>$^-/-<guio>$[&gt;
 ]|^ethnic/ethnic<adj>$_^groups/group<n><pl>$[            ]= ^92%/92%<num><percent>$[ <a href='Albanians'>]^Albanians/Albanian<n><pl>$[<\/a>&lt;]^br/*br$\/[&gt;]^5.3%/5.3%<num><percent>$[ <a href='Serbs'>]^Serbs/*Serbs$[<\/a>&lt;]^br/*br$\/[&gt;]^2.7%/2.7%<num><percent>$ ^others/others<prn><tn><mf><pl>$[ &lt;]^ref/*ref$[&gt;<a href='http:\/\/www.ks-gov.net\/ESK\/esk\/english\/english.htm Enti i StatistikÃ«s sÃ« KosovÃ«s'>]^1/1<num>$[<\/a>&lt;]\/^ref/*ref$[&gt;
 ]|^ethnic/ethnic<adj>$_^groups/group<n><pl>$_^year/year<n><sg>$[       ]= ^2007/2007<num>$[
 ]|^capital/capital<adj>/capital<n><sg>$[                  ]= {{^nowrap/*nowrap$|[<a href='Pristina'>]^Pristina/*Pristina$[<\/a> ]^(/(<lpar>$^also/also<adv>$ ^Prishtina/*Prishtina$^,/,<cm>$ ^Pri/*Pri$Å^¡/¡<lquest>$^tina/*tina$^)/)<rpar>$}}[
@@ -57,6 +57,7 @@
 ]|^calling/call<vblex><ger>/call<vblex><pprs>/call<vblex><subs>$_^code/code<n><sg>$[             ]= ^381/381<num>$[
 ]|^footnote/*footnote$^1/1<num>$[                ]= ^The/The<det><def><sp>$ ^census/*census$ ^is/be<vbser><pri><p3><sg>$ ^a/a<det><ind><sg>$ ^reconstruction/reconstruction<n><sg>$^;/;<sent>$ ^most of/most of<det><qnt><sp>$ ^the/the<det><def><sp>$ ^ethnic/ethnic<adj>$ ^Albanian/Albanian<adj>/Albanian<n><sg>$ ^majority/majority<n><sg>$ ^boycotted/boycott<vblex><past>/boycott<vblex><pp>$^./.<sent>$[
 ]|^footnote/*footnote$^2/2<num>$[                ]= ^Officially/Officially<adv>$[ <a href='+381'>]+^381/381<num>$[<\/a>]^;/;<sent>$ ^some/some<adv>/some<det><qnt><sp>/some<prn><tn><mf><pl>$ ^mobile/mobile<adj>/mobile<n><sg>$ ^phone/phone<n><sg>/phone<vblex><inf>/phone<vblex><pres>$ ^providers/provider<n><pl>$ ^use/use<n><sg>/use<vblex><inf>/use<vblex><pres>$[ <a href='+377'>]+^377/377<num>$[<\/a> ]^(/(<lpar>$^Monaco/Monaco<np><loc><sg>$^)/)<rpar>$ ^or/or<cnjcoo>$[ <a href='+386'>]+^386/386<num>$[<\/a> ]^(/(<lpar>$^Slovenia/Slovenia<np><loc><sg>$^)/)<rpar>$ ^instead/instead<adv>$^./.<sent>$[
+]|^footnote/*footnote$^3/3<num>$[                ]=^it/prpers<prn><subj><p3><nt><sg>/prpers<prn><obj><p3><nt><sg>$ ^is/be<vbser><pri><p3><sg>$ ^anthem/*anthem$ ^Â/*Â$«^EuropeÂ/*EuropeÂ$» ^has/have<vbhaver><pri><p3><sg>/have<vblex><pri><p3><sg>$ ^not/not<adv>$ ^text/text<n><sg>$[
 ]}}[
 ]{{^Republic/Republic<n><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$}}[
 ]{{^Infobox/*Infobox$ ^Country/Country<n><sg>$[
@@ -309,6 +310,7 @@
 ]|^title/title<n><sg>/title<vblex><inf>/title<vblex><pres>$ =[ <a href='Image:Crystal Clear app browser.png|23px'>]^Image/Image<n><sg>$^:/:<sent>$^Crystal/Crystal<n><sg>/Crystal<np><ant><f><sg>$ ^Clear/Clear<adj><sint>/Clear<vblex><inf>/Clear<vblex><pres>$ ^app/*app$ ^browser/browser<n><sg>$^./.<sent>$^png/*png$|^23/23<num>$^px/*px$[<\/a> ]^Geographic/Geographic<adj>$ ^international/international<adj>$[
 ]|^list/list<n><sg>/list<vblex><inf>/list<vblex><pres>$[  ]=[
 ]{{^Countries/Country<n><pl>$ ^of/of<pr>$ ^Europe/Europe<np><loc><sg>$}}[
+]{{^Non/Non<adv>$^-/-<guio>$^sovereign/sovereign<adj>/sovereign<n><sg>$ ^territories/territory<n><pl>$ ^of/of<pr>$ ^Europe/Europe<np><loc><sg>$}}[
 ]{{^Central/Central<adj>$ ^European/European<adj>/European<n><sg>$ ^Free/Free<adj><sint>/Free<vblex><inf>/Free<vblex><pres>$ ^Trade/Trade<n><sg>/Trade<vblex><inf>/Trade<vblex><pres>$ ^Agreement/Agreement<n><sg>$ ^(/(<lpar>$^CEFTA/*CEFTA$^)/)<rpar>$}}[
 ]}}^./.<sent>$[][<\/p>
 <p>&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^Categories/Category<n><pl>$^-/-<guio>$^-/-<guio>$[&gt;

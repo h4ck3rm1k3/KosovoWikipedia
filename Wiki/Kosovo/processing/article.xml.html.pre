@@ -20,7 +20,7 @@
 ]|^image<n><sg>$_^map<n><sg>$ = ^Kosovo<np><loc><sg>$ ^map<n><sg>$^-<guio>$^*en$^.<sent>$^*svg$[
 ]|^map<n><sg>$_^*caption$ = ^Map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[
 ]|^national<adj>$_^*motto$[           ]=[
-]|^national<adj>$_^*anthem$[          ]=[ <a href='Europe (anthem)|"Europe"'>]^Europe<np><loc><sg>$ ^(<lpar>$^*anthem$^)<rpar>$|"^Europe<np><loc><sg>$"[<\/a>
+]|^national<adj>$_^*anthem$[          ]=[ <a href='Europe (anthem)|"Europe"'>]^Europe<np><loc><sg>$ ^(<lpar>$^*anthem$^)<rpar>$|"^Europe<np><loc><sg>$"[<\/a>&lt;]^*sup$[&gt;]^3<num>$[&lt;]\/^*sup$[&gt;&lt;]^!<sent>$^-<guio>$^-<guio>$ ^not<adv>$ ^text<n><sg>$ ^-<guio>$^-<guio>$[&gt;
 ]|^ethnic<adj>$_^group<n><pl>$[            ]= ^92%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>&lt;]^*br$\/[&gt;]^5.3%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a>&lt;]^*br$\/[&gt;]^2.7%<num><percent>$ ^others<prn><tn><mf><pl>$[ &lt;]^*ref$[&gt;<a href='http:\/\/www.ks-gov.net\/ESK\/esk\/english\/english.htm Enti i StatistikÃ«s sÃ« KosovÃ«s'>]^1<num>$[<\/a>&lt;]\/^*ref$[&gt;
 ]|^ethnic<adj>$_^group<n><pl>$_^year<n><sg>$[       ]= ^2007<num>$[
 ]|^capital<n><sg>$[                  ]= {{^*nowrap$|[<a href='Pristina'>]^*Pristina$[<\/a> ]^(<lpar>$^also<adv>$ ^*Prishtina$^,<cm>$ ^*Pri$Å^¡<lquest>$^*tina$^)<rpar>$}}[
@@ -57,6 +57,7 @@
 ]|^call<vblex><ger>$_^code<n><sg>$[             ]= ^381<num>$[
 ]|^*footnote$^1<num>$[                ]= ^The<det><def><sp>$ ^*census$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^reconstruction<n><sg>$^;<sent>$ ^most of<det><qnt><sp>$ ^the<det><def><sp>$ ^ethnic<adj>$ ^Albanian<adj>$ ^majority<n><sg>$ ^boycott<vblex><past>$^.<sent>$[
 ]|^*footnote$^2<num>$[                ]= ^Officially<adv>$[ <a href='+381'>]+^381<num>$[<\/a>]^;<sent>$ ^some<prn><tn><mf><pl>$ ^mobile<adj>$ ^phone<n><sg>$ ^provider<n><pl>$ ^use<n><sg>$[ <a href='+377'>]+^377<num>$[<\/a> ]^(<lpar>$^Monaco<np><loc><sg>$^)<rpar>$ ^or<cnjcoo>$[ <a href='+386'>]+^386<num>$[<\/a> ]^(<lpar>$^Slovenia<np><loc><sg>$^)<rpar>$ ^instead<adv>$^.<sent>$[
+]|^*footnote$^3<num>$[                ]=^prpers<prn><obj><p3><nt><sg>$ ^be<vbser><pri><p3><sg>$ ^*anthem$ ^*Â$«^*EuropeÂ$» ^have<vbhaver><pri><p3><sg>$ ^not<adv>$ ^text<n><sg>$[
 ]}}[
 ]{{^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]{{^*Infobox$ ^Country<n><sg>$[
@@ -309,6 +310,7 @@
 ]|^title<n><sg>$ =[ <a href='Image:Crystal Clear app browser.png|23px'>]^Image<n><sg>$^:<sent>$^Crystal<np><ant><f><sg>$ ^Clear<adj><sint>$ ^*app$ ^browser<n><sg>$^.<sent>$^*png$|^23<num>$^*px$[<\/a> ]^Geographic<adj>$ ^international<adj>$[
 ]|^list<n><sg>$[  ]=[
 ]{{^Country<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$}}[
+]{{^Non<adv>$^-<guio>$^sovereign<adj>$ ^territory<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$}}[
 ]{{^Central<adj>$ ^European<adj>$ ^Free<adj><sint>$ ^Trade<n><sg>$ ^Agreement<n><sg>$ ^(<lpar>$^*CEFTA$^)<rpar>$}}[
 ]}}^.<sent>$[][<\/p>
 <p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$[&gt;
