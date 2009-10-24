@@ -130,7 +130,7 @@
 ]|^work/work<n><sg>/work<vblex><inf>/work<vblex><pres>$=^BBC/BBC<n><acr><sg>$ ^News/News<n><sg>/News<n><pl>$}}[&lt;]\/^ref/*ref$^./.<sent>$[][&gt;<\/p>
 <a name="Borders_of_Kosovo"><\/a><h2>]^Borders/Border<n><pl>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$^./.<sent>$[][<\/h2><ul>
 <li>]^with/with<pr>$[ <a href='Albania'>]^Albania/*Albania$[<\/a> ]^-/-<guio>$^./.<sent>$[][ <\/li>
-<li>]^with/with<pr>$[ <a href='Macedonia'>]^Macedonia/Macedonia<np><ant><f><sg>$[<\/a> ]^-/-<guio>$^./.<sent>$[][ <\/li>
+<li>]^with/with<pr>$ ^the/the<det><def><sp>$[ <a href='Republic of Macedonia'>]^Republic/Republic<n><sg>$ ^of/of<pr>$ ^Macedonia/Macedonia<np><ant><f><sg>$[<\/a> ]^-/-<guio>$^./.<sent>$[][ <\/li>
 <li>]^with/with<pr>$[ <a href='Montenegro'>]^Montenegro/Montenegro<np><loc><sg>$[<\/a> ]^-/-<guio>$^./.<sent>$[][ <\/li>
 <li>]^with/with<pr>$[ <a href='Central Serbia'>]^Central/Central<adj>$ ^Serbia/*Serbia$[<\/a> ]^-/-<guio>$^./.<sent>$[][ <\/li>
 <\/ul>

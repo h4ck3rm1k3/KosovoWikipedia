@@ -130,7 +130,7 @@
 ]|^work<n><sg>$=^BBC<n><acr><sg>$ ^News<n><sg>$}}[&lt;]\/^*ref$^.<sent>$[][&gt;<\/p>
 <a name="Borders_of_Kosovo"><\/a><h2>]^Border<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/h2><ul>
 <li>]^with<pr>$[ <a href='Albania'>]^*Albania$[<\/a> ]^-<guio>$^.<sent>$[][ <\/li>
-<li>]^with<pr>$[ <a href='Macedonia'>]^Macedonia<np><ant><f><sg>$[<\/a> ]^-<guio>$^.<sent>$[][ <\/li>
+<li>]^with<pr>$ ^the<det><def><sp>$[ <a href='Republic of Macedonia'>]^Republic<n><sg>$ ^of<pr>$ ^Macedonia<np><ant><f><sg>$[<\/a> ]^-<guio>$^.<sent>$[][ <\/li>
 <li>]^with<pr>$[ <a href='Montenegro'>]^Montenegro<np><loc><sg>$[<\/a> ]^-<guio>$^.<sent>$[][ <\/li>
 <li>]^with<pr>$[ <a href='Central Serbia'>]^Central<adj>$ ^*Serbia$[<\/a> ]^-<guio>$^.<sent>$[][ <\/li>
 <\/ul>
