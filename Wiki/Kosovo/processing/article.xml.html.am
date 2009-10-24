@@ -174,7 +174,11 @@
 <\/ul>
 <p><br\/>
 <\/p>
-<a name="Pro-Albanian"><\/a><h3>]^Pro/*Pro$^-/-<guio>$^Albanian/Albanian<adj>/Albanian<n><sg>$^./.<sent>$[][<\/h3><ul>
+<a name="Pro-Albanian"><\/a><h3>]^Pro/*Pro$^-/-<guio>$^Albanian/Albanian<adj>/Albanian<n><sg>$^./.<sent>$[][<\/h3><p>&lt;]^div/*div$ ^class/class<n><sg>$="^NavFrame/*NavFrame$"^./.<sent>$[][&gt;<\/p>
+
+<pre>&lt;]^div/*div$ ^class/class<n><sg>$="^NavHead/*NavHead$"[&gt;]^Pro/*Pro$^-/-<guio>$^Albanian/Albanian<adj>/Albanian<n><sg>$[&lt;]\/^div/*div$[&gt;
+&lt;]^div/*div$ ^class/class<n><sg>$="^NavContent/*NavContent$" ^style/style<n><sg>$="^text/text<n><sg>$^-/-<guio>$^align/*align$^:/:<sent>$^left/left<adj>/left<adv>/left<n><sg>/leave<vblex><past>/leave<vblex><pp>$^;/;<sent>$"^./.<sent>$[][&gt;
+<\/pre><ul>
 <li><a href='http:\/\/BalkanUpdate.blogspot.com Balkan Update'>]^17/17<num>$[<\/a>]^-/-<guio>$ ^A/A<det><ind><sg>$ ^blog/*blog$ ^with/with<pr>$ ^news/news<n><sg>/news<n><pl>$^,/,<cm>$ ^analysis/analysis<n><sg>$ ^and/and<cnjcoo>$ ^the/the<det><def><sp>$ ^lates/*lates$ ^updates/update<vblex><pri><p3><sg>$ ^from/from<pr>$ ^Balkans/*Balkans$^./.<sent>$[][<\/li>
 <li><a href='http:\/\/www.eciks.org Economic Initiative for Kosovo'>]^18/18<num>$[<\/a> ]^-/-<guio>$ "^./.<sent>$^./.<sent>$^./.<sent>$^latest/late<adj><sint><sup>$ ^news/news<n><sg>/news<n><pl>$^,/,<cm>$ ^analysis/analysis<n><sg>$ ^and/and<cnjcoo>$ ^publications/publication<n><pl>$ ^from/from<pr>$ ^the/the<det><def><sp>$ ^Kosovar/*Kosovar$ ^economy/economy<n><sg>$"^./.<sent>$[][<\/li>
 <li><a href='http:\/\/www.albanian.com\/main\/countries\/kosova Albanian.com'>]^19/19<num>$[<\/a> ]^-/-<guio>$ ^general/general<adj>/general<n><sg>$ ^information/information<n><sg>$^./.<sent>$[][<\/li>
@@ -187,9 +191,10 @@
 <li><a href='http:\/\/www.xhakli.com\/2004\/05\/kosovo-search-challenge-helping-people_25.php?show_id=108543905534062634 Kosovo Search Challenge: Helping people find information from Kosovo'>]^25/25<num>$[<\/a> ]^Kosovo/Kosovo<np><loc><sg>$ ^Blog/*Blog$^./.<sent>$[][<\/li>
 <li><a href='http:\/\/www.aacl.com\/indexmain.html AACL'>]^26/26<num>$[<\/a> ]^Albanian/Albanian<adj>/Albanian<n><sg>$ ^American/American<adj>/American<n><sg>$ ^Civic/Civic<adj>$ ^League/League<n><sg>$^./.<sent>$^./.<sent>$[][<\/li>
 <\/ul>
-<p> 
-<br\/>
-<\/p>
+<p>&lt;]\/^div/*div$^./.<sent>$[][&gt;<\/p>
+
+<pre>&lt;]^div/*div$ ^class/class<n><sg>$="^NavEnd/*NavEnd$"[&gt; &lt;]\/^div/*div$^./.<sent>$[][&gt;
+<\/pre><p>&lt;]\/^div/*div$^./.<sent>$[][&gt;<\/p>
 <a name="Pro-Serbian"><\/a><h3>]^Pro/*Pro$^-/-<guio>$^Serbian/*Serbian$^./.<sent>$[][<\/h3><ul>
 <li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government Kosovo-Metohija site'>]^27/27<num>$^./.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.kosovo.net\/ Kosovo.net'>]^28/28<num>$[<\/a> ]^Serbian/*Serbian$ ^Orthodox/Orthodox<adj>/Orthodox<n><sg>/Orthodox<n><pl>$ ^Church/Church<n><sg>$^'s/'s<gen>$ ^official/official<adj>/official<n><sg>$ ^website/*website$ ^on/on<adv>/on<pr>$ ^Kosovo/Kosovo<np><loc><sg>$^./.<sent>$[][<\/li>

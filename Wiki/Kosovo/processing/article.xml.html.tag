@@ -174,7 +174,11 @@
 <\/ul>
 <p><br\/>
 <\/p>
-<a name="Pro-Albanian"><\/a><h3>]^*Pro$^-<guio>$^Albanian<n><sg>$^.<sent>$[][<\/h3><ul>
+<a name="Pro-Albanian"><\/a><h3>]^*Pro$^-<guio>$^Albanian<n><sg>$^.<sent>$[][<\/h3><p>&lt;]^*div$ ^class<n><sg>$="^*NavFrame$"^.<sent>$[][&gt;<\/p>
+
+<pre>&lt;]^*div$ ^class<n><sg>$="^*NavHead$"[&gt;]^*Pro$^-<guio>$^Albanian<n><sg>$[&lt;]\/^*div$[&gt;
+&lt;]^*div$ ^class<n><sg>$="^*NavContent$" ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$^left<adv>$^;<sent>$"^.<sent>$[][&gt;
+<\/pre><ul>
 <li><a href='http:\/\/BalkanUpdate.blogspot.com Balkan Update'>]^17<num>$[<\/a>]^-<guio>$ ^A<det><ind><sg>$ ^*blog$ ^with<pr>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*lates$ ^update<vblex><pri><p3><sg>$ ^from<pr>$ ^*Balkans$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.eciks.org Economic Initiative for Kosovo'>]^18<num>$[<\/a> ]^-<guio>$ "^.<sent>$^.<sent>$^.<sent>$^late<adj><sint><sup>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^publication<n><pl>$ ^from<pr>$ ^the<det><def><sp>$ ^*Kosovar$ ^economy<n><sg>$"^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.albanian.com\/main\/countries\/kosova Albanian.com'>]^19<num>$[<\/a> ]^-<guio>$ ^general<adj>$ ^information<n><sg>$^.<sent>$[][<\/li>
@@ -187,9 +191,10 @@
 <li><a href='http:\/\/www.xhakli.com\/2004\/05\/kosovo-search-challenge-helping-people_25.php?show_id=108543905534062634 Kosovo Search Challenge: Helping people find information from Kosovo'>]^25<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^*Blog$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.aacl.com\/indexmain.html AACL'>]^26<num>$[<\/a> ]^Albanian<adj>$ ^American<adj>$ ^Civic<adj>$ ^League<n><sg>$^.<sent>$^.<sent>$[][<\/li>
 <\/ul>
-<p> 
-<br\/>
-<\/p>
+<p>&lt;]\/^*div$^.<sent>$[][&gt;<\/p>
+
+<pre>&lt;]^*div$ ^class<n><sg>$="^*NavEnd$"[&gt; &lt;]\/^*div$^.<sent>$[][&gt;
+<\/pre><p>&lt;]\/^*div$^.<sent>$[][&gt;<\/p>
 <a name="Pro-Serbian"><\/a><h3>]^*Pro$^-<guio>$^*Serbian$^.<sent>$[][<\/h3><ul>
 <li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government Kosovo-Metohija site'>]^27<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.kosovo.net\/ Kosovo.net'>]^28<num>$[<\/a> ]^*Serbian$ ^Orthodox<adj>$ ^Church<n><sg>$^'s<gen>$ ^official<adj>$ ^*website$ ^on<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
