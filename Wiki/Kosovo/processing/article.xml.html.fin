@@ -19,7 +19,7 @@
 ]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
-]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a> ]^as well<adv>$ ^as<preadv>$[ <a href='Turkish language|Turkish'>]^Turkish<adj>$ ^language<n><sg>$|^Turkish<adj>$[<\/a> ]^at<pr>$ ^local<adj>$ ^level<n><pl>$[
+]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Capital'>]^Capital<adj>$[<\/a>
 ]|[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
@@ -60,6 +60,8 @@
 ]|^-<guio>$[
 ]| ^*valign$=^top<adj>$ |[ <a href='Airline'>]^*Airline$[<\/a> ]^carrier<n><sg>$[
 ]|[ <a href='Kosova Airlines'>]^*Kosova$ ^*Airlines$[<\/a>
+]|^-<guio>$[
+]|^*colspan$=^2<num>$|[ <a href='Turkish language|Turkish'>]^Turkish<adj>$ ^language<n><sg>$|^Turkish<adj>$[<\/a> ]^at<pr>$ ^local<adj>$ ^level<n><pl>$[
 ]|}^.$
 [][<\/p>
 <p><strong>]^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohia$[<\/strong> ]^(<lpar>$[<a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^:$
