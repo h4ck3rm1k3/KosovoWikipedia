@@ -97,17 +97,13 @@
 ]|^image<n><sg>$_^flag<n><sg>$ =[
 ]|^image<n><sg>$_^coat<n><sg>$ =[
 ]|^sovereignty<n><sg>$_^type<n><sg>$ = ^UN<n><acr><sg>$ ^protectorate<n><sg>$[
-]|^sovereignty<n><sg>$_^note<n><sg>$ =[ <a href='United Nations Security Council Resolution 1244|UN administration'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$|^UN<n><acr><sg>$ ^administration<n><sg>$[<\/a> ]^of<pr>$[ <a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>]^,<cm>$ ^a<det><ind><sg>$ ^autonomous<adj>$ ^province<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>]{{^Fact<n><sg>$|^date<n><sg>$=^May<n><sg>$ ^2008<num>$}}[
+]|^sovereignty<n><sg>$_^note<n><sg>$ =[ <a href='United Nations Security Council Resolution 1244|UN administration'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$|^UN<n><acr><sg>$ ^administration<n><sg>$[<\/a> ]^of<pr>$[ <a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>]^,<cm>$ ^a<det><ind><sg>$ ^autonomous<adj>$ ^province<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>
 ]|^leader<n><sg>$_^title<n><sg>$^1<num>$ =[ <a href='Special Representative of the Secretary-General for Kosovo|Special Representative'>]^Special<adj>$ ^Representative<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Secretary<n><sg>$^-<guio>$^General<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$|^Special<adj>$ ^Representative<adj>$[<\/a>
-]|^leader<n><sg>$_^name<n><sg>$^1<num>$ = ^*Joachim$ ^*R$Ã¼^*cker$[
-]|^leader<n><sg>$_^title<n><sg>$^2<num>$ =[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
-]|^leader<n><sg>$_^name<n><sg>$^2<num>$ =[ <a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>
-]|^establish<vblex><pp>$_^event<n><sg>$^1<num>$ =[ <a href='United Nations Security Council Resolution 1244|UNSCR 1244'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$|^*UNSCR$ ^1244<num>$[<\/a>
+]|^leader<n><sg>$_^name<n><sg>$^1<num>$ =[ <a href='Lamberto Zanieri'>]^Lamberto<np><ant><m><sg>$ ^*Zanieri$[<\/a>
+]|^establish<vblex><past>$_^event<n><sg>$^1<num>$ =[ <a href='United Nations Security Council Resolution 1244|UNSCR 1244'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$|^*UNSCR$ ^1244<num>$[<\/a>
 ]|^establish<vblex><pp>$_^date<n><sg>$^1<num>$ =[ <a href='10 June'>]^10<num>$ ^June<n><sg>$[<\/a>]^,<cm>$[ <a href='1999'>]^1999<num>$[<\/a>
-]|^establish<vblex><pp>$_^event<n><sg>$^2<num>$ =[ <a href='Joint Interim Administrative Structure|Joint Kosovar\/UN administration'>]^Joint<n><sg>$ ^Interim<adj>$ ^Administrative<adj>$ ^Structure<n><sg>$|^Joint<n><sg>$ ^*Kosovar$\/^UN<n><acr><sg>$ ^administration<n><sg>$[<\/a>
-]|^establish<vblex><pp>$_^date<n><sg>$^2<num>$ = ^May<n><sg>$ ^2000<num>$[
-]|^establish<vblex><pp>$_^event<n><sg>$^3<num>$ =[ <a href='European Union Rule of Law Mission in Kosovo|EULEX'>]^European<adj>$ ^Union<n><sg>$ ^Rule<n><sg>$ ^of<pr>$ ^Law<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^*EULEX$[<\/a>
-]|^establish<vblex><pp>$_^date<n><sg>$^3<num>$ =[ <a href='16 February'>]^16<num>$ ^February<n><sg>$[<\/a>]^,<cm>$[ <a href='2008'>]^2008<num>$[<\/a>
+]|^establish<vblex><pp>$_^event<n><sg>$^2<num>$ =[ <a href='European Union Rule of Law Mission in Kosovo|EULEX'>]^European<adj>$ ^Union<n><sg>$ ^Rule<n><sg>$ ^of<pr>$ ^Law<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^*EULEX$[<\/a>
+]|^establish<vblex><pp>$_^date<n><sg>$^2<num>$ =[ <a href='16 February'>]^16<num>$ ^February<n><sg>$[<\/a>]^,<cm>$[ <a href='2008'>]^2008<num>$[<\/a>
 ]|^currency<n><sg>$ =[ <a href='Euro'>]^Euro<n><sg>$[<\/a>
 ]|^currency<n><sg>$_^code<n><sg>$ = ^*EUR$[
 ]}}[
