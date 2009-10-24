@@ -15,6 +15,7 @@
 <p>]^-<guio>$^-<guio>$[&gt;
 ]{{^other<det><ind><sp>$ ^use<n><pl>$|^Kosovo<np><loc><sg>$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
 ]{{^redirect<vblex><pres>$|^*Kosova$||^*Kosova$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
+]{{^*NPOV$}}[
 ]{{^*Infobox$ ^Country<n><sg>$[
 ]|^native<adj>$_^name<n><sg>$ = {{^*nowrap$|{{^*lang$|^*sq$|[<strong><em>]^*Republika$ ^*e$ ^*Kosov$Ã«^*s$[<\/strong><\/em>]}}[&lt;]^*br$[&gt;]{{^*lang$|^*sr$^-<guio>$^*Cyrl$|ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°}} \/ {{^*lang$|^*sr$^-<guio>$^*Latn$|[<em>]^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/em>]}}}}[
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[   ]= ^Kosovo<np><loc><sg>$[
