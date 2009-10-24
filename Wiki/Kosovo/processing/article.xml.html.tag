@@ -123,7 +123,6 @@
 ]^Image<n><sg>$^:<sent>$^*Rahoveci$^.<sent>$^*jpg$|[<a href='Rahovec'>]^*Rahovec$[<\/a>]\/[<a href='Orahovac'>]^*Orahovac$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Skenderbeuinprishtina$^.<sent>$^*jpg$|[<a href='Skenderbeg'>]^*Skenderbeg$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Slava$^2005<num>$ ^6<num>$^.<sent>$^*jpg$|[<a href='Visoki DeÄani monastery'>]^*Visoki$ ^*DeÄ$^*ani$ ^*monastery$[<\/a>]\/[<a href='DeÃ§an monastery'>]^*De$Ã§^a<det><ind><sg>$ ^*monastery$[<\/a>
-]^Image<n><sg>$^:<sent>$^10061062<num>$_^*m$^.<sent>$^*jpg$|[
 &lt;]\/^gallery<n><sg>$^.<sent>$[][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><ul>
 <li><a href='Assembly of Kosovo'>]^Assembly<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
