@@ -29,7 +29,8 @@
 ]|^ethnic<adj>$_^group<n><pl>$_^year<n><sg>$[          ]= ^2007<num>$[
 ]|^capital<n><sg>$[                     ]= {{^*nowrap$|[<a href='PriÅ¡tina|PriÅ¡tina (PrishtinÃ«)'>]^*Pri$Å^¡<lquest>$^*tina$|^*Pri$Å^¡<lquest>$^*tina$ ^(<lpar>$^*Prishtin$Ã«^)<rpar>$[<\/a>]}}[
 ]|^*latd$= |^*latm$= |^*latNS$= |^*longd$= |^*longm$= |^*longEW$=[
-]|^large<adj><sint><sup>$_^city<n><sg>$[                ]= ^capital<adj>$[
+]|^large<adj><sint><sup>$_^city<n><sg>$[                ]= ^capital<n><sg>$[
+]|^*demonym$[                     ]=[ <a href='Kosovan'>]^*Kosovan$[<\/a>
 ]|^government<n><sg>$_^type<vblex><pres>$[             ]= ^Interim<adj>$[
 ]|^leader<n><sg>$_^title<n><sg>$^1<num>$[               ]= {{^*nowrap$|^Special<adj>$ ^Representative<n><sg>$ ^of<pr>$}} {{^*nowrap$|^the<det><def><sp>$ ^Secretary<n><sg>$^-<guio>$^General<adj>$}}[
 ]|^leader<n><sg>$_^name<n><sg>$^1<num>$[                ]=[ &lt;]^*br$\/[&gt;<a href='Joachim RÃ¼cker'>]^*Joachim$ ^*R$Ã¼^*cker$[<\/a>
