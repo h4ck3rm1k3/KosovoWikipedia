@@ -244,8 +244,7 @@
 <\/ul>
 <p>]\\[
 &lt;]\/^*div$^.<sent>$[][&gt;<\/p>
-<a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Please<vblex><inf>$ ^keep<vblex><inf>$ ^as<preadv>$ ^single<adj>$ ^column<n><sg>$ ^as<pr>$ ^long<adj><sint>$ ^*URLs$ ^*otherwise$ ^cause<n><sg>$ ^display<n><sg>$ ^problem<n><pl>$ ^on<pr>$ ^small<adj><sint><comp>$ ^window<n><pl>$\/^screen<n><pl>$^;<sent>$ ^*thanks$^.<sent>$^-<guio>$^-<guio>$^.<sent>$[][&gt;<\/p>
-<a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
+<a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <ul>
 <li><a href='http:\/\/www.newkosovareport.com New Kosova Report - Kosovo News and Views Portal'>]^25<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.unhcr.org\/cgi-bin\/texis\/vtx\/balkans-country?country=kosovo UNHCR - Balkans: Kosovo'>]^26<num>$^.<sent>$[][<\/a><\/li>
