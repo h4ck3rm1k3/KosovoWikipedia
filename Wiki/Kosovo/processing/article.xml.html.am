@@ -280,7 +280,7 @@
 <\/ul>
 <p><br\/>
 ]{{^Template/Template<n><sg>$ ^group/group<n><sg>$[
-]|^title/title<n><sg>/title<vblex><inf>/title<vblex><pres>$ =[ <a href='Image:Nuvola apps package network.png|23px'>]^Image/Image<n><sg>$^:/:<sent>$^Nuvola/*Nuvola$ ^apps/*apps$ ^package/package<n><sg>$ ^network/network<n><sg>$^./.<sent>$^png/*png$|^23/23<num>$^px/*px$[<\/a> ]^Geographic/Geographic<adj>$ ^national/national<adj>$[
+]|^title/title<n><sg>/title<vblex><inf>/title<vblex><pres>$ =[ <a href='Image:Nuvola_filesystems_www.png|23px'>]^Image/Image<n><sg>$^:/:<sent>$^Nuvola/*Nuvola$_^filesystems/*filesystems$_^www/*www$^./.<sent>$^png/*png$|^23/23<num>$^px/*px$[<\/a> ]^Geographic/Geographic<adj>$ ^national/national<adj>$[
 ]|^list/list<n><sg>/list<vblex><inf>/list<vblex><pres>$[  ]=[
 
 ]{{^Kosovo/Kosovo<np><loc><sg>$ ^municipalities/municipality<n><pl>$}}[
