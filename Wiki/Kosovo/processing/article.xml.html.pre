@@ -21,7 +21,7 @@
 ]|[ <a href='Prishtina'>]^*Prishtina$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
-]|^Acting<adj>$ ^President<n><sg>$[ <a href='Nexhat Daci'>]^*Nexhat$ ^*Daci$[<\/a>
+]|[<a href='Fatmir Mejdiu'>]^*Fatmir$ ^*Mejdiu$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Prime Minister of Kosovo|Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Prime<adj>$ ^Minister<n><sg>$[<\/a>
 ]|[ <a href='Bajram Kosumi'>]^*Bajram$ ^*Kosumi$[<\/a>
