@@ -154,15 +154,15 @@
 <a href='Image:Pallati i RinisÃ«.jpg|thumb|PriÅ¡tina'>]^Image<n><sg>$^:<sent>$^*Pallati$ ^*i$ ^*Rinis$Ã«^.<sent>$^*jpg$|^thumb<n><sg>$|^*Pri$Å^¡<lquest>$^*tina$[<\/a>
 ]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^for<pr>$[ <a href='2003-12-31'>]^2003<num>$^-<guio>$^12<num>$^-<guio>$^31<num>$[<\/a>]^)<rpar>$^:<sent>$[&lt;]^*ref$[&gt;]{{^cite<vblex><pres>$ ^web<n><sg>$ |^*url$=^*http$^:<sent>$\/\/^www.citypopulation.de<num>$\/^Kosovo<np><loc><sg>$^.<sent>$^*html$ |^title<vblex><pres>$=^Kosovo<np><loc><sg>$ |^author<n><sg>$=^City<n><sg>$ ^Population<n><sg>$}}[&lt;]\/^*ref$^.<sent>$[][&gt;<\/p>
 <ul>
-<li><a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^(<lpar>$^*Prishtina$^)<rpar>$^:<sent>$ ^165,844<num>$^.<sent>$[][<\/li>
+<li><a href='Prishtina'>]^*Prishtina$[<\/a> ]^(<lpar>$^*Pri$Å^¡<lquest>$^*tina$^)<rpar>$^:<sent>$ ^165,844<num>$^.<sent>$[][<\/li>
 <li><a href='Prizren'>]^*Prizren$[<\/a> ]^:<sent>$ ^107,614<num>$^.<sent>$[][<\/li>
-<li><a href='UroÅ¡evac'>]^*Uro$Å^¡<lquest>$^*evac$[<\/a> ]^(<lpar>$^*Ferizaj$^)<rpar>$ ^:<sent>$ ^71,758<num>$^.<sent>$[][<\/li>
-<li><a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a> ]^:<sent>$ ^68,929<num>$^.<sent>$[][<\/li>
-<li><a href='Äakovica'>]^*Ä$^*akovica$[<\/a> ]^(<lpar>$^*Gjakova$^)<rpar>$ ^:<sent>$ ^68,645<num>$^.<sent>$[][<\/li>
-<li><a href='PeÄ'>]^*PeÄ$[<\/a> ]^(<lpar>$^*Peja$^)<rpar>$ ^:<sent>$ ^68,551<num>$^.<sent>$[][<\/li>
-<li><a href='Gnjilane'>]^*Gnjilane$[<\/a> ]^(<lpar>$^*Gjilan$^)<rpar>$^:<sent>$ ^55,781<num>$^.<sent>$[][<\/li>
-<li><a href='VuÄitrn'>]^*VuÄ$^*itrn$[<\/a> ]^(<lpar>$^*Vushtrri$^)<rpar>$ ^:<sent>$ ^39,642<num>$^.<sent>$[][<\/li>
-<li><a href='Podujevo'>]^*Podujevo$[<\/a> ]^:<sent>$ ^37,203<num>$^.<sent>$[][<\/li>
+<li><a href='Ferizaj'>]^*Ferizaj$[<\/a> ]^(<lpar>$^*Uro$Å^¡<lquest>$^*evac$^)<rpar>$ ^:<sent>$ ^71,758<num>$^.<sent>$[][<\/li>
+<li><a href='Mitrovica'>]^*Mitrovica$[<\/a> ]^:<sent>$ ^68,929<num>$^.<sent>$[][<\/li>
+<li><a href='Gjakova'>]^*Gjakova$[<\/a> ]^(<lpar>$^*Ä$^*akovica$^)<rpar>$ ^:<sent>$ ^68,645<num>$^.<sent>$[][<\/li>
+<li><a href='Peja'>]^*Peja$[<\/a> ]^(<lpar>$^*Peja$^)<rpar>$ ^:<sent>$ ^68,551<num>$^.<sent>$[][<\/li>
+<li><a href='Gjilan'>]^*Gjilan$[<\/a> ]^(<lpar>$^*Gjilan$^)<rpar>$^:<sent>$ ^55,781<num>$^.<sent>$[][<\/li>
+<li><a href='Vushtrri'>]^*Vushtrri$[<\/a> ]^(<lpar>$^*VuÄ$^*itrn$^)<rpar>$ ^:<sent>$ ^39,642<num>$^.<sent>$[][<\/li>
+<li><a href='Poduj'>]^*Poduj$[<\/a> ]^:<sent>$ ^37,203<num>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
