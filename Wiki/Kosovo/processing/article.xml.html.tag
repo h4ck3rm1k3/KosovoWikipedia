@@ -230,7 +230,7 @@
 <a href='Image:BoroRamizi.jpg|thumb|200px|Prishtina'>]^Image<n><sg>$^:<sent>$^*BoroRamizi$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^*Prishtina$^.<sent>$[][<\/a><\/p>
 <p>]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^for<pr>$ ^2006<num>$^)<rpar>$^:<sent>$[&lt;]^*ref$[&gt;]{{^cite<vblex><pres>$ ^web<n><sg>$ |^*url$=^*http$^:<sent>$\/\/^www.world-gazetteer.com<num>$\/^*wg$^.<sent>$^*php$^?<sent>$^*x$=[&amp;]^man<n><pl>$=^*gcis$[&amp;]^*lng$=^*en$[&amp;]^*dat$=^32<num>$[&amp;]^*srt$=^*npan$[&amp;]^*col$=^*aohdq$[&amp;]^*geo$=^-<guio>$^244<num>$ |^title<n><sg>$=^*Serbia$^:<sent>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^and<cnjcoo>$ ^town<n><pl>$ ^and<cnjcoo>$ ^*statistics$ ^of<pr>$ ^their<det><pos><sp>$ ^population<n><sg>$ |^author<n><sg>$=^World<n><sg>$ ^*Gazetteer$}}[&lt;]\/^*ref$^.<sent>$[][&gt;<\/p>
 <ul>
-<li><a href='Prishtina'>]^*Prishtina$[<\/a> ]^:<sent>$ ^571,532<num>$^.<sent>$[][<\/li>
+<li><a href='Pristina'>]^*Pristina$[<\/a> ]^:<sent>$ ^571,532<num>$^.<sent>$[][<\/li>
 <li><a href='Prizren'>]^*Prizren$[<\/a> ]^:<sent>$ ^165,229<num>$^.<sent>$[][<\/li>
 <li><a href='UroÅ¡evac'>]^*Uro$Å^¡<lquest>$^*evac$[<\/a> ]^:<sent>$ ^197,741<num>$^.<sent>$[][<\/li>
 <li><a href='Äakovica'>]^*Ä$^*akovica$[<\/a> ]^:<sent>$ ^127,156<num>$^.<sent>$[][<\/li>
