@@ -272,19 +272,19 @@
 <li><a href='http:\/\/www.rtklive.com  RTK - Kosova's public television - news in Albanian, Serbian, Turkish and Roma'>]^14<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='https:\/\/www.osce.org\/documents\/mik\/1999\/11\/1620_en.pdf Human Rights in Kosovo: As Seen, As Told. Volume I, October 1998 - June 1999'>]^15<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^16<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovakosovo.com\/ A source of information reflecting both sidesâ claims in the dispute'>]^17<num>$^.<sent>$[][<\/a><\/li>
-<li> 
-<a href='http:\/\/www.nato.int\/kosovo\/ KFOR'>]^18<num>$[<\/a> <a href='NATO'>]^NATO<n><acr><sg>$[<\/a> ]^lead<vblex><pp>$ ^*peacekeeping$ ^force<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovakosovo.com\/ KosovaKosovo'>]^17<num>$[<\/a> ]^A<det><ind><sg>$ ^source<n><sg>$ ^of<pr>$ ^information<n><sg>$ ^reflect<vblex><ger>$ ^both<det><ind><pl>$ ^*sidesâ$ ^claim<n><pl>$ ^in<pr>$ ^the<det><def><sp>$ ^dispute<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.nato.int\/kosovo\/ KFOR'>]^18<num>$[<\/a> <a href='NATO'>]^NATO<n><acr><sg>$[<\/a> ]^lead<vblex><pp>$ ^*peacekeeping$ ^force<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.unmikonline.org\/ UNMIK'>]^19<num>$[<\/a> <a href='UN'>]^UN<n><acr><sg>$[<\/a> ]^lead<vblex><pp>$ ^civilian<n><sg>$ ^administration<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.euinkosovo.org\/index.php EU'>]^20<num>$[<\/a> ]^EU<n><acr><sg>$ ^*Pillar$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li> 
 <a href='http:\/\/www.kpaonline.org\/ KPA'>]^21<num>$[<\/a> <a href='Kosovo Property'>]^Kosovo<np><loc><sg>$ ^Property<n><sg>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Property<n><sg>$ ^Agency<n><sg>$ ^-<guio>$ ^*KPA$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.hpdkosovo.org\/ Housing and Property Directorate'>]^22<num>$[<\/a> ]^Housing<n><sg>$ ^and<cnjcoo>$ ^Property<n><sg>$ ^*Directorate$ ^-<guio>$ ^HPD<n><acr><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ A collection of photos from Kosovo'>]^23<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.otvoreno.org.yu\/ A place where Serbian politicians speak openly of Kosovo issue'>]^24<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.iom.ipko.org\/ IOM International Organization for Migration'>]^25<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.crisisgroup.org\/home\/index.cfm?id=1243&amp;l=1 (ICG)'>]^26<num>$[<\/a> ]^International<adj>$ ^Crisis<n><sg>$ ^Group<n><sg>$^,<cm>$ ^a<det><ind><sg>$ ^source<n><sg>$ ^of<pr>$ ^independent<adj>$ ^analysis<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><pl>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.xhakli.com\/2004\/05\/kosovo-search-challenge-helping-people_25.php?show_id=108543905534062634 Kosovo Search Challenge: Helping people find information from Kosovo'>]^27<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^*Blog$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.otvoreno.org.yu\/ Otvoreno '>]^24<num>$[<\/a> ]^A<det><ind><sg>$ ^place<n><sg>$ ^where<rel><adv>$ ^*Serbian$ ^politician<n><pl>$ ^speak<vblex><inf>$ ^openly<adv>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.iom.ipko.org\/ IOM '>]^25<num>$[<\/a> ]^International<adj>$ ^Organization<n><sg>$ ^for<pr>$ ^Migration<n><sg>$^.<sent>$[][<\/li>
+<li> 
+<a href='http:\/\/www.crisisgroup.org\/home\/index.cfm?id=1243&amp;l=1 (ICG)'>]^26<num>$[<\/a> ]^International<adj>$ ^Crisis<n><sg>$ ^Group<n><sg>$^,<cm>$ ^a<det><ind><sg>$ ^source<n><sg>$ ^of<pr>$ ^independent<adj>$ ^analysis<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><pl>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.xhakli.com\/2004\/05\/kosovo-search-challenge-helping-people_25.php?show_id=108543905534062634 Kosovo Blog'>]^27<num>$[<\/a> ]^Search<n><sg>$ ^Challenge<n><sg>$^:<sent>$ ^Help<vblex><ger>$ ^person<n><pl>$ ^find<vblex><inf>$ ^information<n><sg>$ ^from<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.eciks.org\/english\/index.php ECIKS'>]^28<num>$[<\/a> ]^Economic<adj>$ ^Initiative<n><sg>$ ^for<pr>$ ^*Kosova$^,<cm>$ ^information<n><sg>$ ^on<pr>$ ^investment<n><sg>$ ^opportunity<n><pl>$^.<sent>$^.<sent>$[][<\/li>
 <\/ul>
 <p> 
