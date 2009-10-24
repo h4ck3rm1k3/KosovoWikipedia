@@ -94,7 +94,7 @@
 <li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^15<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.b92.net\/english\/news\/index.php?order=priority&amp;nav_category=19 News from B92 Belgrade'>]^16<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.serbia.sr.gov.yu\/news\/kosovo News from the Serbian Government'>]^17<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovo.com\/default4.html News from the Serbian Orthodox Church'>]^18<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovo.net\/ News from the Serbian Orthodox Church'>]^18<num>$^.<sent>$[][<\/a><\/li>
 <li> 
 <a href='http:\/\/www.serbia.sr.gov.yu\/coordination_centre\/index.html Serb Kosovo Coordination Center'>]^19<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
