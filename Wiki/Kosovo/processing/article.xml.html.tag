@@ -10,7 +10,7 @@
     <h1><\/h1>
 <p>
 ]{{^POV<n><acr><sg>$}}[
-]{| ^border<n><sg>$=^1<num>$ ^*cellpadding$=^2<num>$ ^*cellspacing$=^0<num>$ ^*align$=^right<adj>$ ^width<n><sg>$=^25%<num><percent>$ ^style<n><sg>$="^margin<n><sg>$^:<sent>$ ^0<num>$ ^0<num>$ ^1<num>$^*em$ ^1<num>$^*em$^;<sent>$ ^*font$^-<guio>$^size<n><sg>$^:<sent>$ ^90%<num><percent>$^;<sent>$"[
+]{| ^border<n><sg>$=^1<num>$ ^*cellpadding$=^2<num>$ ^*cellspacing$=^0<num>$ ^*align$=^right<adj>$ ^width<n><sg>$=^300<num>$^*px$ ^style<n><sg>$="^margin<n><sg>$^:<sent>$ ^0<num>$ ^0<num>$ ^1<num>$^*em$ ^1<num>$^*em$^;<sent>$ ^*font$^-<guio>$^size<n><sg>$^:<sent>$ ^90%<num><percent>$^;<sent>$"[
 ]|+[&lt;]^*font$ ^size<n><sg>$=+^1<num>$[&gt;<strong>]^Kosovo<np><loc><sg>$[ &amp; ]^*Metohija$[<\/strong>&lt;]^*br$[&gt;<strong>]^*Kosova$[<\/strong>&lt;]^*br$[&gt;<strong>&amp;]#^1050<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[&amp;]#^1089<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[&amp;]#^1074<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[ &amp;]#^1080<num>$^;<sent>$[ &amp;]#^1052<num>$^;<sent>$[&amp;]#^1077<num>$^;<sent>$[&amp;]#^1090<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[&amp;]#^1093<num>$^;<sent>$[&amp;]#^1080<num>$^;<sent>$[&amp;]#^1112<num>$^;<sent>$[&amp;]#^1072<num>$^;<sent>$[<\/strong>&lt;]\/^*font$[&gt;
 ]| ^style<n><sg>$=^background<n><sg>$^:<sent>$#^*efefef$^;<sent>$ ^*align$=^centre<n><sg>$ ^*colspan$=^2<num>$ |[
 ]|^-<guio>$[ 
