@@ -240,6 +240,7 @@
 <li><a href='Unrest in Kosovo'>]^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^(<lpar>$^during<pr>$ ^March<n><sg>$ ^2004<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='Sexual trafficking in Kosovo'>]^Sexual<adj>$ ^trafficking<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Metohija'>]^*Metohija$^.<sent>$[][<\/a><\/li>
+<li><a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <\/p>
