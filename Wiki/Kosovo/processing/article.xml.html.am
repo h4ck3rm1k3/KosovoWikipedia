@@ -415,7 +415,7 @@
 <a href='it:Kosovo'>]^it/prpers<prn><subj><p3><nt><sg>/prpers<prn><obj><p3><nt><sg>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='he:×§××¡××× ×××××××'>]^he/prpers<prn><subj><p3><m><sg>$^:/:<sent>$×§××^¡/¡<lquest>$××× ×××××××[<\/a>
 <a href='la:Ager Merulensis'>]^la/*la$^:/:<sent>$^Ager/*Ager$ ^Merulensis/*Merulensis$[<\/a>
-<a href='lv:Kosova un Metohija'>]^lv/*lv$^:/:<sent>$^Kosova/*Kosova$ ^un/*un$ ^Metohija/*Metohija$[<\/a>
+<a href='lv:Kosova'>]^lv/*lv$^:/:<sent>$^Kosova/*Kosova$[<\/a>
 <a href='lt:Kosovas'>]^lt/*lt$^:/:<sent>$^Kosovas/*Kosovas$[<\/a>
 <a href='li:Kosovo'>]^li/*li$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='hu:Kosovo'>]^hu/*hu$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
@@ -444,7 +444,8 @@
 <a href='vi:Kosovo'>]^vi/*vi$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='tr:Kosova'>]^tr/*tr$^:/:<sent>$^Kosova/*Kosova$[<\/a>
 <a href='uk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^uk/*uk$^:/:<sent>$ÐÐ¾^Ñ/*Ñ$Ð¾Ð²Ð¾[<\/a>
-<a href='ur:Ú©ÙØ³ÙÙÛ'>]^ur/*ur$^:/:<sent>$^Ú/*Ú$©^Ù/*Ù$Ø³^Ù/*Ù$^Ù/*Ù$^Û/*Û$^./.<sent>$[][<\/a><\/p>
+<a href='ur:Ú©ÙØ³ÙÙÛ'>]^ur/*ur$^:/:<sent>$^Ú/*Ú$©^Ù/*Ù$Ø³^Ù/*Ù$^Ù/*Ù$^Û/*Û$[<\/a>
+<a href='bat-smg:Kosuovs'>]^bat/bat<n><sg>$^-/-<guio>$^smg/*smg$^:/:<sent>$^Kosuovs/*Kosuovs$^./.<sent>$[][<\/a><\/p>
 <\/body>
 <\/html>
 ]
