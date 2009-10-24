@@ -183,9 +183,10 @@
 <li><em>]^*Polifest$[<\/em> ]^-<guio>$ ^contain<vblex><pri><p3><sg>$ ^all<predet><sp>$ ^kind<n><pl>$ ^of<pr>$ ^genre<n><pl>$ ^(<lpar>$^usually<adv>$[ <a href='Hip hop music|hip hop'>]^Hip<n><sg>$ ^*hop$ ^music<n><sg>$|^hip<n><sg>$ ^*hop$[<\/a>]^,<cm>$ ^*commercal$[ <a href='Pop (music)|pop'>]^Pop<n><sg>$ ^(<lpar>$^music<n><sg>$^)<rpar>$|^pop<n><sg>$[<\/a>]^,<cm>$ ^unusually<adv>$[ <a href='Rock (music)|rock'>]^Rock<n><sg>$ ^(<lpar>$^music<n><sg>$^)<rpar>$|^rock<n><sg>$[<\/a> ]^and<cnjcoo>$ ^never<adv>$[ <a href='Heavy Metal music|metal'>]^*Heavy$ ^Metal<n><sg>$ ^music<n><sg>$|^metal<n><sg>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li><em>]^*Showfest$[<\/em> ]^-<guio>$ ^contain<vblex><pri><p3><sg>$ ^all<predet><sp>$ ^kind<n><pl>$ ^of<pr>$ ^genre<n><pl>$ ^(<lpar>$^usually<adv>$[ <a href='Hip hop music|hip hop'>]^Hip<n><sg>$ ^*hop$ ^music<n><sg>$|^hip<n><sg>$ ^*hop$[<\/a>]^,<cm>$ ^*commercal$[ <a href='Pop (music)|pop'>]^Pop<n><sg>$ ^(<lpar>$^music<n><sg>$^)<rpar>$|^pop<n><sg>$[<\/a>]^,<cm>$ ^unusually<adv>$[ <a href='Rock (music)|rock'>]^Rock<n><sg>$ ^(<lpar>$^music<n><sg>$^)<rpar>$|^rock<n><sg>$[<\/a> ]^and<cnjcoo>$ ^never<adv>$[ <a href='Heavy Metal music|metal'>]^*Heavy$ ^Metal<n><sg>$ ^music<n><sg>$|^metal<n><sg>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li><em>]^*Videofest$[<\/em> ]^-<guio>$ ^contain<vblex><pri><p3><sg>$ ^all<predet><sp>$ ^kind<n><pl>$ ^of<pr>$ ^genre<n><pl>$^.<sent>$[][<\/li>
-<li><em>]^*Kush$ ^*K$Ã«^*ndon$ ^*Lutet$ ^*Dy$ ^Her<det><pos><sp>$Ã«[<\/em> ]^-<guio>$ ^contain<vblex><pri><p3><sg>$[ <a href='christian music'>]^*christian$ ^music<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><em>]^*Ilahi$[<\/em> ]^-<guio>$[ <a href='Islamic Music'>]^Islamic<adj>$ ^Music<n><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
-<p><br\/>
+<p> 
+<br\/>
 ]^Kosovo<np><loc><sg>$ ^*Radiotelevisions$ ^like<pr>$[ <em>]^*RTK$[<\/em>]^,<cm>$[ <em>]^21<num>$[<\/em> ]^and<cnjcoo>$[ <em>]^*KTV$[<\/em> ]^have<vblex><pres>$ ^their<det><pos><sp>$ ^musical<adj>$ ^chart<n><pl>$^.<sent>$^.<sent>$[][<\/p>
 <p>]^:<sent>$[<em>]^See<vblex><pres>$ ^also<adv>$^:<sent>$[ <a href='List of Albanians#Musicians|Kosovo's and Albania's musicians'>]^List<n><sg>$ ^of<pr>$ ^Albanian<n><pl>$#^Musician<n><pl>$|^Kosovo<np><loc><sg>$^'s<gen>$ ^and<cnjcoo>$ ^*Albania$^'s<gen>$ ^musician<n><pl>$^.<sent>$[][<\/a><\/em><\/p>
 <a name="List_of_Presidents"><\/a><h2>]^List<n><sg>$ ^of<pr>$ ^President<n><pl>$^.<sent>$[][<\/h2><p>]^:<sent>$[<em>]^Main<adj>$ ^article<n><sg>$^:<sent>$[ <a href='Rulers of Kosovo'>]^Ruler<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a><\/em>
