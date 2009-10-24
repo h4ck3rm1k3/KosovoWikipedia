@@ -267,20 +267,21 @@
 <li><a href='http:\/\/www.aacl.com\/indexmain.html AACL'>]^43<num>$[<\/a> ]^Albanian<adj>$ ^American<adj>$ ^Civic<adj>$ ^League<n><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovalive.com\/?cid=2 KosovaLive'>]^44<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Albanian<adj>$ ^independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$ ^(<lpar>$^this<det><dem><sg>$ ^section<n><sg>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.savekosova.org\/ American Council for Kosova'>]^45<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^issue<n><sg>$ ^of<pr>$ ^*Kosova$ ^by<pr>$ ^the<det><def><sp>$ ^American<adj>$ ^public<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.newkosova.org\/ New Kosova.org'>]^46<num>$[<\/a> ]^-<guio>$ ^A<det><ind><sg>$ ^neutral<adj>$ ^community<n><sg>$^,<cm>$ ^discussion<n><pl>$ ^on<pr>$ ^*Kosova$ ^and<cnjcoo>$ ^its<det><pos><sp>$ ^way<n><sg>$ ^towards<pr>$ ^a<det><ind><sg>$ ^bright<adj><sint><comp>$ ^future<n><sg>$^.<sent>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
 <a name="Pro-Serbian"><\/a><h3>]^*Pro$^-<guio>$^*Serbian$^.<sent>$[][<\/h3><ul>
-<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government for Kosovo-Metohija'>]^46<num>$[<\/a> ]^*Website$ ^that<det><dem><sg>$ ^*focusses$ ^on<pr>$ ^the<det><def><sp>$ ^human<adj>$ ^right<n><pl>$ ^situation<n><sg>$ ^of<pr>$ ^*Serbian$ ^and<cnjcoo>$ ^other<det><ind><sp>$ ^non<adv>$^-<guio>$^Albanian<adj>$ ^population<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/ Serbian Government for Kosovo-Metohija'>]^47<num>$[<\/a> ]^*Website$ ^that<det><dem><sg>$ ^*focusses$ ^on<pr>$ ^the<det><def><sp>$ ^human<adj>$ ^right<n><pl>$ ^situation<n><sg>$ ^of<pr>$ ^*Serbian$ ^and<cnjcoo>$ ^other<det><ind><sp>$ ^non<adv>$^-<guio>$^Albanian<adj>$ ^population<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li> 
-<a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Crucified Kosovo'>]^47<num>$[<\/a> ]^*Overview$ ^of<pr>$ ^destroy<vblex><pp>$ ^*Serbian$ ^Orthodox<adj>$ ^church<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.mfa.gov.yu\/Policy\/CI\/kosovo-slike\/index.html Terror in Kosovo'>]^48<num>$[<\/a> ]^Terror<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^English<adj>$^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^49<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovo.net\/ Kosovo-The Land of the Living past'>]^50<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^51<num>$[<\/a> ]^*Serbian$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.savekosovo.org Save Kosovo'>]^52<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^promote<vblex><ger>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^American<adj>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^and<cnjcoo>$ ^of<pr>$ ^the<det><def><sp>$ ^critical<adj>$ ^American<adj>$ ^stake<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*provinceâ$^*s$ ^future<n><sg>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovocompromise.com\/ Kosovo 2006 Making of a Compromise'>]^53<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.eparhija-prizren.com\/defaultE.asp\/ Diocese Kosovo of Serbian Orthodox Church'>]^54<num>$^.<sent>$[][<\/a><\/li>
+<a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Crucified Kosovo'>]^48<num>$[<\/a> ]^*Overview$ ^of<pr>$ ^destroy<vblex><pp>$ ^*Serbian$ ^Orthodox<adj>$ ^church<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.mfa.gov.yu\/Policy\/CI\/kosovo-slike\/index.html Terror in Kosovo'>]^49<num>$[<\/a> ]^Terror<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^English<adj>$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kc.gov.yu\/ Coordination Center of SCG and the Republic of Serbia for Kosovo'>]^50<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovo.net\/ Kosovo-The Land of the Living past'>]^51<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.b92.net\/english\/news\/index.php?style=headlines&amp;nav_category=19 B92'>]^52<num>$[<\/a> ]^*Serbian$ ^Independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.savekosovo.org Save Kosovo'>]^53<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^promote<vblex><ger>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^American<adj>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^and<cnjcoo>$ ^of<pr>$ ^the<det><def><sp>$ ^critical<adj>$ ^American<adj>$ ^stake<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*provinceâ$^*s$ ^future<n><sg>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovocompromise.com\/ Kosovo 2006 Making of a Compromise'>]^54<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.eparhija-prizren.com\/defaultE.asp\/ Diocese Kosovo of Serbian Orthodox Church'>]^55<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 
