@@ -52,8 +52,6 @@
 ]|^leader<n><sg>$_^name<n><sg>$^2<num>$[       ]=[ <a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a> ]^(<lpar>$[<a href='Democratic League of Kosovo|LDK'>]^Democratic<adj>$ ^League<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^LDK<n><acr><sg>$[<\/a>]^)<rpar>$[
 ]|^leader<n><sg>$_^title<n><sg>$^3<num>$[      ]=[ <a href='Prime Minister of Kosovo|Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Prime<adj>$ ^Minister<n><sg>$[<\/a>
 ]|^leader<n><sg>$_^name<n><sg>$^3<num>$[       ]=[ <a href='Hashim ThaÃ§i'>]^*Hashim$ ^*Tha$Ã§^*i$[<\/a> ]^(<lpar>$[<a href='Democratic Party of Kosovo|PDK'>]^Democratic<adj>$ ^Party<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^*PDK$[<\/a>]^)<rpar>$[
-]|^leader<n><sg>$_^title<n><sg>$^4<num>$[      ]= ^Minister<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$[
-]|^leader<n><sg>$_^name<n><sg>$^4<num>$[       ]=[ <a href='Goran BogdanoviÄ'>]^*Goran$ ^*BogdanoviÄ$[<\/a> ]^(<lpar>$[<a href='Democratic Party (Serbia)|DS'>]^Democratic<adj>$ ^Party<n><sg>$ ^(<lpar>$^*Serbia$^)<rpar>$|^DS<n><acr><sg>$[<\/a>]^)<rpar>$[
 ]|^establish<vblex><pp>$_^event<n><sg>$^1<num>$ =[ <a href='United Nations Security Council Resolution 1244|UNSCR 1244'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$|^*UNSCR$ ^1244<num>$[<\/a>
 ]|^establish<vblex><pp>$_^date<n><sg>$^1<num>$[  ]= ^10<num>$ ^June<n><sg>$ ^1999<num>$[
 ]|^establish<vblex><pp>$_^event<n><sg>$^2<num>$ =[ <a href='European Union Rule of Law Mission in Kosovo|EULEX'>]^European<adj>$ ^Union<n><sg>$ ^Rule<n><sg>$ ^of<pr>$ ^Law<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^*EULEX$[<\/a>
