@@ -8,12 +8,8 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>]{{^*pp$^-<guio>$^*semi$^-<guio>$^protect<vblex><pp>$|^small<adj><sint>$=^yes<adv>$}}{{^*mergefrom$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
-<ol>
-<li>]^REDIRECT<vblex><pres>$[<a href='Kosovo'>]^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<\/ol>
-<p><br\/>
-&lt;]^!<sent>$^-<guio>$^-<guio>$^Other<det><ind><sp>$ ^language<n><pl>$^-<guio>$^-<guio>$[&gt;
+<p>]{{^*pp$^-<guio>$^*semi$^-<guio>$^protect<vblex><pp>$|^small<adj><sint>$=^yes<adv>$}}#^REDIRECT<vblex><inf>$[<a href='Kosovo'>]^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/p>
+<p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Other<det><ind><sp>$ ^language<n><pl>$^-<guio>$^-<guio>$[&gt;
 <a href='bs:Republika Kosovo'>]^*bs$^:<sent>$^*Republika$ ^Kosovo<np><loc><sg>$[<\/a>
 <a href='de:Republik Kosovo'>]^*de$^:<sent>$^*Republik$ ^Kosovo<np><loc><sg>$[<\/a>
 <a href='ru:Ð ÐµÑÐ¿ÑÐ±Ð»Ð¸ÐºÐ° ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*ru$^:<sent>$Ð Ðµ^*Ñ$Ð^¿<lquest>$^*Ñ$Ð±Ð»Ð¸ÐºÐ° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>

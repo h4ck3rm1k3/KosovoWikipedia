@@ -9,14 +9,9 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>]{{^*pp$^-<guio>$^*semi$^-<guio>$^protect<vblex><pp>$|^small<adj><sint>$=^yes<adv>$}}{{^*mergefrom$|^Kosovo<np><loc><sg>$}}^.$
-[][<\/p>
-<ol>
-<li>]^REDIRECT<vblex><pres>$[<a href='Kosovo'>]^Kosovo<np><loc><sg>$^.$
-[][<\/a><\/li>
-<\/ol>
-<p><br\/>
-&lt;]^!$
+<p>]{{^*pp$^-<guio>$^*semi$^-<guio>$^protect<vblex><pp>$|^small<adj><sint>$=^yes<adv>$}}#^REDIRECT<vblex><inf>$[<a href='Kosovo'>]^Kosovo<np><loc><sg>$^.$
+[][<\/a><\/p>
+<p>&lt;]^!$
 ^-<guio>$^-<guio>$^Other<det><ind><sp>$ ^language<n><pl>$^-<guio>$^-<guio>$[&gt;
 <a href='bs:Republika Kosovo'>]^*bs$^:$
 ^*Republika$ ^Kosovo<np><loc><sg>$[<\/a>

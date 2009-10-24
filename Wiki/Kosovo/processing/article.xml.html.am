@@ -8,12 +8,8 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>]{{^pp/*pp$^-/-<guio>$^semi/*semi$^-/-<guio>$^protected/protect<vblex><past>/protect<vblex><pp>$|^small/small<adj><sint>$=^yes/yes<adv>$}}{{^mergefrom/*mergefrom$|^Kosovo/Kosovo<np><loc><sg>$}}^./.<sent>$[][<\/p>
-<ol>
-<li>]^REDIRECT/REDIRECT<vblex><inf>/REDIRECT<vblex><pres>$[<a href='Kosovo'>]^Kosovo/Kosovo<np><loc><sg>$^./.<sent>$[][<\/a><\/li>
-<\/ol>
-<p><br\/>
-&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^Other/Other<det><ind><sp>$ ^languages/language<n><pl>$^-/-<guio>$^-/-<guio>$[&gt;
+<p>]{{^pp/*pp$^-/-<guio>$^semi/*semi$^-/-<guio>$^protected/protect<vblex><past>/protect<vblex><pp>$|^small/small<adj><sint>$=^yes/yes<adv>$}}#^REDIRECT/REDIRECT<vblex><inf>/REDIRECT<vblex><pres>$[<a href='Kosovo'>]^Kosovo/Kosovo<np><loc><sg>$^./.<sent>$[][<\/a><\/p>
+<p>&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^Other/Other<det><ind><sp>$ ^languages/language<n><pl>$^-/-<guio>$^-/-<guio>$[&gt;
 <a href='bs:Republika Kosovo'>]^bs/*bs$^:/:<sent>$^Republika/*Republika$ ^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='de:Republik Kosovo'>]^de/*de$^:/:<sent>$^Republik/*Republik$ ^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='ru:Ð ÐµÑÐ¿ÑÐ±Ð»Ð¸ÐºÐ° ÐÐ¾ÑÐ¾Ð²Ð¾'>]^ru/*ru$^:/:<sent>$Ð Ðµ^Ñ/*Ñ$Ð^¿/¿<lquest>$^Ñ/*Ñ$Ð±Ð»Ð¸ÐºÐ° ÐÐ¾^Ñ/*Ñ$Ð¾Ð²Ð¾[<\/a>
