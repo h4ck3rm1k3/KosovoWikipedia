@@ -11,9 +11,9 @@
 <p>&lt;]^!<sent>$^-<guio>$^-<guio>$ ^Temporary<adj>$ ^removal<n><sg>$ ^of<pr>$ ^map<n><sg>$^,<cm>$ ^to<pr>$ ^be<vbser><inf>$ ^restore<vblex><pp>$ ^when<adv><itg>$ ^table<n><sg>$ ^sort<vblex><pp>$ ^out<pr>$[ &lt;]^*div$ ^style<n><sg>$="^*float$^:<sent>$^right<adj>$^;<sent>$ ^margin<n><sg>$^-<guio>$^leave<vblex><pp>$^:<sent>$^1<num>$^*em$^;<sent>$[
 ]^text<n><sg>$^-<guio>$^*align$^:<sent>$^centre<n><sg>$^;<sent>$"[&gt;<a href='Image:UTkosovo rel smaller 92.jpg|Map of Kosovo'>]^Image<n><sg>$^:<sent>$^*UTkosovo$ ^*rel$ ^small<adj><sint><comp>$ ^92<num>$^.<sent>$^*jpg$|^Map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>&lt;]^*br$[&gt;<a href='Media:UTkosovo rel small 92.jpg|Larger version'>]^*Media$^:<sent>$^*UTkosovo$ ^*rel$ ^small<adj><sint>$ ^92<num>$^.<sent>$^*jpg$|^Large<adj><sint><comp>$ ^version<n><sg>$[<\/a>&lt;]\/^*div$[&gt;
 ]^-<guio>$^-<guio>$[&gt;
-<em>]^The<det><def><sp>$ ^neutrality<n><sg>$ ^of<pr>$ ^this<det><dem><sg>$ ^article<n><sg>$ ^be<vbser><pri><p3><sg>$[ <a href='Wikipedia:NPOV dispute|disputed'>]^*Wikipedia$^:<sent>$^*NPOV$ ^dispute<n><sg>$|^*disputed$[<\/a>]^.<sent>$ ^Please<vblex><inf>$ ^see<vblex><inf>$ ^the<det><def><sp>$ ^article<n><sg>$^'s<gen>$[ <a href='Talk:Kosovo and Metohia|talk page'>]^Talk<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohia$|^talk<n><sg>$ ^page<n><sg>$[<\/a> ]^for<pr>$ ^more<preadv>$ ^information<n><sg>$^.<sent>$^.<sent>$[][<\/em><\/p>
-<p> 
-<a href='de:Kosovo'>]^*de$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<em>]^The<det><def><sp>$ ^neutrality<n><sg>$ ^of<pr>$ ^this<det><dem><sg>$ ^article<n><sg>$ ^be<vbser><pri><p3><sg>$[ <a href='Wikipedia:NPOV dispute|disputed'>]^*Wikipedia$^:<sent>$^*NPOV$ ^dispute<n><sg>$|^*disputed$[<\/a>]^.<sent>$ ^Please<vblex><inf>$ ^see<vblex><inf>$ ^the<det><def><sp>$ ^article<n><sg>$^'s<gen>$[ <a href='Talk:Kosovo and Metohia|talk page'>]^Talk<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohia$|^talk<n><sg>$ ^page<n><sg>$[<\/a> ]^for<pr>$ ^more<preadv>$ ^information<n><sg>$^.<sent>$[<\/em> 
+<a href='Image:Example.jpg'>]^Image<n><sg>$^:<sent>$^Example<n><sg>$^.<sent>$^*jpg$[<\/a>
+<a href='de:Kosovo'>]^*de$^:<sent>$^*Kosovohttp$[<\/a>]^:<sent>$\/\/^image<n><pl>$^.<sent>$^*google$^.<sent>$^*com$\/^image<n><pl>$^?<sent>$^*q$=^*tbn$^:<sent>$^*hiuwJ$^43<num>$^*pjZYJ$^:<sent>$^www.fotw.net<num>$\/^image<n><pl>$\/^*y$\/^*yu$^!<sent>$[
 <a href='et:Kosovo'>]^*et$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='fr:Kosovo'>]^*fr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='nl:Kosovo'>]^*nl$^:<sent>$^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/p>
