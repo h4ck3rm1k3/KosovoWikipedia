@@ -68,7 +68,12 @@
 ]^2%<num><percent>$[ <a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$[<\/a> ]^(<lpar>$^36<num>$ ^to<pr>$ ^40<num>$ ^thousand<n><sg>$^)<rpar>$[ <a href='Roma in Mitrovica Camps'>]^*Roma$ ^in<pr>$ ^*Mitrovica$ ^Camp<n><pl>$^.<sent>$[][<\/a><\/li>
 <li>]^1%<num><percent>$[ <a href='Turks'>]^*Turks$[<\/a> ]^(<lpar>$^18<num>$ ^to<pr>$ ^20<num>$ ^thousand<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
-<p>]^*Intercommunal$ ^violence<n><sg>$ ^have<vbhaver><pri><p3><sg>$ ^further<adv>$ ^reduce<vblex><pp>$ ^the<det><def><sp>$ ^number<n><sg>$ ^of<pr>$ ^non<adv>$^-<guio>$^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^since<pr>$ ^this<det><dem><sg>$ ^survey<n><sg>$^,<cm>$ ^and<cnjcoo>$ ^many<prn><tn><mf><pl>$ ^of<pr>$ ^those who<rel><nn><mf><pl>$ ^do<vbdo><pres>$ ^remain<vblex><inf>$ ^now<adv>$ ^live<vblex><inf>$ ^in<pr>$ ^heavily<adv>$ ^*guarded$ ^*enclaves$^.<sent>$^.<sent>$[][<\/p>
+<p>]^*Intercommunal$ ^violence<n><sg>$ ^have<vbhaver><pri><p3><sg>$ ^further<adv>$ ^reduce<vblex><pp>$ ^the<det><def><sp>$ ^number<n><sg>$ ^of<pr>$ ^non<adv>$^-<guio>$^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^since<pr>$ ^this<det><dem><sg>$ ^survey<n><sg>$^,<cm>$ ^and<cnjcoo>$ ^many<prn><tn><mf><pl>$ ^of<pr>$ ^those who<rel><nn><mf><pl>$ ^do<vbdo><pres>$ ^remain<vblex><inf>$ ^now<adv>$ ^live<vblex><inf>$ ^in<pr>$ ^heavily<adv>$ ^*guarded$ ^*enclaves$^.<sent>$^.<sent>$[][
+<\/p>
+<a name="Personalities"><\/a><h2>]^Personality<n><pl>$^.<sent>$[][<\/h2><ul>
+<li><a href='Isa Boletini'>]^*Isa$ ^*Boletini$^.<sent>$[][<\/a><\/li>
+<li><a href='Hasan Prishtina'>]^Hasan<np><ant><m><sg>$ ^*Prishtina$^.<sent>$[][<\/a><\/li>
+<\/ul>
 <a name="Presidents"><\/a><h2>]^President<n><pl>$^.<sent>$[][<\/h2><ul>
 <li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$^.<sent>$[][<\/a><\/li>
 <li> 
