@@ -744,8 +744,8 @@
 ]{{^bar<n><sg>$ ^percent<n><sg>$|[<a href='Albanians'>]^Albanian<n><pl>$[<\/a>]|^green<n><sg>$|^92<num>$}}[
 ]{{^bar<n><sg>$ ^percent<n><sg>$|[<a href='Serbs'>]^*Serbs$[<\/a>]|^red<n><sg>$|^4<num>$}}[
 ]{{^bar<n><sg>$ ^percent<n><sg>$|[<a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^and<cnjcoo>$[ <a href='Gorani (ethnic group)|Gorans'>]^*Gorani$ ^(<lpar>$^ethnic<adj>$ ^group<n><sg>$^)<rpar>$|^*Gorans$[<\/a>]|^blue<adj>$|^2<num>$}}[
-]{{^bar<n><sg>$ ^percent<n><sg>$|[<a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$[<\/a>]|^yellow<adj><sint>$|^1<num>$}}[
 ]{{^bar<n><sg>$ ^percent<n><sg>$|[<a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$[<\/a>]|^brown<adj>$|^1<num>$}}[
+]{{^bar<n><sg>$ ^percent<n><sg>$|[<a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$[<\/a>]|^yellow<adj><sint>$|^1<num>$}}[
 ]}}^.$
 [][<\/p>
 <a name="Ethnic_and_cultural_diversity"><\/a><h3>]^Ethnic<adj>$ ^and<cnjcoo>$ ^cultural<adj>$ ^diversity<n><sg>$^.$
