@@ -39,7 +39,7 @@
 ]|[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>]^:<sent>$ ^88%<num><percent>$[&lt;]^*br$\/[&gt;<a href='Serbs'>]^*Serbs$[<\/a>]^:<sent>$ ^7%<num><percent>$[&lt;]^*br$\/[&gt;]^Others<prn><tn><mf><pl>$^:<sent>$ ^5%<num><percent>$[
 ]|^-<guio>$[
 ]|[ <a href='Time zone'>]^Time<n><sg>$ ^zone<n><sg>$[<\/a>
-]|[ <a href='Coordinated Universal Time|UTC'>]^Coordinate<vblex><pp>$ ^Universal<adj>$ ^Time<n><sg>$|^*UTC$[<\/a> ]+^1<num>$[
+]|[ <a href='UTC+1'>]^*UTC$+^1<num>$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Currency'>]^Currency<n><sg>$[<\/a>
 ]|[ <a href='Euro'>]^Euro<n><sg>$[<\/a> 
