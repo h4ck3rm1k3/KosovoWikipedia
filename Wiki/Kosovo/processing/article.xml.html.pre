@@ -16,7 +16,6 @@
 ]^The<det><def><sp>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^border<n><pl>$[ <a href='Montenegro'>]^Montenegro<np><loc><sg>$[<\/a>]^,<cm>$[ <a href='Albania'>]^*Albania$[<\/a>]^,<cm>$ ^and<cnjcoo>$ ^the<det><def><sp>$[ <a href='Republic of Macedonia'>]^Republic<n><sg>$ ^of<pr>$ ^Macedonia<np><ant><f><sg>$[<\/a>]^.<sent>$ ^Prpers<prn><subj><p3><nt><sg>$ ^have<vblex><pri><p3><sg>$ ^a<det><ind><sg>$ ^population<n><sg>$ ^of<pr>$ ^just<adv>$ ^over<pr>$ ^two<num><sp>$ ^million<num><sp>$ ^person<n><pl>$^,<cm>$ ^predominantly<adv>$ ^ethnic<adj>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>]^,<cm>$ ^with<pr>$ ^small<adj><sint><comp>$ ^population<n><pl>$ ^of<pr>$[ <a href='Serbs'>]^*Serbs$[<\/a>]^,<cm>$[ <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$[<\/a>]^,<cm>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a>]^,<cm>$[ <a href='Romani people'>]^*Romani$ ^person<n><pl>$[<\/a>]^,<cm>$ ^and<cnjcoo>$ ^other<det><ind><sp>$ ^ethnic<adj>$ ^group<n><pl>$^.<sent>$[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$ ^capital<adj>$ ^and<cnjcoo>$ ^large<adj><sint><sup>$ ^city<n><sg>$^.<sent>$^.<sent>$[][<\/p>
 <p> 
 ]^The<det><def><sp>$ ^province<n><sg>$ ^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$ ^subject<n><sg>$ ^of<pr>$ ^a<det><ind><sg>$ ^long<adj><sint>$^-<guio>$^run<vblex><ger>$ ^political<adj>$ ^and<cnjcoo>$ ^territorial<adj>$ ^dispute<n><sg>$ ^between<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^(<lpar>$^and<cnjcoo>$ ^previously<adv>$^,<cm>$ ^the<det><def><sp>$[ <a href='Yugoslavia|Yugoslav'>]^Yugoslavia<np><loc><sg>$|^Yugoslav<n><sg>$[<\/a>]^)<rpar>$ ^government<n><sg>$ ^and<cnjcoo>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^largely<adv>$ ^ethnic<adj>$^-<guio>$^Albanian<adj>$ ^population<n><sg>$^.<sent>$ ^International<adj>$ ^negotiation<n><pl>$ ^begin<vblex><past>$ ^in<pr>$[ <a href='2006'>]^2006<num>$[<\/a> ]^to<pr>$ ^determine<vblex><inf>$ ^the<det><def><sp>$ ^final<adj>$ ^status<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$[<em>]^See<vblex><pres>$[ <a href='Kosovo status process'>]^Kosovo<np><loc><sg>$ ^status<n><sg>$ ^process<n><sg>$[<\/a><\/em>]^)<rpar>$^.<sent>$^.<sent>$[][<\/p>
-<p><br\/><\/p>
 <a name="Geography"><\/a><h2>]^Geography<n><sg>$^.<sent>$[][<\/h2><p>]{{^main<adj>$|^Geography<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <p><a href='Image:UTkosovo rel small 92.jpg|thumb|left|Physical map of Kosovo.'>]^Image<n><sg>$^:<sent>$^*UTkosovo$ ^*rel$ ^small<adj><sint>$ ^92<num>$^.<sent>$^*jpg$|^thumb<n><sg>$|^leave<vblex><past>$|^Physical<adj>$ ^map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[<\/a>
 <a href='Image:Kosovo map.png|thumb|left|Political map of Kosovo.'>]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^map<n><sg>$^.<sent>$^*png$|^thumb<n><sg>$|^leave<vblex><past>$|^Political<adj>$ ^map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/a><\/p>
@@ -243,8 +242,8 @@
 <li><a href='http:\/\/www.savekosovo.org American Council for Kosovo'>]^47<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^promote<vblex><ger>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^American<adj>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^and<cnjcoo>$ ^of<pr>$ ^the<det><def><sp>$ ^critical<adj>$ ^American<adj>$ ^stake<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*provinceâ$^*s$ ^future<n><sg>$^.<sent>$^.<sent>$[][<\/li>
 <\/ul>
 <p> 
-<br\/><\/p>
-<p>]{{^Template<n><sg>$ ^group<n><sg>$[
+<br\/>
+]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<vblex><pres>$ = ^Geographic<adj>$ ^*locale$[
 ]|^list<n><sg>$[  ]=[
 
@@ -259,8 +258,8 @@
 ]}}^.<sent>$[][<\/p>
 <p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$[&gt;
 <a href='Category:Kosovo'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/p>
-<p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Other<det><ind><sp>$ ^language<n><pl>$^-<guio>$^-<guio>$^.<sent>$[][&gt;<\/p>
-<p><a href='als:Kosovo'>]^*als$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Other<det><ind><sp>$ ^language<n><pl>$^-<guio>$^-<guio>$[&gt;
+<a href='als:Kosovo'>]^*als$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ar:ÙÙØµÙÙ'>]^*ar$^:<sent>$^*Ù$^*Ù$Øµ^*Ù$^*Ù$[<\/a>
 <a href='frp:Kosovo'>]^*frp$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ast:Kosovo'>]^*ast$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
