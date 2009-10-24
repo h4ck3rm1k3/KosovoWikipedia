@@ -155,7 +155,7 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^21<num>$[<\/a> ]"^,<cm>$[ 
 <li>  
 ]^3%<num><percent>$[ <a href='Slavic Muslims|Muslims'>]^*Slavic$ ^Muslim<n><pl>$|^Muslim<n><pl>$[<\/a> ]^(<lpar>$[<a href='Bosniacs'>]^*Bosniacs$[<\/a> ]^and<cnjcoo>$[ <a href='Gorani|Gorans'>]^*Gorani$|^*Gorans$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li> 
-]^1<num>$[ <a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$[<\/a> ]^(<lpar>$^see<vblex><pres>$ ^also<adv>$[ <a href='Roma in Mitrovica Camps'>]^*Roma$ ^in<pr>$ ^*Mitrovica$ ^Camp<n><pl>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
+]^1%<num><percent>$[ <a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$[<\/a> ]^(<lpar>$^see<vblex><pres>$ ^also<adv>$[ <a href='Roma in Mitrovica Camps'>]^*Roma$ ^in<pr>$ ^*Mitrovica$ ^Camp<n><pl>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li>]^1%<num><percent>$[ <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p> 
