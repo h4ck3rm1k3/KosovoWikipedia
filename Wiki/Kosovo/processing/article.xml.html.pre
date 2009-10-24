@@ -218,7 +218,7 @@
 ]^Federation<n><pl>$ ^that<rel><an><mf><sp>$ ^have<vbhaver><pres>$ ^not<adv>$ ^yet<adv>$ ^gain<vblex><pp>$ ^international<adj>$ ^recognition<n><sg>$^:<sent>$^.<sent>$[][<\/p>
 <ul>
 <li><a href='Basketball Federation of Kosovo'>]^Basketball<n><sg>$ ^Federation<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Football Federation of Kosovo'>]^Football<n><sg>$ ^Federation<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^ant<n><sg>$ ^the<det><def><sp>$[ <a href='Kosovo national football team'>]^Kosovo<np><loc><sg>$ ^national<adj>$ ^football<n><sg>$ ^team<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Football Federation of Kosovo'>]^Football<n><sg>$ ^Federation<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^and<cnjcoo>$ ^the<det><def><sp>$[ <a href='Kosovo national football team'>]^Kosovo<np><loc><sg>$ ^national<adj>$ ^football<n><sg>$ ^team<n><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Olympic Committee of Kosovo'>]^Olympic<adj>$ ^Committee<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Tennis Federation of Kosovo'>]^Tennis<n><sg>$ ^Federation<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
