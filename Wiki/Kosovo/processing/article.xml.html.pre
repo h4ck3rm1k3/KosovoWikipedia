@@ -199,7 +199,8 @@
 <\/ul>
 <p><br\/>
 <\/p>
-<a name="Cities"><\/a><h2>]^City<n><pl>$^.<sent>$[][<\/h2><p>]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^in<pr>$ ^2006<num>$^)<rpar>$[<a href='http:\/\/www.world-gazetteer.com\/wg.php?x=&amp;men=gcis&amp;lng=en&amp;dat=32&amp;srt=npan&amp;col=aohdq&amp;geo=-244'>]^10<num>$[<\/a>]^:<sent>$^.<sent>$[][<\/p>
+<a name="Cities"><\/a><h2>]^City<n><pl>$^.<sent>$[][<\/h2><p><a href='Image:Prishtina maj 2005.jpg|thumb|200px|\[\[Prishtina'>]^Image<n><sg>$^:<sent>$^*Prishtina$ ^*maj$ ^2005<num>$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^\[<lpar>$^\[<lpar>$^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]^\]<rpar>$^\]<rpar>$[
+]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^in<pr>$ ^2006<num>$^)<rpar>$[<a href='http:\/\/www.world-gazetteer.com\/wg.php?x=&amp;men=gcis&amp;lng=en&amp;dat=32&amp;srt=npan&amp;col=aohdq&amp;geo=-244'>]^10<num>$[<\/a>]^:<sent>$^.<sent>$[][<\/p>
 <ul>
 <li><a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^(<lpar>$^262,686<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='Prizreni'>]^*Prizreni$[<\/a>]\/[<a href='Prizren'>]^*Prizren$[<\/a> ]^(<lpar>$^165,227<num>$^)<rpar>$^.<sent>$[][<\/li>
@@ -241,7 +242,7 @@
 <p><br\/>
 <\/p>
 <a name="Gallery"><\/a><h2>]^Gallery<n><sg>$^.<sent>$[][<\/h2><p>&lt;]^gallery<n><sg>$[&gt;
-]^Image<n><sg>$^:<sent>$^*Prishtina$ ^*maj$ ^2005<num>$^.<sent>$^*jpg$|[<a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
+]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$_^government<n><sg>$^.<sent>$^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^in<pr>$[ <a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Prizen$ ^*kosovo$^.<sent>$^*jpg$|[<a href='Prizreni'>]^*Prizreni$[<\/a>]\/[<a href='Prizren'>]^*Prizren$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Gjakova$^.<sent>$^*jpg$|[<a href='Gjakova'>]^*Gjakova$[<\/a>]\/[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>
 ]^Image<n><sg>$^:<sent>$^French<adj>$ ^*Peugeot$ ^*P$^4<num>$ ^*dsc$^06852<num>$^.<sent>$^*jpg$|[<a href='KFOR'>]^*KFOR$[<\/a>
@@ -249,7 +250,6 @@
 ]^Image<n><sg>$^:<sent>$^*Rahoveci$^.<sent>$^*jpg$|[<a href='Rahovec'>]^*Rahovec$[<\/a>]\/[<a href='Orahovac'>]^*Orahovac$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Ne$ ^*Udhetim$ ^132<num>$^.<sent>$^*jpg$|^Centre<n><sg>$ ^of<pr>$[ <a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]^,<cm>$ ^monument<n><sg>$ ^to<pr>$[ <a href='Skenderbeg'>]^*Skenderbeg$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Decani$^.<sent>$^*jpg$|^A<det><ind><sg>$ ^14<num>$^*th$^-<guio>$^century<n><sg>$ ^fresco<n><sg>$ ^in<pr>$[ <a href='Visoki DeÄani monastery'>]^*Visoki$ ^*DeÄ$^*ani$ ^*monastery$[<\/a>
-]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$_^government<n><sg>$^.<sent>$^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^in<pr>$[ <a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
 &lt;]\/^gallery<n><sg>$^.<sent>$[][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><ul>
 <li><a href='History of Kosovo'>]^History<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
