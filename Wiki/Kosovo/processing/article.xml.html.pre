@@ -93,7 +93,7 @@
 <ul>
 <li>]^88%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a> ]^(<lpar>$^between<pr>$ ^1,584<num>$^,<cm>$^000<num>$ ^and<cnjcoo>$ ^1,733<num>$^,<cm>$^600<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
-]^7%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a> ]^(<lpar>$^between<pr>$ ^126,000<num>$ ^and<cnjcoo>$ ^140,000<num>$^)<rpar>$^.<sent>$[][<\/li>
+]^7%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a> ]^(<lpar>$^between<pr>$ ^126,000<num>$ ^and<cnjcoo>$ ^140,000<num>$^)<rpar>$^(<lpar>$^because<cnjadv>$ ^prpers<prn><subj><p3><mf><pl>$ ^have<vblex><pres>$ ^all<prn><tn><mf><sp>$ ^be<vbser><inf>$ ^kill<vblex><pp>$ ^or<cnjcoo>$ ^force<vblex><pp>$ ^to<pr>$ ^move<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <li>	
 ]^3%<num><percent>$[ <a href='Muslims by nationality|Muslims'>]^Muslim<n><pl>$ ^by<pr>$ ^nationality<n><sg>$|^Muslim<n><pl>$[<\/a> ]^and<cnjcoo>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^(<lpar>$^54<num>$ ^to<pr>$ ^60<num>$ ^thousand<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
