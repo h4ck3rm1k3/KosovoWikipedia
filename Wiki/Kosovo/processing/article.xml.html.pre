@@ -17,10 +17,6 @@
 ]|^-<guio>$[
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[ <a href='Image:Citys of Kosova.PNG|160px'>]^Image<n><sg>$^:<sent>$^City<n><pl>$ ^of<pr>$ ^*Kosova$^.<sent>$^*PNG$|^160<num>$^*px$[<\/a> 
 ]|^-<guio>$[
-]|^-<guio>$ ^style<n><sg>$="^border<n><sg>$^-<guio>$^top<n><sg>$^:<sent>$ ^2<num>$^*px$ ^solid<adj><sint>$ ^gray<adj><sint>$^;<sent>$"[
-]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-KosovoMetohija.png|100px|Map showing Kosovo within the state union'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^*KosovoMetohija$^.<sent>$^*png$|^100<num>$^*px$|^Map<n><sg>$ ^show<vblex><ger>$ ^Kosovo<np><loc><sg>$ ^within<pr>$ ^the<det><def><sp>$ ^state<adj>$ ^union<n><sg>$[<\/a> 
-]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
-]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
 ]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
 ]|^-<guio>$[
@@ -46,7 +42,7 @@
 ]|[ <a href='Coordinated Universal Time|UTC'>]^Coordinate<vblex><pp>$ ^Universal<adj>$ ^Time<n><sg>$|^*UTC$[<\/a> ]+^1<num>$[
 ]|^-<guio>$[
 ]|[ <a href='Currency'>]^Currency<n><sg>$[<\/a>
-]|[ <a href='Euro'>]^Euro<n><sg>$[<\/a> ]^and<cnjcoo>$[ <a href='Serbian dinar'>]^*Serbian$ ^*dinar$[<\/a>
+]|[ <a href='Euro'>]^Euro<n><sg>$[<\/a> ]^and<cnjcoo>$[ <a href='Serbian dinar'>]^*Serbian$ ^*dinar$[<\/a> ]^(<lpar>$^the<det><def><sp>$ ^latter<adj>$ ^be<vbser><pri><p3><sg>$ ^exclusively<adv>$ ^in<pr>$ ^*Serbian$ ^populate<vblex><past>$ ^region<n><pl>$^.<sent>$^)<rpar>$[ 
 ]|^-<guio>$[
 ]|}^.<sent>$[][<\/p>
 <p><strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>$[<a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^:<sent>$[ <em>]^*Kosov$Ã«[<\/em>]\/[<em>]^*Kosova$[<\/em>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^:<sent>$ ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°\/[<em>]^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/em>]^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$[ <a href='UN'>]^UN<n><acr><sg>$[<\/a>]^-<guio>$^administer<vblex><pp>$ ^province<n><sg>$^.<sent>$ ^By<pr>$ ^the<det><def><sp>$ ^UN<n><acr><sg>$ ^Security<n><sg>$ ^Council<n><sg>$ ^Resolution<n><sg>$ ^1244<num>$ ^(<lpar>$^adopt<vblex><pp>$ ^in<pr>$ ^1999<num>$^)<rpar>$^,<cm>$ ^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^define<vblex><pp>$ ^as<pr>$ ^autonomous<adj>$ ^province<n><sg>$ ^within<pr>$ ^former<adj>$[ <a href='Federal Republic of Yugoslavia'>]^Federal<adj>$ ^Republic<n><sg>$ ^of<pr>$ ^Yugoslavia<np><loc><sg>$[<\/a> ]^under<pr>$ ^UN<n><acr><sg>$ ^administration<n><sg>$^.<sent>$ ^Whether<cnjadv>$ ^this<prn><tn><mf><sg>$ ^will<vaux><inf>$ ^remain<vblex><inf>$ ^the<det><def><sp>$ ^case<n><sg>$ ^be<vbser><pri><p3><sg>$ ^still<adj><sint>$ ^*unclear$^,<cm>$ ^as<cnjadv>$ ^the<det><def><sp>$ ^final<adj>$ ^status<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$ ^subject<n><sg>$ ^of<pr>$ ^a<det><ind><sg>$ ^ongoing<adj>$ ^dispute<n><sg>$ ^between<pr>$ ^government<n><sg>$ ^of<pr>$ ^*Serbia$ ^and<cnjcoo>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^government<n><sg>$^.<sent>$ ^Talk<n><pl>$ ^on<pr>$ ^this<det><dem><sg>$ ^issue<n><sg>$ ^start<vblex><pp>$ ^in<pr>$ ^Vienna<np><loc><sg>$^,<cm>$ ^on<pr>$ ^February<n><sg>$ ^20<num>$^,<cm>$[ <a href='2006'>]^2006<num>$[<\/a> &lt;]^*ref$[&gt;<a href='http:\/\/www.unmikonline.org\/news.htm#1703 Kosovo, Serbian delegations hold new status talks under UN chairmanship'>]^1<num>$[<\/a>&lt;]\/^*ref$[&gt;]^.<sent>$^.<sent>$[][<\/p>
