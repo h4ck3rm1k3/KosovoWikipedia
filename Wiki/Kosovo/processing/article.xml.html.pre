@@ -354,8 +354,6 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^20<num>$[<\/a> ]"^,<cm>$[ 
 <a href='simple:Kosovo'>]^simple<adj><sint>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='sk:Kosovo'>]^*sk$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='sl:Kosovo'>]^*sl$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='sr:ÐÐ¾ÑÐ¾Ð²Ð¾ Ð¸ ÐÐµÑÐ¾ÑÐ¸ÑÐ°'>]^*sr$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/a>
-<a href='sh:Kosovo i Metohija'>]^*sh$^:<sent>$^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/a>
 <a href='fi:Kosovo'>]^*fi$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='sv:Kosovo'>]^*sv$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='th:à¸à¸­à¹à¸à¹à¸§'>]^*th$^:<sent>$^*à$¸^*à$¸­^*à$¹^*à$¸^*à$¹^*à$¸§[<\/a>
