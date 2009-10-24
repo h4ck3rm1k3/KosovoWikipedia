@@ -53,8 +53,7 @@
 ]|^*utc$_^*offset$_^DST<n><acr><sg>$[     ]= +^2<num>$[
 ]|^drive<n><pl>$_^on<pr>$[                    ]= ^right<adj>$[ 
 ]|^*cctld$[              ]=[ <em>]^None<prn><tn><nt><sg>$ ^assign<vblex><past>$[<\/em>
-]|^call<vblex><ger>$_^code<n><sg>$[       ]= ^381<num>$[
-]|^call<vblex><ger>$_^code<n><sg>$_^note<n><sg>$ =[ 
+]|^call<vblex><ger>$_^code<n><sg>$[       ]= +^381<num>$[
 ]|^*footnote$^1<num>$ = ^The<det><def><sp>$ ^*census$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^reconstruction<n><sg>$^;<sent>$ ^most of<det><qnt><sp>$ ^the<det><def><sp>$ ^ethnic<adj>$ ^Albanian<adj>$ ^majority<n><sg>$ ^boycott<vblex><past>$^.<sent>$[
 ]|^*footnote$^2<num>$ = ^Officially<adv>$[ <a href='+381'>]+^381<num>$[<\/a>]^;<sent>$ ^some<prn><tn><mf><pl>$ ^mobile<adj>$ ^phone<n><sg>$ ^provider<n><pl>$ ^use<n><sg>$[ <a href='+377'>]+^377<num>$[<\/a> ]^(<lpar>$^Monaco<np><loc><sg>$^)<rpar>$ ^or<cnjcoo>$[ <a href='+386'>]+^386<num>$[<\/a> ]^(<lpar>$^Slovenia<np><loc><sg>$^)<rpar>$ ^instead<adv>$^.<sent>$[
 ]}}^.<sent>$[][<\/p>
