@@ -272,9 +272,8 @@
 <li><a href='http:\/\/www.kosovalive.com\/?cid=2 KosovaLive'>]^50<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Albanian<adj>$ ^independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$ ^(<lpar>$^this<det><dem><sg>$ ^section<n><sg>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.savekosova.org\/ American Council for Kosova'>]^51<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^issue<n><sg>$ ^of<pr>$ ^*Kosova$ ^by<pr>$ ^the<det><def><sp>$ ^American<adj>$ ^public<n><sg>$^.<sent>$[][<\/li>
 <\/ul>
-<p><br\/>
-<\/p>
-<a name="Pro-Serbian"><\/a><h3>]^*Pro$^-<guio>$^*Serbian$^.<sent>$[][<\/h3><ul>
+<p><br\/><\/p>
+<ul>
 <li><a href='http:\/\/www.rastko.org.yu\/kosovo\/istorija\/sanu\/GrtAlb.html KOSOVO, SERBIAN ISSUE AND THE GREATER ALBANIA PROJECT'>]^52<num>$[<\/a> ]^write<vblex><pp>$ ^by<pr>$ ^*Slavenko$ ^*TERZIC$^,<cm>$ ^*Ph$^.<sent>$ ^*D$^.<sent>$ ^-<guio>$ ^Historical<adj>$ ^Institute<n><sg>$ ^of<pr>$ ^*Serbian$ ^Academy<n><sg>$ ^of<pr>$ ^Science<n><pl>$ ^and<cnjcoo>$ ^Art<n><pl>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.rastko.org.yu\/kosovo\/istorija\/sanu\/ethnic.html ALBANIAN ETHNIC CLEANSING OF THE OLD SERBIA'>]^53<num>$[<\/a> ]^write<vblex><pp>$ ^by<pr>$ ^*Slavenko$ ^*TERZIC$^,<cm>$ ^*Ph$^.<sent>$ ^*D$^.<sent>$ ^-<guio>$ ^Historical<adj>$ ^Institute<n><sg>$ ^of<pr>$ ^*Serbian$ ^Academy<n><sg>$ ^of<pr>$ ^Science<n><pl>$ ^and<cnjcoo>$ ^Art<n><pl>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.rastko.org.yu\/kosovo\/istorija\/sanu\/Kosovo.html KOSOVO AND METOHIA IN THE SERBIAN HISTORY'>]^54<num>$[<\/a> ]^write<vblex><pp>$ ^by<pr>$ ^*Slavenko$ ^*TERZIC$^,<cm>$ ^*Ph$^.<sent>$ ^*D$^.<sent>$ ^-<guio>$ ^Historical<adj>$ ^Institute<n><sg>$ ^of<pr>$ ^*Serbian$ ^Academy<n><sg>$ ^of<pr>$ ^Science<n><pl>$ ^and<cnjcoo>$ ^Art<n><pl>$^\]<rpar>$^.<sent>$[][<\/li>
@@ -341,8 +340,10 @@
 <a href='sl:Kosovo'>]^*sl$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='sr:ÐÐ¾ÑÐ¾Ð²Ð¾ Ð¸ ÐÐµÑÐ¾ÑÐ¸ÑÐ°'>]^*sr$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/a>
 <a href='sh:Kosovo i Metohija'>]^*sh$^:<sent>$^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/a>
+<a href='th:à¸à¸­à¹à¸à¹à¸§'>]^*th$^:<sent>$^*à$¸^*à$¸­^*à$¹^*à$¸^*à$¹^*à$¸§[<\/a>
 <a href='fi:Kosovo'>]^*fi$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='sv:Kosovo'>]^*sv$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='th:à¸à¸­à¹à¸à¹à¸§'>]^*th$^:<sent>$^*à$¸^*à$¸­^*à$¹^*à$¸^*à$¹^*à$¸§[<\/a>
 <a href='tr:Kosova'>]^*tr$^:<sent>$^*Kosova$[<\/a>
 <a href='uk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*uk$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾^.<sent>$[][<\/a><\/p>
 <\/body>
