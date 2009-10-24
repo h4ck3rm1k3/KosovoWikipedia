@@ -8,8 +8,7 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>
-]{{^POV/POV<n><acr><sg>$}}[
+<p>]{{^POV/POV<n><acr><sg>$}}[
 ]{|[ 
 ]|^-/-<guio>$[
 ]| ^style/style<n><sg>$="^text/text<n><sg>$^-/-<guio>$^align/*align$^:/:<sent>$ ^center/center<vblex><inf>/center<vblex><pres>/centre<n><sg>$^;/;<sent>$" ^colspan/*colspan$="^2/2<num>$" |[
