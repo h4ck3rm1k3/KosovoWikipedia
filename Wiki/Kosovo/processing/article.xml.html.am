@@ -267,7 +267,6 @@
 <li>]{{^dmoz/*dmoz$|^Regional/Regional<adj>$\/^Europe/Europe<np><loc><sg>$\/^Serbia/*Serbia$\/^Kosovo/Kosovo<np><loc><sg>$}}^./.<sent>$[][<\/li>
 <li><a href='http:\/\/www.visitkosova.org\/english\/index.htm Visit Kosovo - Tourism Website'>]^76/76<num>$^./.<sent>$[][<\/a><\/li>
 <li><\/li>
-<li><a href='http:\/\/www.scribd.com\/doc\/11444724\/Books-about-Albania-and-the-Albanian-people Books about Albania and the Albanian people'>]^77/77<num>$[<\/a> <em>]^(/(<lpar>$^scribd/*scribd$^./.<sent>$^com/*com$^)/)<rpar>$[<\/em> ]^Reference/Reference<n><sg>$ ^of/of<pr>$ ^books/book<n><pl>/book<vblex><pri><p3><sg>$ ^(/(<lpar>$^and/and<cnjcoo>$ ^some/some<adv>/some<det><qnt><sp>/some<prn><tn><mf><pl>$ ^journal/journal<n><sg>$ ^articles/article<n><pl>$^)/)<rpar>$ ^about/about<adv>/about<pr>$ ^Albania/*Albania$ ^and/and<cnjcoo>$ ^the/the<det><def><sp>$ ^Albanian/Albanian<adj>/Albanian<n><sg>$ ^people/person<n><pl>$^;/;<sent>$ ^their/their<det><pos><sp>$ ^history/history<n><sg>$^,/,<cm>$ ^language/language<n><sg>$^,/,<cm>$ ^origin/origin<n><sg>$^,/,<cm>$ ^culture/culture<n><sg>$^,/,<cm>$ ^literature/literature<n><sg>$^,/,<cm>$ ^etc/*etc$^./.<sent>$ ^Public/Public<adj>/Public<n><sg>$ ^domain/domain<n><sg>$ ^books/book<n><pl>/book<vblex><pri><p3><sg>$^,/,<cm>$ ^fully/fully<adv>$ ^accessible/accessible<adj>$ ^online/*online$^./.<sent>$^./.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 ]{{^Kosovo/Kosovo<np><loc><sg>$ ^topics/topic<n><pl>$}}[
