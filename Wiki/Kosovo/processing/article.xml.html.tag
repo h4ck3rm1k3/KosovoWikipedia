@@ -176,19 +176,12 @@
 <p><br\/>
 <\/p>
 <a name="List_of_Presidents"><\/a><h2>]^List<n><sg>$ ^of<pr>$ ^President<n><pl>$^.<sent>$[][<\/h2><p>]^List<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^president<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[ <a href='http:\/\/www.worldstatesmen.org\/Yugoslavia.html#Kosovo'>]^19<num>$[<\/a>]^:<sent>$^.<sent>$[][<\/p>
-<p>]^*Durin$ ^the<det><def><sp>$ ^democracy<n><sg>$^.<sent>$[][<\/p>
 <ul>
 <li><a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>]^,<cm>$[ <a href='2006'>]^2006<num>$[<\/a>]^-<guio>$^present<n><sg>$^.<sent>$[][<\/li>
 <li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>]^,<cm>$[ <a href='1992'>]^1992<num>$[<\/a>]^-<guio>$[<a href='2006'>]^2006<num>$^.<sent>$[][<\/a><\/li>
-<\/ul>
-<p> 
-]^During<pr>$ ^*Milosevi$ ^time<n><sg>$^:<sent>$ ^(<lpar>$^see<vblex><pres>$^:<sent>$[ <a href='Kosovo War'>]^Kosovo<np><loc><sg>$ ^War<n><sg>$[<\/a>]^)<rpar>$^.<sent>$[][<\/p>
-<ul>
-<li><a href='Hysen KajdomÃ§aj'>]^*Hysen$ ^*Kajdom$Ã§^*aj$[<\/a>]^,<cm>$[ <a href='1989'>]^1989<num>$[<\/a>]^-<guio>$[<a href='1990'>]^1990<num>$^.<sent>$[][<\/a><\/li>
-<\/ul>
-<p>]^During<pr>$ ^*komunist$ ^time<n><sg>$^:<sent>$^.<sent>$[][<\/p>
-<ul>
-<li><a href='Remzi Kolgeci'>]^*Remzi$ ^*Kolgeci$[<\/a>]^,<cm>$[ <a href='1988'>]^1988<num>$[<\/a>]^-<guio>$[<a href='1989'>]^1989<num>$[<\/a> ]^27<num>$ ^*Jun$ ^1989<num>$[  ]^(<lpar>$^acting<adj>$^)<rpar>$^.<sent>$[][<\/li>
+<li> 
+<a href='Hysen KajdomÃ§aj'>]^*Hysen$ ^*Kajdom$Ã§^*aj$[<\/a>]^,<cm>$[ <a href='1989'>]^1989<num>$[<\/a>]^-<guio>$[<a href='1990'>]^1990<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='Remzi Kolgeci'>]^*Remzi$ ^*Kolgeci$[<\/a>]^,<cm>$[ <a href='1988'>]^1988<num>$[<\/a>]^-<guio>$[<a href='27 June'>]^27<num>$ ^June<n><sg>$[<\/a> <a href='1989'>]^1989<num>$[<\/a>  ]^(<lpar>$^acting<adj>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
 <a href='Bajram Selani'>]^*Bajram$ ^*Selani$[<\/a>]^,<cm>$[ <a href='1986'>]^1986<num>$[<\/a>]^-<guio>$[<a href='1988'>]^1988<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='Branislav Skembarevic'>]^*Branislav$ ^*Skembarevic$[<\/a>]^,<cm>$[ <a href='1985'>]^1985<num>$[<\/a>]^-<guio>$[<a href='1986'>]^1986<num>$^.<sent>$[][<\/a><\/li>
