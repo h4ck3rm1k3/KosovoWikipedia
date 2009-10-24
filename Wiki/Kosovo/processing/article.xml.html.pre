@@ -230,6 +230,11 @@
 <\/ul>
 <p><br\/>
 <\/p>
+<a name="Culture"><\/a><h2>]^Culture<n><sg>$^.<sent>$[][<\/h2><ul>
+<li><a href='Music of Kosovo'>]^Music<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<\/ul>
+<p><br\/>
+<\/p>
 <a name="Gallery"><\/a><h2>]^Gallery<n><sg>$^.<sent>$[][<\/h2><p>&lt;]^gallery<n><sg>$[&gt;
 ]^Image<n><sg>$^:<sent>$^*Prishtina$ ^*maj$ ^2005<num>$^.<sent>$^*jpg$|[<a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Prizen$ ^*kosovo$^.<sent>$^*jpg$|[<a href='Prizreni'>]^*Prizreni$[<\/a>]\/[<a href='Prizren'>]^*Prizren$[<\/a>
