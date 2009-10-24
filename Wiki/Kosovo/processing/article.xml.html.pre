@@ -35,18 +35,20 @@
 ]|^leader<n><sg>$_^name<n><sg>$^3<num>$[                ]=[ <a href='Agim Ãeku'>]^*Agim$ Ã^*eku$[<\/a>
 ]|^sovereignty<n><sg>$_^type<n><sg>$[            ]= ^Status<n><sg>$[
 ]|^sovereignty<n><sg>$_^note<n><sg>$[            ]=[ 
-]|^establish<vblex><pp>$_^event<n><sg>$^1<num>$[          ]= ^Conquer<vblex><pp>$ ^by<pr>$ ^*Serbia$[
+]|^establish<vblex><pp>$_^event<n><sg>$^1<num>$[          ]=[ <a href='Byzantine Empire|Byzantine'>]^Byzantine<adj>$ ^Empire<n><sg>$|^Byzantine<adj>$[<\/a> ]^rule<n><sg>$ ^end<n><pl>$[
 ]|^establish<vblex><pp>$_^date<n><sg>$^1<num>$[           ]= ^12<num>$^*th$ ^century<n><sg>$[
-]|^establish<vblex><pp>$_^event<n><sg>$^2<num>$[          ]=[ <a href='Vassal'>]^*Vassal$[<\/a> ]^of<pr>$ ^the<det><def><sp>$ {{^*nowrap$|[<a href='Ottoman Empire'>]^*Ottoman$ ^Empire<n><sg>$[<\/a>]}}[
-]|^establish<vblex><pp>$_^date<n><sg>$^2<num>$[           ]=[ &lt;]^*br$\/[&gt;]^16<num>$^*th$ ^century<n><sg>$[
-]|^establish<vblex><pp>$_^event<n><sg>$^3<num>$[          ]= ^Part<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ {{^*nowrap$|[<a href='Kingdom of Yugoslavia'>]^*Kingdom$ ^of<pr>$ ^Yugoslavia<np><loc><sg>$[<\/a>]}}[
-]|^establish<vblex><past>$_^date<n><sg>$^3<num>$[           ]=[ &lt;]^*br$\/[&gt;]^1929<num>$[
-]|^establish<vblex><pp>$_^event<n><sg>$^4<num>$[          ]= ^Autonomous<adj>$ ^Kosovo<np><loc><sg>$^-<guio>$^*Metohian$[&amp;]^*nbsp$^;<sent>$^Area<n><sg>$[
-]|^establish<vblex><pp>$_^date<n><sg>$^4<num>$[           ]=[ &lt;]^*br$\/[&gt;]^1945<num>$[
-]|^establish<vblex><pp>$_^event<n><sg>$^5<num>$[          ]= ^Socialist<adj>$ ^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[
-]|^establish<vblex><past>$_^date<n><sg>$^5<num>$[           ]=[ &lt;]^*br$\/[&gt;]^1960<num>$^*s$[
-]|^establish<vblex><pp>$_^event<n><sg>$^6<num>$[          ]=[ <a href='United Nations Interim Administration Mission in Kosovo|UN Interim Administration Mission'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Interim<adj>$ ^Administration<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^UN<n><acr><sg>$ ^Interim<adj>$ ^Administration<n><sg>$ ^Mission<n><sg>$[<\/a>
-]|^establish<vblex><pp>$_^date<n><sg>$^6<num>$[           ]=[ &lt;]^*br$\/[&gt;]^1999<num>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^2<num>$[          ]= ^Incorporate<vblex><pp>$ ^into<pr>$ ^*Serbia$[
+]|^establish<vblex><pp>$_^date<n><sg>$^2<num>$[           ]= ^13<num>$^*th$ ^century<n><sg>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^3<num>$[          ]=[ <a href='Vassal'>]^*Vassal$[<\/a> ]^of<pr>$ ^the<det><def><sp>$ {{^*nowrap$|[<a href='Ottoman Empire'>]^*Ottoman$ ^Empire<n><sg>$[<\/a>]}}[
+]|^establish<vblex><pp>$_^date<n><sg>$^3<num>$[           ]=[ &lt;]^*br$\/[&gt;]^16<num>$^*th$ ^century<n><sg>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^4<num>$[          ]= ^Part<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ {{^*nowrap$|[<a href='Kingdom of Yugoslavia'>]^*Kingdom$ ^of<pr>$ ^Yugoslavia<np><loc><sg>$[<\/a>]}}[
+]|^establish<vblex><past>$_^date<n><sg>$^4<num>$[           ]=[ &lt;]^*br$\/[&gt;]^1929<num>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^5<num>$[          ]= ^Autonomous<adj>$ ^Kosovo<np><loc><sg>$^-<guio>$^*Metohian$[&amp;]^*nbsp$^;<sent>$^Area<n><sg>$[
+]|^establish<vblex><pp>$_^date<n><sg>$^5<num>$[           ]=[ &lt;]^*br$\/[&gt;]^1945<num>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^6<num>$[          ]= ^Socialist<adj>$ ^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[
+]|^establish<vblex><past>$_^date<n><sg>$^6<num>$[           ]=[ &lt;]^*br$\/[&gt;]^1960<num>$^*s$[
+]|^establish<vblex><pp>$_^event<n><sg>$^7<num>$[          ]=[ <a href='United Nations Interim Administration Mission in Kosovo|UN Interim Administration Mission'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Interim<adj>$ ^Administration<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^UN<n><acr><sg>$ ^Interim<adj>$ ^Administration<n><sg>$ ^Mission<n><sg>$[<\/a>
+]|^establish<vblex><pp>$_^date<n><sg>$^7<num>$[           ]=[ &lt;]^*br$\/[&gt;]^1999<num>$[
 ]|^area<n><sg>$_^rank<n><sg>$[                   ]=[ 
 ]|^area<n><sg>$_^magnitude<n><sg>$[              ]= ^1<num>$ ^*E$^7<num>$[
 ]|^area<n><sg>$[                        ]= ^10,887<num>$[
