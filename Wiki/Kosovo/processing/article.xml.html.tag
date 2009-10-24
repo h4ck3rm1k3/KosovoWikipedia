@@ -30,9 +30,8 @@
 ]^At the same time<adv>$^,<cm>$ ^prpers<prn><subj><p3><nt><sg>$ ^be<vbser><pri><p3><sg>$ ^also<adv>$ ^difficult<adj>$ ^to<pr>$ ^see<vblex><inf>$ ^how<adv><itg>$[ <a href='Serbia'>]^*Serbia$[<\/a> ]^would<vaux><inf>$ ^consent<n><sg>$ ^to<pr>$ ^recognize<vblex><ger>$ ^independence<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^and<cnjcoo>$ ^without<pr>$ ^*Serbia$^'s<gen>$ ^approval<n><sg>$^,<cm>$ ^recognition<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^independence<n><sg>$ ^would<vaux><inf>$ ^be<vbser><inf>$ ^extremely<adv>$ ^problematic<adj>$ ^under<pr>$[ <a href='international law'>]^international<adj>$ ^law<n><sg>$[<\/a> ]^as<cnjadv>$ ^prpers<prn><subj><p3><nt><sg>$ ^would<vaux><inf>$ ^be<vbser><inf>$ ^a<det><ind><sg>$ ^*violation$ ^of<pr>$ ^the<det><def><sp>$ ^principle<n><pl>$ ^of<pr>$[ <a href='territorial integrity'>]^territorial<adj>$ ^integrity<n><sg>$[<\/a> ]^and<cnjcoo>$[ <a href='non-interference in internal affairs'>]^non<adv>$^-<guio>$^*interference$ ^in<pr>$ ^internal<adj>$ ^affair<n><pl>$[<\/a>]^.<sent>$ ^The most<det><qnt><sp>$ ^likely<adj>$ ^outcome<n><sg>$ ^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$ ^indefinite<adj>$ ^continuation<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^current<adj>$ ^situation<n><sg>$^.<sent>$^.<sent>$[][<\/p>
 
 <pre>
-<\/pre><p>   
-]==^See<vblex><pres>$ ^also<adv>$==^.<sent>$[][<\/p>
-<ul>
+<\/pre><a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><ul>
+<li><a href='Battle of Kosovo'>]^Battle<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li>   
 <a href='National awakening and the birth of Albania'>]^National<adj>$ ^awaken<vblex><ger>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^birth<n><sg>$ ^of<pr>$ ^*Albania$^.<sent>$[][<\/a><\/li>
 <\/ul>
