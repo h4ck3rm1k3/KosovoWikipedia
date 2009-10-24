@@ -1129,8 +1129,8 @@
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='bs:Kosovo'>]^*bs$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
-<a href='bg:ÐÐ¾ÑÐ¾Ð²Ð¾ (Ð¾Ð±Ð»Ð°ÑÑ)'>]^*bg$^:$
-ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ ^(<lpar>$Ð¾Ð±Ð»Ð°^*Ñ$^*Ñ$^)<rpar>$[<\/a>
+<a href='bg:ÐÐ¾ÑÐ¾Ð²Ð¾ Ð¸ ÐÐµÑÐ¾ÑÐ¸Ñ'>]^*bg$^:$
+ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$[<\/a>
 <a href='ca:Kosovo'>]^*ca$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='cs:Kosovo'>]^*cs$^:$
@@ -1161,8 +1161,8 @@
 ×§××^¡<lquest>$××× ×××××××[<\/a>
 <a href='la:Cosovum'>]^*la$^:$
 ^*Cosovum$[<\/a>
-<a href='lv:Kosova'>]^*lv$^:$
-^*Kosova$[<\/a>
+<a href='lv:Kosova un Metohija'>]^*lv$^:$
+^*Kosova$ ^*un$ ^*Metohija$[<\/a>
 <a href='lt:Kosovas'>]^*lt$^:$
 ^*Kosovas$[<\/a>
 <a href='hu:KoszovÃ³'>]^*hu$^:$
