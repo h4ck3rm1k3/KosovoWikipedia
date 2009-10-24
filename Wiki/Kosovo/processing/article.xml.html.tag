@@ -65,7 +65,7 @@
 ]|^*utc$_^*offset$_^DST<n><acr><sg>$[              ]= +^2<num>$[
 ]|^*cctld$[                       ]=[  <em>]^None<prn><tn><nt><sg>$ ^assign<vblex><pp>$[<\/em>
 ]|^*footnote$^1<num>$[                   ]=[ <a href='United Nations Interim Administration Mission in Kosovo'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Interim<adj>$ ^Administration<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a>&lt;]^*br$\/[&gt;<a href='Provisional Institutions of Self-Government'>]^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$[<\/a>
-]|^*footnote$^2<num>$[                   ]= ^Independence<n><sg>$ ^be<vbser><pri><p3><sg>$ ^not<adv>$ ^recognize<vblex><pp>$ ^by<pr>$ ^any<det><ind><sp>$ ^other<det><ind><sp>$ ^country<n><sg>$ ^or<cnjcoo>$ ^by<pr>$ ^UN<n><acr><sg>$^.<sent>$[
+]|^*footnote$^2<num>$[                   ]= ^Independence<n><sg>$ ^be<vbser><pri><p3><sg>$ ^not<adv>$ ^*presently$ ^recognize<vblex><pp>$ ^by<pr>$ ^any<det><ind><sp>$ ^other<det><ind><sp>$ ^state<n><sg>$^.<sent>$[
 ]|^*footnote$^3<num>$[                   ]= ^The<det><def><sp>$[ <a href='Serbian dinar'>]^*Serbian$ ^*dinar$[<\/a> ]^be<vbser><pri><p3><sg>$ ^use<vblex><pp>$ ^in<pr>$[ <a href='Kosovo Serb enclaves|Serbian enclaves'>]^Kosovo<np><loc><sg>$ ^*Serb$ ^*enclaves$|^*Serbian$ ^*enclaves$[<\/a> ]^and<cnjcoo>$[ <a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$[<\/a>]^.<sent>$[
 ]|^*footnote$^4<num>$[                   ]= ^currently<adv>$ ^*equals$ ^call<vblex><ger>$ ^code<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>]^.<sent>$[
 ]}}[
