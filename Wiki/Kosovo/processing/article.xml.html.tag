@@ -286,7 +286,7 @@
 <a href='http:\/\/www.kpaonline.org\/ KPA'>]^21<num>$[<\/a> <a href='Kosovo Property'>]^Kosovo<np><loc><sg>$ ^Property<n><sg>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Property<n><sg>$ ^Agency<n><sg>$ ^-<guio>$ ^*KPA$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.hpdkosovo.org\/ Housing and Property Directorate'>]^22<num>$[<\/a> ]^Housing<n><sg>$ ^and<cnjcoo>$ ^Property<n><sg>$ ^*Directorate$ ^-<guio>$ ^HPD<n><acr><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ A collection of photos from Kosovo'>]^23<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.otvoreno.org.yu\/ Otvoreno '>]^24<num>$[<\/a> ]^A<det><ind><sg>$ ^place<n><sg>$ ^where<rel><adv>$ ^*Serbian$ ^politician<n><pl>$ ^speak<vblex><inf>$ ^openly<adv>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.otvoreno.org.yu\/ Otvoreno '>]^24<num>$[<\/a> ]^A<det><ind><sg>$ ^place<n><sg>$ ^where<rel><adv>$ ^*Serbian$ ^politician<n><pl>$ ^speak<vblex><inf>$ ^openly<adv>$ ^on<pr>$ ^the<det><def><sp>$ ^Kosovo<np><loc><sg>$ ^issue<n><sg>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.iom.ipko.org\/ IOM '>]^25<num>$[<\/a> ]^International<adj>$ ^Organization<n><sg>$ ^for<pr>$ ^Migration<n><sg>$^.<sent>$[][<\/li>
 <li> 
 <a href='http:\/\/www.crisisgroup.org\/home\/index.cfm?id=1243&amp;l=1 (ICG)'>]^26<num>$[<\/a> ]^International<adj>$ ^Crisis<n><sg>$ ^Group<n><sg>$^,<cm>$ ^a<det><ind><sg>$ ^source<n><sg>$ ^of<pr>$ ^independent<adj>$ ^analysis<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><pl>$^.<sent>$^.<sent>$[][<\/li>
