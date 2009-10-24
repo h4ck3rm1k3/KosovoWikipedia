@@ -64,7 +64,7 @@
 ]|^common/common<adj>$_^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>$[        ]= ^Kosovo/Kosovo<np><loc><sg>$[
 ]|^continent/continent<n><sg>$[          ]= ^Europe/Europe<np><loc><sg>$[
 ]|^region/region<n><sg>$[             ]= ^Balkans/*Balkans$[
-]|^capital/capital<adj>/capital<n><sg>$[            ]= ^Pristina/*Pristina$ ^(/(<lpar>$^Prishtina/*Prishtina$^,/,<cm>$ ^Pri/*Pri$Å^¡/¡<lquest>$^tina/*tina$^)/)<rpar>$[
+]|^capital/capital<adj>/capital<n><sg>$[            ]= ^Pristina/*Pristina$[
 ]|^image/image<n><sg>$_^flag/flag<n><sg>$[         ]= ^Flag/Flag<n><sg>$ ^of/of<pr>$ ^the/the<det><def><sp>$ ^United/Unite<vblex><past>/Unite<vblex><pp>$ ^Nations/Nation<n><pl>$^./.<sent>$^svg/*svg$[
 ]|^image/image<n><sg>$_^coat/coat<n><sg>$[         ]=[ 
 ]|^sovereignty/sovereignty<n><sg>$_^type/type<n><sg>/type<vblex><inf>/type<vblex><pres>$[   ]= ^UN/UN<n><acr><sg>$ ^administration/administration<n><sg>$[

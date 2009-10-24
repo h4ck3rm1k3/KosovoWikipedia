@@ -64,7 +64,7 @@
 ]|^common<adj>$_^name<n><sg>$[        ]= ^Kosovo<np><loc><sg>$[
 ]|^continent<n><sg>$[          ]= ^Europe<np><loc><sg>$[
 ]|^region<n><sg>$[             ]= ^*Balkans$[
-]|^capital<n><sg>$[            ]= ^*Pristina$ ^(<lpar>$^*Prishtina$^,<cm>$ ^*Pri$Å^¡<lquest>$^*tina$^)<rpar>$[
+]|^capital<adj>$[            ]= ^*Pristina$[
 ]|^image<n><sg>$_^flag<n><sg>$[         ]= ^Flag<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$^.<sent>$^*svg$[
 ]|^image<n><sg>$_^coat<n><sg>$[         ]=[ 
 ]|^sovereignty<n><sg>$_^type<n><sg>$[   ]= ^UN<n><acr><sg>$ ^administration<n><sg>$[
