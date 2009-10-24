@@ -9,7 +9,8 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>]{{^POV<n><acr><sg>$|^date<n><sg>$=^December<n><sg>$ ^2008<num>$}}[
+<p>]{{^POV<n><acr><sg>$|^date<n><sg>$=^December<n><sg>$ ^2008<num>$}}{{^*citecheck$|^date<n><sg>$=^February<n><sg>$ ^2009<num>$}}[
+
 &lt;]^!$
 ^-<guio>$^-<guio>$^-<guio>$^-<guio>$^-<guio>$[
 ]^Please<vblex><inf>$ ^be<vbser><inf>$ ^very<preadv>$ ^careful<adj>$ ^in<pr>$ ^edit<vblex><ger>$ ^the<det><def><sp>$ ^introduction<n><sg>$ ^of<pr>$ ^this<det><dem><sg>$ ^article<n><sg>$^.$
