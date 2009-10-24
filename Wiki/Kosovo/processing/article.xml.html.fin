@@ -23,13 +23,7 @@
 " ^*colspan$="^2<num>$" |[ <a href='Image:Citys of Kosova.PNG|160px'>]^Image<n><sg>$^:$
 ^City<n><pl>$ ^of<pr>$ ^*Kosova$^.$
 ^*PNG$|^160<num>$^*px$[<\/a> 
-]|^-<guio>$ ^style<n><sg>$="^border<n><sg>$^-<guio>$^top<n><sg>$^:$
- ^2<num>$^*px$ ^solid<adj><sint>$ ^gray<adj><sint>$^;$
-"[
-]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-KosovoMetohija.png|100px|Map showing Kosovo within the state union'>]^Image<n><sg>$^:$
-^*SerbiaMontenegro$^-<guio>$^*KosovoMetohija$^.$
-^*png$|^100<num>$^*px$|^Map<n><sg>$ ^show<vblex><ger>$ ^Kosovo<np><loc><sg>$ ^within<pr>$ ^the<det><def><sp>$ ^state<adj>$ ^union<n><sg>$[<\/a>
-]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
+]|^-<guio>$[
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
 ]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a> ]^(<lpar>$^in<pr>$ ^*alphabetical$ ^order<n><sg>$^)<rpar>$[
@@ -93,9 +87,9 @@
 ^.$
 [][<\/p>
 <a name="Geography"><\/a><h2>]^Geography<n><sg>$^.$
-[][<\/h2><p><a href='image:UTkosovo rel small 92.jpg|thumb|left|275px|Physical map of Kosovo'>]^image<n><sg>$^:$
+[][<\/h2><p><a href='image:UTkosovo rel small 92.jpg|thumb|right|275px|Physical map of Kosovo'>]^image<n><sg>$^:$
 ^*UTkosovo$ ^*rel$ ^small<adj><sint>$ ^92<num>$^.$
-^*jpg$|^thumb<n><sg>$|^leave<vblex><past>$|^275<num>$^*px$|^Physical<adj>$ ^map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
+^*jpg$|^thumb<n><sg>$|^right<n><sg>$|^275<num>$^*px$|^Physical<adj>$ ^map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
 ]^With<pr>$ ^a<det><ind><sg>$ ^area<n><sg>$ ^of<pr>$[ <a href='1 E10 mÂ²|10,912'>]^1<num>$ ^*E$^10<num>$ ^*mÂ$²|^10,912<num>$[<\/a> <a href='square kilometre'>]^square<adj>$ ^kilometre<n><pl>$[<\/a> ]^(<lpar>$^4,213<num>$[ <a href='square mile|sq.&amp;nbsp;mi'>]^square<adj>$ ^mile<n><sg>$|^*sq$^.$
 [&amp;]^*nbsp$^;$
 ^*mi$[<\/a>]^)<rpar>$ ^and<cnjcoo>$ ^a<det><ind><sg>$ ^population<n><sg>$ ^of<pr>$ ^over<pr>$ ^two<num><sp>$ ^million<num><sp>$ ^of<pr>$ ^the<det><def><sp>$ ^*eve$ ^of<pr>$ ^the<det><def><sp>$ ^1999<num>$ ^crisis<n><sg>$^,<cm>$ ^Kosovo<np><loc><sg>$ ^border<n><pl>$[ <a href='Montenegro'>]^Montenegro<np><loc><sg>$[<\/a> ]^to<pr>$ ^the<det><def><sp>$ ^northwest<n><sg>$^,<cm>$[ <a href='Central Serbia'>]^Central<adj>$ ^*Serbia$[<\/a> ]^to<pr>$ ^the<det><def><sp>$ ^North<adj><sint>$ ^and<cnjcoo>$ ^East<n><sg>$^;$
