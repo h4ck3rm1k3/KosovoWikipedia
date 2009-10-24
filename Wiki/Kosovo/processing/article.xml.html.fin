@@ -993,7 +993,7 @@
 <p><br\/>
 <\/p>
 <a name="Gallery"><\/a><h2>]^Gallery<n><sg>$^.$
-[][<\/h2><p>&lt;]^gallery<n><sg>$ ^style<n><sg>$="^margin<n><sg>$^:$
+[][<\/h2><p>&lt;]^centre<n><sg>$[&gt;&lt;]^gallery<n><sg>$ ^style<n><sg>$="^margin<n><sg>$^:$
 ^2<num>$^*px$ ^auto<n><sg>$^;$
 "[&gt;
 ]^Image<n><sg>$^:$
@@ -1063,7 +1063,7 @@
 ]^Image<n><sg>$^:$
 ^*BoroRamizi$^.$
 ^*jpg$|"^*Pallati$ ^*i$ ^*Rinis$Ã«" ^in<pr>$[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
-&lt;]\/^gallery<n><sg>$^.$
+&lt;]\/^gallery<n><sg>$[&gt;&lt;]\/^centre<n><sg>$^.$
 [][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.$
 [][<\/h2><p>&lt;]^*div$ ^style<n><sg>$="^-<guio>$^*moz$^-<guio>$^column<n><sg>$^-<guio>$^count<vblex><inf>$^:$
