@@ -14,7 +14,8 @@
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[      ]= ^Kosovo<np><loc><sg>$[
 ]|^common<adj>$_^name<n><sg>$[                 ]= ^Kosovo<np><loc><sg>$[
 ]|^image<n><sg>$_^flag<n><sg>$[                  ]=[ 
-]|^image<n><sg>$_^coat<n><sg>$[                  ]=[ 
+]|^image<n><sg>$_^coat<n><sg>$[                  ]= ^Kosovo<np><loc><sg>$ ^*pisg$ ^*ca$^.$
+^*png$[
 ]|^image<n><sg>$_^map<n><sg>$[                   ]= ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^part<n><sg>$ ^of<pr>$ ^*Serbia$^.$
 ^*png$[
 ]|^map<n><sg>$_^*caption$[                 ]= ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$[ <a href='Serbia'>]^*Serbia$[<\/a>

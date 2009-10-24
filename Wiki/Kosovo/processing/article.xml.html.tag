@@ -13,7 +13,7 @@
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[      ]= ^Kosovo<np><loc><sg>$[
 ]|^common<adj>$_^name<n><sg>$[                 ]= ^Kosovo<np><loc><sg>$[
 ]|^image<n><sg>$_^flag<n><sg>$[                  ]=[ 
-]|^image<n><sg>$_^coat<n><sg>$[                  ]=[ 
+]|^image<n><sg>$_^coat<n><sg>$[                  ]= ^Kosovo<np><loc><sg>$ ^*pisg$ ^*ca$^.<sent>$^*png$[
 ]|^image<n><sg>$_^map<n><sg>$[                   ]= ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^part<n><sg>$ ^of<pr>$ ^*Serbia$^.<sent>$^*png$[
 ]|^map<n><sg>$_^*caption$[                 ]= ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$[ <a href='Serbia'>]^*Serbia$[<\/a>
 ]|^image<n><sg>$_^map<n><sg>$^2<num>$[                  ]= ^The<det><def><sp>$ ^position<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^within<pr>$ ^*Serbia$^.<sent>$^*PNG$[
