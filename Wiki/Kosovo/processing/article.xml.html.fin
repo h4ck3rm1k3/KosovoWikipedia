@@ -132,8 +132,11 @@
 \/\/^www.venice.coe<num>$^.$
 ^*int$\/^site<n><sg>$\/^dynamics<n><sg>$\/^*N$_^Opinion<n><sg>$_^*ef$^.$
 ^*asp$^?$
-^*L$=^*E$[&amp;]^*OID$=^405<num>$[&lt;]\/^*ref$[&gt; ]^Kosovo<np><loc><sg>$ ^*nevertheless$ ^operate<vblex><pri><p3><sg>$[ <em>]^*de$[<\/em> ]^*facto$ ^control<n><sg>$ ^over<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^a<det><ind><sg>$ ^part<n><sg>$ ^from<pr>$ ^the<det><def><sp>$ ^Northern<adj>$ ^part<n><sg>$ ^of<pr>$[ <a href='Mitrovica'>]^*Mitrovica$[<\/a>]^.$
- ^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^member<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='IMF'>]^*IMF$[<\/a>]^,<cm>$ ^which<prn><itg><m><sp>$ ^strengthen<vblex><pri><p3><sg>$ ^its<det><pos><sp>$ ^independence<n><sg>$ ^bid<n><sg>$[&lt;]^*ref$[&gt;]^*http$^:$
+^*L$=^*E$[&amp;]^*OID$=^405<num>$[&lt;]\/^*ref$[&gt; ]^The<det><def><sp>$ ^Albanian<adj>$ ^government<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^*nevertheless$ ^operate<vblex><pri><p3><sg>$[ <em>]^*de$[<\/em> ]^*facto$ ^control<n><sg>$ ^over<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^a<det><ind><sg>$ ^part<n><sg>$ ^from<pr>$ ^the<det><def><sp>$ ^Northern<adj>$ ^part<n><sg>$ ^of<pr>$[ <a href='Mitrovica'>]^*Mitrovica$[<\/a>]^.$
+ ^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^member<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='IMF'>]^*IMF$[<\/a> ]^and<cnjcoo>$ ^have<vbhaver><pri><p3><sg>$ ^be<vbser><pp>$ ^recognize<vblex><pp>$ ^by<pr>$ ^all<predet><sp>$ ^the<det><def><sp>$ ^former<adj>$[ <a href='Yugoslavia'>]^Yugoslavia<np><loc><sg>$[<\/a> ]^Republic<n><pl>$ ^as<pr>$ ^independent<adj>$[&lt;]^*ref$[&gt;]^*http$^:$
+\/\/^www.msnbc.msn<num>$^.$
+^*com$\/^*id$\/^27106251<num>$\/[&lt;]\/^*ref$[&gt;]^.$
+[&lt;]^*ref$[&gt;]^*http$^:$
 \/\/^*ca$^.$
 ^news<n><sg>$^.$
 ^finance<n><sg>$^.$
