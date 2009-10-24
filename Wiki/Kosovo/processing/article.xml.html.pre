@@ -176,8 +176,8 @@
 <\/p>
 <a name="Municipalities"><\/a><h3>]^Municipality<n><pl>$^.<sent>$[][<\/h3><p>]^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^also<adv>$ ^divide<vblex><pp>$ ^into<pr>$ ^30<num>$ ^municipality<n><pl>$ ^:<sent>$^.<sent>$[][<\/p>
 <p>]{{^Municipality<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
-<a name="Cities"><\/a><h2>]^City<n><pl>$^.<sent>$[][<\/h2><p><a href='Image:Prishtina maj 2005.jpg|thumb|200px|Prishtina.'>]^Image<n><sg>$^:<sent>$^*Prishtina$ ^*maj$ ^2005<num>$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^*Prishtina$^.<sent>$[<\/a>
-<a href='Image:BoroRamizi.jpg|thumb|200px|\[\[Pristina|Prishtina'>]^Image<n><sg>$^:<sent>$^*BoroRamizi$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^\[<lpar>$^\[<lpar>$^*Pristina$|^*Prishtina$[<\/a>]^\]<rpar>$^\]<rpar>$^.<sent>$[][<\/p>
+<a name="Cities"><\/a><h2>]^City<n><pl>$^.<sent>$[][<\/h2><p><a href='Image:Prishtina maj 2005.jpg|thumb|200px|PriÅ¡tina.'>]^Image<n><sg>$^:<sent>$^*Prishtina$ ^*maj$ ^2005<num>$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^*Pri$Å^¡<lquest>$^*tina$^.<sent>$[<\/a>
+<a href='Image:BoroRamizi.jpg|thumb|200px|\[\[PriÅ¡tina'>]^Image<n><sg>$^:<sent>$^*BoroRamizi$^.<sent>$^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^\[<lpar>$^\[<lpar>$^*Pri$Å^¡<lquest>$^*tina$[<\/a>]^\]<rpar>$^\]<rpar>$^.<sent>$[][<\/p>
 <p>]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^for<pr>$ ^2006<num>$^)<rpar>$^:<sent>$[&lt;]^*ref$[&gt;]{{^cite<vblex><pres>$ ^web<n><sg>$ |^*url$=^*http$^:<sent>$\/\/^www.world-gazetteer.com<num>$\/^*wg$^.<sent>$^*php$^?<sent>$^*x$=[&amp;]^man<n><pl>$=^*gcis$[&amp;]^*lng$=^*en$[&amp;]^*dat$=^32<num>$[&amp;]^*srt$=^*npan$[&amp;]^*col$=^*aohdq$[&amp;]^*geo$=^-<guio>$^244<num>$ |^title<n><sg>$=^*Serbia$^:<sent>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^and<cnjcoo>$ ^town<n><pl>$ ^and<cnjcoo>$ ^*statistics$ ^of<pr>$ ^their<det><pos><sp>$ ^population<n><sg>$ |^author<n><sg>$=^World<n><sg>$ ^*Gazetteer$}}[&lt;]\/^*ref$^.<sent>$[][&gt;<\/p>
 <ul>
 <li><a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^:<sent>$ ^571,532<num>$^.<sent>$[][<\/li>
