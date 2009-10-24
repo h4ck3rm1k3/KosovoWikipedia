@@ -97,7 +97,7 @@
 <li>]^90%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$^.<sent>$[][<\/a><\/li>
 <li>  
 ]^5%<num><percent>$[ <a href='Serbs'>]^*Serbs$^.<sent>$[][<\/a><\/li>
-<li>]^3%<num><percent>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^and<cnjcoo>$[ <a href='Gorani|Gorans'>]^*Gorani$|^*Gorans$^.<sent>$[][<\/a><\/li>
+<li>]^3%<num><percent>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^and<cnjcoo>$[ <a href='Gorani (ethnic group)|Gorans'>]^*Gorani$ ^(<lpar>$^ethnic<adj>$ ^group<n><sg>$^)<rpar>$|^*Gorans$^.<sent>$[][<\/a><\/li>
 <li>]^1%<num><percent>$[ <a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$^.<sent>$[][<\/a><\/li>
 <li>]^1%<num><percent>$[ <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$^.<sent>$[][<\/a><\/li>
 <\/ul>
