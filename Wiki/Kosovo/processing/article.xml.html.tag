@@ -35,24 +35,28 @@
 ]|^leader<n><sg>$_^name<n><sg>$^3<num>$[                ]=[ <a href='Agim Ãeku'>]^*Agim$ Ã^*eku$[<\/a>
 ]|^sovereignty<n><sg>$_^type<n><sg>$[            ]= ^Status<n><sg>$[
 ]|^sovereignty<n><sg>$_^note<n><sg>$[            ]=[ 
-]|^establish<vblex><pp>$_^event<n><sg>$^1<num>$[          ]= ^*feudal$ ^*Lordship$[
-]|^establish<vblex><pp>$_^date<n><sg>$^1<num>$[           ]= ^late<adj><sint>$ ^14<num>$^*th$ ^century<n><sg>$[
-]|^establish<vblex><pp>$_^event<n><sg>$^2<num>$[          ]= ^*Ottoman$ ^Empire<n><sg>$[
-]|^establish<vblex><pp>$_^date<n><sg>$^2<num>$[           ]= ^15<num>$^*th$ ^century<n><sg>$[
-]|^establish<vblex><pp>$_^event<n><sg>$^3<num>$[          ]=[ <a href='Kosovo Province, Ottoman Empire|Vilayet of Kosovo'>]^Kosovo<np><loc><sg>$ ^Province<n><sg>$^,<cm>$ ^*Ottoman$ ^Empire<n><sg>$|^*Vilayet$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
-]|^establish<vblex><past>$_^date<n><sg>$^3<num>$[           ]= ^1864<num>$[
-]|^establish<vblex><pp>$_^event<n><sg>$^4<num>$[          ]= ^*Kingdom$ ^of<pr>$ ^*Serbia$[
-]|^establish<vblex><pp>$_^date<n><sg>$^4<num>$[           ]= ^1912<num>$[
-]|^establish<vblex><pp>$_^event<n><sg>$^5<num>$[          ]= ^Autonomous<adj>$ ^Region<n><sg>$ ^of<pr>$ ^*KosMet$[
-]|^establish<vblex><pp>$_^date<n><sg>$^5<num>$[           ]= ^1945<num>$[
-]|^establish<vblex><pp>$_^event<n><sg>$^6<num>$[          ]= ^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^-<guio>$^*Metohija$[
-]|^establish<vblex><pp>$_^date<n><sg>$^6<num>$[           ]= ^1963<num>$[
-]|^establish<vblex><pp>$_^event<n><sg>$^7<num>$[          ]= ^Socialist<adj>$ ^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[
-]|^establish<vblex><past>$_^date<n><sg>$^7<num>$[           ]= ^1974<num>$[
-]|^establish<vblex><pp>$_^event<n><sg>$^8<num>$[          ]= ^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$[
-]|^establish<vblex><pp>$_^date<n><sg>$^8<num>$[           ]= ^1990<num>$[
-]|^establish<vblex><pp>$_^event<n><sg>$^9<num>$[          ]=[ <a href='United Nations Interim Administration Mission in Kosovo|UN Interim Administration Mission'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Interim<adj>$ ^Administration<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^UN<n><acr><sg>$ ^Interim<adj>$ ^Administration<n><sg>$ ^Mission<n><sg>$[<\/a> ]^take<vblex><pri><p3><sg>$ ^over<pr>$ ^Kosovo<np><loc><sg>$[
-]|^establish<vblex><past>$_^date<n><sg>$^9<num>$[           ]= ^1999<num>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^1<num>$[          ]=[ <a href='Byzantine'>]^Byzantine<adj>$[<\/a> ]^rule<n><sg>$ ^end<n><pl>$[
+]|^establish<vblex><pp>$_^date<n><sg>$^1<num>$[           ]=[ <a href='Circa|c.'>]^*Circa$|^*c$^.<sent>$[<\/a><a href='1180'>]^1180<num>$[<\/a>
+]|^establish<vblex><pp>$_^event<n><sg>$^2<num>$[          ]= ^Part<n><sg>$ ^of<pr>$ ^independent<adj>$ ^*Serbian$ ^state<n><sg>$[
+]|^establish<vblex><pp>$_^date<n><sg>$^2<num>$[           ]=[ <a href='Circa|c.'>]^*Circa$|^*c$^.<sent>$[<\/a><a href='1208'>]^1208<num>$[<\/a>
+]|^establish<vblex><pp>$_^event<n><sg>$^3<num>$[          ]= ^*Feudal$ ^*demesne$[
+]|^establish<vblex><pp>$_^date<n><sg>$^3<num>$[           ]= ^late<adj><sint>$ ^14<num>$^*th$ ^century<n><sg>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^4<num>$[          ]= ^*Ottoman$ ^Empire<n><sg>$[
+]|^establish<vblex><pp>$_^date<n><sg>$^4<num>$[           ]= ^15<num>$^*th$ ^century<n><sg>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^5<num>$[          ]=[ <a href='Kosovo Province, Ottoman Empire|Vilayet of Kosovo'>]^Kosovo<np><loc><sg>$ ^Province<n><sg>$^,<cm>$ ^*Ottoman$ ^Empire<n><sg>$|^*Vilayet$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
+]|^establish<vblex><past>$_^date<n><sg>$^5<num>$[           ]= ^1864<num>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^6<num>$[          ]= ^*Kingdom$ ^of<pr>$ ^*Serbia$[
+]|^establish<vblex><pp>$_^date<n><sg>$^6<num>$[           ]= ^1912<num>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^7<num>$[          ]= ^Autonomous<adj>$ ^Region<n><sg>$ ^of<pr>$ ^*KosMet$[
+]|^establish<vblex><pp>$_^date<n><sg>$^7<num>$[           ]= ^1945<num>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^8<num>$[          ]= ^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^-<guio>$^*Metohija$[
+]|^establish<vblex><pp>$_^date<n><sg>$^8<num>$[           ]= ^1963<num>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^9<num>$[          ]= ^Socialist<adj>$ ^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[
+]|^establish<vblex><past>$_^date<n><sg>$^9<num>$[           ]= ^1974<num>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^10<num>$[         ]= ^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$[
+]|^establish<vblex><pp>$_^date<n><sg>$^10<num>$[          ]= ^1990<num>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^11<num>$[         ]=[ <a href='United Nations Interim Administration Mission in Kosovo|UN Interim Administration Mission'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Interim<adj>$ ^Administration<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^UN<n><acr><sg>$ ^Interim<adj>$ ^Administration<n><sg>$ ^Mission<n><sg>$[<\/a> ]^take<vblex><pri><p3><sg>$ ^over<pr>$ ^Kosovo<np><loc><sg>$[
+]|^establish<vblex><past>$_^date<n><sg>$^11<num>$[          ]= ^1999<num>$[
 ]|^area<n><sg>$_^rank<n><sg>$[                   ]=[ 
 ]|^area<n><sg>$_^magnitude<n><sg>$[              ]= ^1<num>$ ^*E$^7<num>$[
 ]|^area<n><sg>$[                        ]= ^10,887<num>$[
