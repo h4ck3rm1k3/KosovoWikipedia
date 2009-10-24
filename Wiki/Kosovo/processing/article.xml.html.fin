@@ -46,8 +46,8 @@
 ^Flag<n><sg>$_^of<pr>$_^the<det><def><sp>$_^Unite<vblex><pp>$_^Nation<n><pl>$^.$
 ^*svg$|^80<num>$^*px$|^Flag<n><sg>$ ^of<pr>$ ^The<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$[<\/a>
 ]|^-<guio>$[
-]| ^*align$=^centre<n><sg>$ ^width<n><sg>$=^142<num>$^*px$ |[ <a href='Flag of Montenegro'>]^Flag<n><sg>$ ^of<pr>$ ^Montenegro<np><loc><sg>$[<\/a>
-]| ^*align$=^centre<n><sg>$ ^width<n><sg>$=^142<num>$^*px$ |[ <a href='Coat of Arms of Montenegro|Coat of Arms&lt;br\/&gt;of Montenegro'>]^Coat<n><sg>$ ^of<pr>$ ^Arm<n><pl>$ ^of<pr>$ ^Montenegro<np><loc><sg>$|^Coat<n><sg>$ ^of<pr>$ ^Arm<n><pl>$[&lt;]^*br$\/[&gt;]^of<pr>$ ^Montenegro<np><loc><sg>$[<\/a>
+]| ^*align$=^centre<n><sg>$ ^width<n><sg>$=^142<num>$^*px$ |[ <a href='Flag of Serbia and Montenegro'>]^Flag<n><sg>$ ^of<pr>$ ^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$[<\/a>
+]| ^*align$=^centre<n><sg>$ ^width<n><sg>$=^142<num>$^*px$ |[ <a href='Flag of The United Nations|Flags&lt;br\/&gt;of The UN'>]^Flag<n><sg>$ ^of<pr>$ ^The<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$|^Flag<n><pl>$[&lt;]^*br$\/[&gt;]^of<pr>$ ^The<det><def><sp>$ ^UN<n><acr><sg>$[<\/a>
 ]|}[
 ]|^-<guio>$ ^style<n><sg>$="^border<n><sg>$^-<guio>$^top<n><sg>$^:$
  ^2<num>$^*px$ ^solid<adj><sint>$ ^gray<adj><sint>$^;$

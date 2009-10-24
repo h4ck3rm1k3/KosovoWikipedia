@@ -19,8 +19,8 @@
 ]| ^*align$=^centre<n><sg>$ ^width<n><sg>$=^142<num>$^*px$ |[ <a href='Image:Flag_of_Serbia_and_Montenegro.svg|140px|Flag of Serbia and Montenegro'>]^Image<n><sg>$^:<sent>$^Flag<n><sg>$_^of<pr>$_^*Serbia$_^and<cnjcoo>$_^Montenegro<np><loc><sg>$^.<sent>$^*svg$|^140<num>$^*px$|^Flag<n><sg>$ ^of<pr>$ ^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$[<\/a>
 ]| ^*align$=^centre<n><sg>$ ^width<n><sg>$=^142<num>$^*px$ |[ <a href='Image:Flag_of_the_United_Nations.svg|80px|Flag of The United Nations'>]^Image<n><sg>$^:<sent>$^Flag<n><sg>$_^of<pr>$_^the<det><def><sp>$_^Unite<vblex><pp>$_^Nation<n><pl>$^.<sent>$^*svg$|^80<num>$^*px$|^Flag<n><sg>$ ^of<pr>$ ^The<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$[<\/a>
 ]|^-<guio>$[
-]| ^*align$=^centre<n><sg>$ ^width<n><sg>$=^142<num>$^*px$ |[ <a href='Flag of Montenegro'>]^Flag<n><sg>$ ^of<pr>$ ^Montenegro<np><loc><sg>$[<\/a>
-]| ^*align$=^centre<n><sg>$ ^width<n><sg>$=^142<num>$^*px$ |[ <a href='Coat of Arms of Montenegro|Coat of Arms&lt;br\/&gt;of Montenegro'>]^Coat<n><sg>$ ^of<pr>$ ^Arm<n><pl>$ ^of<pr>$ ^Montenegro<np><loc><sg>$|^Coat<n><sg>$ ^of<pr>$ ^Arm<n><pl>$[&lt;]^*br$\/[&gt;]^of<pr>$ ^Montenegro<np><loc><sg>$[<\/a>
+]| ^*align$=^centre<n><sg>$ ^width<n><sg>$=^142<num>$^*px$ |[ <a href='Flag of Serbia and Montenegro'>]^Flag<n><sg>$ ^of<pr>$ ^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$[<\/a>
+]| ^*align$=^centre<n><sg>$ ^width<n><sg>$=^142<num>$^*px$ |[ <a href='Flag of The United Nations|Flags&lt;br\/&gt;of The UN'>]^Flag<n><sg>$ ^of<pr>$ ^The<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$|^Flag<n><pl>$[&lt;]^*br$\/[&gt;]^of<pr>$ ^The<det><def><sp>$ ^UN<n><acr><sg>$[<\/a>
 ]|}[
 ]|^-<guio>$ ^style<n><sg>$="^border<n><sg>$^-<guio>$^top<n><sg>$^:<sent>$ ^2<num>$^*px$ ^solid<adj><sint>$ ^gray<adj><sint>$^;<sent>$"[
 ]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-Montenegro2.png | Map of Montenegro within the state union'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Montenegro<np><loc><sg>$^2<num>$^.<sent>$^*png$ | ^Map<n><sg>$ ^of<pr>$ ^Montenegro<np><loc><sg>$ ^within<pr>$ ^the<det><def><sp>$ ^state<adj>$ ^union<n><sg>$[<\/a>
