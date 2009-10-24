@@ -226,7 +226,7 @@
 <\/ul>
 <p><br\/>
 <\/p>
-<a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><p>&lt;]^reference<n><pl>$\/^.<sent>$[][&gt;<\/p>
+<a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><p>&lt;]^small<adj><sint>$[&gt;&lt;]^reference<n><pl>$\/[&gt;&lt;]\/^small<adj><sint>$^.<sent>$[][&gt;<\/p>
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <ul>
 <li><a href='http:\/\/ec.europa.eu\/economy_finance\/publications\/enlargement_papers\/2005\/elp26en.pdf EU Commission report on economic development in Accession countries, including Kosovo'>]^3<num>$^.<sent>$[][<\/a><\/li>
