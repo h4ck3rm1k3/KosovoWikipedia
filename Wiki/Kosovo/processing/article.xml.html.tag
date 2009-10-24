@@ -94,7 +94,7 @@
 ]^1%<num><percent>$ ^*Turks$ ^(<lpar>$^19,700<num>$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
-]^The<det><def><sp>$ ^number<n><sg>$ ^of<pr>$ ^non<adv>$^-<guio>$^Albanian<n><pl>$ ^have<vbhaver><pri><p3><sg>$ ^be<vbser><pp>$ ^further<adv>$ ^reduce<vblex><pp>$ ^since<pr>$ ^this<det><dem><sg>$ ^survey<n><sg>$ ^in<pr>$ ^2000<num>$^,<cm>$ ^and<cnjcoo>$ ^many<prn><tn><mf><pl>$ ^of<pr>$ ^those who<rel><nn><mf><pl>$ ^do<vbdo><pres>$ ^remain<vblex><inf>$ ^still<adv>$ ^live<vblex><inf>$ ^in<pr>$ ^*refugee$^-<guio>$^camp<n><pl>$^.<sent>$^.<sent>$[][<\/p>
+<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><ul>
 <li><a href='Assembly of Kosovo'>]^Assembly<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
