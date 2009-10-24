@@ -20,10 +20,11 @@
 ]|^-<guio>$ ^style<n><sg>$="^border<n><sg>$^-<guio>$^top<n><sg>$^:$
  ^2<num>$^*px$ ^solid<adj><sint>$ ^gray<adj><sint>$^;$
 "[
-]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-KosovoMetohija.png|100px|Map showing Kosovo within the state union'>]^Image<n><sg>$^:$
-^*SerbiaMontenegro$^-<guio>$^*KosovoMetohija$^.$
-^*png$|^100<num>$^*px$|^Map<n><sg>$ ^show<vblex><ger>$ ^Kosovo<np><loc><sg>$ ^within<pr>$ ^the<det><def><sp>$ ^state<adj>$ ^union<n><sg>$[<\/a> 
-]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
+]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:$
+ ^centre<n><sg>$^;$
+" ^*colspan$="^2<num>$" |[ <a href='Image:LocationKosova.PNG|300px|LocationKosova'>]^Image<n><sg>$^:$
+^*LocationKosova$^.$
+^*PNG$|^300<num>$^*px$|^*LocationKosova$[<\/a> 
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
 ]|[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^,<cm>$[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>
@@ -80,7 +81,7 @@
 ]|}[
 <strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>$[<a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^:$
 [ <em>]^*Kosov$Ã«[<\/em>]\/[<em>]^*Kosova$[<\/em>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^:$
- ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°\/[<em>]^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/em>]^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$[ <a href='UN'>]^UN<n><acr><sg>$[<\/a>]^-<guio>$^administer<vblex><pp>$ ^territory<n><sg>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>]^,<cm>$[ <a href='Serbia and Montenegro'>]^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$[<\/a>]^.$
+ ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°\/[<em>]^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/em>]^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$[ <a href='UN'>]^UN<n><acr><sg>$[<\/a>]^-<guio>$^administer<vblex><pp>$ ^territory<n><sg>$ ^of<pr>$[ <a href='Socialist Federal Republic of Yugoslavia'>]^Socialist<adj>$ ^Federal<adj>$ ^Republic<n><sg>$ ^of<pr>$ ^Yugoslavia<np><loc><sg>$[<\/a>]^.$
  ^By<pr>$ ^the<det><def><sp>$ ^UN<n><acr><sg>$ ^resolution<n><sg>$ ^1244<num>$ ^(<lpar>$^adopt<vblex><pp>$ ^in<pr>$ ^1999<num>$^)<rpar>$^,<cm>$ ^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^define<vblex><pp>$ ^as<pr>$ ^autonomous<adj>$ ^territory<n><sg>$ ^within<pr>$ ^former<adj>$[ <a href='Federal Republic of Yugoslavia'>]^Federal<adj>$ ^Republic<n><sg>$ ^of<pr>$ ^Yugoslavia<np><loc><sg>$[<\/a> ]^under<pr>$ ^UN<n><acr><sg>$ ^administration<n><sg>$^.$
  ^Whether<cnjadv>$ ^this<prn><tn><mf><sg>$ ^will<vaux><inf>$ ^remain<vblex><inf>$ ^the<det><def><sp>$ ^case<n><sg>$ ^be<vbser><pri><p3><sg>$ ^still<adj><sint>$ ^*unclear$^,<cm>$ ^as<cnjadv>$ ^the<det><def><sp>$ ^final<adj>$ ^status<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$ ^subject<n><sg>$ ^of<pr>$ ^a<det><ind><sg>$ ^ongoing<adj>$ ^dispute<n><sg>$ ^between<pr>$ ^government<n><sg>$ ^of<pr>$ ^*Serbia$ ^and<cnjcoo>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^government<n><sg>$^.$
  ^Talk<n><pl>$ ^on<pr>$ ^this<det><dem><sg>$ ^issue<n><sg>$ ^start<vblex><pp>$ ^in<pr>$ ^Vienna<np><loc><sg>$^,<cm>$ ^on<pr>$ ^February<n><sg>$ ^20<num>$^,<cm>$[ <a href='2006'>]^2006<num>$[<\/a> <a href='http:\/\/www.unmikonline.org\/news.htm#1703'>]^1<num>$[<\/a>]^.$
@@ -403,11 +404,20 @@
 ^French<adj>$ ^*Peugeot$ ^*P$^4<num>$ ^*dsc$^06852<num>$^.$
 ^*jpg$|[<a href='KFOR'>]^*KFOR$[<\/a>
 ]^Image<n><sg>$^:$
+^*Prishtina$^.$
+^*jpg$|[<a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
+]^Image<n><sg>$^:$
 ^*Prizen$ ^*kosovo$^.$
 ^*jpg$|[<a href='Prizreni'>]^*Prizreni$[<\/a>]\/[<a href='Prizren'>]^*Prizren$[<\/a>
 ]^Image<n><sg>$^:$
 ^*Rahoveci$^.$
 ^*jpg$|[<a href='Rahovec'>]^*Rahovec$[<\/a>]\/[<a href='Orahovac'>]^*Orahovac$[<\/a>
+]^Image<n><sg>$^:$
+^*Skenderbeuinprishtina$^.$
+^*jpg$|[<a href='Skenderbeg'>]^*Skenderbeg$[<\/a>
+]^Image<n><sg>$^:$
+^*Slava$^2005<num>$ ^6<num>$^.$
+^*jpg$|[<a href='Visoki DeÄani monastery'>]^*Visoki$ ^*DeÄ$^*ani$ ^*monastery$[<\/a>]\/[<a href='DeÃ§an monastery'>]^*De$Ã§^a<det><ind><sg>$ ^*monastery$[<\/a>
 &lt;]\/^gallery<n><sg>$^.$
 [][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.$
@@ -527,8 +537,8 @@
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='Category:United Nations'>]^Category<n><sg>$^:$
 ^Unite<vblex><pp>$ ^Nation<n><pl>$[<\/a>
-<a href='Category:Subdivisions of Serbia and Montenegro'>]^Category<n><sg>$^:$
-^*Subdivisions$ ^of<pr>$ ^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$^.$
+<a href='Category:Serbia and Montenegro'>]^Category<n><sg>$^:$
+^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$^.$
 [][<\/a><\/p>
 <p><a href='ar:ÙÙØµÙØ©'>]^*ar$^:$
 ^*Ù$^*Ù$Øµ^*Ù$Ø©[<\/a>
