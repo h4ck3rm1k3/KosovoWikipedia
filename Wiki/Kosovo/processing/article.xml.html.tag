@@ -138,7 +138,7 @@
 <li><a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^:<sent>$ ^571,532<num>$^.<sent>$[][<\/li>
 <li><a href='Prizren'>]^*Prizren$[<\/a> ]^:<sent>$ ^165,229<num>$^.<sent>$[][<\/li>
 <li><a href='UroÅ¡evac'>]^*Uro$Å^¡<lquest>$^*evac$[<\/a> ]^:<sent>$ ^197,741<num>$^.<sent>$[][<\/li>
-<li><a href='Äakovica'>]^*Ä$^*akovica$[<\/a> ]^(<lpar>$ ^127,156<num>$^.<sent>$[][<\/li>
+<li><a href='Äakovica'>]^*Ä$^*akovica$[<\/a> ]^:<sent>$ ^127,156<num>$^.<sent>$[][<\/li>
 <li><a href='PeÄ'>]^*PeÄ$[<\/a> ]^:<sent>$ ^195,190<num>$^.<sent>$[][<\/li>
 <li><a href='Gnjilane'>]^*Gnjilane$[<\/a> ]^:<sent>$ ^191,595<num>$^.<sent>$[][<\/li>
 <li><a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a> ]^:<sent>$ ^186,359<num>$^.<sent>$[][<\/li>
