@@ -25,7 +25,7 @@
 ]|^-<guio>$[
 ]|[ <a href='President of Kosovo|Transitional President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^*Transitional$ ^President<n><sg>$[<\/a>
 ]|[ <a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>
-]^*Ä$|^-<guio>$[
+]|^-<guio>$[
 ]|[ <a href='Prime Minister of Kosovo|Transitional Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^*Transitional$ ^Prime<adj>$ ^Minister<n><sg>$[<\/a>
 ]|[ <a href='Agim Ãeku'>]^*Agim$ Ã^*eku$[<\/a>
 ]|^-<guio>$[
