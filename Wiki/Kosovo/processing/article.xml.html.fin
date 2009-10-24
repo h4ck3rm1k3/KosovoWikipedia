@@ -543,7 +543,7 @@
 &lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:$
  ^absolute<adj>$^;$
 ^*font$^-<guio>$^size<n><sg>$^:$
-^165%<num><percent>$^;$
+^170%<num><percent>$^;$
 ^left<adv>$^:$
 ^10<num>$^*px$^;$
 ^top<adj>$^:$
@@ -559,11 +559,11 @@
 &lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:$
  ^absolute<adj>$^;$
 ^*font$^-<guio>$^size<n><sg>$^:$
-^100%<num><percent>$^;$
+^170%<num><percent>$^;$
 ^left<adv>$^:$
-^370<num>$^*px$^;$
+^100<num>$^*px$^;$
 ^top<adj>$^:$
-^125<num>$^*px$"[&gt;<strong><a href='%C4%90akovica|Gjakova'>]%^*C$^4%<num><percent>$^90<num>$^*akovica$|^*Gjakova$[<\/a><\/strong>&lt;]\/^*div$[&gt;
+^370<num>$^*px$"[&gt;<strong><a href='%C4%90akovica|Gjakova'>]%^*C$^4%<num><percent>$^90<num>$^*akovica$|^*Gjakova$[<\/a><\/strong>&lt;]\/^*div$[&gt;
 &lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:$
  ^absolute<adj>$^;$
 ^*font$^-<guio>$^size<n><sg>$^:$
