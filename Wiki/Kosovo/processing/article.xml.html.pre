@@ -136,7 +136,7 @@
 <li> 
 <em>]^7%<num><percent>$[<\/em> <a href='Serbs'>]^*Serbs$[<\/a> ]^(<lpar>$^between<pr>$ ^126,000<num>$ ^and<cnjcoo>$ ^140,000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li>	
-<em>]^1.9%<num><percent>$[<\/em> <a href='Muslims by nationality|Muslims'>]^Muslim<n><pl>$ ^by<pr>$ ^nationality<n><sg>$|^Muslim<n><pl>$[<\/a> ]^and<cnjcoo>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^(<lpar>$^between<pr>$ ^34,200<num>$ ^and<cnjcoo>$ ^38,000<num>$^)<rpar>$^.<sent>$[][<\/li>
+<em>]^1.9%<num><percent>$[<\/em> <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^(<lpar>$^between<pr>$ ^34,200<num>$ ^and<cnjcoo>$ ^38,000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
 <em>]^1.7%<num><percent>$[<\/em> <a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$[<\/a> ]^(<lpar>$^between<pr>$ ^30,600<num>$ ^and<cnjcoo>$ ^34,000<num>$^)<rpar>$ ^(<lpar>$^see<vblex><pres>$ ^also<adv>$[ <a href='Roma in Mitrovica Camps'>]^*Roma$ ^in<pr>$ ^*Mitrovica$ ^Camp<n><pl>$[<\/a>]^)<rpar>$^.<sent>$[][<\/li>
 <li><em>]^1%<num><percent>$[<\/em> <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$[<\/a> ]^(<lpar>$^between<pr>$ ^18,000<num>$ ^and<cnjcoo>$ ^20,000<num>$^)<rpar>$^.<sent>$[][<\/li>
