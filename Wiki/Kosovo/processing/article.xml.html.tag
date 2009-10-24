@@ -14,7 +14,7 @@
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[
 &lt;]^big<adj><sint>$[&gt;<strong> ]^Kosovo<np><loc><sg>$[ <\/strong>&lt;]^*br$\/[&gt;&lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$[&gt;
 ]|^-<guio>$[
-]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[ <a href='Image:Citys of Kosova.PNG|160px'>]^Image<n><sg>$^:<sent>$^City<n><pl>$ ^of<pr>$ ^*Kosova$^.<sent>$^*PNG$|^160<num>$^*px$[<\/a> 
+]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[ <a href='Image:Kosovo_in_the_region.png|160px'>]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$_^in<pr>$_^the<det><def><sp>$_^region<n><sg>$^.<sent>$^*png$|^160<num>$^*px$[<\/a> 
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
 ]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
