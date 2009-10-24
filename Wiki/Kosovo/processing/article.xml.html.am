@@ -19,8 +19,8 @@
 ]{{^redirect/redirect<vblex><inf>/redirect<vblex><pres>$|^Autonomous/Autonomous<adj>$ ^Province/Province<n><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$ ^and/and<cnjcoo>$ ^Metohija/*Metohija$}}[
 ]{{^Infobox/*Infobox$ ^Country/Country<n><sg>$[
 ]|^conventional/conventional<adj>$_^long/long<adv>/long<adj><sint>$_^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>$[   ]= ^Kosovo/Kosovo<np><loc><sg>$[
-]|^image/image<n><sg>$_^map/map<n><sg>$ = ^Europe/Europe<np><loc><sg>$ ^location/location<n><sg>$ ^KOS/*KOS$^./.<sent>$^png/*png$[
-]|^map/map<n><sg>$_^caption/*caption$ = ^location/location<n><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$ ^in/in<adv>/in<pr>$ ^Europe/Europe<np><loc><sg>$[
+]|^image/image<n><sg>$_^map/map<n><sg>$ = ^Kosovo/Kosovo<np><loc><sg>$ ^map/map<n><sg>$^-/-<guio>$^en/*en$^./.<sent>$^svg/*svg$[
+]|^map/map<n><sg>$_^caption/*caption$ = ^Map/Map<n><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$[
 ]|^national/national<adj>$_^motto/*motto$[           ]=[
 ]|^national/national<adj>$_^anthem/*anthem$[          ]=[
 ]|^ethnic/ethnic<adj>$_^groups/group<n><pl>$[            ]= ^92%/92%<num><percent>$[ <a href='Albanians'>]^Albanians/Albanian<n><pl>$[<\/a>&lt;]^br/*br$\/[&gt;]^5.3%/5.3%<num><percent>$[ <a href='Serbs'>]^Serbs/*Serbs$[<\/a>&lt;]^br/*br$\/[&gt;]^2.7%/2.7%<num><percent>$ ^others/others<prn><tn><mf><pl>$[ &lt;]^ref/*ref$[&gt;<a href='http:\/\/www.ks-gov.net\/ESK\/esk\/english\/english.htm Enti i StatistikÃ«s sÃ« KosovÃ«s'>]^1/1<num>$[<\/a>&lt;]\/^ref/*ref$[&gt;
