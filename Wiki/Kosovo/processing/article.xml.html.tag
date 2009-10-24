@@ -146,6 +146,15 @@
 <\/ul>
 <p><br\/>
 <\/p>
+<a name="Pro-Kosovian_Turkish"><\/a><h3>]^*Pro$^-<guio>$^*Kosovian$ ^Turkish<adj>$^.<sent>$[][<\/h3><p>]^www.kosovaturkleri.com<num>$[
+]^www.yenidonem.org<num>$[
+]^www.prizrenliler.org<num>$[
+]^www.ydhaber.com<num>$[
+]^www.turkcemdergisi.zoomshare<num>$^.<sent>$^*com$[
+]^www.westtrakien.com<num>$\/^*balkanlar$\/^*kosovatuerkleri$\/[
+]^www.byegm.gov<num>$^.<sent>$^*tr$[
+]^www.kosovamamusa.com<num>$[
+]^www.balgoc.org<num>$^.<sent>$^*tr$^.<sent>$[][<\/p>
 <a name="Pro-Serb"><\/a><h3>]^*Pro$^-<guio>$^*Serb$^.<sent>$[][<\/h3><ul>
 <li><a href='http:\/\/www.kosovo.com\/sk\/history\/kosovo_origins\/default.htm  Hugo Roth, <em>]^Kosovo<np><loc><sg>$ ^Origin<n><pl>$[<\/em>]^'<apos>$[>]^26<num>$[<\/a>]^:<sent>$ ^a<det><ind><sg>$ ^historian<n><sg>$^'s<gen>$ ^comprehensive<adj>$ ^*overview$^.<sent>$[][<\/li>
 <li><a href='http:\/\/opinionleaders.htmlplanet.com\/koskosova.html What's in a Name? Kosova or Kosovo?'>]^27<num>$[<\/a> ]^-<guio>$ ^*Etymological$ ^analysis<n><sg>$ ^by<pr>$ ^*J$^.<sent>$ ^*P$^.<sent>$ ^*Maher$ ^*Ph$^.<sent>$ ^*D$^.<sent>$ ^(<lpar>$^Professor<n><sg>$ ^*Emeritus$ ^of<pr>$ ^*Linguistics$^,<cm>$ ^*Northeastern$ ^*Illinois$ ^University<adj>$ ^*Chicago$^)<rpar>$^.<sent>$[][<\/li>
