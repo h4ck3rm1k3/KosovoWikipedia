@@ -10,9 +10,8 @@
 <body>
     <h1><\/h1>
 <p>]{{^*pp$^-<guio>$^move<n><sg>$|^small<adj><sint>$=^yes<adv>$}}[&lt;]^!$
-^-<guio>$^-<guio>$^.$
-[][<\/p>
-<p>]^Please<vblex><inf>$ ^be<vbser><inf>$ ^very<preadv>$ ^careful<adj>$ ^in<pr>$ ^edit<vblex><ger>$ ^the<det><def><sp>$ ^introduction<n><sg>$ ^of<pr>$ ^this<det><dem><sg>$ ^article<n><sg>$^.$
+^-<guio>$^-<guio>$[
+]^Please<vblex><inf>$ ^be<vbser><inf>$ ^very<preadv>$ ^careful<adj>$ ^in<pr>$ ^edit<vblex><ger>$ ^the<det><def><sp>$ ^introduction<n><sg>$ ^of<pr>$ ^this<det><dem><sg>$ ^article<n><sg>$^.$
  ^The<det><def><sp>$ ^*Arbitration$ ^Committee<n><sg>$ ^have<vbhaver><pri><p3><sg>$ ^place<vblex><pp>$ ^this<det><dem><sg>$ ^article<n><sg>$ ^on<pr>$ ^*probation$^.$
  ^While<cnjadv>$ ^this<prn><tn><mf><sg>$ ^occur<vblex><pp>$ ^in<pr>$ ^2006<num>$^,<cm>$ ^prpers<prn><subj><p3><nt><sg>$ ^be<vbser><past><p3><sg>$ ^never<adv>$ ^*lifted$^;$
  ^thus<adv>$^,<cm>$ ^this<det><dem><sg>$ ^page<n><sg>$ ^be<vbser><pri><p3><sg>$ ^still<adv>$ ^under<pr>$ ^*probation$^.$
@@ -24,11 +23,8 @@
  ^DO<vbdo><pres>$ ^NOT<adv>$ ^ENGAGE<vblex><inf>$ ^IN<adv>$ ^EDIT<vblex><inf>$^-<guio>$^*WARRING$ ^ON<pr>$ ^THIS<det><dem><sg>$ ^ARTICLE<n><sg>$ ^or<cnjcoo>$ ^any<det><ind><sp>$ ^relate<vblex><pp>$ ^article<n><pl>$^.$
  ^Edit<vblex><pres>$^-<guio>$^*warring$ ^on<pr>$ ^this<det><dem><sg>$ ^article<n><sg>$ ^will<vaux><inf>$ ^result<vblex><inf>$ ^in<pr>$ ^immediate<adj>$ ^block<vblex><ger>$ ^and<cnjcoo>$ ^application<n><sg>$ ^of<pr>$ ^additional<adj>$ ^*sanctions$ ^under<pr>$ ^the<det><def><sp>$ ^term<n><pl>$ ^of<pr>$ ^*probation$ ^as<cnjadv>$ ^administrator<n><pl>$ ^and<cnjcoo>$\/^or<cnjcoo>$ ^the<det><def><sp>$ ^community<n><sg>$ ^*deem$ ^*appropriate$^.$
  ^*Thank$ ^prpers<prn><obj><p2><mf><sp>$^.$
-^.$
-[][<\/p>
-<p>]^-<guio>$^-<guio>$[&gt;
-]{{^other<det><ind><sp>$ ^use<n><pl>$|^Kosovo<np><loc><sg>$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
-]{{^redirect<vblex><pres>$|^*Kosova$||^*Kosova$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
+[
+]^-<guio>$^-<guio>$[&gt;
 ]{{^*Infobox$ ^Country<n><sg>$[
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[   ]= ^Kosovo<np><loc><sg>$[
 ]|^image<n><sg>$_^map<n><sg>$ = ^Kosovo<np><loc><sg>$ ^map<n><sg>$^-<guio>$^*en$^.$
@@ -88,6 +84,8 @@
  ^some<prn><tn><mf><pl>$ ^mobile<adj>$ ^phone<n><sg>$ ^provider<n><pl>$ ^use<n><sg>$[ <a href='+377'>]+^377<num>$[<\/a> ]^(<lpar>$^Monaco<np><loc><sg>$^)<rpar>$ ^or<cnjcoo>$[ <a href='+386'>]+^386<num>$[<\/a> ]^(<lpar>$^Slovenia<np><loc><sg>$^)<rpar>$ ^instead<adv>$^.$
 [
 ]}}[
+]{{^other<det><ind><sp>$ ^use<n><pl>$|^Kosovo<np><loc><sg>$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
+]{{^redirect<vblex><pres>$|^*Kosova$||^*Kosova$ ^(<lpar>$^*disambiguation$^)<rpar>$}}[
 ]{{^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]{{^*Serbian$ ^Kosovo<np><loc><sg>$}}[
 ]{{^Kosovo<np><loc><sg>$ ^(<lpar>$^*UNMIK$^)<rpar>$}}[
