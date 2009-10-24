@@ -856,24 +856,12 @@
 ^*jpg$|[<a href='Gjakova'>]^*Gjakova$[<\/a>]\/[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]^.$
 [
 ]^Image<n><sg>$^:$
-^French<adj>$ ^*Peugeot$ ^*P$^4<num>$ ^*dsc$^06852<num>$^.$
-^*jpg$|[<a href='Kosovo Force|KFOR'>]^Kosovo<np><loc><sg>$ ^Force<n><sg>$|^*KFOR$[<\/a>]^.$
-[
-]^Image<n><sg>$^:$
-^*Rahoveci$^.$
-^*jpg$|[<a href='Rahovec'>]^*Rahovec$[<\/a>]\/[<a href='Orahovac'>]^*Orahovac$[<\/a>]^.$
-[
-]^Image<n><sg>$^:$
 ^*Decani$^.$
 ^*jpg$|^A<det><ind><sg>$ ^14<num>$^*th$^-<guio>$^century<n><sg>$ ^fresco<n><sg>$ ^in<pr>$[ <a href='Visoki DeÄani monastery'>]^*Visoki$ ^*DeÄ$^*ani$ ^*monastery$[<\/a>]^.$
 [
 ]^Image<n><sg>$^:$
 ^*Gjerovica$ ^new<adj><sint>$^.$
 ^*JPG$|[<a href='Gjerovica'>]^*Gjerovica$[<\/a>]\/[<a href='Äeravica'>]^*Ä$^*eravica$[<\/a>]^.$
-[
-]^Image<n><sg>$^:$
-^*Bjeshket$ ^*Junikut$^.$
-^*JPG$|[<a href='Juniku Mountains'>]^*Juniku$ ^Mountain<n><pl>$[<\/a>]\/[<a href='Junik Mountains'>]^*Junik$ ^Mountain<n><pl>$[<\/a>]^.$
 [
 ]^Image<n><sg>$^:$
 ^*VeshjeKombetare$^.$
@@ -886,26 +874,6 @@
 ]^Image<n><sg>$^:$
 ^*Bibloteka$ ^*Komb$Ã«^*tare$ ^*e$ ^*Kosov$Ã«^*s$^.$
 ^*jpg$|^National<adj>$ ^Public<adj>$ ^Library<n><sg>$ ^in<pr>$[ <a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]^.$
-[
-]^Image<n><sg>$^:$
-^League<n><sg>$ ^of<pr>$ ^*Prizren$ ^building<n><sg>$^.$
-^*jpg$|[<a href='League of Prizren'>]^League<n><sg>$ ^of<pr>$ ^*Prizren$[<\/a> ]^building<n><sg>$ ^in<pr>$[ <a href='Prizren'>]^*Prizren$[<\/a>]^.$
-[
-]^Image<n><sg>$^:$
-^White<adj><sint>$ ^*Drini$ ^05<num>$ ^01<num>$^.$
-^*jpg$|^Bridge<n><sg>$ "^*Ura$ ^*e$ ^*Fshejte$" ^on<pr>$[ <a href='White Drin'>]^the<det><def><sp>$ ^White<adj><sint>$ ^*Drin$[<\/a> ]^river<n><sg>$^.$
-[
-]^Image<n><sg>$^:$
-^*Vllaznimi$ ^*KuqezinjeteJakoves$ ^01<num>$^.$
-^*JPG$|^Sport<n><sg>$ ^fan<n><pl>$ ^of<pr>$ ^sport<n><sg>$ ^club<n><sg>$[ <a href='VÃ«llaznimi'>]^*V$Ã«^*llaznimi$[<\/a>]^,<cm>$[ <a href='GjakovÃ«'>]^*Gjakov$Ã«[<\/a>]\/[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]^.$
-[
-]^Image<n><sg>$^:$
-^*Prishtin$Ã« ^*SQ$^.$
-^*JPG$|^Stadium<n><sg>$ ^in<pr>$[ <a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]^.$
-[
-]^Image<n><sg>$^:$
-^*Pont$ ^*de$ ^*mitrovica$ ^*kossovo$^.$
-^*jpg$|[<a href='Mitrovica'>]^*Mitrovica$[<\/a>]\/[<a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a>]^.$
 [
 &lt;]\/^gallery<n><sg>$^.$
 [][&gt;<\/p>

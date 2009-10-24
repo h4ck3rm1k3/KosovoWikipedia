@@ -208,19 +208,11 @@
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$_^government<n><sg>$^.<sent>$^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^in<pr>$[ <a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Prizen$ ^*kosovo$^.<sent>$^*jpg$|[<a href='Prizreni'>]^*Prizreni$[<\/a>]\/[<a href='Prizren'>]^*Prizren$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Gjakova$^.<sent>$^*jpg$|[<a href='Gjakova'>]^*Gjakova$[<\/a>]\/[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]^.<sent>$[
-]^Image<n><sg>$^:<sent>$^French<adj>$ ^*Peugeot$ ^*P$^4<num>$ ^*dsc$^06852<num>$^.<sent>$^*jpg$|[<a href='Kosovo Force|KFOR'>]^Kosovo<np><loc><sg>$ ^Force<n><sg>$|^*KFOR$[<\/a>]^.<sent>$[
-]^Image<n><sg>$^:<sent>$^*Rahoveci$^.<sent>$^*jpg$|[<a href='Rahovec'>]^*Rahovec$[<\/a>]\/[<a href='Orahovac'>]^*Orahovac$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Decani$^.<sent>$^*jpg$|^A<det><ind><sg>$ ^14<num>$^*th$^-<guio>$^century<n><sg>$ ^fresco<n><sg>$ ^in<pr>$[ <a href='Visoki DeÄani monastery'>]^*Visoki$ ^*DeÄ$^*ani$ ^*monastery$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Gjerovica$ ^new<adj><sint>$^.<sent>$^*JPG$|[<a href='Gjerovica'>]^*Gjerovica$[<\/a>]\/[<a href='Äeravica'>]^*Ä$^*eravica$[<\/a>]^.<sent>$[
-]^Image<n><sg>$^:<sent>$^*Bjeshket$ ^*Junikut$^.<sent>$^*JPG$|[<a href='Juniku Mountains'>]^*Juniku$ ^Mountain<n><pl>$[<\/a>]\/[<a href='Junik Mountains'>]^*Junik$ ^Mountain<n><pl>$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*VeshjeKombetare$^.<sent>$^*JPG$|[<a href='Albanians in Kosovo|Kosovo Albanian'>]^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^Kosovo<np><loc><sg>$ ^Albanian<adj>$[<\/a> ]^ethnic<adj>$ ^costume<n><sg>$\/^dance<n><sg>$^.<sent>$[  
 ]^Image<n><sg>$^:<sent>$^*Erzengelkloster$^2<num>$^.<sent>$^*jpg$|[<a href='Serbs in Kosovo|Serb'>]^*Serbs$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^*Serb$[<\/a> ]^*monastery$ ^near<adj><sint>$ ^river<n><sg>$[ <a href='Bistrica'>]^*Bistrica$[<\/a>]^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Bibloteka$ ^*Komb$Ã«^*tare$ ^*e$ ^*Kosov$Ã«^*s$^.<sent>$^*jpg$|^National<adj>$ ^Public<adj>$ ^Library<n><sg>$ ^in<pr>$[ <a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]^.<sent>$[
-]^Image<n><sg>$^:<sent>$^League<n><sg>$ ^of<pr>$ ^*Prizren$ ^building<n><sg>$^.<sent>$^*jpg$|[<a href='League of Prizren'>]^League<n><sg>$ ^of<pr>$ ^*Prizren$[<\/a> ]^building<n><sg>$ ^in<pr>$[ <a href='Prizren'>]^*Prizren$[<\/a>]^.<sent>$[
-]^Image<n><sg>$^:<sent>$^White<adj><sint>$ ^*Drini$ ^05<num>$ ^01<num>$^.<sent>$^*jpg$|^Bridge<n><sg>$ "^*Ura$ ^*e$ ^*Fshejte$" ^on<pr>$[ <a href='White Drin'>]^the<det><def><sp>$ ^White<adj><sint>$ ^*Drin$[<\/a> ]^river<n><sg>$^.<sent>$[
-]^Image<n><sg>$^:<sent>$^*Vllaznimi$ ^*KuqezinjeteJakoves$ ^01<num>$^.<sent>$^*JPG$|^Sport<n><sg>$ ^fan<n><pl>$ ^of<pr>$ ^sport<n><sg>$ ^club<n><sg>$[ <a href='VÃ«llaznimi'>]^*V$Ã«^*llaznimi$[<\/a>]^,<cm>$[ <a href='GjakovÃ«'>]^*Gjakov$Ã«[<\/a>]\/[<a href='Äakovica'>]^*Ä$^*akovica$[<\/a>]^.<sent>$[
-]^Image<n><sg>$^:<sent>$^*Prishtin$Ã« ^*SQ$^.<sent>$^*JPG$|^Stadium<n><sg>$ ^in<pr>$[ <a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]^.<sent>$[
-]^Image<n><sg>$^:<sent>$^*Pont$ ^*de$ ^*mitrovica$ ^*kossovo$^.<sent>$^*jpg$|[<a href='Mitrovica'>]^*Mitrovica$[<\/a>]\/[<a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a>]^.<sent>$[
 &lt;]\/^gallery<n><sg>$^.<sent>$[][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><p>]{{^*col$^-<guio>$^begin<vblex><inf>$}}[
 ]{{^*col$^-<guio>$^2<num>$}}^.<sent>$[][<\/p>
