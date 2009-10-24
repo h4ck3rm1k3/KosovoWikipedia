@@ -8,9 +8,7 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p><em>]^For<pr>$ ^other<det><ind><sp>$ ^use<n><pl>$ ^of<pr>$ ^this<det><dem><sg>$ ^word<n><sg>$ ^see<vblex><pres>$[ <a href='Kosovo (disambiguation)'>]^Kosovo<np><loc><sg>$ ^(<lpar>$^*disambiguation$^)<rpar>$[<\/a><\/em>]^-<guio>$^-<guio>$^-<guio>$^-<guio>$[
-<em>]^The<det><def><sp>$ ^neutrality<n><sg>$ ^of<pr>$ ^this<det><dem><sg>$ ^article<n><sg>$ ^be<vbser><pri><p3><sg>$[ <a href='Wikipedia:NPOV dispute|disputed'>]^*Wikipedia$^:<sent>$^*NPOV$ ^dispute<n><sg>$|^*disputed$[<\/a>]^.<sent>$[<\/em> <em>]^Please<vblex><inf>$ ^see<vblex><inf>$ ^the<det><def><sp>$ ^article<n><sg>$^'s<gen>$[ <a href='Talk:Kosovo|talk page'>]^Talk<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|^talk<n><sg>$ ^page<n><sg>$[<\/a> ]^for<pr>$ ^more<preadv>$ ^information<n><sg>$^.<sent>$[][<\/em><\/p>
-<p> 
+<p>]{{^POV<n><acr><sg>$}}[
 <a href='Image:SerbiaMontenegro-Kosovo.png|right|'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^.<sent>$^*png$|^right<n><sg>$|^.<sent>$[][<\/a><\/p>
 
 <pre>
