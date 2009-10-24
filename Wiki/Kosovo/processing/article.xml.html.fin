@@ -76,7 +76,7 @@
 ]|^*utc$_^*offset$_^DST<n><acr><sg>$[              ]= +^2<num>$[
 ]|^*cctld$[                       ]=[  <em>]^none<prn><tn><nt><sg>$ ^assign<vblex><pp>$[<\/em>
 ]|^*footnote$^1<num>$[                   ]=[ <a href='United Nations Interim Administration Mission in Kosovo'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Interim<adj>$ ^Administration<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a>&lt;]^*br$\/[&gt;<a href='Provisional Institutions of Self-Government'>]^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$[<\/a>
-]|^*footnote$^2<num>$[                   ]= ^Independence<n><sg>$ ^be<vbser><pri><p3><sg>$ ^not<adv>$ ^recognize<vblex><pp>$ ^yet<adv>$^.$
+]|^*footnote$^2<num>$[                   ]= ^Independence<n><sg>$ ^be<vbser><pri><p3><sg>$ ^not<adv>$ ^yet<adv>$ ^recognize<vblex><pp>$^.$
 [
 ]|^*footnote$^3<num>$[                   ]= ^The<det><def><sp>$[ <a href='Serbian dinar'>]^*Serbian$ ^*dinar$[<\/a> ]^be<vbser><pri><p3><sg>$ ^use<vblex><pp>$ ^in<pr>$[ <a href='Kosovo Serb enclaves|Serbian enclaves'>]^Kosovo<np><loc><sg>$ ^*Serb$ ^*enclaves$|^*Serbian$ ^*enclaves$[<\/a> ]^and<cnjcoo>$[ <a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$[<\/a>]^.$
 [
@@ -93,7 +93,7 @@
  {{^*lang$^-<guio>$^*sq$|^*Krahina$ ^*Autonome$ ^*e$ ^*Kosov$Ã«^*s$ ^*dhe$ ^*Metohis$Ã«}}^)<rpar>$^.$
 ^.$
 [][<\/p>
-<p>]^In addition to<pr>$ ^its<det><pos><sp>$ ^frontier<n><sg>$ ^with<pr>$ ^the<det><def><sp>$ ^*remainder$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^state<n><sg>$^,<cm>$ ^Kosovo<np><loc><sg>$ ^border<n><pl>$[ <a href='Montenegro'>]^Montenegro<np><loc><sg>$[<\/a>]^,<cm>$[ <a href='Albania'>]^*Albania$[<\/a>]^,<cm>$ ^and<cnjcoo>$ ^the<det><def><sp>$[ <a href='Republic of Macedonia'>]^Republic<n><sg>$ ^of<pr>$ ^Macedonia<np><ant><f><sg>$[<\/a>]^.$
+<p>]^In addition to<pr>$ ^its<det><pos><sp>$ ^*disputed$ ^border<n><sg>$ ^with<pr>$ ^*Serbia$^,<cm>$ ^Kosovo<np><loc><sg>$ ^also<adv>$ ^border<n><pl>$[ <a href='Montenegro'>]^Montenegro<np><loc><sg>$[<\/a>]^,<cm>$[ <a href='Albania'>]^*Albania$[<\/a>]^,<cm>$ ^and<cnjcoo>$ ^the<det><def><sp>$[ <a href='Republic of Macedonia'>]^Republic<n><sg>$ ^of<pr>$ ^Macedonia<np><ant><f><sg>$[<\/a>]^.$
  ^Prpers<prn><subj><p3><nt><sg>$ ^have<vblex><pri><p3><sg>$ ^a<det><ind><sg>$ ^population<n><sg>$ ^of<pr>$ ^just<adv>$ ^over<pr>$ ^two<num><sp>$ ^million<num><sp>$ ^person<n><pl>$^,<cm>$ ^predominantly<adv>$ ^ethnic<adj>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>]^,<cm>$ ^with<pr>$ ^small<adj><sint><comp>$ ^population<n><pl>$ ^of<pr>$[ <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$[<\/a>]^,<cm>$[ <a href='Serbs'>]^*Serbs$[<\/a>]^,<cm>$[ <a href='Romani people'>]^*Romani$ ^person<n><pl>$[<\/a>]^,<cm>$[ <a href='Gorani (ethnic group)|Gorani'>]^*Gorani$ ^(<lpar>$^ethnic<adj>$ ^group<n><sg>$^)<rpar>$|^*Goranis$[<\/a>]^,<cm>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^and<cnjcoo>$ ^other<det><ind><sp>$ ^ethnic<adj>$ ^community<n><pl>$^.$
 [ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$ ^capital<adj>$ ^and<cnjcoo>$ ^large<adj><sint><sup>$ ^city<n><sg>$^.$
 ^.$
@@ -831,7 +831,7 @@
 ^*bbc$^.$
 ^*co$^.$
 ^*uk$\/^1<num>$\/^*hi$\/^business<n><sg>$\/^4509781<num>$^.$
-^*stm$ |^title<vblex><pres>$=^Brussels<np><loc><sg>$ ^offer<vblex><pri><p3><sg>$ ^first<det><ord><sp>$ ^Kosovo<np><loc><sg>$ ^loan<n><sg>$ |^author<n><sg>$=^BBC<n><acr><sg>$ ^News<n><sg>$ |^date<n><sg>$=^03<num>$\/^05<num>$\/^05<num>$}}[&lt;]\/^*ref$[&gt; ]^The<det><def><sp>$ ^province<n><sg>$^'s<gen>$ ^economic<adj>$ ^weakness<n><sg>$ ^have<vbhaver><pri><p3><sg>$ ^produce<vblex><pp>$ ^a<det><ind><sg>$ ^*thriving$ ^black<adj>$ ^economy<n><sg>$ ^in<pr>$ ^which<det><itg><sp>$ ^*smuggled$ ^petrol<n><sg>$^,<cm>$ ^cigarette<n><pl>$ ^and<cnjcoo>$ ^cement<n><sg>$ ^be<vbser><pres>$ ^major<adj>$ ^commodity<n><pl>$^.$
+^*stm$ |^title<vblex><pres>$=^Brussels<np><loc><sg>$ ^offer<vblex><pri><p3><sg>$ ^first<det><ord><sp>$ ^Kosovo<np><loc><sg>$ ^loan<n><sg>$ |^author<n><sg>$=^BBC<n><acr><sg>$ ^News<n><sg>$ |^date<n><sg>$=^03<num>$\/^05<num>$\/^05<num>$}}[&lt;]\/^*ref$[&gt; ]^The<det><def><sp>$ ^province<n><sg>$^'s<gen>$ ^economic<adj>$ ^weakness<n><sg>$ ^have<vbhaver><pri><p3><sg>$ ^produce<vblex><pp>$ ^a<det><ind><sg>$ ^*thriving$[ <a href='black market'>]^black<adj>$ ^market<n><sg>$[<\/a> ]^in<pr>$ ^which<det><itg><sp>$ ^*smuggled$ ^petrol<n><sg>$^,<cm>$ ^cigarette<n><pl>$ ^and<cnjcoo>$ ^cement<n><sg>$ ^be<vbser><pres>$ ^major<adj>$ ^commodity<n><pl>$^.$
  ^The<det><def><sp>$ ^*prevalence$ ^of<pr>$ ^official<adj>$ ^corruption<n><sg>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^*pervasive$ ^influence<n><sg>$ ^of<pr>$ ^organise<vblex><pp>$ ^crime<n><sg>$ ^*gangs$ ^have<vbhaver><pri><p3><sg>$ ^cause<vblex><pp>$ ^serious<adj>$ ^concern<n><sg>$ ^*internationally$^.$
  ^The<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$ ^have<vbhaver><pri><p3><sg>$ ^make<vblex><pp>$ ^the<det><def><sp>$ ^fight<n><sg>$ ^against<pr>$ ^corruption<n><sg>$ ^and<cnjcoo>$ ^organise<vblex><pp>$ ^crime<n><sg>$ ^a<det><ind><sg>$ ^high<adj><sint>$ ^priority<n><sg>$^,<cm>$ ^pledging<n><sg>$ ^a<det><ind><sg>$ "^*zero$ ^*tolerance$" ^approach<n><sg>$^.$
 ^.$
@@ -1248,7 +1248,7 @@
 [][<\/li>
 <li><a href='http:\/\/www.kosovo.net\/ Kosovo-The Land of the Living past'>]^58<num>$[<\/a> ]^(<lpar>$^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.$
 [][<\/li>
-<li><a href='http:\/\/www.savekosovo.org American Council for Kosovo'>]^59<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^promote<vblex><ger>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^American<adj>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$ ^and<cnjcoo>$ ^of<pr>$ ^the<det><def><sp>$ ^critical<adj>$ ^American<adj>$ ^stake<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*provinceâ$^*s$ ^future<n><sg>$^.$
+<li><a href='http:\/\/www.savekosovo.org American Council for Kosovo'>]^59<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^promote<vblex><ger>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^American<adj>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^*Replublic$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^of<pr>$ ^the<det><def><sp>$ ^critical<adj>$ ^American<adj>$ ^stake<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^*republicâ$^*s$ ^future<n><sg>$^.$
 ^.$
 [][<\/li>
 <\/ul>
