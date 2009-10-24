@@ -96,6 +96,35 @@
 [
 ]}}[
 ]{{^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
+]{{^*Infobox$ ^Country<n><sg>$ ^or<cnjcoo>$ ^territory<n><sg>$[
+]|^native<adj>$_^name<n><sg>$ =Ð^*Ñ$^*Ñ$Ð¾Ð½Ð¾Ð¼Ð½Ð° ÐÐ¾Ðº^*Ñ$Ð°^*Ñ$Ð¸Ð½Ð° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*ja$[&lt;]^*br$[&gt;]^*Autonomna$ ^*Pokrajina$ ^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[
+]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[      ]= ^Autonomous<adj>$ ^Province<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$[
+]|^common<adj>$_^name<n><sg>$[                 ]= ^Kosovo<np><loc><sg>$[
+]|^image<n><sg>$_^flag<n><sg>$[                  ]=[ 
+]|^image<n><sg>$_^coat<n><sg>$[                  ]=[ 
+]|^image<n><sg>$_^map<n><sg>$[                   ]= ^Map<n><sg>$ ^of<pr>$ ^*Serbia$ ^(<lpar>$^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohija$^)<rpar>$^.$
+^*PNG$[
+]|^map<n><sg>$_^*caption$[              ]=[ &lt;]^*div$ ^style<n><sg>$="^*padding$^-<guio>$^top<n><sg>$^:$
+^6<num>$^*px$^;$
+"[&gt;&lt;]\/^*div$[&gt;
+]|^national<adj>$_^*motto$[              ]=[ 
+]|^national<adj>$_^*anthem$[             ]=[ 
+]|^official<adj>$_^language<n><pl>$[          ]=[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^,<cm>$[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<adj>$[<\/a>
+]|^capital<n><sg>$[                     ]=[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
+]|^government<n><sg>$_^type<vblex><pres>$[             ]= ^Autonomous<adj>$ ^Province<n><sg>$[
+]|^leader<n><sg>$_^title<n><sg>$^1<num>$[               ]=[ 
+]|^leader<n><sg>$_^name<n><sg>$^1<num>$[                ]=[ 
+]|^leader<n><sg>$_^title<n><sg>$^2<num>$[               ]=[ 
+]|^leader<n><sg>$_^name<n><sg>$^2<num>$[                ]=[ 
+]|^sovereignty<n><sg>$_^type<vblex><pres>$[            ]= ^Autonomous<adj>$ ^Province<n><sg>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^1<num>$[          ]= ^Establish<vblex><past>$[
+]|^establish<vblex><pp>$_^date<n><sg>$^1<num>$[           ]= ^28<num>$ ^September<n><sg>$ ^1990<num>$[
+]|^establish<vblex><pp>$_^event<n><sg>$^2<num>$[          ]= ^*UNMIK$ ^administration<n><sg>$[
+]|^establish<vblex><pp>$_^date<n><sg>$^2<num>$[           ]= ^10<num>$ ^June<n><sg>$ ^1999<num>$[
+]|^currency<n><sg>$[                    ]=[ 
+]|^currency<n><sg>$_^code<n><sg>$[               ]=[ 
+]|^*footnote$^1<num>$[                   ]=[ 
+]}}[
 ]{{^Kosovo<np><loc><sg>$ ^(<lpar>$^*UNMIK$^)<rpar>$}}[
 <strong>]^Kosovo<np><loc><sg>$[<\/strong>  ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Kosova$}}^;$
  {{^*lang$^-<guio>$^*sr$|ÐÐ¾^*Ñ$Ð¾Ð²Ð¾}}^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$[ <a href='disputed territory'>]^*disputed$ ^territory<n><sg>$[<\/a> ]^on<pr>$[ <a href='Balkan Peninsula'>]^the<det><def><sp>$ ^Balkan<adj>$ ^Peninsula<n><sg>$[<\/a>]^.$
