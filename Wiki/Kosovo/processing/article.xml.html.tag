@@ -33,12 +33,10 @@
 ]|^large<adj><sint><sup>$_^city<n><sg>$[             ]= ^capital<n><sg>$[
 ]|^*demonym$[                  ]= ^*Kosovar$^(<lpar>$^*s$^)<rpar>$[
 ]|^government<n><sg>$_^type<vblex><pres>$[          ]= ^Parliamentary<adj>$ ^republic<n><sg>$[
-]|^leader<n><sg>$_^title<n><sg>$^1<num>$[            ]= {{^*nowrap$|^Special<adj>$ ^Representative<n><sg>$ ^of<pr>$}} {{^*nowrap$|^the<det><def><sp>$ ^Secretary<n><sg>$^-<guio>$^General<adj>$}}[
-]|^leader<n><sg>$_^name<n><sg>$^1<num>$[             ]=[ &lt;]^*br$[&gt;<a href='Joachim RÃ¼cker'>]^*Joachim$ ^*R$Ã¼^*cker$[<\/a>
-]|^leader<n><sg>$_^title<n><sg>$^2<num>$[            ]=[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
-]|^leader<n><sg>$_^name<n><sg>$^2<num>$[             ]=[ <a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>
-]|^leader<n><sg>$_^title<n><sg>$^3<num>$[            ]=[ <a href='Prime Minister of Kosovo|Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Prime<adj>$ ^Minister<n><sg>$[<\/a>
-]|^leader<n><sg>$_^name<n><sg>$^3<num>$[             ]=[ <a href='Hashim ThaÃ§i'>]^*Hashim$ ^*Tha$Ã§^*i$[<\/a>
+]|^leader<n><sg>$_^title<n><sg>$^1<num>$[            ]=[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
+]|^leader<n><sg>$_^name<n><sg>$^1<num>$[             ]=[ <a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>
+]|^leader<n><sg>$_^title<n><sg>$^2<num>$[            ]=[ <a href='Prime Minister of Kosovo|Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Prime<adj>$ ^Minister<n><sg>$[<\/a>
+]|^leader<n><sg>$_^name<n><sg>$^2<num>$[             ]=[ <a href='Hashim ThaÃ§i'>]^*Hashim$ ^*Tha$Ã§^*i$[<\/a>
 ]|^sovereignty<n><sg>$_^type<n><sg>$[         ]=[ <a href='Independence'>]^Independence<n><sg>$[<\/a>
 ]|^sovereignty<n><sg>$_^note<n><sg>$[         ]= ^from<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>
 ]|^establish<vblex><pp>$_^event<n><sg>$^1<num>$[       ]=[ <a href='2008 Kosovo declaration of independence|Declared'>]^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$|^Declare<vblex><past>$[<\/a>
