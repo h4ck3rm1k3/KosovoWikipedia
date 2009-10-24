@@ -126,7 +126,7 @@
 &lt;]^!<sent>$^-<guio>$^-<guio>$ ^Image<n><sg>$ ^with<pr>$ ^*unknown$ ^copyright<n><sg>$ ^status<n><sg>$ ^remove<vblex><past>$^:<sent>$ ^Image<n><sg>$^:<sent>$^*Prishtina$^.<sent>$^*jpg$|[<a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^-<guio>$^-<guio>$[&gt;
 ]^Image<n><sg>$^:<sent>$^*Prizen$ ^*kosovo$^.<sent>$^*jpg$|[<a href='Prizreni'>]^*Prizreni$[<\/a>]\/[<a href='Prizren'>]^*Prizren$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Rahoveci$^.<sent>$^*jpg$|[<a href='Rahovec'>]^*Rahovec$[<\/a>]\/[<a href='Orahovac'>]^*Orahovac$[<\/a>
-]^Image<n><sg>$^:<sent>$^*Skenderbeuinprishtina$^.<sent>$^*jpg$|[<a href='Skenderbeg'>]^*Skenderbeg$[<\/a>
+&lt;]^!<sent>$^-<guio>$^-<guio>$ ^Image<n><sg>$ ^with<pr>$ ^*unknown$ ^copyright<n><sg>$ ^status<n><sg>$ ^remove<vblex><past>$^:<sent>$ ^Image<n><sg>$^:<sent>$^*Skenderbeuinprishtina$^.<sent>$^*jpg$|[<a href='Skenderbeg'>]^*Skenderbeg$[<\/a> ]^-<guio>$^-<guio>$[&gt;
 ]^Image<n><sg>$^:<sent>$^*Slava$^2005<num>$ ^6<num>$^.<sent>$^*jpg$|[<a href='Visoki DeÄani monastery'>]^*Visoki$ ^*DeÄ$^*ani$ ^*monastery$[<\/a>]\/[<a href='DeÃ§an monastery'>]^*De$Ã§^a<det><ind><sg>$ ^*monastery$[<\/a>
 &lt;]\/^gallery<n><sg>$^.<sent>$[][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><ul>
