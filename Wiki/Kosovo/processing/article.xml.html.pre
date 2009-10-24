@@ -119,18 +119,18 @@
 <p><br\/>
 <\/p>
 <a name="Pro-Albanian"><\/a><h3>]^*Pro$^-<guio>$^Albanian<n><sg>$^.<sent>$[][<\/h3><ul>
-<li><a href='http:\/\/www.kosovo.com\/ Kosovo.com'>]^12<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.assembly-kosova.org\/ Kosovo Assembly'>]^13<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.pm-ksgov.net\/ Kosovo Prime Minister'>]^14<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosova.com Kosova Information Center (in Albanian)'>]^15<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.kosovapress.com Kosovapress - Kosovo news agency'>]^16<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/beqiraj.com\/kosova\/al\/ General information from Beqiraj.com'>]^17<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^Albanian<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.albanian.com\/main\/countries\/kosova General information from Albanian.com'>]^18<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.alb-net.com\/warcrimes-img\/warcrimes.htm Kosovo Crisis Center - Serbian Massacres of Albanians'>]^19<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.assembly-kosova.org\/ Kosovo Assembly'>]^12<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.pm-ksgov.net\/ Kosovo Prime Minister'>]^13<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosova.com Kosova Information Center (in Albanian)'>]^14<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.kosovapress.com Kosovapress - Kosovo news agency'>]^15<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/beqiraj.com\/kosova\/al\/ General information from Beqiraj.com'>]^16<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^Albanian<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.albanian.com\/main\/countries\/kosova General information from Albanian.com'>]^17<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.alb-net.com\/warcrimes-img\/warcrimes.htm Kosovo Crisis Center - Serbian Massacres of Albanians'>]^18<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <\/p>
 <a name="Pro-Serb"><\/a><h3>]^*Pro$^-<guio>$^*Serb$^.<sent>$[][<\/h3><ul>
+<li><a href='http:\/\/www.kosovo.com\/ Kosovo.com'>]^19<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.rastko.org.yu\/kosovo\/crucified\/default.htm Account of destroyed Serbian Orthodox churches in Kosovo and Metohia'>]^20<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.b92.net\/english\/news\/index.php?order=priority&amp;nav_category=19 News from B92 Belgrade'>]^21<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.serbia.sr.gov.yu\/news\/kosovo News from the Serbian Government'>]^22<num>$^.<sent>$[][<\/a><\/li>
