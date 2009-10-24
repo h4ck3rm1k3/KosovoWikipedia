@@ -146,7 +146,8 @@
 [][<\/p>
 <a name="History"><\/a><h2>]^History<n><sg>$^.$
 [][<\/h2><p>]{{^main<adj>$|^History<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}^.$
-[][<\/p>
+[][
+<\/p>
 <a name="Early_history"><\/a><h3>]^Early<adj><sint>$ ^history<n><sg>$^.$
 [][<\/h3><p>]{{^main<adj>$|^Prehistoric<adj>$ ^*Balkans$|^*Moesia$ ^Superior<adj>$|^History<n><sg>$ ^of<pr>$ ^Medieval<adj>$ ^Kosovo<np><loc><sg>$|^First<det><ord><sp>$ ^Bulgarian<adj>$ ^Empire<n><sg>$|^History<n><sg>$ ^of<pr>$ ^Medieval<adj>$ ^*Serbia$}}^.$
 [][<\/p>
@@ -411,8 +412,7 @@
 ^*stm$[&lt;]\/^*ref$^.$
 [][&gt;<\/p>
 <a name="Declaration_of_Independence"><\/a><h4>]^*Declaration$ ^of<pr>$ ^Independence<n><sg>$^.$
-[][<\/h4><p>]{{^*splitsection$|^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
-]{{^main<adj>$|^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$|^International<adj>$ ^reaction<n><sg>$ ^to<pr>$ ^the<det><def><sp>$ ^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$|^2008<num>$ ^Post<n><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$ ^unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$}}[
+[][<\/h4><p>]{{^main<adj>$|^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$|^International<adj>$ ^reaction<n><sg>$ ^to<pr>$ ^the<det><def><sp>$ ^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$|^2008<num>$ ^Post<n><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$ ^unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]^The<det><def><sp>$[ <a href='Assembly of Kosovo|Kosovar Assembly'>]^Assembly<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^*Kosovar$ ^Assembly<n><sg>$[<\/a> ]^approve<vblex><past>$ ^a<det><ind><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$ ^on<pr>$[ <a href='17 February'>]^17<num>$ ^February<n><sg>$[<\/a> <a href='2008'>]^2008<num>$[<\/a>]^.$
 [&lt;]^*ref$ ^name<n><sg>$="^*bbc$_^proclaim<vblex><inf>$"[&gt;]"[<a href='http:\/\/news.bbc.co.uk\/1\/hi\/world\/europe\/7249034.stm Kosovo MPs proclaim independence'>]^17<num>$[<\/a>]"^,<cm>$ ^BBC<n><acr><sg>$ ^News<n><sg>$ ^*Online$^,<cm>$[ <a href='17 February'>]^17<num>$ ^February<n><sg>$[<\/a> <a href='2008'>]^2008<num>$[<\/a>&lt;]\/^*ref$[&gt; ]^Over<pr>$ ^the<det><def><sp>$ ^follow<vblex><ger>$ ^day<n><pl>$^,<cm>$ ^several<det><ind><pl>$ ^country<n><pl>$ ^(<lpar>$^the<det><def><sp>$[ <a href='United States'>]^United States<np><loc><sg>$[<\/a>]^,<cm>$[ <a href='Turkey'>]^Turkey<np><loc><sg>$[<\/a>]^,<cm>$[ <a href='Albania'>]^*Albania$[<\/a>]^,<cm>$[ <a href='Austria'>]^Austria<np><loc><sg>$[<\/a>]^,<cm>$[ <a href='Germany'>]^Germany<np><loc><sg>$[<\/a>]^,<cm>$[ <a href='Italy'>]^Italy<np><loc><sg>$[<\/a>]^,<cm>$[ <a href='France'>]^France<np><loc><sg>$[<\/a>]^,<cm>$ ^the<det><def><sp>$[ <a href='United Kingdom'>]^United Kingdom<np><loc><sg>$[<\/a>]^,<cm>$[ <a href='Republic of China'>]^Republic<n><sg>$ ^of<pr>$ ^China<np><loc><sg>$[<\/a> ]^(<lpar>$^Taiwan<np><loc><sg>$^)<rpar>$[&lt;]^*ref$[&gt;]^*http$^:$
 \/\/^www.taipeitimes.com<num>$\/^News<n><sg>$\/^*taiwan$\/^*archives$\/^2008<num>$\/^02<num>$\/^20<num>$\/^2003402059<num>$[&lt;]\/^*ref$[&gt;]^,<cm>$[ <a href='Australia'>]^Australia<np><loc><sg>$[<\/a> ]^and<cnjcoo>$ ^others<prn><tn><mf><pl>$^)<rpar>$ ^announce<vblex><past>$ ^their<det><pos><sp>$ ^recognition<n><sg>$^,<cm>$ ^despite<pr>$ ^protest<n><pl>$ ^by<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a> ]^in<pr>$[ <a href='UN Security Council'>]^the<det><def><sp>$ ^UN<n><acr><sg>$ ^Security<n><sg>$ ^Council<n><sg>$[<\/a>]^.$
@@ -439,6 +439,7 @@
 [][<\/a><\/p>
 <a name="Geography"><\/a><h2>]^Geography<n><sg>$^.$
 [][<\/h2><p>]{{^main<adj>$|^Geography<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
+
 <a href='Image:Kosovo map-en.svg|thumb|Physical map of Kosovo'>]^Image<n><sg>$^:$
 ^Kosovo<np><loc><sg>$ ^map<n><sg>$^-<guio>$^*en$^.$
 ^*svg$|^thumb<n><sg>$|^Physical<adj>$ ^map<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
@@ -666,6 +667,7 @@
 [][<\/p>
 <a name="Demographics"><\/a><h2>]^*Demographics$^.$
 [][<\/h2><p>]{{^main<adj>$|^*Demographics$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
+
 <a href='Image:Kosovo ethnic 2005.png|thumb|220px|Ethnic composition of Kosovo in 2005 according to the \[\[OSCE'>]^Image<n><sg>$^:$
 ^Kosovo<np><loc><sg>$ ^ethnic<adj>$ ^2005<num>$^.$
 ^*png$|^thumb<n><sg>$|^220<num>$^*px$|^Ethnic<adj>$ ^composition<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^in<pr>$ ^2005<num>$ ^according to<pr>$ ^the<det><def><sp>$ ^\[<lpar>$^\[<lpar>$^*OSCE$[<\/a>]^\]<rpar>$^\]<rpar>$[
