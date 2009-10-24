@@ -27,10 +27,12 @@
 ]|^*latd$= |^*latm$= |^*latNS$= |^*longd$= |^*longm$= |^*longEW$=[
 ]|^large<adj><sint><sup>$_^city<n><sg>$[                ]=[ 
 ]|^government<n><sg>$_^type<n><sg>$[             ]=[ <a href='United Nations Interim Administration Mission in Kosovo|UN-administered&amp;nbsp;territory'>]^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Interim<adj>$ ^Administration<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$|^UN<n><acr><sg>$^-<guio>$^administer<vblex><pp>$[&amp;]^*nbsp$^;<sent>$^territory<n><sg>$[<\/a>
-]|^leader<n><sg>$_^title<n><sg>$^1<num>$[               ]=[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
-]|^leader<n><sg>$_^name<n><sg>$^1<num>$[                ]=[ <a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>
-]|^leader<n><sg>$_^title<n><sg>$^2<num>$[               ]=[ <a href='Prime Minister of Kosovo|Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Prime<adj>$ ^Minister<n><sg>$[<\/a>
-]|^leader<n><sg>$_^name<n><sg>$^2<num>$[                ]=[ <a href='Agim Ãeku'>]^*Agim$ Ã^*eku$[<\/a>
+]|^leader<n><sg>$_^title<n><sg>$^1<num>$[               ]=[ <a href='Special Representative of the Secretary-General|United Nations Interim Administration Mission in Kosovo'>]^Special<adj>$ ^Representative<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Secretary<n><sg>$^-<guio>$^General<n><sg>$|^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Interim<adj>$ ^Administration<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a>
+]|^leader<n><sg>$_^title<n><sg>$^1<num>$[               ]=[ <a href='Joachim RÃ¼cker'>]^*Joachim$ ^*R$Ã¼^*cker$[<\/a>
+]|^leader<n><sg>$_^title<n><sg>$^2<num>$[               ]=[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
+]|^leader<n><sg>$_^name<n><sg>$^2<num>$[                ]=[ <a href='Fatmir Sejdiu'>]^*Fatmir$ ^*Sejdiu$[<\/a>
+]|^leader<n><sg>$_^title<n><sg>$^3<num>$[               ]=[ <a href='Prime Minister of Kosovo|Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Prime<adj>$ ^Minister<n><sg>$[<\/a>
+]|^leader<n><sg>$_^name<n><sg>$^3<num>$[                ]=[ <a href='Agim Ãeku'>]^*Agim$ Ã^*eku$[<\/a>
 ]|^sovereignty<n><sg>$_^type<n><sg>$[            ]= ^Status<n><sg>$[
 ]|^sovereignty<n><sg>$_^note<n><sg>$[            ]=[ 
 ]|^establish<vblex><pp>$_^event<n><sg>$^1<num>$[          ]= ^Conquer<vblex><pp>$ ^by<pr>$ ^*Serbia$[
