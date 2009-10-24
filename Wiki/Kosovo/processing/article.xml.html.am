@@ -20,7 +20,7 @@
 ]|^common/common<adj>$_^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>$[                 ]= ^Kosovo/Kosovo<np><loc><sg>$[
 ]|^image/image<n><sg>$_^flag/flag<n><sg>$[                  ]= ^Flag/Flag<n><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$^./.<sent>$^svg/*svg$[
 ]|^image/image<n><sg>$_^coat/coat<n><sg>$[                  ]= ^Coat/Coat<n><sg>$ ^of/of<pr>$ ^arms/arm<n><pl>/arm<vblex><pri><p3><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$^./.<sent>$^svg/*svg$[
-]|^image/image<n><sg>$_^map/map<n><sg>$[                  ]= ^The/The<det><def><sp>$ ^position/position<n><sg>/position<vblex><inf>/position<vblex><pres>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$ ^within/within<adv>/within<pr>$ ^Serbia/*Serbia$^./.<sent>$^PNG/*PNG$[
+]|^image/image<n><sg>$_^map/map<n><sg>$[                  ]= ^Europe/Europe<np><loc><sg>$_^location/location<n><sg>$_^KOS/*KOS$^./.<sent>$^png/*png$[
 ]|^map/map<n><sg>$_^caption/*caption$[                ]= ^Location/Location<n><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$ ^(/(<lpar>$^dark/dark<adj><sint>/dark<n><sg>$ ^orange/orange<adj>/orange<n><sg>$^)/)<rpar>$ ^and/and<cnjcoo>$ ^Serbia/*Serbia$ ^(/(<lpar>$^light/light<adj><sint>/light<n><sg>/light<vblex><inf>/light<vblex><pres>$ ^orange/orange<adj>/orange<n><sg>$^)/)<rpar>$[&lt;]^br/*br$\/[&gt;]^on/on<adv>/on<pr>$[ <a href='Europe|European continent'>]^the/the<det><def><sp>$ ^Europe/Europe<np><loc><sg>$|^European/European<adj>/European<n><sg>$ ^continent/continent<n><sg>$[<\/a>
 ]|^national/national<adj>$_^motto/*motto$[              ]=[ 
 ]|^national/national<adj>$_^anthem/*anthem$[             ]=[ 
