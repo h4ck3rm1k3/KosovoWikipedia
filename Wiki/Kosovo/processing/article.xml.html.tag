@@ -216,7 +216,7 @@
 ]^Image<n><sg>$^:<sent>$^*Bd$ ^shopping<n><sg>$^.<sent>$^*JPG$|"[<a href='Bregu i Diellit'>]^*Bregu$ ^*i$ ^*Diellit$[<\/a>]" ^shopping<n><sg>$ ^*mall$ ^in<pr>$[ <a href='Prishtina'>]^*Prishtina$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Banesat$ ^*e$ ^*bardha$^.<sent>$^*JPG$|[<a href='Bregu i Diellit'>]^*Bregu$ ^*i$ ^*Diellit$[<\/a> ]^2<num>$ ^in<pr>$[ <a href='Pristina'>]^*Pristina$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Nenatereze$^1<num>$^.<sent>$^*jpg$|^Mother<n><sg>$ ^*Tereza$ ^*boulevard$[
-]^Image<n><sg>$^:<sent>$^*Grand$ ^Hotel<n><sg>$^.<sent>$^*jpg$|^the<det><def><sp>$ ^*Grand$ ^Hotel<n><sg>$ ^in<pr>$[ <a href='Pristina'>]^*Pristina$[<\/a>
+]^Image<n><sg>$^:<sent>$^*Grand$ ^Hotel<n><sg>$^.<sent>$^*jpg$|^the<det><def><sp>$ ^*Grand$ ^Hotel<n><sg>$ ^in<pr>$[ <a href='Prishtina'>]^*Prishtina$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Prishtinabynight$^.<sent>$^*jpg$|^The<det><def><sp>$ ^Capital<adj>$[ <a href='Prishtina|Prishtina'>]^*Prishtina$|^*Prishtina$[<\/a> ]^by<pr>$ ^night<n><sg>$[
 ]^Image<n><sg>$^:<sent>$^*Xh$^.<sent>$ ^*e$ ^*madhe$^.<sent>$^*jpg$|"^*Xhamia$ ^*e$ ^*madhe$" ^in<pr>$ ^*Prishtina$[
 ]^Image<n><sg>$^:<sent>$^*Mehmet$ ^*hamam$^.<sent>$^*jpg$|"^*Mehmet$ ^*Pasha$" ^*Hamam$ ^in<pr>$[ <a href='Prizren'>]^*Prizren$[<\/a>
