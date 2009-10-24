@@ -415,6 +415,7 @@
 <a href='is:KosÃ³vÃ³'>]^be<vbser><pri><p3><sg>$^:<sent>$^*Kos$Ã³^*v$Ã³[<\/a>
 <a href='it:Kosovo'>]^prpers<prn><obj><p3><nt><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='he:×§××¡×××'>]^prpers<prn><subj><p3><m><sg>$^:<sent>$×§××^¡<lquest>$×××[<\/a>
+<a href='ka:ááá¡ááá'>]^*ka$^:<sent>$^*á$^*á$^*á$^¡<lquest>$^*á$^*á$^*á$[<\/a>
 <a href='kw:Kosova'>]^*kw$^:<sent>$^*Kosova$[<\/a>
 <a href='la:Ager Merulensis'>]^*la$^:<sent>$^*Ager$ ^*Merulensis$[<\/a>
 <a href='lv:Kosova'>]^*lv$^:<sent>$^*Kosova$[<\/a>
