@@ -269,7 +269,7 @@
 ]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<n><sg>$ =[ <a href='Image:Nuvola filesystems www.png|23px'>]^Image<n><sg>$^:<sent>$^*Nuvola$ ^*filesystems$ ^*www$^.<sent>$^*png$|^23<num>$^*px$[<\/a> ]^Geographic<adj>$ ^national<adj>$[
 ]|^list<n><sg>$[  ]=[
-]{{^district<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
+]{{^District<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}[
 ]{{^Kosovo<np><loc><sg>$ ^municipality<n><pl>$}}[
 ]{{^Autonomous<adj>$ ^province<n><pl>$ ^of<pr>$ ^*Serbia$}}[
 ]}}[
