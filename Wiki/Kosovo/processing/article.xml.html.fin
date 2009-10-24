@@ -9,7 +9,9 @@
 <\/head>
 <body>
     <h1><\/h1>
-<p>]{{^split<vblex><pp>$|^Kosovo<np><loc><sg>$ ^(<lpar>$^region<n><sg>$^)<rpar>$|^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}{{^*pp$^-<guio>$^*semi$^-<guio>$^protect<vblex><pp>$|^small<adj><sint>$=^yes<adv>$}}[
+<p>&lt;]^!$
+^-<guio>$^-<guio>$ {{^split<vblex><pp>$|^Kosovo<np><loc><sg>$ ^(<lpar>$^region<n><sg>$^)<rpar>$|^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}} ^This<prn><tn><mf><sg>$ ^*tag$ ^be<vbser><pri><p3><sg>$ ^quite<preadv>$ ^out of place<adv>$ ^as<cnjadv>$ ^split<n><sg>$ ^be<vbser><pri><p3><sg>$ ^support<vblex><pp>$ ^only<adv>$ ^by<pr>$ ^a<det><ind><sg>$ ^limit<vblex><pp>$ ^number<n><sg>$ ^of<pr>$ ^editor<n><pl>$ ^who<rel><an><mf><sp>$ ^be<vbser><pres>$ ^*persuing$ ^a<det><ind><sg>$ ^endless<adv>$ ^debate<n><sg>$ ^on<pr>$ ^this<det><dem><sg>$ ^matter<n><sg>$^.$
+ ^-<guio>$^-<guio>$[&gt;]{{^*pp$^-<guio>$^*semi$^-<guio>$^protect<vblex><pp>$|^small<adj><sint>$=^yes<adv>$}}[
 &lt;]^!$
 ^-<guio>$^-<guio>$^.$
 [][<\/p>
