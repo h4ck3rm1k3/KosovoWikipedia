@@ -14,9 +14,9 @@
 &lt;]^big<adj><sint>$[&gt;<strong>]^Kosovo<np><loc><sg>$[<\/strong>&lt;]^*br$[&gt;<strong>]^*Kosov$Ã«\/^*Kosova$[<\/strong>&lt;]^*br$[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]\/^big<adj><sint>$[&gt;
 ]|^-<guio>$[
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[ <a href='Image:Kosovo position within Serbia.PNG|150px'>]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^position<n><sg>$ ^within<pr>$ ^*Serbia$^.<sent>$^*PNG$|^150<num>$^*px$[<\/a>&lt;]^*br$[&gt;
-&lt;]^small<adj><sint>$[&gt;]^Kosovo<np><loc><sg>$ ^(<lpar>$^dark<adj><sint>$ ^green<n><sg>$^)<rpar>$ ^within<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>]^.<sent>$[&lt;]\/^small<adj><sint>$^.<sent>$[][&gt;<\/p>
+&lt;]^small<adj><sint>$[&gt;]^Kosovo<np><loc><sg>$ ^(<lpar>$^dark<adj><sint>$ ^green<n><sg>$^)<rpar>$ ^within<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a> ]^(<lpar>$^light<adj><sint>$ ^green<n><sg>$^)<rpar>$^.<sent>$[&lt;]\/^small<adj><sint>$^.<sent>$[][&gt;<\/p>
 <p>&lt;]^*br$[&gt;<a href='Image:The position of Kosovo within Serbia.PNG'>]^Image<n><sg>$^:<sent>$^The<det><def><sp>$ ^position<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^within<pr>$ ^*Serbia$^.<sent>$^*PNG$[<\/a> 
-&lt;]^small<adj><sint>$[&gt;]^The<det><def><sp>$ ^location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^as<cnjadv>$ ^part<n><sg>$ ^of<pr>$ ^*Serbia$ ^in<pr>$ ^Europe<np><loc><sg>$^.<sent>$[&lt;]\/^small<adj><sint>$^.<sent>$[][&gt;<\/p>
+&lt;]^small<adj><sint>$[&gt;]^The<det><def><sp>$ ^location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Serbia$^.<sent>$[&lt;]\/^small<adj><sint>$^.<sent>$[][&gt;<\/p>
 <p>]|^-<guio>$[
 ]|^-<guio>$^.<sent>$[][<\/p>
 <p>]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>

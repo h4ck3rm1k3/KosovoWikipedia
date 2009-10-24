@@ -27,13 +27,13 @@
 " ^*colspan$="^2<num>$" |[ <a href='Image:Kosovo position within Serbia.PNG|150px'>]^Image<n><sg>$^:$
 ^Kosovo<np><loc><sg>$ ^position<n><sg>$ ^within<pr>$ ^*Serbia$^.$
 ^*PNG$|^150<num>$^*px$[<\/a>&lt;]^*br$[&gt;
-&lt;]^small<adj><sint>$[&gt;]^Kosovo<np><loc><sg>$ ^(<lpar>$^dark<adj><sint>$ ^green<n><sg>$^)<rpar>$ ^within<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>]^.$
+&lt;]^small<adj><sint>$[&gt;]^Kosovo<np><loc><sg>$ ^(<lpar>$^dark<adj><sint>$ ^green<n><sg>$^)<rpar>$ ^within<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a> ]^(<lpar>$^light<adj><sint>$ ^green<n><sg>$^)<rpar>$^.$
 [&lt;]\/^small<adj><sint>$^.$
 [][&gt;<\/p>
 <p>&lt;]^*br$[&gt;<a href='Image:The position of Kosovo within Serbia.PNG'>]^Image<n><sg>$^:$
 ^The<det><def><sp>$ ^position<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^within<pr>$ ^*Serbia$^.$
 ^*PNG$[<\/a> 
-&lt;]^small<adj><sint>$[&gt;]^The<det><def><sp>$ ^location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^as<cnjadv>$ ^part<n><sg>$ ^of<pr>$ ^*Serbia$ ^in<pr>$ ^Europe<np><loc><sg>$^.$
+&lt;]^small<adj><sint>$[&gt;]^The<det><def><sp>$ ^location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Serbia$^.$
 [&lt;]\/^small<adj><sint>$^.$
 [][&gt;<\/p>
 <p>]|^-<guio>$[
