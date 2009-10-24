@@ -691,20 +691,18 @@
  ^Kosovo<np><loc><sg>$ |^author<n><sg>$=^BBC<n><acr><sg>$ ^News<n><sg>$ |^date<n><sg>$=^20<num>$\/^11<num>$\/^07<num>$}}[&lt;]\/^*ref$[&gt; ]^Kosovo<np><loc><sg>$^'s<gen>$ ^total<adj>$ ^population<n><sg>$ ^be<vbser><pri><p3><sg>$ ^estimate<vblex><pp>$ ^between<pr>$ ^1.9<num>$ ^and<cnjcoo>$ ^2.2<num>$ ^million<num><sp>$ ^in<pr>$ ^the<det><def><sp>$ ^follow<vblex><ger>$ ^ethnic<adj>$ ^proportion<n><pl>$^:$
 ^.$
 [][<\/p>
-<ul>
-<li>]^92%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$^.$
-[][<\/a><\/li>
-<li>]^4%<num><percent>$[ <a href='Serbs'>]^*Serbs$^.$
-[][<\/a><\/li>
-<li>]^2%<num><percent>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^and<cnjcoo>$[ <a href='Gorani (ethnic group)|Gorans'>]^*Gorani$ ^(<lpar>$^ethnic<adj>$ ^group<n><sg>$^)<rpar>$|^*Gorans$^.$
-[][<\/a><\/li>
-<li>]^1%<num><percent>$[ <a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$^.$
-[][<\/a><\/li>
-<li>]^1%<num><percent>$[ <a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$^.$
-[][<\/a><\/li>
-<\/ul>
-<p><br\/>
-<\/p>
+<p>]{{^bar<n><sg>$ ^box<n><sg>$[
+]| ^width<n><sg>$=^300<num>$^*px$[
+]| ^title<n><sg>$=^Kosovo<np><loc><sg>$[
+]| ^*titlebar$=#^*ddd$[
+]| ^bar<n><pl>$=[
+]{{^bar<n><sg>$ ^percent<n><sg>$|[<a href='Albanians'>]^Albanian<n><pl>$[<\/a>]|^green<n><sg>$|^92<num>$}}[
+]{{^bar<n><sg>$ ^percent<n><sg>$|[<a href='Serbs'>]^*Serbs$[<\/a>]|^red<n><sg>$|^4<num>$}}[
+]{{^bar<n><sg>$ ^percent<n><sg>$|[<a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^and<cnjcoo>$[ <a href='Gorani (ethnic group)|Gorans'>]^*Gorani$ ^(<lpar>$^ethnic<adj>$ ^group<n><sg>$^)<rpar>$|^*Gorans$[<\/a>]|^blue<adj>$|^2<num>$}}[
+]{{^bar<n><sg>$ ^percent<n><sg>$|[<a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$[<\/a>]|^yellow<adj><sint>$|^1<num>$}}[
+]{{^bar<n><sg>$ ^percent<n><sg>$|[<a href='Turkish people|Turks'>]^Turkish<adj>$ ^person<n><pl>$|^*Turks$[<\/a>]|^brown<adj>$|^1<num>$}}[
+]}}^.$
+[][<\/p>
 <a name="Ethnic_and_cultural_diversity"><\/a><h3>]^Ethnic<adj>$ ^and<cnjcoo>$ ^cultural<adj>$ ^diversity<n><sg>$^.$
 [][<\/h3><p><a href='Islam'>]^*Islam$[<\/a> ]^(<lpar>$^mostly<adv>$[ <a href='Sunni'>]^*Sunni$[<\/a>]^,<cm>$ ^with<pr>$[ <a href='Bektashi'>]^a<det><ind><sg>$ ^*Bektashi$[<\/a> ]^minority<n><sg>$^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$ ^predominant<adj>$[ <a href='religion'>]^religion<n><sg>$[<\/a>]^,<cm>$ ^*professed$ ^by<pr>$ ^most of<det><qnt><sp>$ ^the<det><def><sp>$ ^majority<n><sg>$ ^ethnic<adj>$ ^Albanian<adj>$ ^population<n><sg>$^,<cm>$ ^the<det><def><sp>$ ^*Bosniak$^,<cm>$ ^*Gorani$^,<cm>$ ^and<cnjcoo>$ ^Turkish<adj>$ ^community<n><pl>$^,<cm>$ ^and<cnjcoo>$ ^some<prn><tn><mf><pl>$ ^of<pr>$ ^the<det><def><sp>$ ^*Roma$\/[<a href='Ashkali'>]^*Ashkali$[<\/a>]\/[<a href='Egyptians (Balkans)|Egyptian'>]^*Egyptians$ ^(<lpar>$^*Balkans$^)<rpar>$|^Egyptian<adj>$[<\/a> ]^community<n><sg>$^.$
  ^The<det><def><sp>$ ^*Serb$ ^population<n><sg>$^,<cm>$ ^estimate<vblex><pp>$ ^at<pr>$ ^100,000<num>$ ^to<pr>$ ^120,000<num>$ ^person<n><pl>$^,<cm>$ ^be<vbser><pri><p3><sg>$ ^largely<adv>$[ <a href='Serbian Orthodox'>]^*Serbian$ ^Orthodox<adj>$[<\/a>]^.$
