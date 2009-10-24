@@ -110,7 +110,7 @@
 <li><a href='Unrest in Kosovo'>]^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^(<lpar>$^about<pr>$ ^the<det><def><sp>$ ^March<n><sg>$ ^2004<num>$ ^unrest<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
-]"^Non<adv>$^-<guio>$^Albanian<n><pl>$" ^be<vbser><pri><p3><sg>$ ^purely<adv>$ ^racist<adj>$ ^term<n><sg>$ ^invent<vblex><pp>$ ^by<pr>$ ^communist<n><pl>$ ^and<cnjcoo>$ ^now<adv>$ ^use<vblex><pp>$ ^by<pr>$ ^so<preadv>$^-<guio>$^call<vblex><pp>$ ^international<adj>$ ^community<n><sg>$ ^(<lpar>$^which<prn><itg><m><sp>$ ^be<vbser><pri><p3><sg>$ ^fulfil<vblex><ger>$ ^during<pr>$ ^last<det><ord><sp>$ ^15<num>$ ^year<n><pl>$ ^*legacy$ ^of<pr>$ ^Communism<n><sg>$ ^throughout<pr>$ ^*ex$ ^Yugoslavia<np><loc><sg>$^)<rpar>$ ^because<cnjadv>$ ^there<adv>$ ^be<vbser><pres>$ ^little<adv>$ ^bite<vblex><past>$ ^more<preadv>$ ^nationality<n><pl>$ ^except<pr>$ ^Albanian<n><pl>$ ^and<cnjcoo>$ "^non<adv>$^-<guio>$^Albanian<n><pl>$"^.<sent>$^.<sent>$[][<\/p>
+<\/p>
 <a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><ul>
 <li><a href='http:\/\/www.osce.org\/kosovo\/documents\/reports\/hr\/part1\/p5app.htm www.osce.org\/kosovo\/documents\/reports\/hr\/part1\/p5app.htm'>]^5<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
 <\/ul>
