@@ -21,7 +21,7 @@
 ]|^image<n><sg>$_^flag<n><sg>$[                  ]= ^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^*svg$[
 ]|^image<n><sg>$_^coat<n><sg>$[                  ]= ^Coat<n><sg>$ ^of<pr>$ ^arm<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^*svg$[
 ]|^image<n><sg>$_^map<n><sg>$[                  ]= ^Europe<np><loc><sg>$_^location<n><sg>$_^*KOS$^.<sent>$^*png$[
-]|^map<n><sg>$_^*caption$[                ]= ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^dark<adj><sint>$ ^orange<n><sg>$^)<rpar>$ ^and<cnjcoo>$ ^*Serbia$ ^(<lpar>$^light<adj><sint>$ ^orange<n><sg>$^)<rpar>$[&lt;]^*br$\/[&gt;]^on<pr>$[ <a href='Europe|European continent'>]^the<det><def><sp>$ ^Europe<np><loc><sg>$|^European<adj>$ ^continent<n><sg>$[<\/a>
+]|^map<n><sg>$_^*caption$[                ]= ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^on<pr>$[ <a href='Europe|European continent'>]^the<det><def><sp>$ ^Europe<np><loc><sg>$|^European<adj>$ ^continent<n><sg>$[<\/a>
 ]|^national<adj>$_^*motto$[              ]=[ 
 ]|^national<adj>$_^*anthem$[             ]=[ 
 ]|^official<adj>$_^language<n><pl>$[          ]=[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^,<cm>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>
