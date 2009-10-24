@@ -10,9 +10,7 @@
     <h1><\/h1>
 <p>]{{^POV<n><acr><sg>$}}^.<sent>$[][<\/p>
 <p>]{|[ 
-]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong>]^*Kosov$Ã«[<\/strong> ]\/[ <strong>]^*Kosova$[<\/strong>&lt;]^*br$\/[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt;<strong>]^Kosovo<np><loc><sg>$[&lt;]^*br$[&gt;]^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohia$[<\/strong>&lt;]\/^big<adj><sint>$[&gt;&lt;]\/^big<adj><sint>$[&gt;
-]|^-<guio>$[
-]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-Kosovo2.png'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^2<num>$^.<sent>$^*png$[<\/a>
+]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong>]^*Kosov$Ã«[<\/strong> ]\/[ <strong>]^*Kosova$[<\/strong>&lt;]^*br$\/[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/strong>]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-Kosovo2.png'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^2<num>$^.<sent>$^*png$[<\/a>
 ]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
 &lt;]^!<sent>$^-<guio>$^-<guio>$^Albanian<n><sg>$ ^be<vbser><pri><p3><sg>$ ^official<adj>$ ^language<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^in<pr>$ ^*municipallites$ ^in<pr>$ ^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^where<adv><itg>$ ^live<vblex><pres>$ ^Albanian<n><pl>$ ^(<lpar>$^*Bujanovac$ ^*Pre$Å^¡<lquest>$^*evo$^,<cm>$ ^*Bujanovc$^,<cm>$ ^*Presheva$^,<cm>$ ^*Plave$^,<cm>$ ^*Gusia$^,<cm>$ ^*Ulcin$ ^?<sent>$^)<rpar>$^.<sent>$^-<guio>$^-<guio>$[&gt;
