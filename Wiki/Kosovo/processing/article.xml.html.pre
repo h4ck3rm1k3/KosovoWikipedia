@@ -14,8 +14,9 @@
 ]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[
 &lt;]^big<adj><sint>$[&gt;<strong>]^Kosovo<np><loc><sg>$[<\/strong>&lt;]^*br$\/[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt;<strong>]^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosov$Ã«[<\/strong>&lt;]^*br$\/[&gt;&lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$[&gt;
 ]|^-<guio>$[
-]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:<sent>$ ^centre<n><sg>$^;<sent>$" ^*colspan$="^2<num>$" |[ <a href='Image:SerbiaMontenegro-KosovoMetohija.png|130px|Map showing Kosovo within the state union'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^*KosovoMetohija$^.<sent>$^*png$|^130<num>$^*px$|^Map<n><sg>$ ^show<vblex><ger>$ ^Kosovo<np><loc><sg>$ ^within<pr>$ ^the<det><def><sp>$ ^state<adj>$ ^union<n><sg>$[<\/a> 
-]{{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
+]|^-<guio>$ ^style<n><sg>$="^border<n><sg>$^-<guio>$^top<n><sg>$^:<sent>$ ^2<num>$^*px$ ^solid<adj><sint>$ ^gray<adj><sint>$^;<sent>$"[
+]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-KosovoMetohija.png|100px|Map showing Kosovo within the state union'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^*KosovoMetohija$^.<sent>$^*png$|^100<num>$^*px$|^Map<n><sg>$ ^show<vblex><ger>$ ^Kosovo<np><loc><sg>$ ^within<pr>$ ^the<det><def><sp>$ ^state<adj>$ ^union<n><sg>$[<\/a> 
+]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
 ]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
