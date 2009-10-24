@@ -16,7 +16,7 @@
 
 ]{{^*Infobox$ ^Country<n><sg>$[
 ]|^native<adj>$_^name<n><sg>$[              ]= {{^*nowrap$|{{^*lang$|^*sq$|[<em>]^*Republika$ ^*e$ ^*Kosov$Ã«^*s$[<\/em>]}}[&lt;]^*br$[&gt;]{{^*lang$|^*sr$^-<guio>$^*Cyrl$|Ð ÐµÐ^¿<lquest>$^*Ñ$Ð±Ð»Ð¸ÐºÐ° ÐÐ¾^*Ñ$Ð¾Ð²Ð¾}} \/ {{^*lang$|^*sr$^-<guio>$^*Lat$|[<em>]^*Republika$ ^Kosovo<np><loc><sg>$[<\/em>]}}}}[
-]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[   ]= ^Republic<n><sg>$ ^of<pr>$ ^*Kosova$[
+]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[   ]= ^Republic<n><sg>$ ^of<pr>$ ^*Kosova$ ^(<lpar>$^*unrecognized$ ^by<pr>$ ^UN<n><acr><sg>$^)<rpar>$[
 ]|^common<adj>$_^name<n><sg>$[                 ]= ^Kosovo<np><loc><sg>$[
 ]|^image<n><sg>$_^flag<n><sg>$[                  ]= ^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^*svg$[
 ]|^image<n><sg>$_^coat<n><sg>$[                  ]= ^Kosovo<np><loc><sg>$_^*pisg$_^*ca$^.<sent>$^*png$[
