@@ -248,8 +248,8 @@
 ]}}^./.<sent>$[][<\/p>
 <p>&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^Categories/Category<n><pl>$^-/-<guio>$^-/-<guio>$[&gt;
 <a href='Category:Kosovo'>]^Category/Category<n><sg>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$^./.<sent>$[][<\/a><\/p>
-<p>&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^Other/Other<det><ind><sp>$ ^languages/language<n><pl>$^-/-<guio>$^-/-<guio>$[&gt;
-<a href='als:Kosovo'>]^als/*als$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
+<p>&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^Other/Other<det><ind><sp>$ ^languages/language<n><pl>$^-/-<guio>$^-/-<guio>$^./.<sent>$[][&gt;<\/p>
+<p><a href='als:Kosovo'>]^als/*als$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='ar:ÙÙØµÙÙ'>]^ar/*ar$^:/:<sent>$^Ù/*Ù$^Ù/*Ù$Øµ^Ù/*Ù$^Ù/*Ù$[<\/a>
 <a href='frp:Kosovo'>]^frp/*frp$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='ast:Kosovo'>]^ast/*ast$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
@@ -265,7 +265,6 @@
 <a href='et:Kosovo'>]^et/*et$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='es:Kosovo'>]^es/*es$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='eo:Kosovo'>]^eo/*eo$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
-<a href='ur:Kosovo'>]^ur/*ur$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='eu:Kosovo'>]^eu/*eu$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='fr:Kosovo'>]^fr/*fr$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='gl:Kosovo'>]^gl/*gl$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
@@ -303,7 +302,8 @@
 <a href='sv:Kosovo'>]^sv/*sv$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='th:à¸à¸­à¹à¸à¹à¸§'>]^th/*th$^:/:<sent>$^à/*à$¸^à/*à$¸­^à/*à$¹^à/*à$¸^à/*à$¹^à/*à$¸§[<\/a>
 <a href='tr:Kosova (Ã¼lke)'>]^tr/*tr$^:/:<sent>$^Kosova/*Kosova$ ^(/(<lpar>$Ã¼^lke/*lke$^)/)<rpar>$[<\/a>
-<a href='uk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^uk/*uk$^:/:<sent>$ÐÐ¾^Ñ/*Ñ$Ð¾Ð²Ð¾^./.<sent>$[][<\/a><\/p>
+<a href='uk:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^uk/*uk$^:/:<sent>$ÐÐ¾^Ñ/*Ñ$Ð¾Ð²Ð¾[<\/a>
+<a href='ur:Ú©ÙØ³ÙÙÛ'>]^ur/*ur$^:/:<sent>$^Ú/*Ú$©^Ù/*Ù$Ø³^Ù/*Ù$^Ù/*Ù$^Û/*Û$^./.<sent>$[][<\/a><\/p>
 <\/body>
 <\/html>
 ]
