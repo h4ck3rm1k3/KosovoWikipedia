@@ -248,7 +248,7 @@
 <\/ul>
 <p>]{{^*col$^-<guio>$^end<n><sg>$}}^.<sent>$[][<\/p>
 <a name="International_Organizations"><\/a><h2>]^International<adj>$ ^Organization<n><pl>$^.<sent>$[][<\/h2><ul>
-<li><a href='http:\/\/www.worldbank.org.kosovo The World bank Kosovo'>]^21<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.worldbank.org\/kosovo The World bank Kosovo'>]^21<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <\/p>
