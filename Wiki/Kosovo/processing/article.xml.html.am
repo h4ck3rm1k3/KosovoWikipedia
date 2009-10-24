@@ -64,9 +64,9 @@
 ]|^population/population<n><sg>$_^density/density<n><sg>$_^sq/*sq$_^mi/*mi$ = ^500/500<num>$[
 ]|^population/population<n><sg>$_^density/density<n><sg>$_^rank/rank<n><sg>$[  ]= ^55/55<num>$[
 ]| ^GDP/GDP<n><acr><sg>$_^PPP/PPP<n><acr><sg>$_^year/year<n><sg>$[             ]= ^2007/2007<num>$[
-]| ^GDP/GDP<n><acr><sg>$_^PPP/PPP<n><acr><sg>$[                  ]= \$^4/4<num>$ ^billion/*billion$ ^(/(<lpar>$^World/World<adj>/World<n><sg>$ ^Bank/Bank<n><sg>/Bank<vblex><inf>/Bank<vblex><pres>$^)/)<rpar>$[
-]| ^GDP/GDP<n><acr><sg>$_^PPP/PPP<n><acr><sg>$_^rank/rank<n><sg>$[             ]=[ 
-]| ^GDP/GDP<n><acr><sg>$_^PPP/PPP<n><acr><sg>$_^per/per<pr>$_^capita/*capita$[       ]= \$^1,900/1,900<num>$ \$[
+]| ^GDP/GDP<n><acr><sg>$_^PPP/PPP<n><acr><sg>$[                  ]= \$^4/4<num>$ ^billion/*billion$ ^(/(<lpar>$^CIA/CIA<n><acr><sg>$ ^World/World<adj>/World<n><sg>$ ^factbook/*factbook$^)/)<rpar>$[
+]| ^GDP/GDP<n><acr><sg>$_^PPP/PPP<n><acr><sg>$_^rank/rank<n><sg>$[             ]= ^162/162<num>$[
+]| ^GDP/GDP<n><acr><sg>$_^PPP/PPP<n><acr><sg>$_^per/per<pr>$_^capita/*capita$[       ]= \$^1,800/1,800<num>$ \$[
 ]| ^GDP/GDP<n><acr><sg>$_^PPP/PPP<n><acr><sg>$_^per/per<pr>$_^capita/*capita$_^rank/rank<n><sg>$[  ]=[ 
 ]| ^GDP/GDP<n><acr><sg>$_^Nominal/*Nominal$_^year/year<n><sg>$[         ]= ^2007/2007<num>$[
 ]| ^GDP/GDP<n><acr><sg>$_^Nominal/*Nominal$[              ]=[ 
