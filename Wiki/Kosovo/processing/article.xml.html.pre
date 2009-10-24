@@ -356,6 +356,7 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^20<num>$[<\/a> ]"^,<cm>$[ 
 <li><a href='http:\/\/www.aacl.com\/indexmain.html AACL'>]^70<num>$[<\/a> ]^Albanian<adj>$ ^American<adj>$ ^Civic<adj>$ ^League<n><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovalive.com\/?cid=2 KosovaLive'>]^71<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Albanian<adj>$ ^independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$ ^(<lpar>$^this<det><dem><sg>$ ^section<n><sg>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.savekosova.org\/ American Council for Kosova'>]^72<num>$[<\/a> ]^-<guio>$ ^U.S.<np><loc><sg>$ ^*nonprofit$ ^organization<n><sg>$ ^dedicate<vblex><pp>$ ^to<pr>$ ^a<det><ind><sg>$ ^good<adj><sint><comp>$ ^understanding<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^issue<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^by<pr>$ ^the<det><def><sp>$ ^American<adj>$ ^public<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.shkabaj.tk\/ An Albanian Link Source'>]^73<num>$[<\/a> ]^-<guio>$ ^A<det><ind><sg>$ ^Albanian<adj>$ ^Link<n><sg>$ ^Source<n><sg>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/><\/p>
 <p>]{{^Template<n><sg>$ ^group<n><sg>$[
