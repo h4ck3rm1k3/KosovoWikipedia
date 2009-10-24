@@ -68,7 +68,7 @@
 ]|^GDP<n><acr><sg>$_^*nominal$_^year<n><sg>$[   ]= ^2007<num>$[
 ]|^GDP<n><acr><sg>$_^*nominal$[        ]= ^*â$¬^3.343<num>$ ^*billion$[&lt;]^*ref$ ^name<n><sg>$="^*unsec$^080715<num>$"[&gt;]{{^cite<vblex><pres>$ ^web<n><sg>$ |^*url$=^*http$^:$
 \/\/^www.undemocracy.com<num>$\/^*S$^-<guio>$^2008<num>$^-<guio>$^458<num>$^.$
-^*pdf$ |^title<n><sg>$=^Report<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Secretary<n><sg>$^-<guio>$^General<n><sg>$ ^on<pr>$ ^the<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Interim<adj>$ ^Administration<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ |^work<n><sg>$=^*UNDemocracy$^.$
+^*pdf$ |^format<n><sg>$=^PDF<n><acr><sg>$|^title<n><sg>$=^Report<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Secretary<n><sg>$^-<guio>$^General<n><sg>$ ^on<pr>$ ^the<det><def><sp>$ ^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Interim<adj>$ ^Administration<n><sg>$ ^Mission<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ |^work<n><sg>$=^*UNDemocracy$^.$
 ^*com$ |^author<n><sg>$=^Unite<vblex><pp>$ ^Nation<n><pl>$ ^Security<n><sg>$ ^Council<n><sg>$ |^date<n><sg>$=^July<n><sg>$ ^15<num>$^,<cm>$ ^2008<num>$ |^*accessdate$=^2008<num>$^-<guio>$^09<num>$^-<guio>$^17<num>$}}[&lt;]\/^*ref$[&gt;
 ]|^GDP<n><acr><sg>$_^*nominal$_^rank<n><sg>$[   ]= ^*n$\/^a<det><ind><sg>$[
 ]|^GDP<n><acr><sg>$_^*nominal$_^per<pr>$_^*capita$ = ^*â$¬^1,573<num>$[&lt;]^*ref$ ^name<n><sg>$="^*unsec$^080715<num>$"\/[&gt;
@@ -223,7 +223,7 @@
 [<a href='http:\/\/www.prospect-magazine.co.uk\/article_details.php?id=4173'>]^9<num>$[<\/a>]^.$
  ^In addition<adv>$^,<cm>$ ^during<pr>$ ^*Ottoman$ ^rule<n><sg>$^,<cm>$ ^the<det><def><sp>$ ^distinction<n><sg>$ ^between<pr>$ ^*Serb$ ^and<cnjcoo>$ ^Albanian<n><sg>$ ^be<vbser><past><p3><sg>$ ^not<adv>$ ^always<adv>$ ^clear<adj><sint>$ ^cut<n><sg>$^.$
  ^As<cnjadv>$ ^*Islam$ ^become<vblex><past>$ ^the<det><def><sp>$ ^dominant<adj>$ ^religion<n><sg>$^,<cm>$ ^and<cnjcoo>$ ^Albanian<n><pl>$ ^become<vblex><past>$ ^the<det><def><sp>$ ^more<preadv>$ ^numerous<adj>$ ^*demographic$^,<cm>$ ^many<prn><tn><mf><pl>$ ^Christian<adj>$ ^*Slavs$ ^be<vbser><past>$[ <a href='Albanisation|Albanized'>]^*Albanisation$|^*Albanized$[<\/a>]^.$
-[ 
+[
 ]^In<pr>$ ^the<det><def><sp>$ ^19<num>$^*th$ ^century<n><sg>$^,<cm>$ ^there<adv>$ ^be<vbser><past><p3><sg>$ ^a<det><ind><sg>$ "[<a href='Rise of nationalism under the Ottoman Empire|awakening'>]^Rise<n><sg>$ ^of<pr>$ ^nationalism<n><sg>$ ^under<pr>$ ^the<det><def><sp>$ ^*Ottoman$ ^Empire<n><sg>$|^awaken<vblex><ger>$[<\/a>]" ^of<pr>$[ <a href='ethnic nationalism'>]^ethnic<adj>$ ^nationalism<n><sg>$[<\/a> ]^throughout<pr>$ ^the<det><def><sp>$ ^*Balkans$^.$
  ^The<det><def><sp>$ ^ethnic<adj>$[ <a href='Albanian nationalism'>]^Albanian<adj>$ ^nationalism<n><sg>$[<\/a> ]^movement<n><sg>$ ^be<vbser><past><p3><sg>$ ^center<vblex><pp>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.$
  ^This<prn><tn><mf><sg>$^,<cm>$ ^unfortunately<adv>$^,<cm>$ ^*systemetized$ ^the<det><def><sp>$ ^*underlying$ ^ethnic<adj>$ ^tension<n><pl>$ ^into<pr>$ ^a<det><ind><sg>$ ^broad<adj><sint><comp>$ ^struggle<n><sg>$ ^between<pr>$ ^Christian<adj>$ ^*Serbs$ ^against<pr>$ ^Muslim<adj>$ ^Albanian<n><pl>$^.$
@@ -1202,12 +1202,12 @@
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='ga:An Chosaiv'>]^*ga$^:$
 ^A<det><ind><sg>$ ^*Chosaiv$[<\/a>
-<a href='gan:ç§ç´¢æ²'>]^*gan$^:$
-^*ç$§^*ç$´¢æ²[<\/a>
 <a href='gv:Kosovo'>]^*gv$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='gl:Kosovo'>]^*gl$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
+<a href='gan:ç§ç´¢æ²'>]^*gan$^:$
+^*ç$§^*ç$´¢æ²[<\/a>
 <a href='ko:ì½ìë³´'>]^*ko$^:$
 ^*ì$½^*ì$^*ë$³´[<\/a>
 <a href='hi:à¤à¥à¤¸à¥à¤µà¥'>]^*hi$^:$
