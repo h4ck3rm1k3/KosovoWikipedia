@@ -57,8 +57,9 @@
 ]|^calling/call<vblex><ger>/call<vblex><pprs>/call<vblex><subs>$_^code/code<n><sg>$[             ]= ^381/381<num>$[
 ]|^footnote/*footnote$^1/1<num>$[                ]= ^The/The<det><def><sp>$ ^census/*census$ ^is/be<vbser><pri><p3><sg>$ ^a/a<det><ind><sg>$ ^reconstruction/reconstruction<n><sg>$^;/;<sent>$ ^most of/most of<det><qnt><sp>$ ^the/the<det><def><sp>$ ^ethnic/ethnic<adj>$ ^Albanian/Albanian<adj>/Albanian<n><sg>$ ^majority/majority<n><sg>$ ^boycotted/boycott<vblex><past>/boycott<vblex><pp>$^./.<sent>$[
 ]|^footnote/*footnote$^2/2<num>$[                ]= ^Officially/Officially<adv>$[ <a href='+381'>]+^381/381<num>$[<\/a>]^;/;<sent>$ ^some/some<adv>/some<det><qnt><sp>/some<prn><tn><mf><pl>$ ^mobile/mobile<adj>/mobile<n><sg>$ ^phone/phone<n><sg>/phone<vblex><inf>/phone<vblex><pres>$ ^providers/provider<n><pl>$ ^use/use<n><sg>/use<vblex><inf>/use<vblex><pres>$[ <a href='+377'>]+^377/377<num>$[<\/a> ]^(/(<lpar>$^Monaco/Monaco<np><loc><sg>$^)/)<rpar>$ ^or/or<cnjcoo>$[ <a href='+386'>]+^386/386<num>$[<\/a> ]^(/(<lpar>$^Slovenia/Slovenia<np><loc><sg>$^)/)<rpar>$ ^instead/instead<adv>$^./.<sent>$[
-]}}^./.<sent>$[][<\/p>
-<p>]{{^Infobox/*Infobox$ ^Country/Country<n><sg>$[
+]}}[
+]{{^Republic/Republic<n><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$}}[
+]{{^Infobox/*Infobox$ ^Country/Country<n><sg>$[
 ]|^conventional/conventional<adj>$_^long/long<adv>/long<adj><sint>$_^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>$ = ^Kosovo/Kosovo<np><loc><sg>$^,/,<cm>$ ^UN/UN<n><acr><sg>$ ^protectorate/protectorate<n><sg>$[
 ]|^image/image<n><sg>$_^map/map<n><sg>$[    ]= ^Map/Map<n><sg>$ ^of/of<pr>$ ^Serbia/*Serbia$ ^(/(<lpar>$^Kosovo/Kosovo<np><loc><sg>$ ^and/and<cnjcoo>$ ^Metohija/*Metohija$^)/)<rpar>$^./.<sent>$^PNG/*PNG$[
 ]|^map/map<n><sg>$_^caption/*caption$[  ]= ^Kosovo/Kosovo<np><loc><sg>$ ^within/within<adv>/within<pr>$ ^Serbia/*Serbia$[
