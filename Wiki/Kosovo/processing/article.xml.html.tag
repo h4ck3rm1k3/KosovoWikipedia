@@ -259,31 +259,31 @@
 <li><a href='http:\/\/www.euinkosovo.org\/index.php EU'>]^36<num>$[<\/a> ]^EU<n><acr><sg>$ ^*Pillar$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li> 
 <a href='http:\/\/www.otvoreno.org.yu\/ Otvoreno'>]^37<num>$[<\/a> ]^A<det><ind><sg>$ ^place<n><sg>$ ^where<rel><adv>$ ^*Serbian$ ^politician<n><pl>$ ^speak<vblex><inf>$ ^openly<adv>$ ^on<pr>$ ^the<det><def><sp>$ ^Kosovo<np><loc><sg>$ ^issue<n><sg>$^.<sent>$ ^In<pr>$ ^*Serbian$ ^language<n><sg>$ ^only<adv>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovo.net\/default4.html KIM-Info News Service, News from Kosovo in English and Serbian'>]^38<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.crisisgroup.org\/home\/index.cfm?id=1243&amp;l=1 (ICG)'>]^39<num>$[<\/a> ]^International<adj>$ ^Crisis<n><sg>$ ^Group<n><sg>$^,<cm>$ ^a<det><ind><sg>$ ^source<n><sg>$ ^of<pr>$ ^independent<adj>$ ^analysis<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><pl>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.csdbalkans.org\/roma Kosovo Roma Oral History Project'>]^40<num>$[<\/a> ]^A<det><ind><sg>$ ^*advocacy$ ^*website$ ^for<pr>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^*Roma$\/ ^*Gypsies$^,<cm>$ ^with<pr>$ ^significant<adj>$ ^detail<n><pl>$ ^on<pr>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^contest<vblex><pp>$ ^history<n><sg>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.eciks.org\/english\/index.php ECIKS'>]^41<num>$[<\/a> ]^Economic<adj>$ ^Initiative<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^information<n><sg>$ ^on<pr>$ ^investment<n><sg>$ ^opportunity<n><pl>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.state.gov\/www\/regions\/eur\/rpt_990604_ksvo_ethnic.html US State Dept. fact sheet "The Ethnic Cleansing of Kosovo"'>]^42<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.xhakli.com\/2004\/05\/25\/kosovo-search-challenge-helping-people-find-information-from-kosovo.php Kosovo Blog Online"'>]^43<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Search<n><sg>$ ^Challenge<n><sg>$^:<sent>$ ^Help<vblex><ger>$ ^person<n><pl>$ ^find<vblex><inf>$ ^information<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^the<det><def><sp>$ ^positive<adj>$ ^side<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.nato.int\/kfor\/ KFOR'>]^44<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Force<n><pl>$ ^(<lpar>$^*KFOR$^)<rpar>$ ^NATO<n><acr><sg>$ ^*peacekeeping$ ^force<n><pl>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.crisisgroup.org\/home\/index.cfm?id=1243&amp;l=1 (ICG)'>]^38<num>$[<\/a> ]^International<adj>$ ^Crisis<n><sg>$ ^Group<n><sg>$^,<cm>$ ^a<det><ind><sg>$ ^source<n><sg>$ ^of<pr>$ ^independent<adj>$ ^analysis<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><pl>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.csdbalkans.org\/roma Kosovo Roma Oral History Project'>]^39<num>$[<\/a> ]^A<det><ind><sg>$ ^*advocacy$ ^*website$ ^for<pr>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^*Roma$\/ ^*Gypsies$^,<cm>$ ^with<pr>$ ^significant<adj>$ ^detail<n><pl>$ ^on<pr>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^contest<vblex><pp>$ ^history<n><sg>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.eciks.org\/english\/index.php ECIKS'>]^40<num>$[<\/a> ]^Economic<adj>$ ^Initiative<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^information<n><sg>$ ^on<pr>$ ^investment<n><sg>$ ^opportunity<n><pl>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.state.gov\/www\/regions\/eur\/rpt_990604_ksvo_ethnic.html US State Dept. fact sheet "The Ethnic Cleansing of Kosovo"'>]^41<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.xhakli.com\/2004\/05\/25\/kosovo-search-challenge-helping-people-find-information-from-kosovo.php Kosovo Blog Online"'>]^42<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Search<n><sg>$ ^Challenge<n><sg>$^:<sent>$ ^Help<vblex><ger>$ ^person<n><pl>$ ^find<vblex><inf>$ ^information<n><sg>$ ^for<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^the<det><def><sp>$ ^positive<adj>$ ^side<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.nato.int\/kfor\/ KFOR'>]^43<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Force<n><pl>$ ^(<lpar>$^*KFOR$^)<rpar>$ ^NATO<n><acr><sg>$ ^*peacekeeping$ ^force<n><pl>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
 <a name="Pro-Albanian"><\/a><h3>]^*Pro$^-<guio>$^Albanian<n><sg>$^.<sent>$[][<\/h3><ul>
-<li><a href='http:\/\/www.assembly-kosova.org\/?krye=home&amp;lang=en Kosovo Assembly (Kuvendi i KosovÃ«s)'>]^45<num>$[<\/a> ]^English<adj>$ ^version<n><sg>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/visitkosova.org\/english\/ The Official Webportal of Tourism in Kosovo'>]^46<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.ks-gov.net\/pm\/?menuid=&amp;subid=&amp;lingo=2 The office of Prime Minister of Kosovo'>]^47<num>$[<\/a> ]^English<adj>$ ^version<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.assembly-kosova.org\/?krye=home&amp;lang=en Kosovo Assembly (Kuvendi i KosovÃ«s)'>]^44<num>$[<\/a> ]^English<adj>$ ^version<n><sg>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/visitkosova.org\/english\/ The Official Webportal of Tourism in Kosovo'>]^45<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.ks-gov.net\/pm\/?menuid=&amp;subid=&amp;lingo=2 The office of Prime Minister of Kosovo'>]^46<num>$[<\/a> ]^English<adj>$ ^version<n><sg>$^.<sent>$[][<\/li>
 <li>]^*http$^:<sent>$\/\/^www.ess.uwe<num>$^.<sent>$^*ac$^.<sent>$^*uk$\/^*kosovo$\/^content<n><pl>$^.<sent>$^*htm$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.newkosovo.org\/ Alliance for a New Kosovo'>]^48<num>$[<\/a> ]^A<det><ind><sg>$ ^Policy<n><sg>$ ^Resource<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^Independence<n><sg>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.eciks.org Economic Initiative for Kosovo'>]^49<num>$[<\/a> ]^-<guio>$ "^.<sent>$^.<sent>$^.<sent>$^late<adj><sint><sup>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^publication<n><pl>$ ^from<pr>$ ^the<det><def><sp>$ ^*Kosovar$ ^economy<n><sg>$"^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.alb-net.com\/index.htm Kosovo Crisis Center'>]^50<num>$[<\/a> ]^A<det><ind><sg>$ ^collection<n><sg>$ ^of<pr>$ ^article<n><pl>$ ^on<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.aacl.com\/indexmain.html AACL'>]^51<num>$[<\/a> ]^Albanian<adj>$ ^American<adj>$ ^Civic<adj>$ ^League<n><sg>$^.<sent>$^.<sent>$[][<\/li>
-<li><a href='http:\/\/www.kosovalive.com\/?cid=2 KosovaLive'>]^52<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Albanian<adj>$ ^independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$ ^(<lpar>$^this<det><dem><sg>$ ^section<n><sg>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.newkosovo.org\/ Alliance for a New Kosovo'>]^47<num>$[<\/a> ]^A<det><ind><sg>$ ^Policy<n><sg>$ ^Resource<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^Independence<n><sg>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.eciks.org Economic Initiative for Kosovo'>]^48<num>$[<\/a> ]^-<guio>$ "^.<sent>$^.<sent>$^.<sent>$^late<adj><sint><sup>$ ^news<n><sg>$^,<cm>$ ^analysis<n><sg>$ ^and<cnjcoo>$ ^publication<n><pl>$ ^from<pr>$ ^the<det><def><sp>$ ^*Kosovar$ ^economy<n><sg>$"^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.alb-net.com\/index.htm Kosovo Crisis Center'>]^49<num>$[<\/a> ]^A<det><ind><sg>$ ^collection<n><sg>$ ^of<pr>$ ^article<n><pl>$ ^on<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.aacl.com\/indexmain.html AACL'>]^50<num>$[<\/a> ]^Albanian<adj>$ ^American<adj>$ ^Civic<adj>$ ^League<n><sg>$^.<sent>$^.<sent>$[][<\/li>
+<li><a href='http:\/\/www.kosovalive.com\/?cid=2 KosovaLive'>]^51<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Albanian<adj>$ ^independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$ ^(<lpar>$^this<det><dem><sg>$ ^section<n><sg>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$^.<sent>$[][<\/li>
 <li>]^\[<lpar>$ ^*http$^:<sent>$\/\/^www.hrw.org<num>$\/^report<n><pl>$\/^2001<num>$\/^*kosovo$\/^\]<rpar>$[ <strong>]^War<n><sg>$ ^Crime<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/strong><\/li>
 <\/ul>
 <p><br\/>
 <\/p>
 <a name="Pro-Serbian"><\/a><h3>]^*Pro$^-<guio>$^*Serbian$^.<sent>$[][<\/h3><ul>
+<li><a href='http:\/\/www.kosovo.net\/default4.html KIM-Info News Service, News in English and Serbian from the Serb Orthodox Church in Kosovo'>]^52<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/?change_lang=en Kosovo and Metohija'>]^53<num>$[<\/a> ]^-<guio>$ ^*Serbian$ ^Government<n><sg>$ ^*Website$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovo-metohija.com\/ News from Kosovo'>]^54<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.kosovocompromise.com\/ Kosovo Compromise'>]^55<num>$[<\/a> ]^Presentation<n><sg>$ ^on<pr>$ ^Kosovo<np><loc><sg>$ ^issue<n><sg>$ ^of<pr>$[ <em>]^4<num>$^*S$[<\/em>]^Institute<n><sg>$ ^,<cm>$ ^Brussels<np><loc><sg>$^.<sent>$[][<\/li>
