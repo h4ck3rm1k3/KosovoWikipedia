@@ -66,7 +66,11 @@
 <li><a href='http:\/\/www.kosovo.com\/default4.html News from the Serbian Orthodox Church'>]^11<num>$^.<sent>$[][<\/a><\/li>
 <li> 
 <a href='http:\/\/www.serbia.sr.gov.yu\/coordination_centre\/index.html Serb Kosovo Coordination Center'>]^12<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ Kosovo collection of pictures around the country'>]^13<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
+<p><br\/>
+&lt;]^*hr$ ^*align$="^centre<n><sg>$" ^*noshade$ ^size<n><sg>$="^4<num>$" ^width<n><sg>$="^100%<num><percent>$"^.<sent>$[][&gt;<\/p>
+<p><strong><a href='Yugoslavia|Former 6 republics and 2 autonomous provinces of Yugoslavia'>]^Yugoslavia<np><loc><sg>$|^Former<adj>$ ^6<num>$ ^republic<n><pl>$ ^and<cnjcoo>$ ^2<num>$ ^autonomous<adj>$ ^province<n><pl>$ ^of<pr>$ ^Yugoslavia<np><loc><sg>$[<\/a>]^:<sent>$[<\/strong> &lt;]^*br$^.<sent>$[][&gt;<\/p>
 <\/body>
 <\/html>
 ]
