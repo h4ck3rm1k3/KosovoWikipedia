@@ -199,7 +199,7 @@
 <p><br\/>
 <\/p>
 <a name="List_of_Prime_Ministers"><\/a><h2>]^List<n><sg>$ ^of<pr>$ ^Prime<adj>$ ^Minister<n><pl>$^.<sent>$[][<\/h2><ul>
-<li><a href='Bujar Bukoshi'>]^*Bujar$ ^*Bukoshi$^.<sent>$[][<\/a><\/li>
+<li><a href='Bujar Bukoshi'>]^*Bujar$ ^*Bukoshi$[<\/a>]^,<cm>$[ <a href='1991'>]^1991<num>$[<\/a> ]^-<guio>$[ <a href='1999'>]^1999<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='Bajram Rexhepi'>]^*Bajram$ ^*Rexhepi$[<\/a>]^,<cm>$[ <a href='4 March'>]^4<num>$ ^March<n><sg>$[<\/a> <a href='2002'>]^2002<num>$[<\/a> ]^-<guio>$[ <a href='3 December'>]^3<num>$ ^December<n><sg>$[<\/a> <a href='2004'>]^2004<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='Ramush Haradinaj'>]^*Ramush$ ^*Haradinaj$[<\/a>]^,<cm>$[ <a href='3 December'>]^3<num>$ ^December<n><sg>$[<\/a> <a href='2004'>]^2004<num>$[<\/a> ]^-<guio>$[ <a href='8 March'>]^8<num>$ ^March<n><sg>$[<\/a> <a href='2005'>]^2005<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='Bajram Kosumi'>]^*Bajram$ ^*Kosumi$[<\/a>]^,<cm>$[ <a href='23 March'>]^23<num>$ ^March<n><sg>$[<\/a> <a href='2005'>]^2005<num>$[<\/a> ]^-<guio>$[ <a href='10 March'>]^10<num>$ ^March<n><sg>$[<\/a> <a href='2006'>]^2006<num>$^.<sent>$[][<\/a><\/li>
