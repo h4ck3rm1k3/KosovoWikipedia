@@ -291,7 +291,7 @@
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$ ^museum<n><sg>$^.<sent>$^*jpg$|^The<det><def><sp>$ ^Museum<n><sg>$ ^of<pr>$[ <a href='Kosovo'>]^Kosovo<np><loc><sg>$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*BoroRamizi$^.<sent>$^*jpg$|"^*Pallati$ ^*i$ ^*Rinis$Ã«" ^in<pr>$[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
 &lt;]\/^gallery<n><sg>$[&gt;&lt;]\/^centre<n><sg>$^.<sent>$[][&gt;<\/p>
-<a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><p>&lt;]^*div$ ^style<n><sg>$="^-<guio>$^*moz$^-<guio>$^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^4<num>$^;<sent>$ ^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^4<num>$^;<sent>$"^.<sent>$[][&gt;<\/p>
+<a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><p>&lt;]^*div$ ^style<n><sg>$="^-<guio>$^*moz$^-<guio>$^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^4<num>$^;<sent>$ ^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^4<num>$^;<sent>$"^.<sent>$[][&gt;<\/p>
 <ul>
 <li><a href='Assembly of Kosovo'>]^Assembly<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
@@ -309,7 +309,7 @@
 <li><a href='2008 Kosovo declaration of independence'>]^2008<num>$ ^Kosovo<np><loc><sg>$ ^*declaration$ ^of<pr>$ ^independence<n><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p>&lt;]\/^*div$^.<sent>$[][&gt;<\/p>
-<a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
+<a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <ul>
 <li><a href='http:\/\/www.newkosovareport.com New Kosova Report - Kosovo News and Views Portal'>]^25<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.unhcr.org\/cgi-bin\/texis\/vtx\/balkans-country?country=kosovo UNHCR - Balkans: Kosovo'>]^26<num>$^.<sent>$[][<\/a><\/li>
