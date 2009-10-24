@@ -25,7 +25,7 @@
 ]|[ <a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>
 ]|^-<guio>$[
 ]| ^*Transitional$[ <a href='Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$[<\/a>
-]|[ <a href='Bajram Kusumi'>]^*Bajram$ ^*Kusumi$[<\/a>
+]|[ <a href='Bajrammm Kussssumi'>]^*Bajrammm$ ^*Kussssumi$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Area'>]^Area<n><sg>$[<\/a>&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[&amp;]^*ndash$^;<sent>$ ^Total<n><sg>$[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[&amp;]^*ndash$^;<sent>$ % ^water<n><sg>$[
 ]|[ &lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[<a href='1 E10 mÂ²|10,887'>]^1<num>$ ^*E$^10<num>$ ^*mÂ$²|^10,887<num>$[<\/a> ]^*km$[&amp;]^*sup$^2<num>$^;<sent>$[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$^*n$\/^a<det><ind><sg>$[
