@@ -112,11 +112,12 @@
 <p><br\/>
 <\/p>
 <a name="Gallery"><\/a><h2>]^Gallery/Gallery<n><sg>$^./.<sent>$[][<\/h2><p>&lt;]^gallery/gallery<n><sg>$[&gt;
-]^Image/Image<n><sg>$^:/:<sent>$^Prishtina/*Prishtina$^./.<sent>$^jpg/*jpg$[ <a href='Prishtina'>]^Prishtina/*Prishtina$[<\/a>
+]^Image/Image<n><sg>$^:/:<sent>$^Prishtina/*Prishtina$^./.<sent>$^jpg/*jpg$|[<a href='Prishtina'>]^Prishtina/*Prishtina$[<\/a>
 ]^Image/Image<n><sg>$^:/:<sent>$^Prizen/*Prizen$ ^kosovo/*kosovo$^./.<sent>$^jpg/*jpg$|[<a href='Prizren'>]^Prizren/*Prizren$[<\/a>
 ]^Image/Image<n><sg>$^:/:<sent>$^Rahoveci/*Rahoveci$^./.<sent>$^jpg/*jpg$|[<a href='Rahovec'>]^Rahovec/*Rahovec$[<\/a>
 ]^Image/Image<n><sg>$^:/:<sent>$^Gjakova/*Gjakova$^./.<sent>$^jpg/*jpg$|[<a href='Gjakova'>]^Gjakova/*Gjakova$[<\/a>
 ]^Image/Image<n><sg>$^:/:<sent>$^French/French<adj>/French<n><sg>/French<n><pl>$ ^Peugeot/*Peugeot$ ^P/*P$^4/4<num>$ ^dsc/*dsc$^06852/06852<num>$^./.<sent>$^jpg/*jpg$|[<a href='KFOR'>]^KFOR/*KFOR$[<\/a>
+]^Image/Image<n><sg>$^:/:<sent>$^Skenderbeuinprishtina/*Skenderbeuinprishtina$^./.<sent>$^jpg/*jpg$|[<a href='Skenderbeg'>]^Skenderbeg/*Skenderbeg$[<\/a>
 &lt;]\/^gallery/gallery<n><sg>$^./.<sent>$[][&gt;<\/p>
 <a name="See_also"><\/a><h2>]^See/See<vblex><inf>/See<vblex><pres>$ ^also/also<adv>$^./.<sent>$[][<\/h2><ul>
 <li><a href='Assembly of Kosovo'>]^Assembly/Assembly<n><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$^./.<sent>$[][<\/a><\/li>
