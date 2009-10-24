@@ -133,7 +133,7 @@
 <ul>
 <li>]^92%<num><percent>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a> ]^(<lpar>$^between<pr>$ ^1,972<num>$^,<cm>$^000<num>$ ^and<cnjcoo>$ ^2,100<num>$^,<cm>$^000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
-]^3.5%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a> ]^(<lpar>$^between<pr>$ ^70,000<num>$ ^and<cnjcoo>$ ^110,000<num>$^)<rpar>$^.<sent>$[][<\/li>
+]^3.8%<num><percent>$[ <a href='Serbs'>]^*Serbs$[<\/a> ]^(<lpar>$^between<pr>$ ^70,000<num>$ ^and<cnjcoo>$ ^110,000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
 ]^1.9%<num><percent>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^(<lpar>$^between<pr>$ ^34,200<num>$ ^and<cnjcoo>$ ^38,000<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
