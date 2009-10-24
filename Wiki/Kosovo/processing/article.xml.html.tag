@@ -72,7 +72,7 @@
 <a name="Presidents"><\/a><h2>]^President<n><pl>$^.<sent>$[][<\/h2><ul>
 <li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$^.<sent>$[][<\/a><\/li>
 <li> 
-<a href='Nexhat Daci'>]^*Nexhat$ ^*Daci$[<\/a>]^-<guio>$^acting<adj>$ ^president<n><sg>$^-<guio>$^2006<num>$^-<guio>$^present<n><sg>$^.<sent>$[][<\/li>
+<a href='Nexhat DaÃ§i'>]^*Nexhat$ ^*Da$Ã§^*i$[<\/a>]^-<guio>$^acting<adj>$ ^president<n><sg>$^-<guio>$^2006<num>$^-<guio>$^present<n><sg>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
 <\/p>
