@@ -61,7 +61,7 @@
 ]|[ <a href='UTC'>]^*UTC$[<\/a> ]+^1<num>$[
 ]|^-<guio>$[
 ]| ^*valign$=^top<adj>$ |[ <a href='Airline'>]^*Airline$[<\/a> ]^carrier<n><sg>$[
-]|[ <a href='Kosova Airlines'>]^*Kosova$ ^*Airlines$[<\/a>
+]|[ <a href='Kosov0 Airlines'>]^*Kosov$^0<num>$ ^*Airlines$[<\/a>
 ]|}^.$
 [][<\/p>
 <p><em>]^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohia$[<strong> ]^(<lpar>$[<a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^:$
