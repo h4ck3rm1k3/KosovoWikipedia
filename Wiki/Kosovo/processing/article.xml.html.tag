@@ -214,6 +214,7 @@
 ]^Image<n><sg>$^:<sent>$^*Ne$ ^*Udhetim$ ^132<num>$^.<sent>$^*jpg$|^Centre<n><sg>$ ^of<pr>$[ <a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='Pristina'>]^*Pristina$[<\/a>]^,<cm>$ ^monument<n><sg>$ ^to<pr>$[ <a href='Skenderbeg'>]^*Skenderbeg$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Decani$^.<sent>$^*jpg$|^A<det><ind><sg>$ ^14<num>$^*th$^-<guio>$^century<n><sg>$ ^fresco<n><sg>$ ^in<pr>$[ <a href='Visoki DeÄani monastery'>]^*Visoki$ ^*DeÄ$^*ani$ ^*monastery$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Gjerovica$ ^new<adj><sint>$^.<sent>$^*JPG$|[<a href='Gjerovica'>]^*Gjerovica$[<\/a>]\/[<a href='Äeravica'>]^*Ä$^*eravica$[<\/a>
+]^Image<n><sg>$^:<sent>$^*Bjeshket$ ^*Junikut$^.<sent>$^*JPG$|[<a href='Juniku Mountains'>]^*Juniku$ ^Mountain<n><pl>$[<\/a>]\/[<a href='Junik Mountains'>]^*Junik$ ^Mountain<n><pl>$[<\/a>
 ]^Image<n><sg>$^:<sent>$^*Dardania$^2<num>$^.<sent>$^*jpg$|[<a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='Pristina'>]^*Pristina$[<\/a>	 	
 ]^Image<n><sg>$^:<sent>$^*Dardania$^1<num>$^.<sent>$^*jpg$|[<a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='Pristina'>]^*Pristina$[<\/a>
 &lt;]\/^gallery<n><sg>$^.<sent>$[][&gt;<\/p>
