@@ -203,6 +203,13 @@
 <li><em>]^North<adj><sint>$ ^City<n><sg>$ ^Jazz<n><sg>$[ &amp; ]^*Blues$ ^festival<n><sg>$[<\/em>]^,<cm>$ ^a<det><ind><sg>$ ^international<adj>$[ <a href='music festival'>]^music<n><sg>$ ^festival<n><sg>$[<\/a> ]^hold<vblex><past>$ ^annually<adv>$ ^in<pr>$[ <a href='ZveÄan'>]^*ZveÄ$^a<det><ind><sg>$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Zve$Ã§^*ani$}}^)<rpar>$^,<cm>$ ^near<pr>$ ^*Kosovska$ ^*Mitrovica$^,<cm>$^.<sent>$[][<\/li>
 <\/ul>
 <p>]^Kosovo<np><loc><sg>$ ^*Radiotelevisions$ ^like<pr>$[ <em>]^*RTK$[<\/em>]^,<cm>$[ <em>]^21<num>$[<\/em> ]^and<cnjcoo>$[ <em>]^*KTV$[<\/em> ]^have<vblex><pres>$ ^their<det><pos><sp>$ ^musical<adj>$ ^chart<n><pl>$^.<sent>$^.<sent>$[][<\/p>
+<a name="Sport"><\/a><h3>]^Sport<n><sg>$^.<sent>$[][<\/h3><ul>
+<li><a href='Kosovo national football team'>]^Kosovo<np><loc><sg>$ ^national<adj>$ ^football<n><sg>$ ^team<n><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Basketball Federation of Kosovo'>]^Basketball<n><sg>$ ^Federation<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Olympic Committee of Kosovo'>]^Olympic<adj>$ ^Committee<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<\/ul>
+<p><br\/>
+<\/p>
 <a name="Gallery"><\/a><h2>]^Gallery<n><sg>$^.<sent>$[][<\/h2><p>&lt;]^centre<n><sg>$[&gt;&lt;]^gallery<n><sg>$[&gt;
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$_^government<n><sg>$^.<sent>$^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^in<pr>$ ^*Pri$Å^¡<lquest>$^*tina$^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Prizen$ ^*kosovo$^.<sent>$^*jpg$|^*Prizren$^.<sent>$[
