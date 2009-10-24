@@ -15,12 +15,12 @@
 ]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-Kosovo2.png'>]^Image<n><sg>$^:<sent>$^*SerbiaMontenegro$^-<guio>$^Kosovo<np><loc><sg>$^2<num>$^.<sent>$^*png$[<\/a>
 ]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
-&lt;]^!<sent>$^-<guio>$^-<guio>$^Albanian<n><sg>$ ^be<vbser><pri><p3><sg>$ ^official<adj>$ ^language<n><sg>$ ^in<pr>$ ^*kosovo$ ^but<cnjcoo>$ ^not<adv>$ ^in<pr>$ ^the<det><def><sp>$ ^state<adj>$ ^*Serbia$ ^(<lpar>$^*Bujanovc$^,<cm>$ ^*Presheva$ ^?<sent>$^)<rpar>$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^(<lpar>$^*Plave$^,<cm>$ ^*Gusia$^,<cm>$ ^*Ulcin$ ^?<sent>$^)<rpar>$^?<sent>$^?<sent>$^?<sent>$^?<sent>$^-<guio>$^-<guio>$[&gt;
+&lt;]^!<sent>$^-<guio>$^-<guio>$^Albanian<n><sg>$ ^be<vbser><pri><p3><sg>$ ^official<adj>$ ^language<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^in<pr>$ ^*municipallites$ ^in<pr>$ ^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^where<adv><itg>$ ^live<vblex><pres>$ ^Albanian<n><pl>$ ^(<lpar>$^*Bujanovac$ ^*Pre$Å^¡<lquest>$^*evo$^,<cm>$ ^*Bujanovc$^,<cm>$ ^*Presheva$^,<cm>$ ^*Plave$^,<cm>$ ^*Gusia$^,<cm>$ ^*Ulcin$ ^?<sent>$^)<rpar>$^.<sent>$^-<guio>$^-<guio>$[&gt;
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
 ]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Capital'>]^Capital<n><sg>$[<\/a>
-]|[ <a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='Pristina'>]^*Pristina$[<\/a>
+]|[ <a href='Pristina|PriÅ¡tina'>]^*Pristina$|^*Pri$Å^¡<lquest>$^*tina$[<\/a>]\/[<a href='Prishtina'>]^*Prishtina$[<\/a>
 ]|^-<guio>$[
 ]| ^*Transitional$[ <a href='President'>]^President<n><sg>$[<\/a>
 ]|[ <a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>
