@@ -276,7 +276,7 @@
 <li><a href='http:\/\/www.assembly-kosova.org\/ Assembly of Kosovo'>]^33<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.president-ksgov.net\/?id=1,67,67,67,e\/ President of Kosovo'>]^34<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/?change_lang=en Serbian Government for Kosovo and Metohija'>]^35<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='https:\/\/www.cia.gov\/library\/publications\/the-world-factbook\/geos\/kv.html--CIA-The World Factbook for Kosovo'>]^36<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='https:\/\/www.cia.gov\/library\/publications\/the-world-factbook\/geos\/kv.html'>]^36<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.visitkosova.org\/english\/index.htm Visit Kosovo - Tourism Website'>]^37<num>$^.<sent>$[][<\/a><\/li>
 <li><\/li>
 <\/ul>
