@@ -16,28 +16,9 @@
  ^*float$^:$
  ^right<adj>$^;$
 " ^*cellpadding$="^4<num>$" ^*cellspacing$="^0<num>$"[
-]|^-<guio>$[
-]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:$
- ^centre<n><sg>$^;$
-" ^*colspan$="^2<num>$" |[
-&lt;]^big<adj><sint>$[&gt;<strong>]^Kosovo<np><loc><sg>$[<\/strong>&lt;]^*br$[&gt;<strong>]^*Kosov$Ã«\/^*Kosova$[<\/strong>&lt;]^*br$[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]\/^big<adj><sint>$[&gt;
-]|^-<guio>$ ^style<n><sg>$="^border<n><sg>$^-<guio>$^top<n><sg>$^:$
- ^2<num>$^*px$ ^solid<adj><sint>$ ^gray<adj><sint>$^;$
-"[
-]| ^*align$=^centre<n><sg>$ |[ <a href='Image:Kosovo position within Serbia.PNG|110px|Map showing Kosovo within Serbia'>]^Image<n><sg>$^:$
-^Kosovo<np><loc><sg>$ ^position<n><sg>$ ^within<pr>$ ^*Serbia$^.$
-^*PNG$|^110<num>$^*px$|^Map<n><sg>$ ^show<vblex><ger>$ ^Kosovo<np><loc><sg>$ ^within<pr>$ ^*Serbia$[<\/a>
-]| {{^*Serbia$ ^2<num>$}}[
-]|^-<guio>$[
-]| ^style<n><sg>$="^text<n><sg>$^-<guio>$^*align$^:$
- ^centre<n><sg>$^;$
-" ^*colspan$="^2<num>$" |[ <a href='Image:The position of Kosovo within Serbia.PNG'>]^Image<n><sg>$^:$
-^The<det><def><sp>$ ^position<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^within<pr>$ ^*Serbia$^.$
-^*PNG$[<\/a> 
-&lt;]^small<adj><sint>$[&gt;]^The<det><def><sp>$ ^location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^in<pr>$ ^*Serbia$ ^and<cnjcoo>$ ^Europe<np><loc><sg>$^.$
-[&lt;]\/^small<adj><sint>$[&gt;
-]|^-<guio>$[
-]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
+]|^-<guio>$^.$
+[][<\/p>
+<p>]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
 ]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Capital'>]^Capital<adj>$[<\/a>
@@ -91,8 +72,7 @@
 ]|}[
 <strong>]^Kosovo<np><loc><sg>$[<\/strong> ]^(<lpar>$[<a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^:$
 [ <em>]^*Kosov$Ã«[<\/em>]\/[<em>]^*Kosova$[<\/em>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^:$
- ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°\/[<em>]^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/em>]^)<rpar>$ ^be<vbser><pri><p3><sg>$ ^one<prn><tn><mf><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^two<num><sp>$ ^autonomous<adj>$ ^province<n><pl>$ ^of<pr>$[ <a href='Serbia'>]^*Serbia$[<\/a>]^,<cm>$ ^and<cnjcoo>$ ^be<vbser><pri><p3><sg>$ ^locate<vblex><pp>$ ^in<pr>$ ^the<det><def><sp>$ ^south<adj><sint>$ ^of<pr>$ ^the<det><def><sp>$ ^country<n><sg>$ ^(<lpar>$^the<det><def><sp>$ ^other<det><ind><sp>$ ^be<vbser><pri><p3><sg>$[ <a href='Vojvodina'>]^*Vojvodina$[<\/a>]^,<cm>$ ^in<pr>$ ^the<det><def><sp>$ ^north<adj><sint>$ ^of<pr>$ ^the<det><def><sp>$ ^country<n><sg>$^)<rpar>$^.$
- ^Kosovo<np><loc><sg>$ ^border<n><pl>$[ <a href='Montenegro'>]^Montenegro<np><loc><sg>$[<\/a>]^,<cm>$[ <a href='Albania'>]^*Albania$[<\/a> ]^and<cnjcoo>$[ <a href='Republic of Macedonia|Macedonia'>]^Republic<n><sg>$ ^of<pr>$ ^Macedonia<np><ant><f><sg>$|^Macedonia<np><ant><f><sg>$[<\/a>]^.$
+ ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°\/[<em>]^Kosovo<np><loc><sg>$ ^*i$ ^*Metohija$[<\/em>]^)<rpar>$ ^and<cnjcoo>$ ^be<vbser><pri><p3><sg>$ ^locate<vblex><pp>$ ^in<pr>$ ^the<det><def><sp>$ ^south<adj><sint>$ ^of<pr>$ ^the<det><def><sp>$ ^*Balkans$ ^(<lpar>$^Kosovo<np><loc><sg>$ ^border<n><pl>$[ <a href='Montenegro'>]^Montenegro<np><loc><sg>$[<\/a>]^,<cm>$[ <a href='Albania'>]^*Albania$[<\/a> ]^and<cnjcoo>$[ <a href='Republic of Macedonia|Macedonia'>]^Republic<n><sg>$ ^of<pr>$ ^Macedonia<np><ant><f><sg>$|^Macedonia<np><ant><f><sg>$[<\/a>]^.$
  ^The<det><def><sp>$ ^mountainous<adj>$ ^province<n><sg>$^'s<gen>$ ^capital<adj>$ ^and<cnjcoo>$ ^large<adj><sint><sup>$ ^city<n><sg>$ ^be<vbser><pri><p3><sg>$[ <a href='PriÅ¡tina|PrishtinÃ«\/PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$|^*Prishtin$Ã«\/^*Pri$Å^¡<lquest>$^*tina$[<\/a>]^.$
  ^Kosovo<np><loc><sg>$ ^have<vblex><pri><p3><sg>$ ^a<det><ind><sg>$ ^population<n><sg>$ ^of<pr>$ ^around<pr>$ ^two<num><sp>$ ^million<num><sp>$ ^person<n><pl>$^,<cm>$ ^*predominately$ ^ethnic<adj>$[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>]^,<cm>$ ^with<pr>$ ^small<adj><sint><comp>$ ^population<n><pl>$ ^of<pr>$[ <a href='Serbs'>]^*Serbs$[<\/a>]^,<cm>$[ <a href='Turks'>]^*Turks$[<\/a>]^,<cm>$[ <a href='Bosniaks'>]^*Bosniaks$[<\/a> ]^and<cnjcoo>$ ^other<det><ind><sp>$ ^ethnic<adj>$ ^group<n><pl>$^.$
 ^.$
