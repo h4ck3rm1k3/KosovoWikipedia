@@ -58,15 +58,15 @@
 ^.$
 [][<\/p>
 <a name="Geographical_regions"><\/a><h3>]^*Geographical$ ^region<n><pl>$^.$
-[][<\/h3><p><strong>]^*Metohia$[<\/strong> ]^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$ ^large<adj><sint>$ ^valley<n><sg>$ ^at<pr>$ ^the<det><def><sp>$ ^west<adj>$ ^of<pr>$ ^the<det><def><sp>$ ^province<n><sg>$^;$
+[][<\/h3><p><strong>]^*Dukagjini$[<\/strong> ]^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$ ^large<adj><sint>$ ^valley<n><sg>$ ^at<pr>$ ^the<det><def><sp>$ ^west<adj>$ ^of<pr>$ ^the<det><def><sp>$ ^province<n><sg>$^;$
  ^include<vblex><ger>$ ^the<det><def><sp>$ ^town<n><pl>$ ^of<pr>$ ^*Pe$[&amp;]#^263<num>$^;$
 ^,<cm>$[ &amp;]#^272<num>$^;$
-^*akovica$^,<cm>$ ^*Istok$ ^and<cnjcoo>$ ^*De$[&amp;]#^269<num>$^;$
+^*akova$^,<cm>$ ^*Istog$ ^and<cnjcoo>$ ^*De$[&amp;]#^269<num>$^;$
 ^*ani$^.$
- ^The<det><def><sp>$ ^second<det><ord><sp>$ ^large<adj><sint><sup>$ ^region<n><sg>$ ^be<vbser><pri><p3><sg>$[ <strong>]^Kosovo<np><loc><sg>$ ^proper<adj>$[<\/strong> ]^or<cnjcoo>$[ <strong>]^Kosovo<np><loc><sg>$ ^*Polje$[<\/strong> ]^(<lpar>$^Kosovo<np><loc><sg>$ ^Field<n><sg>$^)<rpar>$^,<cm>$ ^a<det><ind><sg>$ ^valley<n><sg>$ ^around<pr>$[ <a href='Sitnica'>]^the<det><def><sp>$ ^*Sitnica$[<\/a> ]^river<n><sg>$ ^contain<vblex><ger>$ ^the<det><def><sp>$ ^city<n><pl>$ ^of<pr>$[ <a href='Pristina'>]^*Pristina$[<\/a>]^,<cm>$[ <a href='Vucitrn|Vu&amp;#269;itrn'>]^*Vucitrn$|^*Vu$[&amp;]#^269<num>$^;$
+ ^The<det><def><sp>$ ^second<det><ord><sp>$ ^large<adj><sint><sup>$ ^region<n><sg>$ ^be<vbser><pri><p3><sg>$[ <strong>]^Kosovo<np><loc><sg>$ ^proper<adj>$[<\/strong> ]^or<cnjcoo>$[ <strong>]^*Fushe$ ^*Kosove$[<\/strong> ]^(<lpar>$^Kosovo<np><loc><sg>$ ^Field<n><sg>$^)<rpar>$^,<cm>$ ^a<det><ind><sg>$ ^valley<n><sg>$ ^around<pr>$[ <a href='Sitnica'>]^the<det><def><sp>$ ^*Sitnica$[<\/a> ]^river<n><sg>$ ^contain<vblex><ger>$ ^the<det><def><sp>$ ^city<n><pl>$ ^of<pr>$[ <a href='Pristina'>]^*Pristina$[<\/a>]^,<cm>$[ <a href='Vucitrn|Vu&amp;#269;itrn'>]^*Vucitrn$|^*Vu$[&amp;]#^269<num>$^;$
 ^*itrn$[<\/a>]^,<cm>$[ <a href='Urosevac|Uro&amp;#353;evac'>]^*Urosevac$|^*Uro$[&amp;]#^353<num>$^;$
 ^*evac$[<\/a>]^,<cm>$ ^and<cnjcoo>$[ <a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a>]^.$
- ^Just<adv>$ ^between<pr>$ ^the<det><def><sp>$[ <strong>]^*Metohia$[<\/strong> ]^and<cnjcoo>$[ <strong>]^Kosovo<np><loc><sg>$ ^proper<adj>$[<\/strong> ]^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$[ <strong>]^*Drenica$[<\/strong> ]^with<pr>$ ^the<det><def><sp>$ ^city<n><pl>$ ^of<pr>$[ <a href='Srbica'>]^*Srbica$[<\/a> ]^and<cnjcoo>$[ <a href='Klina'>]^*Klina$[<\/a> ]^and<cnjcoo>$[ <a href='Malisevo|Mali&amp;#353;evo'>]^*Malisevo$|^*Mali$[&amp;]#^353<num>$^;$
+ ^Just<adv>$ ^between<pr>$ ^the<det><def><sp>$[ <strong>]^*Dukagjini$[<\/strong> ]^and<cnjcoo>$[ <strong>]^Kosovo<np><loc><sg>$ ^proper<adj>$[<\/strong> ]^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$[ <strong>]^*Drenica$[<\/strong> ]^with<pr>$ ^the<det><def><sp>$ ^city<n><pl>$ ^of<pr>$[ <a href='Skenderaj'>]^*Skenderaj$[<\/a> ]^and<cnjcoo>$[ <a href='Klina'>]^*Klina$[<\/a> ]^and<cnjcoo>$[ <a href='Malisevo|Mali&amp;#353;evo'>]^*Malisevo$|^*Mali$[&amp;]#^353<num>$^;$
 ^*evo$[<\/a>]^.$
  ^Around<pr>$ ^the<det><def><sp>$ ^river<n><sg>$[ <a href='Binacka Morava|Bina&amp;#269;ka Morava'>]^*Binacka$ ^*Morava$|^*Bina$[&amp;]#^269<num>$^;$
 ^*ka$ ^*Morava$[<\/a> ]^be<vbser><pri><p3><sg>$[ <strong>]^*Bina$[&amp;]#^269<num>$^;$
@@ -121,8 +121,11 @@
 ^.$
 [][<\/p>
 <p>]^The<det><def><sp>$ ^province<n><sg>$ ^be<vbser><pri><p3><sg>$ ^occasionally<adv>$ ^*referred$ ^to<pr>$ ^as<preadv>$[ <strong>]^*Kosmet$[<\/strong>]^,<cm>$ ^a<det><ind><sg>$ ^*contraction$ ^of<pr>$[ <em>]^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohia$[<\/em> ]^which<rel><an><mf><sp>$ ^have<vbhaver><pri><p3><sg>$ ^tend<vblex><pp>$ ^to<pr>$ ^be<vbser><inf>$ ^use<vblex><pp>$ ^by<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^government<n><sg>$^.$
+[
+]^The<det><def><sp>$ ^rest<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^world<n><sg>$ ^call<vblex><pres>$ ^prpers<prn><obj><p3><nt><sg>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^without<pr>$ ^the<det><def><sp>$ "^*Metohia$ ^part<n><sg>$" ^of<pr>$ ^the<det><def><sp>$ ^name<n><sg>$^.$
 ^.$
-[][<\/p>
+[][ 
+<\/p>
 <a name="Kosovar,_Kosovan,_Kosovian?"><\/a><h3>]^*Kosovar$^,<cm>$ ^*Kosovan$^,<cm>$ ^*Kosovian$^?$
 ^.$
 [][<\/h3><p><a href='Image:SerbiaMontenegro-Kosovo.png|right|'>]^Image<n><sg>$^:$
