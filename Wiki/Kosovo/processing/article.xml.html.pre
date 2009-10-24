@@ -15,13 +15,13 @@
 ]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><pl>$[<\/a>
-]|[  <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^,<cm>$[<a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^,<cm>$[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>
+]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^-<guio>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>]^,<cm>$[<a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a> 
 ]|^-<guio>$[
-]|[ <a href='Capital'>]^Capital<adj>$[<\/a>
-]|[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
+]|[ <a href='Capital'>]^Capital<n><sg>$[<\/a>
+]|[ <a href='Prishtina'>]^*Prishtina$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='President of Kosovo|President'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^President<n><sg>$[<\/a>
-]| ^vacant<adj>$[
+]|^Acting<adj>$ ^President<n><sg>$[ <a href='Nexhat Daci'>]^*Nexhat$ ^*Daci$[<\/a>
 ]|^-<guio>$[
 ]|[ <a href='Prime Minister of Kosovo|Prime Minister'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Prime<adj>$ ^Minister<n><sg>$[<\/a>
 ]|[ <a href='Bajram Kusumi'>]^*Bajram$ ^*Kusumi$[<\/a>
@@ -68,7 +68,18 @@
 ]^2%<num><percent>$[ <a href='Roma people|Roma'>]^*Roma$ ^person<n><pl>$|^*Roma$[<\/a> ]^(<lpar>$^36<num>$ ^to<pr>$ ^40<num>$ ^thousand<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <li>]^1%<num><percent>$[ <a href='Turks'>]^*Turks$[<\/a> ]^(<lpar>$^18<num>$ ^to<pr>$ ^20<num>$ ^thousand<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <\/ul>
-<p>]^*Intercommunal$ ^violence<n><sg>$ ^have<vbhaver><pri><p3><sg>$ ^further<adv>$ ^reduce<vblex><pp>$ ^the<det><def><sp>$ ^number<n><sg>$ ^of<pr>$ ^non<adv>$^-<guio>$^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^since<pr>$ ^this<det><dem><sg>$ ^survey<n><sg>$^,<cm>$ ^and<cnjcoo>$ ^many<prn><tn><mf><pl>$ ^of<pr>$ ^those who<rel><nn><mf><pl>$ ^do<vbdo><pres>$ ^remain<vblex><inf>$ ^now<adv>$ ^live<vblex><inf>$ ^in<pr>$ ^heavily<adv>$ ^*guarded$ ^*enclaves$^.<sent>$^.<sent>$[][<\/p>
+<p>]^*Intercommunal$ ^violence<n><sg>$ ^have<vbhaver><pri><p3><sg>$ ^further<adv>$ ^reduce<vblex><pp>$ ^the<det><def><sp>$ ^number<n><sg>$ ^of<pr>$ ^non<adv>$^-<guio>$^Albanian<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^since<pr>$ ^this<det><dem><sg>$ ^survey<n><sg>$^,<cm>$ ^and<cnjcoo>$ ^many<prn><tn><mf><pl>$ ^of<pr>$ ^those who<rel><nn><mf><pl>$ ^do<vbdo><pres>$ ^remain<vblex><inf>$ ^now<adv>$ ^live<vblex><inf>$ ^in<pr>$ ^heavily<adv>$ ^*guarded$ ^*enclaves$^.<sent>$^.<sent>$[][
+<\/p>
+<a name="Presidents"><\/a><h2>]^President<n><pl>$^.<sent>$[][<\/h2><ul>
+<li><a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$^.<sent>$[][<\/a><\/li>
+<\/ul>
+<a name="Prime_Ministers"><\/a><h2>]^Prime<adj>$ ^Minister<n><pl>$^.<sent>$[][<\/h2><ul>
+<li><a href='Bajram Rexhepi'>]^*Bajram$ ^*Rexhepi$^.<sent>$[][<\/a><\/li>
+<\/ul>
+<p><a href=''><\/a><\/p>
+<ul>
+<li><a href='Bajram Kosumi'>]^*Bajram$ ^*Kosumi$^.<sent>$[][<\/a><\/li>
+<\/ul>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><ul>
 <li><a href='Assembly of Kosovo'>]^Assembly<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
