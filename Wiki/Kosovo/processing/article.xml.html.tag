@@ -374,6 +374,7 @@
 ]|^title<vblex><pres>$ = ^Geographic<adj>$ ^*locale$[
 ]|^list<n><sg>$[  ]=[
 
+]{{^Autonomous<adj>$ ^Province<n><pl>$ ^of<pr>$ ^*Serbia$}}[&lt;]^!<sent>$^-<guio>$^-<guio>$^As<preadv>$ ^long<adv>$ ^as<preadv>$ ^there<adv>$ ^have<vbhaver><pri><p3><sg>$ ^not<adv>$ ^be<vbser><pp>$ ^a<det><ind><sg>$ ^formal<adj>$ ^treaty<n><sg>$ ^with<pr>$ ^*Serbia$^-<guio>$^-<guio>$[&gt;
 ]}}[
 ]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<vblex><pres>$ = ^International<adj>$ ^membership<n><sg>$ ^and<cnjcoo>$ ^history<n><sg>$[

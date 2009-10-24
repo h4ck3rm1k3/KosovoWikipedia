@@ -374,6 +374,7 @@
 ]|^title/title<n><sg>/title<vblex><inf>/title<vblex><pres>$ = ^Geographic/Geographic<adj>$ ^locale/*locale$[
 ]|^list/list<n><sg>/list<vblex><inf>/list<vblex><pres>$[  ]=[
 
+]{{^Autonomous/Autonomous<adj>$ ^Provinces/Province<n><pl>$ ^of/of<pr>$ ^Serbia/*Serbia$}}[&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^As/As<preadv>/As<cnjadv>/As<pr>$ ^long/long<adv>/long<adj><sint>$ ^as/as<preadv>/as<cnjadv>/as<pr>$ ^there/there<adv>$ ^has/have<vbhaver><pri><p3><sg>/have<vblex><pri><p3><sg>$ ^not/not<adv>$ ^been/be<vbser><pp>$ ^a/a<det><ind><sg>$ ^formal/formal<adj>$ ^treaty/treaty<n><sg>$ ^with/with<pr>$ ^Serbia/*Serbia$^-/-<guio>$^-/-<guio>$[&gt;
 ]}}[
 ]{{^Template/Template<n><sg>$ ^group/group<n><sg>$[
 ]|^title/title<n><sg>/title<vblex><inf>/title<vblex><pres>$ = ^International/International<adj>$ ^membership/membership<n><sg>$ ^and/and<cnjcoo>$ ^history/history<n><sg>$[
