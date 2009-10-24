@@ -22,8 +22,8 @@
 ]|^common<adj>$_^name<n><sg>$[              ]= ^Kosovo<np><loc><sg>$[
 ]|^image<n><sg>$_^flag<n><sg>$[               ]= ^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^*svg$[
 ]|^image<n><sg>$_^coat<n><sg>$[               ]= ^Coat<n><sg>$_^of<pr>$_^arm<n><pl>$_^of<pr>$_^Kosovo<np><loc><sg>$^.<sent>$^*svg$[
-]|^image<n><sg>$_^map<n><sg>$ = ^Kosovo<np><loc><sg>$^-<guio>$^in<adv>$^-<guio>$^Europe<np><loc><sg>$^.<sent>$^*jpg$[
-]|^map<n><sg>$_^*caption$ = {{^map<n><sg>$_^*caption$|^location<n><sg>$_^*color$=^dark<adj><sint>$ ^green<adj><sint>$|^region<n><sg>$=[<a href='Europe'>]^Europe<np><loc><sg>$[<\/a>]|^region<n><sg>$_^*color$=^dark<adj><sint>$ ^grey<adj><sint>$}}[
+]|^image<n><sg>$_^map<n><sg>$ = ^Europe<np><loc><sg>$ ^location<n><sg>$ ^*KOS$^.<sent>$^*png$[
+]|^map<n><sg>$_^*caption$ = ^location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^in<pr>$ ^Europe<np><loc><sg>$[
 ]|^national<adj>$_^*motto$[           ]=[
 ]|^national<adj>$_^*anthem$[          ]=[
 ]|^official<adj>$_^language<n><pl>$[       ]=[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^,<cm>$[ <a href='Serbian language|Serbian'>]^*Serbian$ ^language<n><sg>$|^*Serbian$[<\/a>
