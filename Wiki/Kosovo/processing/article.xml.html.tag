@@ -108,15 +108,9 @@
 <p><br\/>
 ]^The<det><def><sp>$ ^number<n><sg>$ ^of<pr>$ ^non<adv>$^-<guio>$^Albanian<n><pl>$ ^have<vbhaver><pri><p3><sg>$ ^be<vbser><pp>$ ^further<adv>$ ^reduce<vblex><pp>$ ^since<pr>$ ^this<det><dem><sg>$ ^survey<n><sg>$ ^in<pr>$ ^2000<num>$^,<cm>$ ^and<cnjcoo>$ ^many<prn><tn><mf><pl>$ ^of<pr>$ ^those who<rel><nn><mf><pl>$ ^do<vbdo><pres>$ ^remain<vblex><inf>$ ^still<adv>$ ^live<vblex><inf>$ ^in<pr>$ ^*refugee$^-<guio>$^camp<n><pl>$^.<sent>$^.<sent>$[][<\/p>
 <a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><ul>
-<li><a href='Assembly of Kosovo'>]^Assembly<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Prime Minister of Kosovo'>]^Prime<adj>$ ^Minister<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='President of Kosovo'>]^President<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
-<li><a href='Post and Telecom of Kosovo'>]^Post<n><sg>$ ^and<cnjcoo>$ ^*Telecom$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Battle of Kosovo|Battle of Kosovo (1389)'>]^Battle<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Battle<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^1389<num>$^)<rpar>$^.<sent>$[][<\/a><\/li>
 <li>   
-<a href='National awakening and the birth of Albania'>]^National<adj>$ ^awaken<vblex><ger>$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^birth<n><sg>$ ^of<pr>$ ^*Albania$^.<sent>$[][<\/a><\/li>
-<li><a href='Unrest in Kosovo'>]^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^(<lpar>$^about<pr>$ ^the<det><def><sp>$ ^March<n><sg>$ ^2004<num>$ ^unrest<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
+<a href='Unrest in Kosovo'>]^Unrest<n><sg>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^(<lpar>$^about<pr>$ ^the<det><def><sp>$ ^March<n><sg>$ ^2004<num>$ ^unrest<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='Trafficking of women in and from Kosovo'>]^Trafficking<n><sg>$ ^of<pr>$ ^woman<n><pl>$ ^in<pr>$ ^and<cnjcoo>$ ^from<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
