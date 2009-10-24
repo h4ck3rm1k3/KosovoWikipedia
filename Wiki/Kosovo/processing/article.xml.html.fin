@@ -798,7 +798,8 @@
 <a name="Cities"><\/a><h2>]^City<n><pl>$^.$
 [][<\/h2><p><a href='Image:Prishtina maj 2005.jpg|thumb|200px|\[\[Prishtina'>]^Image<n><sg>$^:$
 ^*Prishtina$ ^*maj$ ^2005<num>$^.$
-^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^\[<lpar>$^\[<lpar>$^*Prishtina$[<\/a>]\/[<a href='Pristina'>]^*Pristina$[<\/a>]^\]<rpar>$^\]<rpar>$[
+^*jpg$|^thumb<n><sg>$|^200<num>$^*px$|^\[<lpar>$^\[<lpar>$^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>]^.$
+^\]<rpar>$^\]<rpar>$[
 ]^List<n><sg>$ ^of<pr>$ ^large<adj><sint><sup>$ ^city<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^(<lpar>$^with<pr>$ ^population<n><sg>$ ^figure<n><pl>$ ^in<pr>$ ^2006<num>$^)<rpar>$^:$
 [&lt;]^*ref$[&gt;]^*http$^:$
 \/\/^www.world-gazetteer.com<num>$\/^*wg$^.$
@@ -806,7 +807,7 @@
 ^*x$=[&amp;]^man<n><pl>$=^*gcis$[&amp;]^*lng$=^*en$[&amp;]^*dat$=^32<num>$[&amp;]^*srt$=^*npan$[&amp;]^*col$=^*aohdq$[&amp;]^*geo$=^-<guio>$^244<num>$[&lt;]\/^*ref$^.$
 [][&gt;<\/p>
 <ul>
-<li><a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='Pristina'>]^*Pristina$[<\/a> ]^(<lpar>$^262,686<num>$^)<rpar>$^.$
+<li><a href='Prishtina'>]^*Prishtina$[<\/a>]\/[<a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a> ]^(<lpar>$^562,686<num>$^)<rpar>$^.$
 [][<\/li>
 <li><a href='Prizreni'>]^*Prizreni$[<\/a>]\/[<a href='Prizren'>]^*Prizren$[<\/a> ]^(<lpar>$^165,227<num>$^)<rpar>$^.$
 [][<\/li>
