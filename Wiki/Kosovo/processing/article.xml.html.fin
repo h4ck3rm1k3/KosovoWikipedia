@@ -1282,12 +1282,12 @@
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='ga:An Chosaiv'>]^*ga$^:$
 ^A<det><ind><sg>$ ^*Chosaiv$[<\/a>
+<a href='gan:ç§ç´¢æ²'>]^*gan$^:$
+^*ç$§^*ç$´¢æ²[<\/a>
 <a href='gv:Kosovo'>]^*gv$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='gl:Kosovo'>]^*gl$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
-<a href='gan:ç§ç´¢æ²'>]^*gan$^:$
-^*ç$§^*ç$´¢æ²[<\/a>
 <a href='ko:ì½ìë³´'>]^*ko$^:$
 ^*ì$½^*ì$^*ë$³´[<\/a>
 <a href='hi:à¤à¥à¤¸à¥à¤µà¥'>]^*hi$^:$
@@ -1300,6 +1300,8 @@
 ^Kosovo<np><loc><sg>$[<\/a>
 <a href='id:Kosovo'>]^*id$^:$
 ^Kosovo<np><loc><sg>$[<\/a>
+<a href='os:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*os$^:$
+ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='is:KosÃ³vÃ³'>]^be<vbser><pri><p3><sg>$^:$
 ^*Kos$Ã³^*v$Ã³[<\/a>
 <a href='it:Kosovo'>]^prpers<prn><obj><p3><nt><sg>$^:$

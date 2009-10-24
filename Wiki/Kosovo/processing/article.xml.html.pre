@@ -327,15 +327,16 @@
 <a href='fr:Kosovo'>]^*fr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='fy:Kosovo'>]^*fy$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ga:An Chosaiv'>]^*ga$^:<sent>$^A<det><ind><sg>$ ^*Chosaiv$[<\/a>
+<a href='gan:ç§ç´¢æ²'>]^*gan$^:<sent>$^*ç$§^*ç$´¢æ²[<\/a>
 <a href='gv:Kosovo'>]^*gv$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='gl:Kosovo'>]^*gl$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='gan:ç§ç´¢æ²'>]^*gan$^:<sent>$^*ç$§^*ç$´¢æ²[<\/a>
 <a href='ko:ì½ìë³´'>]^*ko$^:<sent>$^*ì$½^*ì$^*ë$³´[<\/a>
 <a href='hi:à¤à¥à¤¸à¥à¤µà¥'>]^*hi$^:<sent>$^*à$¤^*à$¥^*à$¤¸^*à$¥^*à$¤µ^*à$¥[<\/a>
 <a href='hsb:Kosovo'>]^*hsb$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='hr:Kosovo'>]^*hr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='io:Kosovo'>]^*io$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='id:Kosovo'>]^*id$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
+<a href='os:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^*os$^:<sent>$ÐÐ¾^*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='is:KosÃ³vÃ³'>]^be<vbser><pri><p3><sg>$^:<sent>$^*Kos$Ã³^*v$Ã³[<\/a>
 <a href='it:Kosovo'>]^prpers<prn><obj><p3><nt><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='he:×§××¡×××'>]^prpers<prn><subj><p3><m><sg>$^:<sent>$×§××^¡<lquest>$×××[<\/a>
