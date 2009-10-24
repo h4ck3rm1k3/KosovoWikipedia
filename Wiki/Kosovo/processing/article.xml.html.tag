@@ -288,7 +288,8 @@
 <p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$[&gt;
 <a href='Category:Kosovo| '>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$|[ <\/a>
 <a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
-<a href='Category:Unrecognized or largely-unrecognized states'>]^Category<n><sg>$^:<sent>$^*Unrecognized$ ^or<cnjcoo>$ ^largely<adv>$^-<guio>$^*unrecognized$ ^state<n><pl>$^.<sent>$[][<\/a><\/p>
+<a href='Category:Unrecognized or largely-unrecognized states'>]^Category<n><sg>$^:<sent>$^*Unrecognized$ ^or<cnjcoo>$ ^largely<adv>$^-<guio>$^*unrecognized$ ^state<n><pl>$[<\/a>
+<a href='Category:Proposed countries'>]^Category<n><sg>$^:<sent>$^Propose<vblex><pp>$ ^country<n><pl>$^.<sent>$[][<\/a><\/p>
 <p><a href='af:Kosovo'>]^*af$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='als:Kosovo'>]^*als$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ang:Kosovo'>]^*ang$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
