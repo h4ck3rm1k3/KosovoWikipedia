@@ -240,6 +240,7 @@ UN to decide Kosovo's fate as talks end deadlocked'>]^19<num>$[<\/a> ]"^,<cm>$[ 
 <li><a href='Metohija'>]^*Metohija$^.<sent>$[][<\/a><\/li>
 <li><a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Flag of Kosovo'>]^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
+<li><a href='Vidovdan'>]^*Vidovdan$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 ]}}^.<sent>$[][<\/p>
