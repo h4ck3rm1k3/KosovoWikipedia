@@ -10,7 +10,8 @@
 <body>
     <h1><\/h1>
 <p>]{{^POV<n><acr><sg>$}}[
-]{| |+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosova$[<\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosova$[<\/strong>&lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$\/[&gt;<strong>]^*Kosov$Ã«[<\/strong>&lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$\/[&gt;]^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohia$[&lt;]\/^big<adj><sint>$[&gt;
+]{|[ 
+]|+[&lt;]^big<adj><sint>$[&gt;&lt;]^big<adj><sint>$[&gt;<strong>]ÐÐ¾^*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^*Ñ$Ð¾^*Ñ$Ð¸^*Ñ$Ð°[<\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosova$[<\/strong>&lt;]^*br$\/[&gt;<strong>]^*Kosova$[<\/strong>&lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$\/[&gt;<strong>]^*Kosov$Ã«[<\/strong>&lt;]\/^big<adj><sint>$[&gt;&lt;]^*br$\/[&gt;]^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^*Metohia$[&lt;]\/^big<adj><sint>$[&gt;
 ]|^-<guio>$[
 ]| ^*align$=^centre<n><sg>$ |[ <a href='Image:SerbiaMontenegro-Kosova2.png'>]^Image<n><sg>$^:$
 ^*SerbiaMontenegro$^-<guio>$^*Kosova$^2<num>$^.$
