@@ -252,7 +252,16 @@
 <p><br\/><\/p>
 <p><br\/>
 <\/p>
-<a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><p>&lt;]^*div$ ^style<n><sg>$="^-<guio>$^*moz$^-<guio>$^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^4<num>$^;<sent>$ ^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^4<num>$^;<sent>$"^.<sent>$[][&gt;<\/p>
+<a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><a name="Further_reading"><\/a><h2>]^Far<adj><sint><comp>$ ^reading<n><sg>$^.<sent>$[][<\/h2><p>]{{^cite<vblex><pres>$ ^book<n><sg>$^.<sent>$[][<\/p>
+
+<pre>]| ^last<det><ord><sp>$ = ^Malcolm<np><ant><m><sg>$[
+ ]| ^first<det><ord><sp>$ = ^Noel<np><ant><m><sg>$[
+ ]| ^*authorlink$ = ^Noel<np><ant><m><sg>$ ^Malcolm<np><ant><m><sg>$[
+ ]| ^title<vblex><pres>$ = ^Kosovo<np><loc><sg>$^:<sent>$ ^A<det><ind><sg>$ ^Short<adj><sint>$ ^History<n><sg>$[
+ ]| ^publisher<n><sg>$ =[ <a href='Harper Perennial'>]^*Harper$ ^*Perennial$[<\/a>
+ ]| ^year<n><sg>$ = ^1999<num>$[
+ ]| ^*isbn$ = ^0060977752<num>$ }}^.<sent>$[][
+<\/pre><a name="See_also"><\/a><h2>]^See<vblex><pres>$ ^also<adv>$^.<sent>$[][<\/h2><p>&lt;]^*div$ ^style<n><sg>$="^-<guio>$^*moz$^-<guio>$^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^4<num>$^;<sent>$ ^column<n><sg>$^-<guio>$^count<vblex><inf>$^:<sent>$^4<num>$^;<sent>$"^.<sent>$[][&gt;<\/p>
 <ul>
 <li><a href='Assembly of Kosovo'>]^Assembly<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
