@@ -106,7 +106,8 @@
 <li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ A collection of photos from Kosovo'>]^4<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
-]===^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$===^.<sent>$[][<\/p>
+]^*http$^:<sent>$\/\/^*p$^083<num>$^.<sent>$^*ezboard$^.<sent>$^*com$\/^*fbalkansfrm$^35<num>$ ^(<lpar>$^Kosovo<np><loc><sg>$ ^Forum<n><sg>$^)<rpar>$^.<sent>$[][<\/p>
+<p>]===^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$===^.<sent>$[][<\/p>
 <ul>
 <li>  
 <a href='http:\/\/www.assembly-kosova.org\/ Assembly of Kosovo'>]^5<num>$^.<sent>$[][<\/a><\/li>
