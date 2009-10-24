@@ -133,7 +133,55 @@
 ]^*UNMIK$ ^introduce<vblex><past>$[ <em>]^*de$^-<guio>$^*facto$[<\/em> ]^a<det><ind><sg>$ ^external<adj>$ ^trade<n><sg>$ ^*regime$ ^and<cnjcoo>$ ^customs<n><pl>$ ^administration<n><sg>$ ^on<pr>$ ^September<n><sg>$ ^3<num>$^,<cm>$ ^1999<num>$ ^when<adv><itg>$ ^prpers<prn><obj><p3><nt><sg>$ ^set<vblex><pp>$ ^customs<n><pl>$ ^border<n><sg>$ ^control<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$ ^All<predet><sp>$ ^good<n><pl>$ ^import<vblex><pp>$ ^in<pr>$ ^Kosovo<np><loc><sg>$ ^face<vblex><pres>$ ^a<det><ind><sg>$ ^flat<n><sg>$ ^10%<num><percent>$ ^customs<n><pl>$ ^duty<n><sg>$ ^fee<n><sg>$^.<sent>$[<a href='http:\/\/www.buyusa.gov\/kosovo\/en\/doingbusinessinkosovo.html'>]^8<num>$[<\/a> ]^This<det><dem><pl>$ ^tax<n><pl>$ ^be<vbser><pres>$ ^collect<vblex><pp>$ ^from<pr>$ ^all<predet><sp>$ ^Tax<n><sg>$ ^Collection<n><sg>$ ^Point<n><pl>$ ^install<vblex><pp>$ ^at<pr>$ ^the<det><def><sp>$ ^border<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^include<vblex><ger>$ ^that<prn><tn><mf><pl>$ ^between<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$[  ]^*Serbia$^.<sent>$[<a href='http:\/\/www.seerecon.org\/kosovo\/documents\/wb_econ_report\/wb-kosovo-econreport-2-2.pdf'>]^9<num>$[<\/a>]^.<sent>$ ^*UNMIK$ ^and<cnjcoo>$ ^Kosovo<np><loc><sg>$ ^institution<n><pl>$ ^have<vbhaver><inf>$ ^sign<vblex><pp>$ ^Free<adj><sint>$ ^Trade<n><sg>$ ^Agreement<n><pl>$ ^with<pr>$[ <a href='Bosnia and Hercegovina'>]^Bosnia<np><loc><sg>$ ^and<cnjcoo>$ ^*Hercegovina$[<\/a><a href='http:\/\/www.euinkosovo.org\/upload_press\/4.06%20-%20UNMIK%20and%20Bosnia%20and%20Herzegovina%20Initial%20Free%20Trade%20Agreement%2017.2.06.pdf'>]^10<num>$[<\/a>]^,<cm>$[ <a href='Albania'>]^*Albania$[<\/a><a href='http:\/\/www.kosovo-eicc.org\/oek\/index.php?page_id=64'>]^11<num>$[<\/a> ]^and<cnjcoo>$[ <a href='Macedonia'>]^Macedonia<np><ant><f><sg>$[<\/a><a href='http:\/\/www.buyusa.gov\/kosovo\/en\/doingbusinessinkosovo.html'>]^12<num>$[<\/a>]^.<sent>$^.<sent>$[][<\/p>
 <p> 
 ]^The<det><def><sp>$[ <a href='Euro'>]^Euro<n><sg>$[<\/a> ]^be<vbser><pri><p3><sg>$ ^the<det><def><sp>$ ^official<adj>$ ^currency<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^and<cnjcoo>$ ^use<vblex><pp>$ ^by<pr>$ ^*UNMIK$ ^and<cnjcoo>$ ^the<det><def><sp>$ ^government<n><sg>$ ^body<n><pl>$[<a href='http:\/\/www.euinkosovo.org\/uk\/invest\/invest.php'>]^13<num>$[<\/a>]^.<sent>$ ^The<det><def><sp>$ ^*Serbian$[ <a href='Dinar'>]^*Dinar$[<\/a> ]^be<vbser><pri><p3><sg>$ ^use<vblex><pp>$ ^in<pr>$ ^the<det><def><sp>$ ^*Serbian$ ^populate<vblex><pp>$ ^part<n><pl>$^.<sent>$^.<sent>$[][<\/p>
-<a name="Demographics"><\/a><h2>]^*Demographics$^.<sent>$[][<\/h2><p>]^According to<pr>$ ^the<det><def><sp>$ ^2000<num>$ ^Living<adj>$ ^Standard<adj>$ ^Measurement<n><sg>$ ^Survey<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Statistical<adj>$ ^Office<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<a href='http:\/\/www.sok-kosovo.org\/pdf\/population\/Kosovo_population.pdf'>]^14<num>$[<\/a>]^,<cm>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^total<adj>$ ^population<n><sg>$ ^be<vbser><pri><p3><sg>$ ^estimate<vblex><pp>$ ^between<pr>$ ^1,8<num>$ ^and<cnjcoo>$ ^2,0<num>$ ^million<num><sp>$ ^in<pr>$ ^the<det><def><sp>$ ^follow<vblex><ger>$ ^ethnic<adj>$ ^proportion<n><pl>$^:<sent>$^.<sent>$[][<\/p>
+<a name="Demographics"><\/a><h2>]^*Demographics$^.<sent>$[][<\/h2><p>]{|[
+]|^*colspan$="^4<num>$" ^*align$=^centre<n><sg>$ ^style<n><sg>$="^background<n><sg>$^:<sent>$#^778899<num>$^;<sent>$ ^*color$^:<sent>$^white<adj><sint>$"|[<strong>]^Ethnic<adj>$ ^group<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$[<\/strong>
+]|^-<guio>$ ^*bgcolor$="#^*FFEBCD$"[
+]^!<sent>$^Year<n><sg>$[
+]^!<sent>$^Albanian<n><pl>$[
+]^!<sent>$^*Serbs$[&lt;]^small<adj><sint>$[&gt;&lt;]^*sup$[&gt;]^(<lpar>$^1<num>$^.<sent>$^)<rpar>$[&lt;]\/^*sup$[&gt;&lt;]\/^small<adj><sint>$[&gt;
+]^!<sent>$^Others<prn><tn><mf><pl>$[
+]|^-<guio>$[
+]|^-<guio>$ ^*bgcolor$="#^*f$^5<num>$^*f$^5<num>$^*f$^5<num>$"[
+]|[<strong>]^1948<num>$[<\/strong>
+]| ^*align$="^right<adj>$" |^68<num>$[&amp;]^*nbsp$^;<sent>$%[
+]| ^*align$="^right<adj>$" |^24<num>$[&amp;]^*nbsp$^;<sent>$%[
+]| ^*align$="^right<adj>$" |^8<num>$[&amp;]^*nbsp$^;<sent>$%[
+]|^-<guio>$[
+]|^-<guio>$ ^*bgcolor$="#^*fffaf$^0<num>$"[
+]|[<strong>]^1971<num>$[<\/strong>
+]| ^*align$="^right<adj>$" |^74<num>$[&amp;]^*nbsp$^;<sent>$%[
+]| ^*align$="^right<adj>$" |^18<num>$[&amp;]^*nbsp$^;<sent>$%[
+]| ^*align$="^right<adj>$" |^8<num>$[&amp;]^*nbsp$^;<sent>$%[
+]|^-<guio>$[
+]|^-<guio>$ ^*bgcolor$="#^*f$^5<num>$^*f$^5<num>$^*f$^5<num>$"[
+]|[<strong>]^1981<num>$[<\/strong>
+]| ^*align$="^right<adj>$" |^77<num>$[&amp;]^*nbsp$^;<sent>$%[
+]| ^*align$="^right<adj>$" |^13<num>$[&amp;]^*nbsp$^;<sent>$%[
+]| ^*align$="^right<adj>$" |^9<num>$[&amp;]^*nbsp$^;<sent>$%[
+]|^-<guio>$[
+]|^-<guio>$ ^*bgcolor$="#^*fffaf$^0<num>$"[ 
+]|[<strong>]^1991<num>$[<\/strong> 
+]| ^*align$="^right<adj>$" |^82<num>$[&amp;]^*nbsp$^;<sent>$%[
+]| ^*align$="^right<adj>$" |^7<num>$[&amp;]^*nbsp$^;<sent>$%[
+]| ^*align$="^right<adj>$" |^5<num>$[&amp;]^*nbsp$^;<sent>$%[
+]|^-<guio>$[
+]|^-<guio>$ ^*bgcolor$="#^*f$^5<num>$^*f$^5<num>$^*f$^5<num>$"[
+]|[<strong>]^2000<num>$[&lt;]^small<adj><sint>$[&gt;&lt;]^*sup$[&gt;]^(<lpar>$^2<num>$^.<sent>$^)<rpar>$[&lt;]\/^*sup$[&gt;&lt;]\/^small<adj><sint>$[&gt;<\/strong> 
+]| ^*align$="^right<n><sg>$" |^88<num>$[&amp;]^*nbsp$^;<sent>$%[
+]| ^*align$="^right<adj>$" |^7<num>$[&amp;]^*nbsp$^;<sent>$%[
+]| ^*align$="^right<adj>$" |^5<num>$[&amp;]^*nbsp$^;<sent>$%[
+]|^-<guio>$[
+]|^-<guio>$ ^*bgcolor$="#^*fffaf$^0<num>$"[ 
+]|[<strong>]^2005<num>$[&lt;]^small<adj><sint>$[&gt;&lt;]^*sup$[&gt;]^(<lpar>$^2<num>$^.<sent>$^)<rpar>$[&lt;]\/^*sup$[&gt;&lt;]\/^small<adj><sint>$[&gt;<\/strong> 
+]| ^*align$="^right<n><sg>$" |^92<num>$[&amp;]^*nbsp$^;<sent>$%[
+]| ^*align$="^right<adj>$" |^4<num>$[&amp;]^*nbsp$^;<sent>$%[
+]| ^*align$="^right<adj>$" |^4<num>$[&amp;]^*nbsp$^;<sent>$%[
+]|^-<guio>$[
+]|^-<guio>$ ^*bgcolor$=#^*dcdcdc$[
+]|^*colspan$="^4<num>$"|[&lt;]^small<adj><sint>$[&gt;]^(<lpar>$^1<num>$^.<sent>$^)<rpar>$ ^include<vblex><ger>$[  <a href='Montenegrins'>]^*Montenegrins$[<\/a> &lt;]^*br$[&gt;]^(<lpar>$^2<num>$^.<sent>$^)<rpar>$[ <em>]^estimate<vblex><pp>$ ^data<n><sg>$[<\/em> <em>]^*Ref$^:<sent>$ ^Statistical<adj>$ ^Office<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/em>]^,<cm>$[&lt;]^*br$[&gt;<em>]^World<adj>$ ^Bank<n><sg>$ ^(<lpar>$^2000<num>$^)<rpar>$[<\/em>]^,<cm>$ ^'<apos>$^'<apos>$^*OSCE$ ^(<lpar>$^2005<num>$^)<rpar>$[&lt;]\/^small<adj><sint>$[&gt;  
+]|^-<guio>$[
+]|}[
+]^According to<pr>$ ^the<det><def><sp>$ ^2000<num>$ ^Living<adj>$ ^Standard<adj>$ ^Measurement<n><sg>$ ^Survey<n><sg>$ ^of<pr>$ ^the<det><def><sp>$ ^Statistical<adj>$ ^Office<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<a href='http:\/\/www.sok-kosovo.org\/pdf\/population\/Kosovo_population.pdf'>]^14<num>$[<\/a>]^,<cm>$ ^Kosovo<np><loc><sg>$^'s<gen>$ ^total<adj>$ ^population<n><sg>$ ^be<vbser><pri><p3><sg>$ ^estimate<vblex><pp>$ ^between<pr>$ ^1,8<num>$ ^and<cnjcoo>$ ^2,0<num>$ ^million<num><sp>$ ^in<pr>$ ^the<det><def><sp>$ ^follow<vblex><ger>$ ^ethnic<adj>$ ^proportion<n><pl>$^:<sent>$^.<sent>$[][<\/p>
 <ul>
 <li><em>]^88%<num><percent>$[<\/em> <a href='Albanians'>]^Albanian<n><pl>$[<\/a> ]^(<lpar>$^between<pr>$ ^1,584<num>$^,<cm>$^000<num>$ ^and<cnjcoo>$ ^1,733<num>$^,<cm>$^600<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
