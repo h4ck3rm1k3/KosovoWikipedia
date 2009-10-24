@@ -20,7 +20,7 @@
 ]|^conventional<adj>$_^long<adj><sint>$_^name<n><sg>$[   ]= ^Republic<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[ 
 ]|^common<adj>$_^name<n><sg>$[                 ]= ^Kosovo<np><loc><sg>$[
 ]|^image<n><sg>$_^flag<n><sg>$[                  ]= ^Flag<n><sg>$_^of<pr>$_^Kosovo<np><loc><sg>$^.<sent>$^*svg$[
-]|^image<n><sg>$_^coat<n><sg>$[                  ]= ^Coat<n><sg>$ ^of<pr>$ ^Arm<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^*svg$[
+]|^image<n><sg>$_^coat<n><sg>$[                  ]= ^New<adj><sint>$ ^coat<n><sg>$ ^of<pr>$ ^arm<n><pl>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$^*svg$[
 ]|^image<n><sg>$_^map<n><sg>$[                  ]= ^Europe<np><loc><sg>$_^location<n><sg>$_^*KOS$^.<sent>$^*png$[
 ]|^map<n><sg>$_^*caption$[                ]= |^map<n><sg>$_^*caption$ = ^Location<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$ ^on<pr>$[ <a href='Europe|European continent'>]^the<det><def><sp>$ ^Europe<np><loc><sg>$|^European<adj>$ ^continent<n><sg>$[<\/a>
 ]|^national<adj>$_^*motto$[              ]=[ 
