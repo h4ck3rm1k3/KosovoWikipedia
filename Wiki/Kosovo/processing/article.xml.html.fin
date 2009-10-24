@@ -312,7 +312,7 @@
 \/\/^www.unhcr.org<num>$\/^partner<n><pl>$\/^PARTNER<n><pl>$\/^3<num>$^*bb$^051<num>$^*c$^54<num>$^.$
 ^*pdf$|^title<n><sg>$=^NATO<n><acr><sg>$ ^and<cnjcoo>$ ^Humanitarian<adj>$ ^Action<n><sg>$ ^in<pr>$ ^the<det><def><sp>$ ^Kosovo<np><loc><sg>$ ^Crisis<n><sg>$|^author<n><sg>$=^Larry<np><ant><m><sg>$ ^*Minear$^,<cm>$ ^*Ted$ ^van<n><sg>$ ^*Baarda$^,<cm>$ ^Marc<np><ant><m><sg>$ ^*Sommers$|^year<n><sg>$=^2000<num>$|^publisher<n><sg>$=[<a href='Brown University'>]^Brown<adj>$ ^University<adj>$[<\/a>]}}[&lt;]\/^*ref$[&gt;
 ]^During<pr>$ ^the<det><def><sp>$ ^conflict<n><sg>$ ^roughly<adv>$ ^a million<num><sp>$ ^ethnic<adj>$ ^Albanian<n><pl>$ ^flee<vblex><pp>$ ^or<cnjcoo>$ ^be<vbser><past>$ ^*forcefully$ ^drive<vblex><pp>$ ^from<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^*Altogether$^,<cm>$ ^more<preadv>$ ^than<cnjcoo>$ ^11,000<num>$ ^death<n><pl>$ ^have<vbhaver><inf>$ ^be<vbser><pp>$ ^report<vblex><pp>$ ^to<pr>$ ^Carla<np><ant><f><sg>$ ^*Del$ ^*Ponte$ ^by<pr>$ ^her<det><pos><sp>$ ^*prosecutors$^.$
-[&lt;]^*ref$ ^name<n><sg>$="^BBC<n><acr><sg>$"[&gt;]{{^*http$^:$
+[&lt;]^*ref$ ^name<n><sg>$="^BBC<n><acr><sg>$"[&gt;]{{^cite<vblex><pres>$ ^news<n><sg>$| ^*url$=^*http$^:$
 \/\/^news<n><sg>$^.$
 ^*bbc$^.$
 ^*co$^.$
