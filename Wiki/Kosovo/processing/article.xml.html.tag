@@ -98,11 +98,15 @@
 <li><a href='http:\/\/www.lib.utexas.edu\/maps\/kosovo.html Kosovo maps from the Perry-CastaÃ±eda Library Map Collection'>]^3<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.chmouel.com\/geeklog\/gallery\/gallery_individual.php\/mkosovo\/ A collection of photos from Kosovo'>]^4<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
-
-<pre>
-<\/pre><a name="Pro-Albanian"><\/a><h3>]^*Pro$^-<guio>$^Albanian<n><sg>$^.<sent>$[][<\/h3><ul>
-<li><a href='http:\/\/www.assembly-kosova.org\/ Kosovo Assembly'>]^5<num>$^.<sent>$[][<\/a><\/li>
+<p><br\/>
+<\/p>
+<a name="Provisional_Institutions_of_Self-Government"><\/a><h3>]^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$^.<sent>$[][<\/h3><ul>
+<li><a href='http:\/\/www.assembly-kosova.org\/ Assembly of Kosovo'>]^5<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.pm-ksgov.net\/ Kosovo Prime Minister'>]^6<num>$^.<sent>$[][<\/a><\/li>
+<\/ul>
+<p><br\/>
+<\/p>
+<a name="Pro-Albanian"><\/a><h3>]^*Pro$^-<guio>$^Albanian<n><sg>$^.<sent>$[][<\/h3><ul>
 <li><a href='http:\/\/www.kosova.com Kosova Information Center (in Albanian)'>]^7<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.kosovapress.com Kosovapress - Kosovo news agency'>]^8<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/beqiraj.com\/kosova\/de\/ General information from Beqiraj.com'>]^9<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^German<adj>$^)<rpar>$^.<sent>$[][<\/li>
