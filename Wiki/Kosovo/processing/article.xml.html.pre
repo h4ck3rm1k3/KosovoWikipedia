@@ -16,10 +16,10 @@
 ]| {{^*Serbia$ ^and<cnjcoo>$ ^Montenegro<np><loc><sg>$ ^2<num>$}}[
 ]|^-<guio>$[
 ]|[ <a href='Official language'>]^Official<adj>$ ^language<n><sg>$[<\/a>
-]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>]^\]<rpar>$[
+]|[ <a href='Albanian language|Albanian'>]^Albanian<adj>$ ^language<n><sg>$|^Albanian<n><sg>$[<\/a>
 ]|^-<guio>$[
-]|[ <a href='Capital'>]^Capital<adj>$[<\/a>
-]|[ <a href='PriÅ¡tina'>]^*Pri$Å^¡<lquest>$^*tina$[<\/a>
+]|[ <a href='Capital'>]^Capital<n><sg>$[<\/a>
+]|[ <a href='Prishtina'>]^*Prishtina$[<\/a>
 ]|^-<guio>$[
 ]| ^*Transitional$[ <a href='President'>]^President<n><sg>$[<\/a>
 ]|[ <a href='Ibrahim Rugova'>]^Ibrahim<np><ant><m><sg>$ ^*Rugova$[<\/a>
