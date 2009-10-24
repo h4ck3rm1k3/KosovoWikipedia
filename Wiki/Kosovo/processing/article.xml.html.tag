@@ -228,6 +228,7 @@
 <li><a href='http:\/\/www.alb-net.com\/index.htm Kosovo Crisis Center'>]^34<num>$[<\/a> ]^A<det><ind><sg>$ ^collection<n><sg>$ ^of<pr>$ ^article<n><pl>$ ^on<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.aacl.com\/indexmain.html AACL'>]^35<num>$[<\/a> ]^Albanian<adj>$ ^American<adj>$ ^Civic<adj>$ ^League<n><sg>$^.<sent>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.kosovalive.com\/?cid=2 KosovaLive'>]^36<num>$[<\/a> ]^Kosovo<np><loc><sg>$ ^Albanian<adj>$ ^independent<adj>$ ^news<n><sg>$ ^agency<n><sg>$ ^(<lpar>$^this<det><dem><sg>$ ^section<n><sg>$ ^in<pr>$[ <a href='English language|English'>]^English<adj>$ ^language<n><sg>$|^English<adj>$[<\/a>]^)<rpar>$^.<sent>$^.<sent>$[][<\/li>
+<li>]^\[<lpar>$ ^*http$^:<sent>$\/\/^www.hrw.org<num>$\/^report<n><pl>$\/^2001<num>$\/^*kosovo$\/^\]<rpar>$[ <strong>]^War<n><sg>$ ^Crime<n><pl>$ ^in<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/strong><\/li>
 <\/ul>
 <p><br\/>
 <\/p>
