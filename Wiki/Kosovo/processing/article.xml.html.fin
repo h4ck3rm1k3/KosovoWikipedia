@@ -577,9 +577,9 @@
 ^*font$^-<guio>$^size<n><sg>$^:$
 ^170%<num><percent>$^;$
 ^left<adv>$^:$
-^274<num>$^*px$^;$
+^410<num>$^*px$^;$
 ^top<adj>$^:$
-^200<num>$^*px$"[&gt;<strong><a href='Gnjilane|Gjilan'>]^*Gnjilane$|^*Gjilan$[<\/a><\/strong>&lt;]\/^*div$[&gt;
+^340<num>$^*px$"[&gt;<strong><a href='Gnjilane|Gjilan'>]^*Gnjilane$|^*Gjilan$[<\/a><\/strong>&lt;]\/^*div$[&gt;
 &lt;]^*div$ ^style<n><sg>$="^position<n><sg>$^:$
  ^absolute<adj>$^;$
 ^*font$^-<guio>$^size<n><sg>$^:$
