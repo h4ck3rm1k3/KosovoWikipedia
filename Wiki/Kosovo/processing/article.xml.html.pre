@@ -241,8 +241,7 @@
 <li><a href='North Kosovo'>]^North<adj><sint>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <li><a href='Flag of Kosovo'>]^Flag<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
-<p>]\\[
-&lt;]\/^*div$^.<sent>$[][&gt;<\/p>
+<p>&lt;]\/^*div$^.<sent>$[][&gt;<\/p>
 <a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><a name="External_links"><\/a><h2>]^External<adj>$ ^link<n><pl>$^.<sent>$[][<\/h2><p>]{{^*sisterlinks$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/p>
 <ul>
 <li><a href='http:\/\/www.newkosovareport.com New Kosova Report - Kosovo News and Views Portal'>]^19<num>$^.<sent>$[][<\/a><\/li>
