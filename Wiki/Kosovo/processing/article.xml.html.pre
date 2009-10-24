@@ -153,7 +153,6 @@
 <li><em>]^North<adj><sint>$ ^City<n><sg>$ ^Jazz<n><sg>$[ &amp; ]^*Blues$ ^festival<n><sg>$[<\/em>]^,<cm>$ ^a<det><ind><sg>$ ^international<adj>$[ <a href='music festival'>]^music<n><sg>$ ^festival<n><sg>$[<\/a> ]^hold<vblex><past>$ ^annually<adv>$ ^in<pr>$[ <a href='ZveÄan'>]^*ZveÄ$^a<det><ind><sg>$[<\/a> ]^(<lpar>${{^*lang$^-<guio>$^*sq$|^*Zve$Ã§^*ani$}}^)<rpar>$^,<cm>$ ^near<pr>$ ^*Kosovska$ ^*Mitrovica$^,<cm>$^.<sent>$[][<\/li>
 <\/ul>
 <p>]^Kosovo<np><loc><sg>$ ^*Radiotelevisions$ ^like<pr>$[ <em>]^*RTK$[<\/em>]^,<cm>$[ <em>]^21<num>$[<\/em> ]^and<cnjcoo>$[ <em>]^*KTV$[<\/em> ]^have<vblex><pres>$ ^their<det><pos><sp>$ ^musical<adj>$ ^chart<n><pl>$^.<sent>$^.<sent>$[][<\/p>
-<a name="Movie-makers"><\/a><h3>]^Movie<n><sg>$^-<guio>$^maker<n><pl>$^.<sent>$[][<\/h3><p>]^In<pr>$ ^Belgium<np><loc><sg>$^,<cm>$ ^Brussels<np><loc><sg>$^,<cm>$ ^the<det><def><sp>$ ^ethnic<adj>$ ^Albanian<adj>$ ^movie<n><sg>$ ^maker<n><sg>$ ^from<pr>$ ^Kosovo<np><loc><sg>$^,<cm>$ ^*Shelbatra$ ^*Jashari$^,<cm>$ ^rock<n><pl>$ ^the<det><def><sp>$ ^alternative<adj>$ ^movie<n><sg>$ ^scene<n><sg>$^.<sent>$^.<sent>$[][<\/p>
 <a name="Gallery"><\/a><h2>]^Gallery<n><sg>$^.<sent>$[][<\/h2><p>&lt;]^gallery<n><sg>$[&gt;
 ]^Image<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$_^government<n><sg>$^.<sent>$^*jpg$|^The<det><def><sp>$ ^building<n><sg>$ ^of<pr>$ ^the<det><def><sp>$[ <a href='Government of Kosovo'>]^Government<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$[<\/a> ]^in<pr>$ ^*Pri$Å^¡<lquest>$^*tina$^.<sent>$[
 ]^Image<n><sg>$^:<sent>$^*Prizen$ ^*kosovo$^.<sent>$^*jpg$|^*Prizren$^.<sent>$[
