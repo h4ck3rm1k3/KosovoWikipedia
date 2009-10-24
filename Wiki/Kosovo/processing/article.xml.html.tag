@@ -178,6 +178,7 @@
 <a href='nl:Kosovo'>]^*nl$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='nds:Kosovo'>]^*nds$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='ja:&amp;#12467;&amp;#12477;&amp;#12508;'>]^*ja$^:<sent>$[&amp;]#^12467<num>$^;<sent>$[&amp;]#^12477<num>$^;<sent>$[&amp;]#^12508<num>$^;<sent>$[<\/a>
+<a href='mk:&amp;#1050;&amp;#1086;&amp;#1089;&amp;#1086;&amp;#1074;&amp;#1086;'>]^*mk$^:<sent>$[&amp;]#^1050<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[&amp;]#^1089<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[&amp;]#^1074<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[<\/a>
 <a href='pl:Kosowo i Metohija'>]^*pl$^:<sent>$^*Kosowo$ ^*i$ ^*Metohija$[<\/a>
 <a href='ru:&amp;#1050;&amp;#1086;&amp;#1089;&amp;#1086;&amp;#1074;&amp;#1086;'>]^*ru$^:<sent>$[&amp;]#^1050<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[&amp;]#^1089<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[&amp;]#^1074<num>$^;<sent>$[&amp;]#^1086<num>$^;<sent>$[<\/a>
 <a href='sq:Kosova'>]^*sq$^:<sent>$^*Kosova$[<\/a>
