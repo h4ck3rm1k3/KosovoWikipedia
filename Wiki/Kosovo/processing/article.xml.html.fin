@@ -73,7 +73,8 @@
 ]|^time<n><sg>$_^zone<n><sg>$_^DST<n><acr><sg>$[      ]=[ <a href='Central European Summer Time|CEST'>]^Central<adj>$ ^European<adj>$ ^Summer<n><sg>$ ^Time<n><sg>$|^*CEST$[<\/a>
 ]|^*utc$_^*offset$_^DST<n><acr><sg>$[     ]= +^2<num>$[
 ]|^*cctld$[              ]=[ <em>]^None<prn><tn><nt><sg>$ ^assign<vblex><past>$[<\/em>
-]|^call<vblex><ger>$_^code<n><sg>$[       ]= ^381<num>$[
+]|^call<vblex><ger>$_^code<n><sg>$[       ]= ^381<num>${{^!$
+}}^381<num>$[
 ]|^*footnote$^1<num>$ = ^The<det><def><sp>$ ^*census$ ^be<vbser><pri><p3><sg>$ ^a<det><ind><sg>$ ^reconstruction<n><sg>$^;$
  ^most of<det><qnt><sp>$ ^the<det><def><sp>$ ^ethnic<adj>$ ^Albanian<adj>$ ^majority<n><sg>$ ^boycott<vblex><past>$^.$
 [
