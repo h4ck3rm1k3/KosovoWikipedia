@@ -186,7 +186,7 @@
 <li><a href='Gjakova'>]^*Gjakova$[<\/a> ]^:<sent>$ ^127,156<num>$^.<sent>$[][<\/li>
 <li><a href='Peja'>]^*Peja$[<\/a> ]^:<sent>$ ^195,190<num>$^.<sent>$[][<\/li>
 <li><a href='Gjilan'>]^*Gjilan$[<\/a> ]^:<sent>$ ^191,595<num>$^.<sent>$[][<\/li>
-<li><a href='Kosovska Mitrovica'>]^*Kosovska$ ^*Mitrovica$[<\/a> ]^:<sent>$ ^186,359<num>$^.<sent>$[][<\/li>
+<li><a href='MitrovicÃ«'>]^*Mitrovic$Ã«[<\/a> ]^:<sent>$ ^186,359<num>$^.<sent>$[][<\/li>
 <li><a href='Besiana'>]^*Besiana$[<\/a> ]^:<sent>$ ^48,526<num>$^.<sent>$[][<\/li>
 <\/ul>
 <p><br\/>
