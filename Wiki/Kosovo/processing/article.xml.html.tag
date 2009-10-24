@@ -267,7 +267,7 @@
 <li><a href='http:\/\/www.ks-gov.net\/pm\/Fillimi\/tabid\/36\/menuid\/+\/subid\/+\/lingo\/2\/language\/en-US\/Default.aspx The Government of Kosovo and Prime minister's office'>]^72<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.assembly-kosova.org\/ Assembly of Kosovo'>]^73<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.president-ksgov.net\/?id=1,67,67,67,e\/ President of Kosovo'>]^74<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.srbija.sr.gov.yu\/kosovo-metohija\/?change_lang=en Serbian Government for Kosovo and Metohija'>]^75<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.srbija.gov.rs\/kosovo-metohija\/?change_lang=en Serbian Government for Kosovo and Metohija'>]^75<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='https:\/\/www.cia.gov\/library\/publications\/world-leaders-1\/world-leaders-k\/kosovo.html Chief of State and Cabinet Members'>]^76<num>$^.<sent>$[][<\/a><\/li>
 <li>]{{^CIA<n><acr><sg>$ ^World<adj>$ ^*Factbook$ ^link<n><sg>$|^*kv$|^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/li>
 <li>]{{^*dmoz$|^Regional<adj>$\/^Europe<np><loc><sg>$\/^*Serbia$\/^Kosovo<np><loc><sg>$}}^.<sent>$[][<\/li>
