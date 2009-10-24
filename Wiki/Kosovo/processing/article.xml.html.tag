@@ -220,10 +220,10 @@
 <li><a href='Pristina'>]^*Pristina$[<\/a> ]^:<sent>$ ^165,844<num>$^.<sent>$[][<\/li>
 <li><a href='Prizren'>]^*Prizren$[<\/a> ]^:<sent>$ ^107,614<num>$^.<sent>$[][<\/li>
 <li><a href='Ferizaj'>]^*Ferizaj$[<\/a> ]^(<lpar>$^*Uro$Å^¡<lquest>$^*evac$^)<rpar>$ ^:<sent>$ ^71,758<num>$^.<sent>$[][<\/li>
+<li><a href='Kosovska Mitrovica|Mitrovica'>]^*Kosovska$ ^*Mitrovica$|^*Mitrovica$[<\/a> ]^:<sent>$ ^68,929<num>$^.<sent>$[][<\/li>
 <li><a href='Gjakova'>]^*Gjakova$[<\/a> ]^(<lpar>$Ã^*akovica$^)<rpar>$ ^:<sent>$ ^68,645<num>$^.<sent>$[][<\/li>
 <li><a href='Peja'>]^*Peja$[<\/a> ]^(<lpar>$^*PeÄ$^)<rpar>$ ^:<sent>$ ^68,551<num>$^.<sent>$[][<\/li>
 <li><a href='Gjilani'>]^*Gjilani$[<\/a> ]^:<sent>$ ^55,781<num>$^.<sent>$[][<\/li>
-<li><a href='Kosovska Mitrovica|Mitrovica'>]^*Kosovska$ ^*Mitrovica$|^*Mitrovica$[<\/a> ]^:<sent>$ ^68,929<num>$^.<sent>$[][<\/li>
 <li><a href='Vushtrri'>]^*Vushtrri$[<\/a> ]^(<lpar>$^*VuÄ$^*itrn$^)<rpar>$ ^:<sent>$ ^39,642<num>$^.<sent>$[][<\/li>
 <li><a href='Podujeva'>]^*Podujeva$[<\/a> ]^:<sent>$ ^37,203<num>$^.<sent>$[][<\/li>
 <\/ul>
