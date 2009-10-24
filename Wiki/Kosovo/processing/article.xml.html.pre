@@ -197,7 +197,7 @@
 <a href='es:Kosovo'>]^*es$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='eo:Kosovo'>]^*eo$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='fr:Kosovo'>]^*fr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
-<a href='ko:Ø¤Ø¹Â¼Ø²ØÂ¸'>]^*ko$^:<sent>$Ø¤Ø¹^*Â$¼Ø²Ø^*Â$¸[<\/a>
+<a href='ko:ì½ìë³´'>]^*ko$^:<sent>$^*ì$½^*ì$^*ë$³´[<\/a>
 <a href='hr:Kosovo'>]^*hr$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='id:Kosovo'>]^*id$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
 <a href='it:Kosovo'>]^prpers<prn><obj><p3><nt><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>
