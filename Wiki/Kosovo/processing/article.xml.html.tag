@@ -192,6 +192,7 @@
 <li><a href='http:\/\/www.tserkovnost.org\/srbija\/ Eastern Orthodox Resource Centre'>]^32<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.axisglobe.com\/article.asp?article=689 Southern Serbia: The second Kosovo?'>]^33<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/serbo.blogspot.com Kosovo News blog'>]^34<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.hirhome.com\/yugo\/kosovo.htm "The Serbs Were Not Oppressing the Kosovo Albanians"'>]^35<num>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <a href='Category:Disputed territories'>]^Category<n><sg>$^:<sent>$^*Disputed$ ^territory<n><pl>$[<\/a>
