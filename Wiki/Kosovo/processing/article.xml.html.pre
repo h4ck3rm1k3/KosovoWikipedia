@@ -30,7 +30,7 @@
 ]|[ &lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[<a href='1 E10 mÂ²|10,887'>]^1<num>$ ^*E$^10<num>$ ^*mÂ$²|^10,887<num>$[<\/a> ]^*kmÂ$²[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$^*n$\/^a<det><ind><sg>$[
 ]|^-<guio>$[
 ]| ^*valign$=^top<adj>$ |[ <a href='Population'>]^Population<n><sg>$[<\/a>&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[&amp;]^*ndash$^;<sent>$ ^Total<n><sg>$ ^(<lpar>$[<a href='2003'>]^2003<num>$[<\/a>]^)<rpar>$[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$[&amp;]^*ndash$^;<sent>$[ <a href='Population density|Density'>]^Population<n><sg>$ ^density<n><sg>$|^Density<n><sg>$[<\/a>&lt;]^*br$\/[&gt;
-]|[ &lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$^2.5<num>$ ^-<guio>$ ^3.0<num>$ ^million<num><sp>$ ^(<lpar>$^*est$^.<sent>$^)<rpar>$[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$^185<num>$\/^*kmÂ$² ^(<lpar>$^*approx$^)<rpar>$[
+]|[ &lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$^2.4<num>$ ^million<num><sp>$ ^(<lpar>$^*est$^.<sent>$^)<rpar>$[&lt;]^*br$\/[&gt;&amp;]^*nbsp$^;<sent>$^185<num>$\/^*kmÂ$² ^(<lpar>$^*approx$^)<rpar>$[
 ]|^-<guio>$[
 ]| ^*valign$=^top<adj>$ |[ <a href='List of ethnic groups|Ethnic groups'>]^List<n><sg>$ ^of<pr>$ ^ethnic<adj>$ ^group<n><pl>$|^Ethnic<adj>$ ^group<n><pl>$[<\/a>&lt;]^*br$\/[&gt;]^(<lpar>$[<a href='2003'>]^2003<num>$[<\/a>]^)<rpar>$[
 ]|[ <a href='Albanians'>]^Albanian<n><pl>$[<\/a>]^:<sent>$ ^88%<num><percent>$[&lt;]^*br$\/[&gt;<a href='Serbs'>]^*Serbs$[<\/a>]^:<sent>$ ^7%<num><percent>$[&lt;]^*br$\/[&gt;]^Others<prn><tn><mf><pl>$^:<sent>$ ^5%<num><percent>$[
