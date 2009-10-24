@@ -75,9 +75,8 @@
 <\/ul>
 <a name="Prime_Ministers"><\/a><h2>]^Prime<adj>$ ^Minister<n><pl>$^.<sent>$[][<\/h2><ul>
 <li><a href='Bajram Rexhepi'>]^*Bajram$ ^*Rexhepi$^.<sent>$[][<\/a><\/li>
-<li><a href='Hashim ThaÃ§i'>]^*Hashim$ ^*Tha$Ã§^*i$^.<sent>$[][<\/a><\/li>
-<li><a href='Ramush Haradinaj'>]^*Ramush$ ^*Haradinaj$^.<sent>$[][<\/a><\/li>
-<li><a href='Bajram Kosumi'>]^*Bajram$ ^*Kosumi$[<\/a>]^-<guio>$^2005<num>$^-<guio>$^present<n><sg>$^.<sent>$[][<\/li>
+<li><a href='Ramush Haradinaj'>]^*Ramush$ ^*Haradinaj$[<\/a>]^-<guio>$[<a href='2004-2005'>]^2004<num>$^-<guio>$^2005<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='Bajram Kosumi'>]^*Bajram$ ^*Kosumi$[<\/a>]^-<guio>$[<a href='2005-present'>]^2005<num>$^-<guio>$^present<n><sg>$^.<sent>$[][<\/a><\/li>
 <\/ul>
 <p><br\/>
 <\/p>
