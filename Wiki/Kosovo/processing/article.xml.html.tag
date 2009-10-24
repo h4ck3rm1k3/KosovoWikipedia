@@ -372,7 +372,6 @@
 ]|^list<vblex><pres>$[  ]=[
 ]{{^Central<adj>$ ^European<adj>$ ^Free<adj><sint>$ ^Trade<n><sg>$ ^Agreement<n><sg>$ ^(<lpar>$^*CEFTA$^)<rpar>$}}[
 ]{{^Republic<n><pl>$ ^and<cnjcoo>$ ^autonomous<adj>$ ^province<n><pl>$ ^of<pr>$ ^the<det><def><sp>$ ^former<adj>$ ^Yugoslavia<np><loc><sg>$}}[
-]{{^Country<n><pl>$ ^of<pr>$ ^Europe<np><loc><sg>$}}[
 ]}}^.<sent>$[][<\/p>
 <p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Category<n><pl>$^-<guio>$^-<guio>$[&gt;
 <a href='Category:Kosovo'>]^Category<n><sg>$^:<sent>$^Kosovo<np><loc><sg>$[<\/a>

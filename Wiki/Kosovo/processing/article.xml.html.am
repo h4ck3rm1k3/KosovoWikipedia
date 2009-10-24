@@ -372,7 +372,6 @@
 ]|^list/list<n><sg>/list<vblex><inf>/list<vblex><pres>$[  ]=[
 ]{{^Central/Central<adj>$ ^European/European<adj>/European<n><sg>$ ^Free/Free<adj><sint>/Free<vblex><inf>/Free<vblex><pres>$ ^Trade/Trade<n><sg>/Trade<vblex><inf>/Trade<vblex><pres>$ ^Agreement/Agreement<n><sg>$ ^(/(<lpar>$^CEFTA/*CEFTA$^)/)<rpar>$}}[
 ]{{^Republics/Republic<n><pl>$ ^and/and<cnjcoo>$ ^autonomous/autonomous<adj>$ ^provinces/province<n><pl>$ ^of/of<pr>$ ^the/the<det><def><sp>$ ^former/former<adj>$ ^Yugoslavia/Yugoslavia<np><loc><sg>$}}[
-]{{^Countries/Country<n><pl>$ ^of/of<pr>$ ^Europe/Europe<np><loc><sg>$}}[
 ]}}^./.<sent>$[][<\/p>
 <p>&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^Categories/Category<n><pl>$^-/-<guio>$^-/-<guio>$[&gt;
 <a href='Category:Kosovo'>]^Category/Category<n><sg>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
