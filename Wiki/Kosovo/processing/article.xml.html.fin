@@ -91,8 +91,7 @@
 ]|^area<n><sg>$_^*km$^2<num>$[                 ]= ^10,887<num>$[
 ]|^area<n><sg>$_^*sq$_^*mi$[               ]= ^4,203<num>$[
 ]|^percent<n><sg>$_^water<n><sg>$[            ]= ^*n$\/^a<det><ind><sg>$[
-]|^population<n><sg>$_^estimate<n><sg>$[      ]= ^2.200<num>$^.$
-^000<num>$[
+]|^population<n><sg>$_^estimate<n><sg>$[      ]= ^2<num>$ ^million<num><sp>$[
 ]|^population<n><sg>$_^estimate<n><sg>$_^rank<n><sg>$ = ^141<num>$[
 ]|^population<n><sg>$_^estimate<n><sg>$_^year<n><sg>$ = ^2005<num>$[
 ]|^population<n><sg>$_^*census$[        ]=[ 
@@ -133,7 +132,7 @@
 ^.$
 [][<\/p>
 <a name="History"><\/a><h2>]^History<n><sg>$^.$
-[][<\/h2><p>]{{^main<adj>$|^origin<n><sg>$ ^of<pr>$ ^Albanian<n><pl>$}} {{^main<adj>$|^History<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}^.$
+[][<\/h2><p>]{{^main<adj>$|^History<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$}}^.$
 [][<\/p>
 <a name="Medieval_Kosovo"><\/a><h3>]^Medieval<adj>$ ^Kosovo<np><loc><sg>$^.$
 [][<\/h3><p><a href='Image:Balkans 1265.PNG|thumb|right|The Serbian Kingdom, 1265.'>]^Image<n><sg>$^:$
@@ -735,9 +734,9 @@
 ^.$
 [][<\/p>
 <p>  
-<a href='Image:Coat_of_arms_of_the_PISG_of_Kosovo.svg|thumb|left|100px|The \[\[Approved logo of the Provisional Institutions of Self-Government|Logo'>]^Image<n><sg>$^:$
+<a href='Image:Coat_of_arms_of_the_PISG_of_Kosovo.svg|thumb|right|100px|The \[\[Approved logo of the Provisional Institutions of Self-Government|Approved Logo'>]^Image<n><sg>$^:$
 ^Coat<n><sg>$_^of<pr>$_^arm<n><pl>$_^of<pr>$_^the<det><def><sp>$_^*PISG$_^of<pr>$_^Kosovo<np><loc><sg>$^.$
-^*svg$|^thumb<n><sg>$|^leave<vblex><past>$|^100<num>$^*px$|^The<det><def><sp>$ ^\[<lpar>$^\[<lpar>$^Approve<vblex><pp>$ ^*logo$ ^of<pr>$ ^the<det><def><sp>$ ^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$|^*Logo$[<\/a> ]^of<pr>$ ^the<det><def><sp>$[ <a href='Provisional Institutions of Self-Government'>]^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$[<\/a>]^.$
+^*svg$|^thumb<n><sg>$|^right<n><sg>$|^100<num>$^*px$|^The<det><def><sp>$ ^\[<lpar>$^\[<lpar>$^Approve<vblex><pp>$ ^*logo$ ^of<pr>$ ^the<det><def><sp>$ ^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$|^Approve<vblex><pp>$ ^*Logo$[<\/a> ]^of<pr>$ ^the<det><def><sp>$[ <a href='Provisional Institutions of Self-Government'>]^Provisional<adj>$ ^Institution<n><pl>$ ^of<pr>$ ^*Self$^-<guio>$^Government<n><sg>$[<\/a>]^.$
 ^\]<rpar>$^\]<rpar>$[
 ]^*Ramush$ ^*Haradinaj$ ^resign<vblex><past>$ ^the<det><def><sp>$ ^post<n><sg>$ ^of<pr>$ ^Prime<adj>$ ^Minister<n><sg>$ ^after<cnjadv>$ ^prpers<prn><subj><p3><m><sg>$ ^be<vbser><past><p3><sg>$ ^*indicted$ ^for<pr>$ ^war<n><sg>$ ^crime<n><pl>$ ^by<pr>$ ^the<det><def><sp>$ ^International<adj>$ ^*Criminal$ ^*Tribunal$ ^for<pr>$ ^the<det><def><sp>$ ^former<adj>$ ^Yugoslavia<np><loc><sg>$ ^(<lpar>$^*ICTY$^)<rpar>$ ^in<pr>$ ^March<n><sg>$ ^2005<num>$^.$
 [  ]^Prpers<prn><subj><p3><m><sg>$ ^be<vbser><past><p3><sg>$ ^replace<vblex><pp>$ ^by<pr>$ ^*Bajram$ ^*Kosumi$ ^(<lpar>$^*AAK$^)<rpar>$^.$
