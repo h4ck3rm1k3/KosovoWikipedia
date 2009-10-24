@@ -361,7 +361,7 @@
 <a href='pl:Kosowo'>]^pl/*pl$^:/:<sent>$^Kosowo/*Kosowo$[<\/a>
 <a href='pt:Kosovo'>]^pt/*pt$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='ro:Kosovo'>]^ro/*ro$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
-<a href='ru:ÐÐ¾ÑÐ¾Ð²Ð¾ Ð¸ ÐÐµÑÐ¾ÑÐ¸Ñ'>]^ru/*ru$^:/:<sent>$ÐÐ¾^Ñ/*Ñ$Ð¾Ð²Ð¾ Ð¸ ÐÐµ^Ñ/*Ñ$Ð¾^Ñ/*Ñ$Ð¸^Ñ/*Ñ$[<\/a>
+<a href='ru:ÐÐ¾ÑÐ¾Ð²Ð¾'>]^ru/*ru$^:/:<sent>$ÐÐ¾^Ñ/*Ñ$Ð¾Ð²Ð¾[<\/a>
 <a href='sq:Kosova'>]^sq/*sq$^:/:<sent>$^Kosova/*Kosova$[<\/a>
 <a href='simple:Kosovo'>]^simple/simple<adj><sint>$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
 <a href='sk:Kosovo'>]^sk/*sk$^:/:<sent>$^Kosovo/Kosovo<np><loc><sg>$[<\/a>
