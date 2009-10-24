@@ -20,7 +20,7 @@
 ]|^image/image<n><sg>$_^map/map<n><sg>$ = ^Kosovo/Kosovo<np><loc><sg>$ ^map/map<n><sg>$^-/-<guio>$^en/*en$^./.<sent>$^svg/*svg$[
 ]|^map/map<n><sg>$_^caption/*caption$ = ^Map/Map<n><sg>$ ^of/of<pr>$ ^Kosovo/Kosovo<np><loc><sg>$[
 ]|^national/national<adj>$_^motto/*motto$[           ]=[
-]|^national/national<adj>$_^anthem/*anthem$[          ]= ^Â/*Â$«^EuropeÂ/*EuropeÂ$»[&lt;]^sup/*sup$[&gt;]^1/1<num>$[&lt;]\/^sup/*sup$[&gt;&lt;]^!/!<sent>$^-/-<guio>$^-/-<guio>$^not/not<adv>$ ^text/text<n><sg>$ ^-/-<guio>$^-/-<guio>$[&gt;
+]|^national/national<adj>$_^anthem/*anthem$[          ]=[ <a href='Europe (anthem)|Europe'>]^Europe/Europe<np><loc><sg>$ ^(/(<lpar>$^anthem/*anthem$^)/)<rpar>$|^Europe/Europe<np><loc><sg>$[<\/a>
 ]|^ethnic/ethnic<adj>$_^groups/group<n><pl>$[            ]= ^92%/92%<num><percent>$[ <a href='Albanians'>]^Albanians/Albanian<n><pl>$[<\/a>&lt;]^br/*br$\/[&gt;]^5.3%/5.3%<num><percent>$[ <a href='Serbs'>]^Serbs/*Serbs$[<\/a>&lt;]^br/*br$\/[&gt;]^2.7%/2.7%<num><percent>$ ^others/others<prn><tn><mf><pl>$[ &lt;]^ref/*ref$[&gt;<a href='http:\/\/www.ks-gov.net\/ESK\/esk\/english\/english.htm Enti i StatistikÃ«s sÃ« KosovÃ«s'>]^1/1<num>$[<\/a>&lt;]\/^ref/*ref$[&gt;
 ]|^ethnic/ethnic<adj>$_^groups/group<n><pl>$_^year/year<n><sg>$[       ]= ^2007/2007<num>$[
 ]|^capital/capital<adj>/capital<n><sg>$[                  ]= {{^nowrap/*nowrap$|[<a href='Pristina'>]^Pristina/*Pristina$[<\/a> ]^(/(<lpar>$^also/also<adv>$ ^Prishtina/*Prishtina$^,/,<cm>$ ^Pri/*Pri$Å^¡/¡<lquest>$^tina/*tina$^)/)<rpar>$}}[
