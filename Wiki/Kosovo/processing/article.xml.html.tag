@@ -85,7 +85,7 @@
 <li> 
 ]^7%<num><percent>$ ^*Serbs$ ^(<lpar>$^137,900<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
-]^1.9%<num><percent>$ ^*Bosniaks$ ^(<lpar>$^37,400<num>$^)<rpar>$^.<sent>$[][<\/li>
+]^1.9%<num><percent>$ ^*Bosniaks$ ^and<cnjcoo>$[ <a href='Muslim by nationality|Muslim Slavs'>]^Muslim<n><sg>$ ^by<pr>$ ^nationality<n><sg>$|^Muslim<n><sg>$ ^*Slavs$[<\/a> ]^(<lpar>$^37,400<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
 ]^1.7%<num><percent>$ ^*Roma$ ^(<lpar>$^33,500<num>$^)<rpar>$^.<sent>$[][<\/li>
 <li> 
