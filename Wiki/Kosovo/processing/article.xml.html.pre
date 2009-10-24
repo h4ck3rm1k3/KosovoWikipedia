@@ -10,6 +10,9 @@
     <h1><\/h1>
 <p>&lt;]^!<sent>$^-<guio>$^-<guio>$^Please<vblex><inf>$ ^be<vbser><inf>$ ^very<preadv>$ ^careful<adj>$ ^in<pr>$ ^edit<vblex><ger>$ ^the<det><def><sp>$ ^introduction<n><sg>$ ^of<pr>$ ^this<det><dem><sg>$ ^article<n><sg>$^.<sent>$ ^The<det><def><sp>$ ^*Arbitration$ ^Committee<n><sg>$ ^have<vbhaver><pri><p3><sg>$ ^place<vblex><pp>$ ^this<det><dem><sg>$ ^article<n><sg>$ ^on<pr>$ ^*probation$^.<sent>$ ^While<cnjadv>$ ^this<prn><tn><mf><sg>$ ^occur<vblex><pp>$ ^in<pr>$ ^2006<num>$^,<cm>$ ^prpers<prn><subj><p3><nt><sg>$ ^be<vbser><past><p3><sg>$ ^never<adv>$ ^*lifted$^;<sent>$ ^thus<adv>$^,<cm>$ ^this<det><dem><sg>$ ^page<n><sg>$ ^be<vbser><pri><p3><sg>$ ^still<adv>$ ^under<pr>$ ^*probation$^.<sent>$ ^If<cnjadv>$ ^any<det><ind><sp>$ ^editor<n><sg>$ ^make<n><pl>$ ^*disruptive$ ^edit<vblex><pri><p3><sg>$^,<cm>$ ^prpers<prn><subj><p3><mf><pl>$ ^may<vaux><inf>$ ^be<vbser><inf>$ ^ban<vblex><pp>$ ^by<pr>$ ^a<det><ind><sg>$ ^administrator<n><sg>$ ^from<pr>$ ^this<prn><tn><mf><sg>$ ^and<cnjcoo>$ ^relate<vblex><pp>$ ^article<n><pl>$^,<cm>$ ^or<cnjcoo>$ ^other<det><ind><sp>$ ^reasonably<adv>$ ^relate<vblex><pp>$ ^page<n><pl>$^.<sent>$ ^See<vblex><inf>$ ^the<det><def><sp>$ ^talk<n><sg>$ ^page<n><sg>$ ^for<pr>$ ^more<preadv>$ ^information<n><sg>$^.<sent>$ ^*Thank$ ^prpers<prn><obj><p2><mf><sp>$^.<sent>$[
 ]^-<guio>$^-<guio>$[&gt;
+&lt;]^!<sent>$^-<guio>$^-<guio>$[
+]^PLEASE<vblex><inf>$ ^DO<vbdo><pres>$ ^NOT<adv>$ ^CHANGE<vblex><inf>$ ^THE<det><def><sp>$ ^CAPITAL<n><sg>$^'s<gen>$ ^NAME<n><sg>$^!<sent>$ ^Per<pr>$ ^*talkpage$^,<cm>$ ^prpers<prn><subj><p1><mf><pl>$ ^currently<adv>$ ^use<vblex><inf>$ ^*Pristina$^,<cm>$ ^not<adv>$ ^*Prishtina$^.<sent>$[
+]^-<guio>$^-<guio>$[&gt;
 
 
 ]{{^redirect<vblex><inf>$|^Republic<n><sg>$ ^of<pr>$ ^*Kosova$||^Republic<n><sg>$ ^of<pr>$ ^*Kosova$ ^(<lpar>$^1990<num>$^*â$^2000<num>$^)<rpar>$}}[
