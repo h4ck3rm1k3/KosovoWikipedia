@@ -111,7 +111,7 @@
 <a name="Pro-Albanian"><\/a><h3>]^*Pro$^-<guio>$^Albanian<n><sg>$^.<sent>$[][<\/h3><ul>
 <li><a href='http:\/\/www.kosova.com Kosova Information Center (in Albanian)'>]^7<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/www.kosovapress.com Kosovapress - Kosovo news agency'>]^8<num>$^.<sent>$[][<\/a><\/li>
-<li><a href='http:\/\/www.rtklive.com  Radio Television of Kosova in Albanian, in Serbian and in English)'>]^9<num>$^.<sent>$[][<\/a><\/li>
+<li><a href='http:\/\/www.rtklive.com  Radio Television of Kosova (news in Albanian, Serbian and English)'>]^9<num>$^.<sent>$[][<\/a><\/li>
 <li><a href='http:\/\/beqiraj.com\/kosova\/de\/ General information from Beqiraj.com'>]^10<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^German<adj>$^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/beqiraj.com\/kosova\/al\/ General information from Beqiraj.com'>]^11<num>$[<\/a> ]^(<lpar>$^in<pr>$ ^Albanian<n><sg>$^)<rpar>$^.<sent>$[][<\/li>
 <li><a href='http:\/\/www.albanian.com\/main\/countries\/kosova General information from Albanian.com'>]^12<num>$^.<sent>$[][<\/a><\/li>
