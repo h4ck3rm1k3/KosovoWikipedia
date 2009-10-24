@@ -261,7 +261,9 @@
 <p>&lt;]\/^*div$^.<sent>$[][&gt;<\/p>
 <a name="References"><\/a><h2>]^Reference<n><pl>$^.<sent>$[][<\/h2><p>&lt;]^!<sent>$^-<guio>$^-<guio>$ ^Please<vblex><inf>$ ^do<vbdo><pres>$ ^not<adv>$ ^use<vblex><inf>$ ^a<det><ind><sg>$ ^*scroll$ ^box<n><sg>$^.<sent>$ ^please<vblex><inf>$ ^see<vblex><inf>$[ <a href='Template:Scrollbox'>]^Template<n><sg>$^:<sent>$^*Scrollbox$[<\/a> ]^for<pr>$ ^more<preadv>$ ^information<n><sg>$^.<sent>$^(<lpar>$^This<det><dem><sg>$ ^template<n><sg>$ ^should<vaux><inf>$ ^not<adv>$ ^be<vbser><inf>$ ^use<vblex><pp>$ ^in<pr>$ ^main<adj>$ ^article<n><sg>$ ^space<n><sg>$^,<cm>$ ^as<cnjadv>$ ^prpers<prn><subj><p3><nt><sg>$ ^*renders$ ^any<det><ind><sp>$ ^content<n><sg>$ ^obscure<vblex><pp>$ ^within<pr>$ ^the<det><def><sp>$ ^template<n><sg>$ ^*unprintable$^.<sent>$[  ]^This<prn><tn><mf><sg>$ ^be<vbser><pri><p3><sg>$ ^especially<adv>$ ^true<adj><sint>$ ^with<pr>$ ^text<n><sg>$ ^content<n><sg>$^,<cm>$ ^such as<pr>$ ^*citations$^,<cm>$ ^according to<pr>$[ <a href='Wikipedia:Templates_for_deletion\/Log\/2007_June_11#Template:Scrollref'>]^*Wikipedia$^:<sent>$^Template<n><pl>$_^for<pr>$_^*deletion$\/^*Log$\/^2007<num>$_^June<n><sg>$_^11<num>$#^Template<n><sg>$^:<sent>$^*Scrollref$[<\/a>]^.<sent>$ ^Please<vblex><inf>$^,<cm>$ ^if<cnjadv>$ ^prpers<prn><subj><p2><mf><sp>$ ^see<vblex><pres>$ ^a<det><ind><sg>$ ^*scroll$ ^box<n><sg>$ ^in<pr>$ ^article<n><sg>$ ^space<n><sg>$^,<cm>$ ^remove<vblex><pres>$ ^prpers<prn><obj><p3><nt><sg>$ ^and<cnjcoo>$ ^put<vblex><inf>$ ^a<det><ind><sg>$ ^hide<vblex><pp>$ ^warning<n><sg>$^.<sent>$^)<rpar>$^-<guio>$^-<guio>$^.<sent>$[][&gt;
 <\/p>
-<a name="Further_reading"><\/a><h2>]^Far<adj><sint><comp>$ ^reading<n><sg>$^.<sent>$[][<\/h2><p>]{{^cite<vblex><pres>$ ^book<n><sg>$^.<sent>$[][<\/p>
+<a name="Further_reading"><\/a><h2>]^Far<adj><sint><comp>$ ^reading<n><sg>$^.<sent>$[][<\/h2><ul>
+<li>]{{^cite<vblex><pres>$ ^book<n><sg>$^.<sent>$[][<\/li>
+<\/ul>
 
 <pre>]| ^last<det><ord><sp>$ = ^Malcolm<np><ant><m><sg>$[
  ]| ^first<det><ord><sp>$ = ^Noel<np><ant><m><sg>$[
@@ -270,7 +272,9 @@
  ]| ^publisher<n><sg>$ =[ <a href='Macmillan Publishers|Macmillan'>]^*Macmillan$ ^Publisher<n><pl>$|^*Macmillan$[<\/a>
  ]| ^year<n><sg>$ = ^1998<num>$[
  ]| ^*isbn$ = ^0333666127<num>$}}^.<sent>$[][
-<\/pre><p>]{{^cite<vblex><pres>$ ^book<n><sg>$^.<sent>$[][<\/p>
+<\/pre><ul>
+<li>]{{^cite<vblex><pres>$ ^book<n><sg>$^.<sent>$[][<\/li>
+<\/ul>
 
 <pre>]| ^last<det><ord><sp>$ = ^*Elsie$[
  ]| ^first<det><ord><sp>$ = ^Robert<np><ant><m><sg>$[
