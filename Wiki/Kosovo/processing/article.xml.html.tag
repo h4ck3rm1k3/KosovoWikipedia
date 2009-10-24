@@ -271,19 +271,7 @@
 <li><a href='http:\/\/web.archive.org\/web\/20071018054247\/http:\/\/www.visitkosova.org\/english\/index.htm Visit Kosovo - Tourism Website'>]^66<num>$^.<sent>$[][<\/a><\/li>
 <li><\/li>
 <\/ul>
-<p><br\/>
-]{{^Geographic<adj>$ ^Location<n><sg>$ ^(<lpar>$^8<num>$^-<guio>$^way<n><sg>$^)<rpar>$^.<sent>$[][<\/p>
-
-<pre>]| ^Northwest<n><sg>$ =[ <a href='Central Serbia'>]^Central<adj>$ ^*Serbia$[<\/a>
-]| ^North<adj><sint>$ =[ <a href='Central Serbia'>]^Central<adj>$ ^*Serbia$[<\/a>
-]| ^Northeast<n><sg>$ =[ <a href='Central Serbia'>]^Central<adj>$ ^*Serbia$[<\/a>
-]| ^West<adj>$ =[ <a href='Montenegro'>]^Montenegro<np><loc><sg>$[<\/a>
-]| ^Centre<n><sg>$ =[ <a href='Outline of Kosovo|Kosovo'>]^Outline<n><sg>$ ^of<pr>$ ^Kosovo<np><loc><sg>$|^Kosovo<np><loc><sg>$[<\/a>
-]| ^East<adj>$ =[ <a href='Central Serbia'>]^Central<adj>$ ^*Serbia$[<\/a>
-]| ^Southwest<n><sg>$ =[ <a href='Albania'>]^*Albania$[<\/a>
-]| ^South<adj><sint>$ =[ <a href='Republic of Macedonia'>]^Republic<n><sg>$ ^of<pr>$ ^Macedonia<np><ant><f><sg>$[<\/a>
-]| ^Southeast<adv>$ =[ <a href='Central Serbia'>]^Central<adj>$ ^*Serbia$^.<sent>$[][<\/a>
-<\/pre><p>]}}^.<sent>$[][<\/p>
+<p><br\/><\/p>
 <p>]{{^Kosovo<np><loc><sg>$ ^topic<n><pl>$}}[
 ]{{^Template<n><sg>$ ^group<n><sg>$[
 ]|^title<n><sg>$ =[ &lt;]^!<sent>$^-<guio>$^-<guio>$[ <a href='File:Nuvola filesystems www.png|23px'>]^File<n><sg>$^:<sent>$^*Nuvola$ ^*filesystems$ ^*www$^.<sent>$^*png$|^23<num>$^*px$[<\/a> ]^-<guio>$^-<guio>$[&gt; ]^Geographic<adj>$ ^national<adj>$[
